@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Edge 40 Neo Phone
-date: 2024-04-07T21:08:40.076Z
-updated: 2024-04-08T21:08:40.076Z
+date: 2024-04-09T00:28:04.591Z
+updated: 2024-04-10T00:28:04.591Z
 tags: 
   - unlock
   - remove screen lock

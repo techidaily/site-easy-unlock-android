@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Edge 2023 Device
-date: 2024-04-07T21:08:40.231Z
-updated: 2024-04-08T21:08:40.231Z
+date: 2024-04-09T00:28:04.679Z
+updated: 2024-04-10T00:28:04.679Z
 tags: 
   - unlock
   - remove screen lock

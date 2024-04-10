@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Motorola Edge 2023 Phone Without Password?
-date: 2024-04-07T21:08:40.210Z
-updated: 2024-04-08T21:08:40.210Z
+date: 2024-04-09T00:28:04.663Z
+updated: 2024-04-10T00:28:04.663Z
 tags: 
   - unlock
   - remove screen lock

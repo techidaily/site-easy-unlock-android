@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Edge 2023
-date: 2024-04-07T21:08:40.172Z
-updated: 2024-04-08T21:08:40.172Z
+date: 2024-04-09T00:28:04.632Z
+updated: 2024-04-10T00:28:04.632Z
 tags: 
   - unlock
   - remove screen lock

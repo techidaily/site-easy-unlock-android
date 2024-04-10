@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Motorola Edge 2023 to Protect Your Individual Information
-date: 2024-04-07T21:08:40.125Z
-updated: 2024-04-08T21:08:40.125Z
+date: 2024-04-09T00:28:04.625Z
+updated: 2024-04-10T00:28:04.625Z
 tags: 
   - unlock
   - remove screen lock

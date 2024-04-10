@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Motorola Edge 2023 Phone with Broken Screen
-date: 2024-04-07T21:08:40.209Z
-updated: 2024-04-08T21:08:40.209Z
+date: 2024-04-09T00:28:04.662Z
+updated: 2024-04-10T00:28:04.662Z
 tags: 
   - unlock
   - remove screen lock

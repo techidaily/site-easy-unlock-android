@@ -1,7 +1,7 @@
 ---
 title: In 2024, Still Using Pattern Locks with Motorola Edge 40 Neo? Tips, Tricks and Helpful Advice
-date: 2024-04-07T21:08:39.987Z
-updated: 2024-04-08T21:08:39.987Z
+date: 2024-04-09T00:28:04.504Z
+updated: 2024-04-10T00:28:04.504Z
 tags: 
   - unlock
   - remove screen lock

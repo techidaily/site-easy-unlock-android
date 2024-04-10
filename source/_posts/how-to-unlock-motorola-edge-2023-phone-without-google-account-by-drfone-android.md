@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Motorola Edge 2023 Phone without Google Account?
-date: 2024-04-07T21:08:40.155Z
-updated: 2024-04-08T21:08:40.155Z
+date: 2024-04-09T00:28:04.629Z
+updated: 2024-04-10T00:28:04.629Z
 tags: 
   - unlock
   - remove screen lock

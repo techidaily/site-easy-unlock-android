@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Edge 40 Neo Pattern Lock Screen
-date: 2024-04-07T21:08:39.995Z
-updated: 2024-04-08T21:08:39.995Z
+date: 2024-04-09T00:28:04.529Z
+updated: 2024-04-10T00:28:04.529Z
 tags: 
   - unlock
   - remove screen lock

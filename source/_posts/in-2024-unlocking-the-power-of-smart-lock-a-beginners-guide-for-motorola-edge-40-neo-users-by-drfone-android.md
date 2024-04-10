@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 40 Neo Users
-date: 2024-04-07T21:08:40.045Z
-updated: 2024-04-08T21:08:40.045Z
+date: 2024-04-09T00:28:04.567Z
+updated: 2024-04-10T00:28:04.567Z
 tags: 
   - unlock
   - remove screen lock

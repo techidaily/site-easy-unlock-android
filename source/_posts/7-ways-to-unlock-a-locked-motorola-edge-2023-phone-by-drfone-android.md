@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Unlock a Locked Motorola Edge 2023 Phone
-date: 2024-04-07T21:08:40.118Z
-updated: 2024-04-08T21:08:40.118Z
+date: 2024-04-09T00:28:04.620Z
+updated: 2024-04-10T00:28:04.620Z
 tags: 
   - unlock
   - remove screen lock

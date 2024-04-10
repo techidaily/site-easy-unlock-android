@@ -1,7 +1,7 @@
 ---
 title: How to Remove Forgotten PIN Of Your Motorola Edge 2023
-date: 2024-04-07T21:08:40.189Z
-updated: 2024-04-08T21:08:40.189Z
+date: 2024-04-09T00:28:04.646Z
+updated: 2024-04-10T00:28:04.646Z
 tags: 
   - unlock
   - remove screen lock

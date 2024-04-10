@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Motorola Edge 2023 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-07T21:08:40.185Z
-updated: 2024-04-08T21:08:40.185Z
+date: 2024-04-09T00:28:04.643Z
+updated: 2024-04-10T00:28:04.643Z
 tags: 
   - unlock
   - remove screen lock

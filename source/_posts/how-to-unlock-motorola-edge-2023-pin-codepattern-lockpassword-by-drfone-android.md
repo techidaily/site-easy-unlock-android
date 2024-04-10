@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Motorola Edge 2023 PIN Code/Pattern Lock/Password
-date: 2024-04-07T21:08:40.216Z
-updated: 2024-04-08T21:08:40.216Z
+date: 2024-04-09T00:28:04.667Z
+updated: 2024-04-10T00:28:04.667Z
 tags: 
   - unlock
   - remove screen lock

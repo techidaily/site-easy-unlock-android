@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Motorola Edge 2023?
-date: 2024-04-07T21:08:40.098Z
-updated: 2024-04-08T21:08:40.098Z
+date: 2024-04-09T00:28:04.604Z
+updated: 2024-04-10T00:28:04.604Z
 tags: 
   - unlock
   - remove screen lock

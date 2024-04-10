@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fingerprint Lock Apps to Lock Your Motorola Edge 2023 Phone
-date: 2024-04-07T21:08:40.110Z
-updated: 2024-04-08T21:08:40.110Z
+date: 2024-04-09T00:28:04.613Z
+updated: 2024-04-10T00:28:04.613Z
 tags: 
   - unlock
   - remove screen lock

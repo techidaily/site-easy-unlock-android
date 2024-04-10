@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your Motorola Edge 2023 Phone Now with These Tips
-date: 2024-04-07T21:08:40.122Z
-updated: 2024-04-08T21:08:40.122Z
+date: 2024-04-09T00:28:04.623Z
+updated: 2024-04-10T00:28:04.623Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: Can I Bypass a Forgotten Phone Password Of Motorola Edge 2023?
-date: 2024-04-07T21:08:40.100Z
-updated: 2024-04-08T21:08:40.100Z
+date: 2024-04-09T00:28:04.606Z
+updated: 2024-04-10T00:28:04.606Z
 tags: 
   - unlock
   - remove screen lock

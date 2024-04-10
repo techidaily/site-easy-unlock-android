@@ -1,7 +1,7 @@
 ---
 title: Lock Your Motorola Edge 2023 Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-04-07T21:08:40.119Z
-updated: 2024-04-08T21:08:40.119Z
+date: 2024-04-09T00:28:04.621Z
+updated: 2024-04-10T00:28:04.621Z
 tags: 
   - unlock
   - remove screen lock

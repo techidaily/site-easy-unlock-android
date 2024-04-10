@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Motorola Edge 2023 Phone
-date: 2024-04-07T21:08:40.107Z
-updated: 2024-04-08T21:08:40.107Z
+date: 2024-04-09T00:28:04.611Z
+updated: 2024-04-10T00:28:04.611Z
 tags: 
   - unlock
   - remove screen lock

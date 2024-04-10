@@ -1,7 +1,7 @@
 ---
 title: Full Tutorial to Bypass Your Motorola Edge 2023 Face Lock?
-date: 2024-04-07T21:08:40.097Z
-updated: 2024-04-08T21:08:40.097Z
+date: 2024-04-09T00:28:04.603Z
+updated: 2024-04-10T00:28:04.603Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Motorola Edge 2023 Phone When You Forget the Password
-date: 2024-04-07T21:08:40.114Z
-updated: 2024-04-08T21:08:40.114Z
+date: 2024-04-09T00:28:04.616Z
+updated: 2024-04-10T00:28:04.616Z
 tags: 
   - unlock
   - remove screen lock

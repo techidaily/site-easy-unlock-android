@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Motorola Edge 2023? Tips, Tricks and Helpful Advice
-date: 2024-04-07T21:08:40.106Z
-updated: 2024-04-08T21:08:40.106Z
+date: 2024-04-09T00:28:04.610Z
+updated: 2024-04-10T00:28:04.610Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Motorola Edge 40 Neo Phone with Broken Screen
-date: 2024-04-07T21:08:40.068Z
-updated: 2024-04-08T21:08:40.068Z
+date: 2024-04-09T00:28:04.584Z
+updated: 2024-04-10T00:28:04.584Z
 tags: 
   - unlock
   - remove screen lock

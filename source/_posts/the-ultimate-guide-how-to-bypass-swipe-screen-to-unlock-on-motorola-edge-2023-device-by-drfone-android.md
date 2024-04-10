@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Edge 2023 Device
-date: 2024-04-07T21:08:40.199Z
-updated: 2024-04-08T21:08:40.199Z
+date: 2024-04-09T00:28:04.654Z
+updated: 2024-04-10T00:28:04.654Z
 tags: 
   - unlock
   - remove screen lock

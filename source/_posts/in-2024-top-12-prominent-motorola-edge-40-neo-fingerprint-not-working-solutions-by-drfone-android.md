@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 12 Prominent Motorola Edge 40 Neo Fingerprint Not Working Solutions
-date: 2024-04-07T21:08:39.993Z
-updated: 2024-04-08T21:08:39.993Z
+date: 2024-04-09T00:28:04.527Z
+updated: 2024-04-10T00:28:04.527Z
 tags: 
   - unlock
   - remove screen lock

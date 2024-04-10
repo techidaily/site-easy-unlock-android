@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Motorola Edge 2023 Phone
-date: 2024-04-07T21:08:40.217Z
-updated: 2024-04-08T21:08:40.217Z
+date: 2024-04-09T00:28:04.668Z
+updated: 2024-04-10T00:28:04.668Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Lock Your Motorola Edge 40 Neo Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-04-07T21:08:40.000Z
-updated: 2024-04-08T21:08:40.000Z
+date: 2024-04-09T00:28:04.532Z
+updated: 2024-04-10T00:28:04.532Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: Top 12 Prominent Motorola Edge 2023 Fingerprint Not Working Solutions
-date: 2024-04-07T21:08:40.113Z
-updated: 2024-04-08T21:08:40.113Z
+date: 2024-04-09T00:28:04.615Z
+updated: 2024-04-10T00:28:04.615Z
 tags: 
   - unlock
   - remove screen lock

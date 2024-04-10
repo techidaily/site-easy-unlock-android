@@ -1,7 +1,7 @@
 ---
 title: Downloading SamFw FRP Tool 3.0 for Motorola Edge 2023
-date: 2024-04-07T21:08:40.197Z
-updated: 2024-04-08T21:08:40.197Z
+date: 2024-04-09T00:28:04.652Z
+updated: 2024-04-10T00:28:04.652Z
 tags: 
   - unlock
   - remove screen lock

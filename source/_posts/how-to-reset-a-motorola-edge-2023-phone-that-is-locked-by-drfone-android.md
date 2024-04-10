@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Motorola Edge 2023 Phone that is Locked?
-date: 2024-04-07T21:08:40.152Z
-updated: 2024-04-08T21:08:40.152Z
+date: 2024-04-09T00:28:04.627Z
+updated: 2024-04-10T00:28:04.627Z
 tags: 
   - unlock
   - remove screen lock

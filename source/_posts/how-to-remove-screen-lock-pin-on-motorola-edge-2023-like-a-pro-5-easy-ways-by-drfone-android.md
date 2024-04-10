@@ -1,7 +1,7 @@
 ---
 title: How To Remove Screen Lock PIN On Motorola Edge 2023 Like A Pro 5 Easy Ways
-date: 2024-04-07T21:08:40.192Z
-updated: 2024-04-08T21:08:40.192Z
+date: 2024-04-09T00:28:04.648Z
+updated: 2024-04-10T00:28:04.648Z
 tags: 
   - unlock
   - remove screen lock

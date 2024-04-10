@@ -1,7 +1,7 @@
 ---
 title: How to Unlock a Network Locked Motorola Edge 2023 Phone?
-date: 2024-04-07T21:08:40.178Z
-updated: 2024-04-08T21:08:40.178Z
+date: 2024-04-09T00:28:04.637Z
+updated: 2024-04-10T00:28:04.637Z
 tags: 
   - unlock
   - remove screen lock

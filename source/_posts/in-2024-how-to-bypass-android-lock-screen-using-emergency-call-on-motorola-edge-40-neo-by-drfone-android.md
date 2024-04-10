@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Edge 40 Neo?
-date: 2024-04-07T21:08:39.979Z
-updated: 2024-04-08T21:08:39.979Z
+date: 2024-04-09T00:28:04.496Z
+updated: 2024-04-10T00:28:04.496Z
 tags: 
   - unlock
   - remove screen lock

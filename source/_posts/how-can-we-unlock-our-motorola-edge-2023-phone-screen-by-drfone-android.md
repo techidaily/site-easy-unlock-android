@@ -1,7 +1,7 @@
 ---
 title: How Can We Unlock Our Motorola Edge 2023 Phone Screen?
-date: 2024-04-07T21:08:40.093Z
-updated: 2024-04-08T21:08:40.093Z
+date: 2024-04-09T00:28:04.600Z
+updated: 2024-04-10T00:28:04.600Z
 tags: 
   - unlock
   - remove screen lock

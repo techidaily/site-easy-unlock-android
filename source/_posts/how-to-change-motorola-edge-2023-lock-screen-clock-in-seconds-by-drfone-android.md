@@ -1,7 +1,7 @@
 ---
 title: How To Change Motorola Edge 2023 Lock Screen Clock in Seconds
-date: 2024-04-07T21:08:40.102Z
-updated: 2024-04-08T21:08:40.102Z
+date: 2024-04-09T00:28:04.607Z
+updated: 2024-04-10T00:28:04.607Z
 tags: 
   - unlock
   - remove screen lock

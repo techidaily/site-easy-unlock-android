@@ -1,7 +1,7 @@
 ---
 title: Forgotten The Voicemail Password Of Motorola Edge 2023? Try These Fixes
-date: 2024-04-07T21:08:40.153Z
-updated: 2024-04-08T21:08:40.153Z
+date: 2024-04-09T00:28:04.628Z
+updated: 2024-04-10T00:28:04.628Z
 tags: 
   - unlock
   - remove screen lock

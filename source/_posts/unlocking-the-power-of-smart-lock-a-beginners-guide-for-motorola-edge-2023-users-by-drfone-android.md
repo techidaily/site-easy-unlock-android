@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 2023 Users
-date: 2024-04-07T21:08:40.198Z
-updated: 2024-04-08T21:08:40.198Z
+date: 2024-04-09T00:28:04.653Z
+updated: 2024-04-10T00:28:04.653Z
 tags: 
   - unlock
   - remove screen lock

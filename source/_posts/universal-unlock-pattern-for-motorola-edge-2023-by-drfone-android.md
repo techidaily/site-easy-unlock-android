@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Motorola Edge 2023
-date: 2024-04-07T21:08:40.205Z
-updated: 2024-04-08T21:08:40.205Z
+date: 2024-04-09T00:28:04.658Z
+updated: 2024-04-10T00:28:04.658Z
 tags: 
   - unlock
   - remove screen lock

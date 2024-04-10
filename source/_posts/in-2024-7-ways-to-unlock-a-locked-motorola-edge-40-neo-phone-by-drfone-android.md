@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Unlock a Locked Motorola Edge 40 Neo Phone
-date: 2024-04-07T21:08:39.999Z
-updated: 2024-04-08T21:08:39.999Z
+date: 2024-04-09T00:28:04.531Z
+updated: 2024-04-10T00:28:04.531Z
 tags: 
   - unlock
   - remove screen lock

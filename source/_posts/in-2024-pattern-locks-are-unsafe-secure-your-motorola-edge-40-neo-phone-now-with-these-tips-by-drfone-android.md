@@ -1,7 +1,7 @@
 ---
 title: In 2024, Pattern Locks Are Unsafe Secure Your Motorola Edge 40 Neo Phone Now with These Tips
-date: 2024-04-07T21:08:40.003Z
-updated: 2024-04-08T21:08:40.003Z
+date: 2024-04-09T00:28:04.535Z
+updated: 2024-04-10T00:28:04.535Z
 tags: 
   - unlock
   - remove screen lock

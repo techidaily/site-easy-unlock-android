@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Motorola Edge 2023 Lock Screen Password
-date: 2024-04-07T21:08:40.090Z
-updated: 2024-04-08T21:08:40.090Z
+date: 2024-04-09T00:28:04.598Z
+updated: 2024-04-10T00:28:04.598Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Motorola Edge 40 Neo Lock Screen Clock in Seconds
-date: 2024-04-07T21:08:39.983Z
-updated: 2024-04-08T21:08:39.983Z
+date: 2024-04-09T00:28:04.499Z
+updated: 2024-04-10T00:28:04.499Z
 tags: 
   - unlock
   - remove screen lock

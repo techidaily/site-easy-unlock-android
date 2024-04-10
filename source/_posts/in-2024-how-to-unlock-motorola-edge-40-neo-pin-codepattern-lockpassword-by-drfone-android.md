@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Motorola Edge 40 Neo PIN Code/Pattern Lock/Password
-date: 2024-04-07T21:08:40.074Z
-updated: 2024-04-08T21:08:40.074Z
+date: 2024-04-09T00:28:04.590Z
+updated: 2024-04-10T00:28:04.590Z
 tags: 
   - unlock
   - remove screen lock

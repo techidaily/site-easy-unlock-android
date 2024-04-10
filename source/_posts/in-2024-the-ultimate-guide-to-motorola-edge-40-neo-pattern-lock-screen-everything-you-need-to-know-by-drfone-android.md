@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Motorola Edge 40 Neo Pattern Lock Screen Everything You Need to Know
-date: 2024-04-07T21:08:40.032Z
-updated: 2024-04-08T21:08:40.032Z
+date: 2024-04-09T00:28:04.555Z
+updated: 2024-04-10T00:28:04.555Z
 tags: 
   - unlock
   - remove screen lock

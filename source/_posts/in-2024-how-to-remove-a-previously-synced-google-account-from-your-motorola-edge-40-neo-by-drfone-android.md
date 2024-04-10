@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove a Previously Synced Google Account from Your Motorola Edge 40 Neo
-date: 2024-04-07T21:08:40.007Z
-updated: 2024-04-08T21:08:40.007Z
+date: 2024-04-09T00:28:04.539Z
+updated: 2024-04-10T00:28:04.539Z
 tags: 
   - unlock
   - remove screen lock

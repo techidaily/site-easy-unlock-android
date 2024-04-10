@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can I Bypass a Forgotten Phone Password Of Motorola Edge 40 Neo?
-date: 2024-04-07T21:08:39.982Z
-updated: 2024-04-08T21:08:39.982Z
+date: 2024-04-09T00:28:04.498Z
+updated: 2024-04-10T00:28:04.498Z
 tags: 
   - unlock
   - remove screen lock

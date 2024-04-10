@@ -1,7 +1,7 @@
 ---
 title: In 2024, Full Tutorial to Bypass Your Motorola Edge 40 Neo Face Lock?
-date: 2024-04-07T21:08:39.978Z
-updated: 2024-04-08T21:08:39.978Z
+date: 2024-04-09T00:28:04.495Z
+updated: 2024-04-10T00:28:04.495Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Your Motorola Edge 40 Neos Potential The Top 20 Lock Screen Apps You Need to Try
-date: 2024-04-07T21:08:40.023Z
-updated: 2024-04-08T21:08:40.023Z
+date: 2024-04-09T00:28:04.546Z
+updated: 2024-04-10T00:28:04.546Z
 tags: 
   - unlock
   - remove screen lock

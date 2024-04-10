@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Any Motorola Edge 2023 Phone Password Using Emergency Call
-date: 2024-04-07T21:08:40.082Z
-updated: 2024-04-08T21:08:40.082Z
+date: 2024-04-09T00:28:04.595Z
+updated: 2024-04-10T00:28:04.595Z
 tags: 
   - unlock
   - remove screen lock

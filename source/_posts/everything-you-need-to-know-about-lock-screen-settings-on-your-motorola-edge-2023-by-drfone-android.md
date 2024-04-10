@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Motorola Edge 2023
-date: 2024-04-07T21:08:40.089Z
-updated: 2024-04-08T21:08:40.089Z
+date: 2024-04-09T00:28:04.597Z
+updated: 2024-04-10T00:28:04.597Z
 tags: 
   - unlock
   - remove screen lock
