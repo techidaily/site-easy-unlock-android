@@ -500,3 +500,4 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-hot-40-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Hot 40 Pro Phone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola Moto G84 5G?</u></a></li>
 </ul></div>
+

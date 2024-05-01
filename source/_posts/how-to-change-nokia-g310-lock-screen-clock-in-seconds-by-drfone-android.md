@@ -504,3 +504,4 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://ios-unlock.techidaily.com/did-your-iphone-x-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone X Passcode Change Itself? Unlock It Now</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-itel-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Itel Phone When You Forget the Password</u></a></li>
 </ul></div>
+

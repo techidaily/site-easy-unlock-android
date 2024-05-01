@@ -533,3 +533,4 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Note 30 VIP Phone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g04-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G04 Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
+

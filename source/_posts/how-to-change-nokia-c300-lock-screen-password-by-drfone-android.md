@@ -485,3 +485,4 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://howto.techidaily.com/why-your-realme-12-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 12 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-8-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 8?</u></a></li>
 </ul></div>
+

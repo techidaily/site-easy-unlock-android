@@ -515,3 +515,4 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nokia XR21? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-c51-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme C51 Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+

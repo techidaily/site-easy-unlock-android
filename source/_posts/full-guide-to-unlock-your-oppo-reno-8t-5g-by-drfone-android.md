@@ -402,3 +402,4 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-a05s-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel A05s Phone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-x-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone X without Password</u></a></li>
 </ul></div>
+

@@ -507,3 +507,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6s-plus-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6s Plus when Phone is Broken?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-12-pro-max-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 12 Pro Max WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
 </ul></div>
+

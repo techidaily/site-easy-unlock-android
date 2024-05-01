@@ -400,3 +400,4 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-15-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 15</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-13-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 13 without Apple Account</u></a></li>
 </ul></div>
+
