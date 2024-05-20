@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Poco C50 Phone that is Locked?
-date: 2024-04-30T16:13:52.627Z
-updated: 2024-05-01T16:13:52.627Z
+date: 2024-05-19T09:20:40.085Z
+updated: 2024-05-20T09:20:40.085Z
 tags: 
   - unlock
   - remove screen lock
@@ -478,4 +478,5 @@ The best choice boils down to your personal needs and budget. Remember, FRP bypa
 <li><a href="https://screen-mirror.techidaily.com/how-realme-narzo-60-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme Narzo 60 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-itel-a60s-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Itel A60s Device</u></a></li>
 </ul></div>
+
 

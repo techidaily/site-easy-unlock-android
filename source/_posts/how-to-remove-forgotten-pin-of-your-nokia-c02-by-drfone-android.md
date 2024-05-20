@@ -1,7 +1,7 @@
 ---
 title: How to Remove Forgotten PIN Of Your Nokia C02
-date: 2024-04-30T16:04:14.466Z
-updated: 2024-05-01T16:04:14.466Z
+date: 2024-05-19T09:20:02.813Z
+updated: 2024-05-20T09:20:02.813Z
 tags: 
   - unlock
   - remove screen lock
@@ -485,4 +485,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 11 Pro Max Passcode not Working?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 7 Plus without Losing Data? | Stellar</u></a></li>
 </ul></div>
+
 

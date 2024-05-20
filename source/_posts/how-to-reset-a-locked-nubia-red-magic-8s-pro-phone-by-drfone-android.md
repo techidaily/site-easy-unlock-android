@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nubia Red Magic 8S Pro Phone
-date: 2024-04-30T16:11:42.747Z
-updated: 2024-05-01T16:11:42.747Z
+date: 2024-05-19T09:20:31.879Z
+updated: 2024-05-20T09:20:31.879Z
 tags: 
   - unlock
   - remove screen lock
@@ -504,4 +504,5 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-12t-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 12T Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-gt-5-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme GT 5 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

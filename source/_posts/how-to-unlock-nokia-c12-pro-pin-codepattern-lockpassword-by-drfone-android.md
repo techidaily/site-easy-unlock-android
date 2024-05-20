@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 Pro PIN Code/Pattern Lock/Password
-date: 2024-04-30T16:07:24.990Z
-updated: 2024-05-01T16:07:24.990Z
+date: 2024-05-19T09:20:15.099Z
+updated: 2024-05-20T09:20:15.099Z
 tags: 
   - unlock
   - remove screen lock
@@ -715,4 +715,5 @@ The article above gives useful information on some of the important tools for th
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itel-p55twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itel P55Twith/without a PC</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y36-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y36 Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Poco C50 Phone with Broken Screen
-date: 2024-04-30T16:13:59.870Z
-updated: 2024-05-01T16:13:59.870Z
+date: 2024-05-19T09:20:40.564Z
+updated: 2024-05-20T09:20:40.564Z
 tags: 
   - unlock
   - remove screen lock
@@ -427,4 +427,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor 70 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-create-videos-with-an-ai-script-generator/"><u>Updated 2024 Approved Create Videos with an AI Script Generator</u></a></li>
 </ul></div>
+
 

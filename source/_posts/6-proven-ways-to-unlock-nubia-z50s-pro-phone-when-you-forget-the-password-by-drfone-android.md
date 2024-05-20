@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Nubia Z50S Pro Phone When You Forget the Password
-date: 2024-04-30T16:12:08.645Z
-updated: 2024-05-01T16:12:08.645Z
+date: 2024-05-19T09:20:33.438Z
+updated: 2024-05-20T09:20:33.438Z
 tags: 
   - unlock
   - remove screen lock
@@ -525,4 +525,5 @@ Forgetting your password is a perplexing situation though you have the solution 
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-redmi-note-12r-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Xiaomi Redmi Note 12R</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oneplus-open-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your OnePlus Open Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

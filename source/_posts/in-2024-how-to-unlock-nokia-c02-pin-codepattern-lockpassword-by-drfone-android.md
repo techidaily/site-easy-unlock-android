@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Nokia C02 PIN Code/Pattern Lock/Password
-date: 2024-04-30T16:04:52.210Z
-updated: 2024-05-01T16:04:52.210Z
+date: 2024-05-19T09:20:05.136Z
+updated: 2024-05-20T09:20:05.136Z
 tags: 
   - unlock
   - remove screen lock
@@ -691,4 +691,5 @@ Above we have listed several ways to **remove a previously synced Google account
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-note-50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Note 50 to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15 Pro Max</u></a></li>
 </ul></div>
+
 

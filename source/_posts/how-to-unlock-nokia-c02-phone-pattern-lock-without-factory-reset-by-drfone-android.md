@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C02 Phone Pattern Lock without Factory Reset
-date: 2024-04-30T16:04:17.926Z
-updated: 2024-05-01T16:04:17.926Z
+date: 2024-05-19T09:20:02.994Z
+updated: 2024-05-20T09:20:02.994Z
 tags: 
   - unlock
   - remove screen lock
@@ -450,4 +450,5 @@ Wondershare Dr.Fone is a reliable tool for those challenging moments when you fo
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-x9a-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor X9a? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-14-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 14 Pro Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+
 

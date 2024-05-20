@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Nokia C22 Pattern Lock Screen
-date: 2024-04-30T16:06:09.656Z
-updated: 2024-05-01T16:06:09.656Z
+date: 2024-05-19T09:20:10.191Z
+updated: 2024-05-20T09:20:10.191Z
 tags: 
   - unlock
   - remove screen lock
@@ -497,4 +497,5 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 <li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-6ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 6/iPad/iPod</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 Pro</u></a></li>
 </ul></div>
+
 

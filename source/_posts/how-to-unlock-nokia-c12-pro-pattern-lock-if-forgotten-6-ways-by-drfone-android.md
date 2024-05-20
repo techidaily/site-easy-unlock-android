@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 Pro Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:07:19.834Z
-updated: 2024-05-01T16:07:19.834Z
+date: 2024-05-19T09:20:14.804Z
+updated: 2024-05-20T09:20:14.804Z
 tags: 
   - unlock
   - remove screen lock
@@ -497,4 +497,5 @@ Enter the primary Gmail account and password you used to set up your Android sma
 <li><a href="https://ai-voice-clone.techidaily.com/updated-talking-photo/"><u>Updated Talking Photo</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

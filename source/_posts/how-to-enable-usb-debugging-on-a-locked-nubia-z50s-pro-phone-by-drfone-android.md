@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Nubia Z50S Pro Phone
-date: 2024-04-30T16:12:07.455Z
-updated: 2024-05-01T16:12:07.455Z
+date: 2024-05-19T09:20:33.345Z
+updated: 2024-05-20T09:20:33.345Z
 tags: 
   - unlock
   - remove screen lock
@@ -544,4 +544,5 @@ This guide provides insight into the most common Android issue. Here, we have di
 <li><a href="https://ai-video.techidaily.com/in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>In 2024, Step-by-step Guide How to Translate TikTok Videos</u></a></li>
 <li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nubia-z50-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nubia Z50 Ultra</u></a></li>
 </ul></div>
+
 

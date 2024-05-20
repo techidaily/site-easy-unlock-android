@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Nubia Phone with Broken Screen
-date: 2024-04-30T16:10:53.742Z
-updated: 2024-05-01T16:10:53.742Z
+date: 2024-05-19T09:20:28.794Z
+updated: 2024-05-20T09:20:28.794Z
 tags: 
   - unlock
   - remove screen lock
@@ -802,4 +802,5 @@ If you want to manage your iOS passwords and want to [retrieve your Wifi Passwor
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-x100-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo X100 Pro Screen Not Working | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-15-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 15 Plus Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

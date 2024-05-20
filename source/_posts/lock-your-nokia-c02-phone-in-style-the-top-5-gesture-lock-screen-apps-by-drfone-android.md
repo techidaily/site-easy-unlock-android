@@ -1,7 +1,7 @@
 ---
 title: Lock Your Nokia C02 Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-04-30T16:04:08.962Z
-updated: 2024-05-01T16:04:08.962Z
+date: 2024-05-19T09:20:02.479Z
+updated: 2024-05-20T09:20:02.479Z
 tags: 
   - unlock
   - remove screen lock
@@ -504,4 +504,5 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Samsung Galaxy F34 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Nokia C02 Phone
-date: 2024-04-30T16:04:06.786Z
-updated: 2024-05-01T16:04:06.786Z
+date: 2024-05-19T09:20:02.327Z
+updated: 2024-05-20T09:20:02.327Z
 tags: 
   - unlock
   - remove screen lock
@@ -427,4 +427,5 @@ There are a handful of methods you can use to unlock a Nokia C02  phone in case 
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-a15-4g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy A15 4G Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/optimizing-video-output-with-compressor-in-fcpx/"><u>Optimizing Video Output with Compressor in FCPX</u></a></li>
 </ul></div>
+
 

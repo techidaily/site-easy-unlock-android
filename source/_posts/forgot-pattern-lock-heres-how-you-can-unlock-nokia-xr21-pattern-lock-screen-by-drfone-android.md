@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Nokia XR21 Pattern Lock Screen
-date: 2024-04-30T16:08:18.991Z
-updated: 2024-05-01T16:08:18.991Z
+date: 2024-05-19T09:20:18.636Z
+updated: 2024-05-20T09:20:18.636Z
 tags: 
   - unlock
   - remove screen lock
@@ -385,4 +385,5 @@ Use volume keys to select and power button to confirm. Once this is done, the No
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-moto-g24-by-drfone-android/"><u>How to Bypass FRP from Motorola Moto G24?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-a23-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy A23 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

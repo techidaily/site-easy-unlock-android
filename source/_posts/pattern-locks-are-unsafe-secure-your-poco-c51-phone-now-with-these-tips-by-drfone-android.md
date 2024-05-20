@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your Poco C51 Phone Now with These Tips
-date: 2024-04-30T16:16:39.173Z
-updated: 2024-05-01T16:16:39.173Z
+date: 2024-05-19T09:20:51.286Z
+updated: 2024-05-20T09:20:51.286Z
 tags: 
   - unlock
   - remove screen lock
@@ -640,4 +640,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-huawei-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Huawei FRP</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-10-great-apps-for-turning-funny-animated-images-into-comics/"><u>New 10 Great Apps for Turning Funny Animated Images Into Comics</u></a></li>
 </ul></div>
+
 

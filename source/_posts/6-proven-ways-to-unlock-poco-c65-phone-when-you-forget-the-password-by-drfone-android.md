@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Poco C65 Phone When You Forget the Password
-date: 2024-04-30T16:18:50.852Z
-updated: 2024-05-01T16:18:50.852Z
+date: 2024-05-19T09:20:59.650Z
+updated: 2024-05-20T09:20:59.650Z
 tags: 
   - unlock
   - remove screen lock
@@ -494,4 +494,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Huawei Nova Y91? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-smart-8-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Smart 8 Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Poco X5
-date: 2024-04-30T16:16:00.026Z
-updated: 2024-05-01T16:16:00.026Z
+date: 2024-05-19T09:20:48.567Z
+updated: 2024-05-20T09:20:48.567Z
 tags: 
   - unlock
   - remove screen lock
@@ -603,4 +603,5 @@ The details provided are comprehensive in helping you change ****the lockscreen 
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-narzo-60x-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme Narzo 60x 5G for Streaming | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nokia C12 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

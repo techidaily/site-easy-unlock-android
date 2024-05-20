@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nokia C02 Phone
-date: 2024-04-30T16:04:15.420Z
-updated: 2024-05-01T16:04:15.420Z
+date: 2024-05-19T09:20:02.880Z
+updated: 2024-05-20T09:20:02.880Z
 tags: 
   - unlock
   - remove screen lock
@@ -451,4 +451,5 @@ This article has specifically provided you with some important details on **how 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Without Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-scratch-to-screen-a-beginners-guide-to-stop-motion-animation/"><u>2024 Approved From Scratch to Screen A Beginners Guide to Stop Motion Animation</u></a></li>
 </ul></div>
+
 

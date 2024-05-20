@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Poco C50
-date: 2024-04-30T16:13:45.927Z
-updated: 2024-05-01T16:13:45.927Z
+date: 2024-05-19T09:20:39.588Z
+updated: 2024-05-20T09:20:39.588Z
 tags: 
   - unlock
   - remove screen lock
@@ -454,4 +454,5 @@ Technology has a pivotal influence on today's high-tech lifestyles, which is rew
 <li><a href="https://ai-video-apps.techidaily.com/updated-create-stunning-split-screens-top-video-apps-for-iphone-and-android-for-2024/"><u>Updated Create Stunning Split Screens Top Video Apps for iPhone and Android for 2024</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

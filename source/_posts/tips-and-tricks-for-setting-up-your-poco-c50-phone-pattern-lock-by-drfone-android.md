@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Poco C50 Phone Pattern Lock
-date: 2024-04-30T16:13:54.089Z
-updated: 2024-05-01T16:13:54.089Z
+date: 2024-05-19T09:20:40.195Z
+updated: 2024-05-20T09:20:40.195Z
 tags: 
   - unlock
   - remove screen lock
@@ -520,4 +520,5 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-zte-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on ZTE</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-an-adobe-slideshow-the-easy-way-for-2024/"><u>New How to Make an Adobe Slideshow the Easy Way for 2024</u></a></li>
 </ul></div>
+
 

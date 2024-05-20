@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Pro Pattern Lock Screen
-date: 2024-04-30T16:07:14.227Z
-updated: 2024-05-01T16:07:14.227Z
+date: 2024-05-19T09:20:14.483Z
+updated: 2024-05-20T09:20:14.483Z
 tags: 
   - unlock
   - remove screen lock
@@ -510,4 +510,5 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 <li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-x100-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo X100 Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-techniques-you-never-heard-of-for-learning-ai-marketing-youtube/"><u>Updated In 2024, Techniques You Never Heard of for Learning AI Marketing YouTube</u></a></li>
 </ul></div>
+
 

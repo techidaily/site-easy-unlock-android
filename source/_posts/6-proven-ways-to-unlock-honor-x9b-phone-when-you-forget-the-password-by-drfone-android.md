@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Honor X9b Phone When You Forget the Password
-date: 2024-04-30T16:09:21.023Z
-updated: 2024-05-01T16:09:21.023Z
+date: 2024-05-19T09:20:22.620Z
+updated: 2024-05-20T09:20:22.620Z
 tags: 
   - unlock
   - remove screen lock
@@ -483,4 +483,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://meme-emoji.techidaily.com/updated-25-cute-memes-to-make-you-feel-better/"><u>Updated 25 Cute Memes to Make You Feel Better</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12 5G FRP</u></a></li>
 </ul></div>
+
 

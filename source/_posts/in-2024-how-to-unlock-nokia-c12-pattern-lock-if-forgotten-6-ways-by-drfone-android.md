@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Nokia C12 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:07:02.750Z
-updated: 2024-05-01T16:07:02.750Z
+date: 2024-05-19T09:20:13.835Z
+updated: 2024-05-20T09:20:13.835Z
 tags: 
   - unlock
   - remove screen lock
@@ -375,4 +375,5 @@ Do not forget to share your experiences with the apps mentioned in our article. 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-v29-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo V29</u></a></li>
 </ul></div>
+
 

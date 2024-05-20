@@ -473,3 +473,4 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-x50iplus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from X50i+.</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Remove the Lock Screen Fingerprint Of Your Poco C65
-date: 2024-04-30T16:18:57.029Z
-updated: 2024-05-01T16:18:57.029Z
+date: 2024-05-19T09:21:00.073Z
+updated: 2024-05-20T09:21:00.073Z
 tags: 
   - unlock
   - remove screen lock
@@ -483,4 +483,5 @@ So, make use of this guide and get back command over your Android phone.
 <li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-s18-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo S18?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-note-12-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi Note 12 Pro 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

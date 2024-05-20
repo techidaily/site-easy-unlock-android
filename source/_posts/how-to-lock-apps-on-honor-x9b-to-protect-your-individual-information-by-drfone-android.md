@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Honor X9b to Protect Your Individual Information
-date: 2024-04-30T16:09:23.038Z
-updated: 2024-05-01T16:09:23.038Z
+date: 2024-05-19T09:20:22.763Z
+updated: 2024-05-20T09:20:22.763Z
 tags: 
   - unlock
   - remove screen lock
@@ -379,4 +379,5 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-s23plus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy S23+ without App | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-easily-create-a-free-eye-catching-intro-videos-with-invideo/"><u>How to Easily Create a Free Eye-Catching Intro Videos with Invideo</u></a></li>
 </ul></div>
+
 

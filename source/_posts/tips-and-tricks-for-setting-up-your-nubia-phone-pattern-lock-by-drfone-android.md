@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Nubia Phone Pattern Lock
-date: 2024-04-30T16:10:14.251Z
-updated: 2024-05-01T16:10:14.251Z
+date: 2024-05-19T09:20:26.425Z
+updated: 2024-05-20T09:20:26.425Z
 tags: 
   - unlock
   - remove screen lock
@@ -550,4 +550,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-c110-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia C110 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/guide-on-creating-gif-in-whatsapp-iphone/"><u>Guide on Creating GIF in WhatsApp iPhone</u></a></li>
 </ul></div>
+
 

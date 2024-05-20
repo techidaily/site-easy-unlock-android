@@ -393,3 +393,4 @@ Forgetting your password is a perplexing situation though you have the solution 
 <li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-12-mini-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 
+

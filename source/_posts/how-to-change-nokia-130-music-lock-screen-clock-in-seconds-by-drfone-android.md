@@ -386,3 +386,4 @@ Use volume keys to select and power button to confirm. Once this is done, the No
 <li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How to Change Lock Screen Wallpaper on Poco C51
-date: 2024-04-30T16:16:41.905Z
-updated: 2024-05-01T16:16:41.905Z
+date: 2024-05-19T09:20:51.499Z
+updated: 2024-05-20T09:20:51.499Z
 tags: 
   - unlock
   - remove screen lock
@@ -644,4 +644,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://ai-vdieo-software.techidaily.com/get-the-perfect-blur-top-bokeh-apps-for-ios-and-android/"><u>Get the Perfect Blur Top Bokeh Apps for iOS and Android</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-13-ultra-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi 13 Ultra to Another | Dr.fone</u></a></li>
 </ul></div>
+
 

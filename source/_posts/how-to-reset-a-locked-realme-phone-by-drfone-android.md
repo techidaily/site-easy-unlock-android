@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Realme Phone
-date: 2024-04-30T16:22:00.073Z
-updated: 2024-05-01T16:22:00.073Z
+date: 2024-05-19T09:21:12.554Z
+updated: 2024-05-20T09:21:12.554Z
 tags: 
   - unlock
   - remove screen lock
@@ -570,4 +570,5 @@ The article above gives useful information on some of the important tools for th
 <li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-moto-g13-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Moto G13 Phone When You Forget the Password</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-lava-blaze-2-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Lava Blaze 2 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -349,3 +349,4 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://techidaily.com/xiaomi-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi won’t play AVCHD .mts files</u></a></li>
 </ul></div>
 
+

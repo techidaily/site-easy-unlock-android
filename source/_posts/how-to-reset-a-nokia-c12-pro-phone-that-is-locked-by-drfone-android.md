@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Nokia C12 Pro Phone that is Locked?
-date: 2024-04-30T16:07:16.377Z
-updated: 2024-05-01T16:07:16.377Z
+date: 2024-05-19T09:20:14.614Z
+updated: 2024-05-20T09:20:14.614Z
 tags: 
   - unlock
   - remove screen lock
@@ -485,4 +485,5 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-x50-gt-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor X50 GT Phone</u></a></li>
 </ul></div>
+
 

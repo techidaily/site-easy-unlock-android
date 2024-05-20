@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Nokia C02 Pattern Lock Screen
-date: 2024-04-30T16:04:08.305Z
-updated: 2024-05-01T16:04:08.305Z
+date: 2024-05-19T09:20:02.439Z
+updated: 2024-05-20T09:20:02.439Z
 tags: 
   - unlock
   - remove screen lock
@@ -508,4 +508,5 @@ In summary, this article explored bypassing Google account verification on Andro
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-obs-green-screen-guide/"><u>New In 2024, OBS Green Screen Guide</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-mini-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 mini</u></a></li>
 </ul></div>
+
 

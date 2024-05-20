@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nubia Z50S Pro Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:12:14.727Z
-updated: 2024-05-01T16:12:14.727Z
+date: 2024-05-19T09:20:33.814Z
+updated: 2024-05-20T09:20:33.814Z
 tags: 
   - unlock
   - remove screen lock
@@ -622,4 +622,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo A18 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-note-30-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Note 30 Pro Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

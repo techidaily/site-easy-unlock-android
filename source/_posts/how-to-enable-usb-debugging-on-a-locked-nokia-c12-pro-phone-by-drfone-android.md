@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Nokia C12 Pro Phone
-date: 2024-04-30T16:07:12.925Z
-updated: 2024-05-01T16:07:12.925Z
+date: 2024-05-19T09:20:14.372Z
+updated: 2024-05-20T09:20:14.372Z
 tags: 
   - unlock
   - remove screen lock
@@ -437,4 +437,5 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-attention-grabbing-thumbnails-youtube-size-guide-and-more/"><u>Updated The Art of Attention-Grabbing Thumbnails YouTube Size Guide and More</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-hot-40-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Hot 40 Pro Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

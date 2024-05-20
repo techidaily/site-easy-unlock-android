@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Nokia C12 Phone Without Password?
-date: 2024-04-30T16:06:50.917Z
-updated: 2024-05-01T16:06:50.917Z
+date: 2024-05-19T09:20:13.115Z
+updated: 2024-05-20T09:20:13.115Z
 tags: 
   - unlock
   - remove screen lock
@@ -662,4 +662,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 12 Pro</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/m4r-conversion-basics-setting-yourself-up-for-success/"><u>M4R Conversion Basics Setting Yourself Up for Success</u></a></li>
 </ul></div>
+
 

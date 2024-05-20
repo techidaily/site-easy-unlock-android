@@ -558,3 +558,4 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nubia-z50-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nubia Z50 Ultra to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

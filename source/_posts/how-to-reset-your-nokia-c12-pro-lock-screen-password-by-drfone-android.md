@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Nokia C12 Pro Lock Screen Password
-date: 2024-04-30T16:07:09.952Z
-updated: 2024-05-01T16:07:09.952Z
+date: 2024-05-19T09:20:14.193Z
+updated: 2024-05-20T09:20:14.193Z
 tags: 
   - unlock
   - remove screen lock
@@ -492,4 +492,5 @@ Diving into OEM
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-smart-8-plus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Smart 8 Plus Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F25 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Realme V30 Pattern Lock Screen
-date: 2024-04-30T16:22:44.160Z
-updated: 2024-05-01T16:22:44.160Z
+date: 2024-05-19T09:21:15.165Z
+updated: 2024-05-20T09:21:15.165Z
 tags: 
   - unlock
   - remove screen lock
@@ -542,4 +542,5 @@ When you know about all the popular options for the fingerprint screen lock app,
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi 13C | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-tracking-is-the-process-of-tracking-the-movements-of-a-project-in-a-video-this-article-will-show-you-how-to-apply-motion-tracking-effec/"><u>2024 Approved Motion Tracking Is the Process of Tracking the Movements of a Project in a Video. This Article Will Show You How to Apply Motion Tracking Effect Into Videos</u></a></li>
 </ul></div>
+
 

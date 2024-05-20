@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Realme Lock Screen Password
-date: 2024-04-30T16:21:48.962Z
-updated: 2024-05-01T16:21:48.962Z
+date: 2024-05-19T09:21:11.750Z
+updated: 2024-05-20T09:21:11.750Z
 tags: 
   - unlock
   - remove screen lock
@@ -533,4 +533,5 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-15-pro-max-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Pro Max Screen Mirroring You Must Know | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-11-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 11 Pro? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

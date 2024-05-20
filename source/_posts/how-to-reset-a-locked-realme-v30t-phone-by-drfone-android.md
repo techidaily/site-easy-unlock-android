@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Realme V30T Phone
-date: 2024-04-30T16:23:24.766Z
-updated: 2024-05-01T16:23:24.766Z
+date: 2024-05-19T09:21:18.006Z
+updated: 2024-05-20T09:21:18.006Z
 tags: 
   - unlock
   - remove screen lock
@@ -573,4 +573,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
+
 

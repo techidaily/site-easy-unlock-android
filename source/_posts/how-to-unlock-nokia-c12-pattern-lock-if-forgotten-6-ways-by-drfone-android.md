@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:06:46.891Z
-updated: 2024-05-01T16:06:46.891Z
+date: 2024-05-19T09:20:12.870Z
+updated: 2024-05-20T09:20:12.870Z
 tags: 
   - unlock
   - remove screen lock
@@ -846,4 +846,5 @@ So, make use of this guide and get back command over your Android phone.
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-12plus-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme 12+ 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-a60-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel A60</u></a></li>
 </ul></div>
+
 

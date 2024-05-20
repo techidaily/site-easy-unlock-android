@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Poco C50
-date: 2024-04-30T16:14:19.465Z
-updated: 2024-05-01T16:14:19.465Z
+date: 2024-05-19T09:20:42.035Z
+updated: 2024-05-20T09:20:42.035Z
 tags: 
   - unlock
   - remove screen lock
@@ -475,4 +475,5 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-xs-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone XS Max</u></a></li>
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

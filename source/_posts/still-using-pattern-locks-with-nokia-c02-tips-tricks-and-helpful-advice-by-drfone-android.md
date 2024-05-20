@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Nokia C02? Tips, Tricks and Helpful Advice
-date: 2024-04-30T16:04:06.581Z
-updated: 2024-05-01T16:04:06.581Z
+date: 2024-05-19T09:20:02.305Z
+updated: 2024-05-20T09:20:02.305Z
 tags: 
   - unlock
   - remove screen lock
@@ -513,4 +513,5 @@ Wondershare Dr.Fone is a reliable tool for those challenging moments when you fo
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-11-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from 11 5G.</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Note 30i | Dr.fone</u></a></li>
 </ul></div>
+
 

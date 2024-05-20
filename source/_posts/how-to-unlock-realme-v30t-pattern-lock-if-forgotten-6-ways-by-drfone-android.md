@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Realme V30T Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:23:23.312Z
-updated: 2024-05-01T16:23:23.312Z
+date: 2024-05-19T09:21:17.879Z
+updated: 2024-05-20T09:21:17.879Z
 tags: 
   - unlock
   - remove screen lock
@@ -480,4 +480,5 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-find-x6-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo Find X6 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Poco C50 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:14:29.185Z
-updated: 2024-05-01T16:14:29.185Z
+date: 2024-05-19T09:20:42.701Z
+updated: 2024-05-20T09:20:42.701Z
 tags: 
   - unlock
   - remove screen lock
@@ -482,4 +482,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 8 Plus? | Stellar</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 12 Parental Restrictions With/Without Password</u></a></li>
 </ul></div>
+
 

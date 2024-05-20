@@ -1,7 +1,7 @@
 ---
 title: How Can We Unlock Our Nubia Z50S Pro Phone Screen?
-date: 2024-04-30T16:12:05.034Z
-updated: 2024-05-01T16:12:05.034Z
+date: 2024-05-19T09:20:33.164Z
+updated: 2024-05-20T09:20:33.164Z
 tags: 
   - unlock
   - remove screen lock
@@ -570,4 +570,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y55s-5g-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y55s 5G (2023) For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-google-pixel-7a-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Google Pixel 7a Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Nokia C12 Plus Lock Screen Password
-date: 2024-04-30T16:07:43.517Z
-updated: 2024-05-01T16:07:43.517Z
+date: 2024-05-19T09:20:16.351Z
+updated: 2024-05-20T09:20:16.351Z
 tags: 
   - unlock
   - remove screen lock
@@ -475,4 +475,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://ai-video-editing.techidaily.com/follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-article-fo/"><u>Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-mini-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 mini?</u></a></li>
 </ul></div>
+
 

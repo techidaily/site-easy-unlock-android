@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Nokia C02?
-date: 2024-04-30T16:04:05.339Z
-updated: 2024-05-01T16:04:05.339Z
+date: 2024-05-19T09:20:02.222Z
+updated: 2024-05-20T09:20:02.222Z
 tags: 
   - unlock
   - remove screen lock
@@ -619,4 +619,5 @@ In summary, this article detailed various methods to fix **the Nokia C02 fingerp
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-mov-video-editors-6-top-notch-cutting-tools/"><u>New Free MOV Video Editors 6 Top-Notch Cutting Tools</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-xs-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone XS Max to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

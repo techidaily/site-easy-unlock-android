@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia XR21 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:08:24.326Z
-updated: 2024-05-01T16:08:24.326Z
+date: 2024-05-19T09:20:18.964Z
+updated: 2024-05-20T09:20:18.964Z
 tags: 
   - unlock
   - remove screen lock
@@ -471,4 +471,5 @@ Whether you prefer user-friendly software like [Dr.Fone – Screen Unlock (Andro
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Phone Hassle-Free</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+
 

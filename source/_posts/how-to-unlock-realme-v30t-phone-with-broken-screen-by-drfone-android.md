@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Realme V30T Phone with Broken Screen
-date: 2024-04-30T16:23:27.798Z
-updated: 2024-05-01T16:23:27.798Z
+date: 2024-05-19T09:21:18.179Z
+updated: 2024-05-20T09:21:18.179Z
 tags: 
   - unlock
   - remove screen lock
@@ -419,4 +419,5 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://animation-videos.techidaily.com/updated-pencil2d-animation-tutorial-overview/"><u>Updated Pencil2D Animation Tutorial Overview</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y100A | Dr.fone</u></a></li>
 </ul></div>
+
 

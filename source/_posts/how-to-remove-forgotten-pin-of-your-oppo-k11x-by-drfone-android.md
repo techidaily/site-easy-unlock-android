@@ -369,3 +369,4 @@ Use volume keys to select and power button to confirm. Once this is done, the Op
 <li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-tutorial-adding-picture-in-picture-effects-to-your-videos/"><u>New Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Poco C50
-date: 2024-04-30T16:13:59.267Z
-updated: 2024-05-01T16:13:59.267Z
+date: 2024-05-19T09:20:40.551Z
+updated: 2024-05-20T09:20:40.551Z
 tags: 
   - unlock
   - remove screen lock
@@ -591,4 +591,5 @@ Diving into OEM
 <li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 15 Plus</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-get-motion-blur-in-valorant/"><u>New 2024 Approved How to Get Motion Blur in Valorant?</u></a></li>
 </ul></div>
+
 

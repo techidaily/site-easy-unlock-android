@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Poco C65 Phone with Broken Screen
-date: 2024-04-30T16:19:00.453Z
-updated: 2024-05-01T16:19:00.453Z
+date: 2024-05-19T09:21:00.253Z
+updated: 2024-05-20T09:21:00.253Z
 tags: 
   - unlock
   - remove screen lock
@@ -564,4 +564,5 @@ Its user-friendly approach and efficiency make it an ideal alternative to **Tech
 <li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-12-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 12 Pro Max? 5 Tips You Must Know</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix ?</u></a></li>
 </ul></div>
+
 

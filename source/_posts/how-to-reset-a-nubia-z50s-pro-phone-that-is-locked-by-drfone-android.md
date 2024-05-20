@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Nubia Z50S Pro Phone that is Locked?
-date: 2024-04-30T16:12:10.789Z
-updated: 2024-05-01T16:12:10.789Z
+date: 2024-05-19T09:20:33.609Z
+updated: 2024-05-20T09:20:33.609Z
 tags: 
   - unlock
   - remove screen lock
@@ -628,4 +628,5 @@ As a bonus, Wondershare Dr.Fone emerged as a powerful ally for those locked out 
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Note 30 VIP | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a15-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A15 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

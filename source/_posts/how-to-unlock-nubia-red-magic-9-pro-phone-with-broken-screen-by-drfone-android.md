@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nubia Red Magic 9 Pro Phone with Broken Screen
-date: 2024-04-30T16:12:53.336Z
-updated: 2024-05-01T16:12:53.336Z
+date: 2024-05-19T09:20:36.341Z
+updated: 2024-05-20T09:20:36.341Z
 tags: 
   - unlock
   - remove screen lock
@@ -591,4 +591,5 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Poco X5 Pro Phone with Broken Screen
-date: 2024-04-30T16:15:07.969Z
-updated: 2024-05-01T16:15:07.969Z
+date: 2024-05-19T09:20:45.068Z
+updated: 2024-05-20T09:20:45.068Z
 tags: 
   - unlock
   - remove screen lock
@@ -507,4 +507,5 @@ It would be best if you had been able to answer the question, "How to unlock an 
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v27-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V27 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme 10T 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

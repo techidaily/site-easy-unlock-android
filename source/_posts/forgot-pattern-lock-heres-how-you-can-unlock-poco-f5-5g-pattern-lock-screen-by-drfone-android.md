@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Poco F5 5G Pattern Lock Screen
-date: 2024-04-30T16:17:11.137Z
-updated: 2024-05-01T16:17:11.137Z
+date: 2024-05-19T09:20:53.262Z
+updated: 2024-05-20T09:20:53.262Z
 tags: 
   - unlock
   - remove screen lock
@@ -541,4 +541,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-12-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi 12 5G FRP Without Computer</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-learn-everything-about-leeming-lut-pro/"><u>Updated Learn Everything About Leeming LUT Pro</u></a></li>
 </ul></div>
+
 

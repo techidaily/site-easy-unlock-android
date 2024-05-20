@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Nubia Phone that is Locked?
-date: 2024-04-30T16:10:12.722Z
-updated: 2024-05-01T16:10:12.722Z
+date: 2024-05-19T09:20:26.310Z
+updated: 2024-05-20T09:20:26.310Z
 tags: 
   - unlock
   - remove screen lock
@@ -490,4 +490,5 @@ There are a handful of methods you can use to unlock a Nubia Red Magic 9 Pro+  p
 <li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y36i? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

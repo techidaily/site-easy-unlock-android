@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Nubia Phone
-date: 2024-04-30T16:10:50.957Z
-updated: 2024-05-01T16:10:50.957Z
+date: 2024-05-19T09:20:28.617Z
+updated: 2024-05-20T09:20:28.617Z
 tags: 
   - unlock
   - remove screen lock
@@ -408,4 +408,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-samsung-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Samsung .</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-c67-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme C67 5G to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

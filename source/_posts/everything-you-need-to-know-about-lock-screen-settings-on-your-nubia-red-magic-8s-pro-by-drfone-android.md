@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Nubia Red Magic 8S Pro
-date: 2024-04-30T16:11:29.875Z
-updated: 2024-05-01T16:11:29.875Z
+date: 2024-05-19T09:20:31.137Z
+updated: 2024-05-20T09:20:31.137Z
 tags: 
   - unlock
   - remove screen lock
@@ -557,4 +557,5 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 to PC via USB? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-smart-8-plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Smart 8 Plus? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

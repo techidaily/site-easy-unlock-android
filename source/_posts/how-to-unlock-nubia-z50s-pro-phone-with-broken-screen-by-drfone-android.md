@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nubia Z50S Pro Phone with Broken Screen
-date: 2024-04-30T16:12:19.039Z
-updated: 2024-05-01T16:12:19.039Z
+date: 2024-05-19T09:20:34.076Z
+updated: 2024-05-20T09:20:34.076Z
 tags: 
   - unlock
   - remove screen lock
@@ -354,4 +354,5 @@ As Android reaches new heights every year, gestures are getting more and more en
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme Narzo 60 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-c33-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme C33 2023 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

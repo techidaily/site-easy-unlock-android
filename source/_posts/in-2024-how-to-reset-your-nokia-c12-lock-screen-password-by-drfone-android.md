@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset your Nokia C12 Lock Screen Password
-date: 2024-04-30T16:06:53.646Z
-updated: 2024-05-01T16:06:53.646Z
+date: 2024-05-19T09:20:13.258Z
+updated: 2024-05-20T09:20:13.258Z
 tags: 
   - unlock
   - remove screen lock
@@ -488,4 +488,5 @@ Any method can solve the problems of using your device with your Android handset
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 Pro to iPhone | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-tips-on-how-to-get-awesome-background-for-slideshow-in-powerpoint/"><u>In 2024, Tips on How to Get Awesome Background for Slideshow in PowerPoint</u></a></li>
 </ul></div>
+
 

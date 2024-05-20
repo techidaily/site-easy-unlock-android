@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Realme V30
-date: 2024-04-30T16:22:39.324Z
-updated: 2024-05-01T16:22:39.324Z
+date: 2024-05-19T09:21:14.857Z
+updated: 2024-05-20T09:21:14.857Z
 tags: 
   - unlock
   - remove screen lock
@@ -511,4 +511,5 @@ By following this guide, you would certainly be able to learn how to unlock the 
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
 <li><a href="https://techidaily.com/is-your-honor-x50iplus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X50i+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

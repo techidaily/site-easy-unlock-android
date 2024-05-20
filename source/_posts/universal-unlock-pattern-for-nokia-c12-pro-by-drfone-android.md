@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Nokia C12 Pro
-date: 2024-04-30T16:07:23.250Z
-updated: 2024-05-01T16:07:23.250Z
+date: 2024-05-19T09:20:15.043Z
+updated: 2024-05-20T09:20:15.043Z
 tags: 
   - unlock
   - remove screen lock
@@ -615,4 +615,5 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 <li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro Max</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-20-proplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 20 Pro+ Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

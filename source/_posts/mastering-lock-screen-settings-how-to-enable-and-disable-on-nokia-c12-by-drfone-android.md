@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Nokia C12
-date: 2024-04-30T16:06:40.332Z
-updated: 2024-05-01T16:06:40.332Z
+date: 2024-05-19T09:20:12.368Z
+updated: 2024-05-20T09:20:12.368Z
 tags: 
   - unlock
   - remove screen lock
@@ -442,4 +442,5 @@ The unlock method that was described in the beginning of our content, is the mos
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Hot 40i.</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-f54-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy F54 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

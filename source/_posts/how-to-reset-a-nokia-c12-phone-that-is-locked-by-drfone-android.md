@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Nokia C12 Phone that is Locked?
-date: 2024-04-30T16:06:43.944Z
-updated: 2024-05-01T16:06:43.944Z
+date: 2024-05-19T09:20:12.638Z
+updated: 2024-05-20T09:20:12.638Z
 tags: 
   - unlock
   - remove screen lock
@@ -463,4 +463,5 @@ Being unable to unlock your device is never a good place to be. We hope one of t
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy Z Fold 5</u></a></li>
 <li><a href="https://review-topics.techidaily.com/realme-note-50-messages-recovery-recover-deleted-messages-from-realme-note-50-by-fonelab-android-recover-messages/"><u>Realme Note 50 Messages Recovery - Recover Deleted Messages from Realme Note 50</u></a></li>
 </ul></div>
+
 

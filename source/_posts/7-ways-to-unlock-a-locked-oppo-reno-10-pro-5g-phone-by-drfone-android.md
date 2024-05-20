@@ -478,3 +478,4 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Solved Warning Camera Failed on OnePlus Ace 2V | Dr.fone</u></a></li>
 </ul></div>
 
+

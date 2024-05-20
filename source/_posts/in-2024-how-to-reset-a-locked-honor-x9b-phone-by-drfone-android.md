@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Honor X9b Phone
-date: 2024-04-30T16:09:44.833Z
-updated: 2024-05-01T16:09:44.833Z
+date: 2024-05-19T09:20:24.018Z
+updated: 2024-05-20T09:20:24.018Z
 tags: 
   - unlock
   - remove screen lock
@@ -539,4 +539,5 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-vivo-y100i-power-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y100i Power 5G Phone When You Forget the Password</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-green-screen-magic-top-10-apps-for-android-and-ios-users/"><u>2024 Approved Free Green Screen Magic Top 10 Apps for Android and iOS Users</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Nubia Red Magic 9 Pro
-date: 2024-04-30T16:12:38.590Z
-updated: 2024-05-01T16:12:38.590Z
+date: 2024-05-19T09:20:35.180Z
+updated: 2024-05-20T09:20:35.180Z
 tags: 
   - unlock
   - remove screen lock
@@ -575,4 +575,5 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 12 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>Updated How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
 </ul></div>
+
 

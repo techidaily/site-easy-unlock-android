@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Poco C65 Pattern Lock Screen
-date: 2024-04-30T16:18:51.082Z
-updated: 2024-05-01T16:18:51.082Z
+date: 2024-05-19T09:20:59.671Z
+updated: 2024-05-20T09:20:59.671Z
 tags: 
   - unlock
   - remove screen lock
@@ -435,4 +435,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-11-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 11 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

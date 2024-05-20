@@ -460,3 +460,4 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12</u></a></li>
 </ul></div>
 
+

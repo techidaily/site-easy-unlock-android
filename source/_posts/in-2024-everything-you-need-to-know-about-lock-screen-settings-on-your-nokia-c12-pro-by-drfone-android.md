@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia C12 Pro
-date: 2024-04-30T16:07:26.335Z
-updated: 2024-05-01T16:07:26.335Z
+date: 2024-05-19T09:20:15.197Z
+updated: 2024-05-20T09:20:15.197Z
 tags: 
   - unlock
   - remove screen lock
@@ -512,4 +512,5 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2023-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2023 | Stellar</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated 2024 Approved How to Make a Gaming Montage - Guide & Tips</u></a></li>
 </ul></div>
+
 

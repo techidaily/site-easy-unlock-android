@@ -614,3 +614,4 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 <li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-hot-30i-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Hot 30i Phone Pattern Lock</u></a></li>
 </ul></div>
 
+

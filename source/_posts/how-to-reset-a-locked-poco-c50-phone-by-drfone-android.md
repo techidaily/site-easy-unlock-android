@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Poco C50 Phone
-date: 2024-04-30T16:13:57.215Z
-updated: 2024-05-01T16:13:57.215Z
+date: 2024-05-19T09:20:40.404Z
+updated: 2024-05-20T09:20:40.404Z
 tags: 
   - unlock
   - remove screen lock
@@ -436,4 +436,5 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-13-ultra-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 13 Ultra Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-find-x7-ultra-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Find X7 Ultra Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

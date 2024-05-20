@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C02 Phone with Broken Screen
-date: 2024-04-30T16:04:18.125Z
-updated: 2024-05-01T16:04:18.125Z
+date: 2024-05-19T09:20:02.996Z
+updated: 2024-05-20T09:20:02.996Z
 tags: 
   - unlock
   - remove screen lock
@@ -423,4 +423,5 @@ Any of the aforementioned methods can be used to overcome the obstacle of using 
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-tecno-spark-10-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Tecno Spark 10 5G</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-hand-drawing-whiteboard-animation-tools-2023/"><u>Unleash Your Creativity Best Hand Drawing Whiteboard Animation Tools 2023</u></a></li>
 </ul></div>
+
 

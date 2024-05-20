@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Nokia C12
-date: 2024-04-30T16:06:37.838Z
-updated: 2024-05-01T16:06:37.838Z
+date: 2024-05-19T09:20:12.189Z
+updated: 2024-05-20T09:20:12.189Z
 tags: 
   - unlock
   - remove screen lock
@@ -394,4 +394,5 @@ Use volume keys to select and power button to confirm. Once this is done, the No
 <li><a href="https://techidaily.com/complete-tutorial-for-lava-blaze-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Blaze Pro 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Razr 40 Ultra FRP?</u></a></li>
 </ul></div>
+
 

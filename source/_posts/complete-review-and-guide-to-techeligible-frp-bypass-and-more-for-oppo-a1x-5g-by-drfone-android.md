@@ -646,3 +646,4 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-a2plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi A2+ Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

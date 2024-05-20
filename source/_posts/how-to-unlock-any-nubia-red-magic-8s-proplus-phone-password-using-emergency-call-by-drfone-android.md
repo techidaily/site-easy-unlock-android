@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Any Nubia Red Magic 8S Pro+ Phone Password Using Emergency Call
-date: 2024-04-30T16:10:55.947Z
-updated: 2024-05-01T16:10:55.947Z
+date: 2024-05-19T09:20:28.893Z
+updated: 2024-05-20T09:20:28.893Z
 tags: 
   - unlock
   - remove screen lock
@@ -380,4 +380,5 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://phone-solutions.techidaily.com/11x-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>11X 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
 </ul></div>
+
 

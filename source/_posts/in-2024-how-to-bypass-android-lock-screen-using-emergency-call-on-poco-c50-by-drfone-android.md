@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Bypass Android Lock Screen Using Emergency Call On Poco C50?
-date: 2024-04-30T16:14:21.164Z
-updated: 2024-05-01T16:14:21.164Z
+date: 2024-05-19T09:20:42.179Z
+updated: 2024-05-20T09:20:42.179Z
 tags: 
   - unlock
   - remove screen lock
@@ -587,4 +587,5 @@ In summary, this article detailed various methods to fix **the Poco C50 fingerpr
 <li><a href="https://howto.techidaily.com/tecno-spark-10-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-12-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 12 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
 </ul></div>
+
 

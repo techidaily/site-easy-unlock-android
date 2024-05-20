@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nokia C12 Pro Phone
-date: 2024-04-30T16:07:21.417Z
-updated: 2024-05-01T16:07:21.417Z
+date: 2024-05-19T09:20:14.924Z
+updated: 2024-05-20T09:20:14.924Z
 tags: 
   - unlock
   - remove screen lock
@@ -421,4 +421,5 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 5 Lite FRP</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

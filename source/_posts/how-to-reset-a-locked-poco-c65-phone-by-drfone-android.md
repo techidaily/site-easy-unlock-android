@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Poco C65 Phone
-date: 2024-04-30T16:18:57.746Z
-updated: 2024-05-01T16:18:57.746Z
+date: 2024-05-19T09:21:00.116Z
+updated: 2024-05-20T09:21:00.116Z
 tags: 
   - unlock
   - remove screen lock
@@ -506,4 +506,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Smart 7 HD | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone X Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

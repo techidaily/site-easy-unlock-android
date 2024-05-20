@@ -524,3 +524,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-gt-10-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix GT 10 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

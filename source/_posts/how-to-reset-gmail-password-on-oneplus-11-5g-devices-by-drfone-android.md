@@ -338,3 +338,4 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12</u></a></li>
 </ul></div>
 
+

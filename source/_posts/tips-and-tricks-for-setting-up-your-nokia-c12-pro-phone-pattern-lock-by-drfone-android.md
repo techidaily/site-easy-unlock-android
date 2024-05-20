@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Nokia C12 Pro Phone Pattern Lock
-date: 2024-04-30T16:07:17.989Z
-updated: 2024-05-01T16:07:17.989Z
+date: 2024-05-19T09:20:14.722Z
+updated: 2024-05-20T09:20:14.722Z
 tags: 
   - unlock
   - remove screen lock
@@ -534,4 +534,5 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE (2020) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 to the Latest iOS Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

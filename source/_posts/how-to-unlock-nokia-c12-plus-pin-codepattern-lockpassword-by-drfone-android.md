@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 Plus PIN Code/Pattern Lock/Password
-date: 2024-04-30T16:07:57.547Z
-updated: 2024-05-01T16:07:57.547Z
+date: 2024-05-19T09:20:17.261Z
+updated: 2024-05-20T09:20:17.261Z
 tags: 
   - unlock
   - remove screen lock
@@ -495,4 +495,5 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-f04-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy F04 Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

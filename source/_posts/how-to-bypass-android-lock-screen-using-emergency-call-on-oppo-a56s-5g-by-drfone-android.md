@@ -387,3 +387,4 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-20-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 20 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

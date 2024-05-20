@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Nokia C02 Phone that is Locked?
-date: 2024-04-30T16:04:10.454Z
-updated: 2024-05-01T16:04:10.454Z
+date: 2024-05-19T09:20:02.569Z
+updated: 2024-05-20T09:20:02.569Z
 tags: 
   - unlock
   - remove screen lock
@@ -464,4 +464,5 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 13 devices? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 in Lost Mode</u></a></li>
 </ul></div>
+
 

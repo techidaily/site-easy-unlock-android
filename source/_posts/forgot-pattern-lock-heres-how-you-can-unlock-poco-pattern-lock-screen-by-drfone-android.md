@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Poco Pattern Lock Screen
-date: 2024-04-30T16:14:07.066Z
-updated: 2024-05-01T16:14:07.066Z
+date: 2024-05-19T09:20:41.253Z
+updated: 2024-05-20T09:20:41.253Z
 tags: 
   - unlock
   - remove screen lock
@@ -602,4 +602,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-ace-2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Ace 2 Activity | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y36-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y36 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

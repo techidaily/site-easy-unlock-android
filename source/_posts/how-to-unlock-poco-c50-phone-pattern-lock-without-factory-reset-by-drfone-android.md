@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Poco C50 Phone Pattern Lock without Factory Reset
-date: 2024-04-30T16:13:59.672Z
-updated: 2024-05-01T16:13:59.672Z
+date: 2024-05-19T09:20:40.562Z
+updated: 2024-05-20T09:20:40.562Z
 tags: 
   - unlock
   - remove screen lock
@@ -456,4 +456,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://ai-video-editing.techidaily.com/new-10-best-camera-for-youtube-beginners-for-2024/"><u>New 10 Best Camera for YouTube Beginners for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-11r-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus 11R Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -456,3 +456,4 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>How To Fix Part of the Touch Screen Not Working on Nokia G310 | Dr.fone</u></a></li>
 </ul></div>
 
+

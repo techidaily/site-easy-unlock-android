@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Nokia C02
-date: 2024-04-30T16:04:03.841Z
-updated: 2024-05-01T16:04:03.841Z
+date: 2024-05-19T09:20:02.112Z
+updated: 2024-05-20T09:20:02.112Z
 tags: 
   - unlock
   - remove screen lock
@@ -439,4 +439,5 @@ Now, to sum up, we would say that in this article, we tried to bring out the bes
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A2 Devices</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-cropping-101-a-beginners-guide-to-using-avidemux/"><u>New In 2024, Video Cropping 101 A Beginners Guide to Using Avidemux</u></a></li>
 </ul></div>
+
 

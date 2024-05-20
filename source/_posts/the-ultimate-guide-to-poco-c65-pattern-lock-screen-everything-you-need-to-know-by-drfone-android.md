@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Poco C65 Pattern Lock Screen Everything You Need to Know
-date: 2024-04-30T16:18:55.867Z
-updated: 2024-05-01T16:18:55.867Z
+date: 2024-05-19T09:20:59.996Z
+updated: 2024-05-20T09:20:59.996Z
 tags: 
   - unlock
   - remove screen lock
@@ -469,4 +469,5 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 4G Device</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone SE (2020) without Password?</u></a></li>
 </ul></div>
+
 

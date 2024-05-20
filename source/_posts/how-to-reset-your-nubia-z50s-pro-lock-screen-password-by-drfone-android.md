@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Nubia Z50S Pro Lock Screen Password
-date: 2024-04-30T16:12:04.615Z
-updated: 2024-05-01T16:12:04.615Z
+date: 2024-05-19T09:20:33.132Z
+updated: 2024-05-20T09:20:33.132Z
 tags: 
   - unlock
   - remove screen lock
@@ -525,4 +525,5 @@ Use volume keys to select and power button to confirm. Once this is done, the Nu
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without Computer?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-color-matching-is-the-trickiest-part-of-graphic-designing-learn-in-detail-about-using-canva-color-match-ideally-while-working-on-your-pins-social-media-/"><u>New Color Matching Is the Trickiest Part of Graphic Designing. Learn in Detail About Using Canva Color Match Ideally While Working on Your Pins, Social Media Posts, and Other Designs</u></a></li>
 </ul></div>
+
 

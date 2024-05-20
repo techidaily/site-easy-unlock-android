@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Poco C65 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:18:56.074Z
-updated: 2024-05-01T16:18:56.074Z
+date: 2024-05-19T09:21:00.019Z
+updated: 2024-05-20T09:21:00.019Z
 tags: 
   - unlock
   - remove screen lock
@@ -475,4 +475,5 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo S18e? | Dr.fone</u></a></li>
 </ul></div>
+
 

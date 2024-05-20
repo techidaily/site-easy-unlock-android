@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 PIN Code/Pattern Lock/Password
-date: 2024-04-30T16:06:52.002Z
-updated: 2024-05-01T16:06:52.002Z
+date: 2024-05-19T09:20:13.135Z
+updated: 2024-05-20T09:20:13.135Z
 tags: 
   - unlock
   - remove screen lock
@@ -822,4 +822,5 @@ Use volume keys to select and power button to confirm. Once this is done, the No
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 6s Plus</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia G310 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Lock Your Poco C50 Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-04-30T16:13:51.327Z
-updated: 2024-05-01T16:13:51.327Z
+date: 2024-05-19T09:20:39.989Z
+updated: 2024-05-20T09:20:39.989Z
 tags: 
   - unlock
   - remove screen lock
@@ -596,4 +596,5 @@ If you’re looking for ways that are time-effective and reliable, you can use y
 <li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f15-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F15 5G phone? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Xiaomi Redmi K70 | Dr.fone</u></a></li>
 </ul></div>
+
 

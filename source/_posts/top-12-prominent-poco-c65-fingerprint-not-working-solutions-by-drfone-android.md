@@ -1,7 +1,7 @@
 ---
 title: Top 12 Prominent Poco C65 Fingerprint Not Working Solutions
-date: 2024-04-30T16:18:50.536Z
-updated: 2024-05-01T16:18:50.536Z
+date: 2024-05-19T09:20:59.626Z
+updated: 2024-05-20T09:20:59.626Z
 tags: 
   - unlock
   - remove screen lock
@@ -668,4 +668,5 @@ Passwords shield our phones from unapproved access, yet we get locked out unexpe
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 13 mini? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix FRP</u></a></li>
 </ul></div>
+
 

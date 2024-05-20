@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco C50 Pattern Lock Screen
-date: 2024-04-30T16:14:24.119Z
-updated: 2024-05-01T16:14:24.119Z
+date: 2024-05-19T09:20:42.387Z
+updated: 2024-05-20T09:20:42.387Z
 tags: 
   - unlock
   - remove screen lock
@@ -452,4 +452,5 @@ As Android reaches new heights every year, gestures are getting more and more en
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-m54-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy M54 5G Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi 13C | Dr.fone</u></a></li>
 </ul></div>
+
 

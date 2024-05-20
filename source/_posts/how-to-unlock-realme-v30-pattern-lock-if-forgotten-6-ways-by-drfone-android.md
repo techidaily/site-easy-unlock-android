@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Realme V30 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:22:49.421Z
-updated: 2024-05-01T16:22:49.421Z
+date: 2024-05-19T09:21:15.548Z
+updated: 2024-05-20T09:21:15.548Z
 tags: 
   - unlock
   - remove screen lock
@@ -490,4 +490,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-redmi-note-12-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi Redmi Note 12 5G FRP In 3 Different Ways</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-miniature-effect-in-video-with-filmora/"><u>Updated How to Add Miniature Effect in Video with Filmora</u></a></li>
 </ul></div>
+
 

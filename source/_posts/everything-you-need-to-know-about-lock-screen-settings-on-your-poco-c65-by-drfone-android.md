@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Poco C65
-date: 2024-04-30T16:18:46.514Z
-updated: 2024-05-01T16:18:46.514Z
+date: 2024-05-19T09:20:59.308Z
+updated: 2024-05-20T09:20:59.308Z
 tags: 
   - unlock
   - remove screen lock
@@ -487,4 +487,5 @@ Now you learned how to show the wifi password on your Android device.
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-14-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 14 Plus</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-13t-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi 13T Pro Lock Screen Password?</u></a></li>
 </ul></div>
+
 

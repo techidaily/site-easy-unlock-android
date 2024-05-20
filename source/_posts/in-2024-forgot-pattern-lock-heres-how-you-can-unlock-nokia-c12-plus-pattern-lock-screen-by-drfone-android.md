@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Plus Pattern Lock Screen
-date: 2024-04-30T16:08:02.896Z
-updated: 2024-05-01T16:08:02.896Z
+date: 2024-05-19T09:20:17.672Z
+updated: 2024-05-20T09:20:17.672Z
 tags: 
   - unlock
   - remove screen lock
@@ -538,4 +538,5 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-6s-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 6s iCloud Lock</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-8t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 8T to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

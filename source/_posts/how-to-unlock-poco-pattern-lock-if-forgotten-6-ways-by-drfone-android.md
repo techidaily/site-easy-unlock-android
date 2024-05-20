@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Poco Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:14:12.411Z
-updated: 2024-05-01T16:14:12.411Z
+date: 2024-05-19T09:20:41.605Z
+updated: 2024-05-20T09:20:41.605Z
 tags: 
   - unlock
   - remove screen lock
@@ -545,4 +545,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 8T 5G FRP</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-14-ultra-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi 14 Ultra Unlock Without Password</u></a></li>
 </ul></div>
+
 

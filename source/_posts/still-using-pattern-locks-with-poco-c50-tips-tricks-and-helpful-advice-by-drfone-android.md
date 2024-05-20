@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Poco C50? Tips, Tricks and Helpful Advice
-date: 2024-04-30T16:13:48.888Z
-updated: 2024-05-01T16:13:48.888Z
+date: 2024-05-19T09:20:39.798Z
+updated: 2024-05-20T09:20:39.798Z
 tags: 
   - unlock
   - remove screen lock
@@ -471,4 +471,5 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s17-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S17 Pro Device</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-poco-f5-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Poco F5 5G Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

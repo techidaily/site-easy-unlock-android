@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset your Nokia C12 Plus Lock Screen Password
-date: 2024-04-30T16:07:58.968Z
-updated: 2024-05-01T16:07:58.968Z
+date: 2024-05-19T09:20:17.384Z
+updated: 2024-05-20T09:20:17.384Z
 tags: 
   - unlock
   - remove screen lock
@@ -471,4 +471,5 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-c300-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia C300 FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-reno-9a-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Reno 9A Device</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Nokia C22
-date: 2024-04-30T16:06:07.846Z
-updated: 2024-05-01T16:06:07.846Z
+date: 2024-05-19T09:20:10.035Z
+updated: 2024-05-20T09:20:10.035Z
 tags: 
   - unlock
   - remove screen lock
@@ -354,4 +354,5 @@ Use volume keys to select and power button to confirm. Once this is done, the No
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-a54-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy A54 5G Location | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone XS Max to Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

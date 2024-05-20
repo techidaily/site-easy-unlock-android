@@ -523,3 +523,4 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
 
+

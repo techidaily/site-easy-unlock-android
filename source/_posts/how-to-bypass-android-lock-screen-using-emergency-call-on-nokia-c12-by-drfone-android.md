@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Nokia C12?
-date: 2024-04-30T16:06:39.288Z
-updated: 2024-05-01T16:06:39.288Z
+date: 2024-05-19T09:20:12.282Z
+updated: 2024-05-20T09:20:12.282Z
 tags: 
   - unlock
   - remove screen lock
@@ -387,4 +387,5 @@ Use volume keys to select and power button to confirm. Once this is done, the No
 <li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your Apple iPhone 14 Pro</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a54-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A54 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Plus Pattern Lock Screen
-date: 2024-04-30T16:07:47.876Z
-updated: 2024-05-01T16:07:47.876Z
+date: 2024-05-19T09:20:16.650Z
+updated: 2024-05-20T09:20:16.650Z
 tags: 
   - unlock
   - remove screen lock
@@ -515,4 +515,5 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-itel-p55-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

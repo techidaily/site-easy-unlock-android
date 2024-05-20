@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Honor X9b Phone Pattern Lock without Factory Reset
-date: 2024-04-30T16:09:30.775Z
-updated: 2024-05-01T16:09:30.775Z
+date: 2024-05-19T09:20:23.222Z
+updated: 2024-05-20T09:20:23.222Z
 tags: 
   - unlock
   - remove screen lock
@@ -512,4 +512,5 @@ Wondershare Dr.Fone is a reliable tool for those challenging moments when you fo
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-freeze-frame-clone-effect/"><u>How to Create Freeze Frame Clone Effect</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-customize-your-video-layout-tips-and-tricks-for-changing-shape-for-2024/"><u>New Customize Your Video Layout Tips and Tricks for Changing Shape for 2024</u></a></li>
 </ul></div>
+
 

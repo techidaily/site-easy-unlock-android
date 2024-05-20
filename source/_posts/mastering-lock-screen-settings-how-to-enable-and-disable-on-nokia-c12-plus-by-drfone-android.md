@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Nokia C12 Plus
-date: 2024-04-30T16:07:46.167Z
-updated: 2024-05-01T16:07:46.167Z
+date: 2024-05-19T09:20:16.527Z
+updated: 2024-05-20T09:20:16.527Z
 tags: 
   - unlock
   - remove screen lock
@@ -550,4 +550,5 @@ And if you ever need to [unlock your SIM card](https://drfone.wondershare.com/si
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-best-iphone-luts-app-to-use/"><u>New 2024 Approved Best iPhone LUTs App to Use</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-a23-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy A23 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

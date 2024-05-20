@@ -401,3 +401,4 @@ Use volume keys to select and power button to confirm. Once this is done, the On
 <li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-12-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 12 Pro Max From Your Apple ID</u></a></li>
 </ul></div>
 
+

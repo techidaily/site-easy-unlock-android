@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C02 Pattern Lock Screen
-date: 2024-04-30T16:04:41.704Z
-updated: 2024-05-01T16:04:41.704Z
+date: 2024-05-19T09:20:04.611Z
+updated: 2024-05-20T09:20:04.611Z
 tags: 
   - unlock
   - remove screen lock
@@ -544,4 +544,5 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y100t-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y100t FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

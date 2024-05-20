@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Nokia C22 Phone
-date: 2024-04-30T16:06:08.396Z
-updated: 2024-05-01T16:06:08.396Z
+date: 2024-05-19T09:20:10.080Z
+updated: 2024-05-20T09:20:10.080Z
 tags: 
   - unlock
   - remove screen lock
@@ -432,4 +432,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-20c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 20C to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-7-easy-ways-to-convert-a-video-to-a-gif-online/"><u>2024 Approved Top 7 Easy Ways to Convert a Video to a GIF Online</u></a></li>
 </ul></div>
+
 

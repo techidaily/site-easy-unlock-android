@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Poco C65 Phone that is Locked?
-date: 2024-04-30T16:18:53.131Z
-updated: 2024-05-01T16:18:53.131Z
+date: 2024-05-19T09:20:59.814Z
+updated: 2024-05-20T09:20:59.814Z
 tags: 
   - unlock
   - remove screen lock
@@ -525,4 +525,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-note-30-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Note 30 5G Lock Screen Password</u></a></li>
 </ul></div>
+
 

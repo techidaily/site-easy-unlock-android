@@ -450,3 +450,4 @@ Any method can solve the problems of using your device with your Android handset
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-note-30-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Note 30 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 
+

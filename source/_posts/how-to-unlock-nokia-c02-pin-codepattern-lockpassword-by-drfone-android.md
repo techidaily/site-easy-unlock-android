@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C02 PIN Code/Pattern Lock/Password
-date: 2024-04-30T16:04:19.383Z
-updated: 2024-05-01T16:04:19.383Z
+date: 2024-05-19T09:20:03.032Z
+updated: 2024-05-20T09:20:03.032Z
 tags: 
   - unlock
   - remove screen lock
@@ -567,4 +567,5 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a18-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo A18 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-hot-40i-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Hot 40i Devices</u></a></li>
 </ul></div>
+
 

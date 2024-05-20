@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Honor X9b Lock Screen Password
-date: 2024-04-30T16:09:17.102Z
-updated: 2024-05-01T16:09:17.102Z
+date: 2024-05-19T09:20:22.327Z
+updated: 2024-05-20T09:20:22.327Z
 tags: 
   - unlock
   - remove screen lock
@@ -528,4 +528,5 @@ Any method can solve the problems of using your device with your Android handset
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-v27-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo V27 Pro Phones</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-lava-storm-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Lava Storm 5G Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

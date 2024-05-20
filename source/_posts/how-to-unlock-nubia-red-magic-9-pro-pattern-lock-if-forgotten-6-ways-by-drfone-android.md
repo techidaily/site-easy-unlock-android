@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nubia Red Magic 9 Pro Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:12:48.923Z
-updated: 2024-05-01T16:12:48.923Z
+date: 2024-05-19T09:20:36.068Z
+updated: 2024-05-20T09:20:36.068Z
 tags: 
   - unlock
   - remove screen lock
@@ -474,4 +474,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-google-pixel-8-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Google Pixel 8 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-yuva-3-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Yuva 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

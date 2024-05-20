@@ -1,7 +1,7 @@
 ---
 title: Unlock Nokia C12 Pro Phone Password Without Factory Reset Full Guide Here
-date: 2024-04-30T16:07:14.434Z
-updated: 2024-05-01T16:07:14.434Z
+date: 2024-05-19T09:20:14.499Z
+updated: 2024-05-20T09:20:14.499Z
 tags: 
   - unlock
   - remove screen lock
@@ -433,4 +433,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-hot-30i-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Hot 30i Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-14-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 14 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

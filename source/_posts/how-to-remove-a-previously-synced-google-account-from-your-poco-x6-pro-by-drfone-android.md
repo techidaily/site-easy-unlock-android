@@ -1,7 +1,7 @@
 ---
 title: How to Remove a Previously Synced Google Account from Your Poco X6 Pro
-date: 2024-04-30T16:20:00.528Z
-updated: 2024-05-01T16:20:00.528Z
+date: 2024-05-19T09:21:04.308Z
+updated: 2024-05-20T09:21:04.308Z
 tags: 
   - unlock
   - remove screen lock
@@ -385,4 +385,5 @@ Use volume keys to select and power button to confirm. Once this is done, the Po
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-oppo-a78-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Oppo A78</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-7-plus-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 7 Plus Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

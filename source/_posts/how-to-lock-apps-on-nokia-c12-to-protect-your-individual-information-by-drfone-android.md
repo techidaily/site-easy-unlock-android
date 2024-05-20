@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Nokia C12 to Protect Your Individual Information
-date: 2024-04-30T16:06:43.540Z
-updated: 2024-05-01T16:06:43.540Z
+date: 2024-05-19T09:20:12.613Z
+updated: 2024-05-20T09:20:12.613Z
 tags: 
   - unlock
   - remove screen lock
@@ -424,4 +424,5 @@ Any method can solve the problems of using your device with your Android handset
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo Reno 8T | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-photos-after-infinix-zero-30-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Infinix Zero 30 5G has been deleted.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C02 Device
-date: 2024-04-30T16:04:16.497Z
-updated: 2024-05-01T16:04:16.497Z
+date: 2024-05-19T09:20:02.938Z
+updated: 2024-05-20T09:20:02.938Z
 tags: 
   - unlock
   - remove screen lock
@@ -409,4 +409,5 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-replacing-sky-background-using-adobe-photoshop-a-comprehensive-guide/"><u>Updated 2024 Approved Replacing Sky Background Using Adobe Photoshop A Comprehensive Guide</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-zte-nubia-z60-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your ZTE Nubia Z60 Ultra Lock Screen Password</u></a></li>
 </ul></div>
+
 

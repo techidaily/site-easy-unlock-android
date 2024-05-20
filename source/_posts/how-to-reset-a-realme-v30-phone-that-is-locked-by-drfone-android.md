@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Realme V30 Phone that is Locked?
-date: 2024-04-30T16:22:46.408Z
-updated: 2024-05-01T16:22:46.408Z
+date: 2024-05-19T09:21:15.305Z
+updated: 2024-05-20T09:21:15.305Z
 tags: 
   - unlock
   - remove screen lock
@@ -468,4 +468,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-top-face-swap-apps-iphone-and-android-edition/"><u>2024 Approved Top Face Swap Apps IPhone and Android Edition</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-x50i-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor X50i FRP Bypass</u></a></li>
 </ul></div>
+
 

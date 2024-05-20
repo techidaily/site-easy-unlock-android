@@ -1,7 +1,7 @@
 ---
 title: How to Remove Forgotten PIN Of Your Nokia C12 Pro
-date: 2024-04-30T16:07:20.455Z
-updated: 2024-05-01T16:07:20.455Z
+date: 2024-05-19T09:20:14.857Z
+updated: 2024-05-20T09:20:14.857Z
 tags: 
   - unlock
   - remove screen lock
@@ -412,4 +412,5 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-note-50-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme Note 50 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-s23-ultra-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy S23 Ultra Devices</u></a></li>
 </ul></div>
+
 

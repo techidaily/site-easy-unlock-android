@@ -1,7 +1,7 @@
 ---
 title: How to Remove a Previously Synced Google Account from Your Nubia Z50S Pro
-date: 2024-04-30T16:12:10.579Z
-updated: 2024-05-01T16:12:10.579Z
+date: 2024-05-19T09:20:33.589Z
+updated: 2024-05-20T09:20:33.589Z
 tags: 
   - unlock
   - remove screen lock
@@ -473,4 +473,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-11-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme 11 Pro Phones? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 </ul></div>
+
 

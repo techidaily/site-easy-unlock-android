@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tips and Tricks for Setting Up your Poco C51 Phone Pattern Lock
-date: 2024-04-30T16:16:58.200Z
-updated: 2024-05-01T16:16:58.200Z
+date: 2024-05-19T09:20:52.487Z
+updated: 2024-05-20T09:20:52.487Z
 tags: 
   - unlock
   - remove screen lock
@@ -485,4 +485,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://ai-editing-video.techidaily.com/new-kinetic-typography-text-effect-easyandfast/"><u>New Kinetic Typography Text Effect 【EASY&FAST】</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-c53-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme C53 ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

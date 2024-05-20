@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Realme V30 Lock Screen Password
-date: 2024-04-30T16:22:39.532Z
-updated: 2024-05-01T16:22:39.532Z
+date: 2024-05-19T09:21:14.868Z
+updated: 2024-05-20T09:21:14.868Z
 tags: 
   - unlock
   - remove screen lock
@@ -428,4 +428,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 6 Plus | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-2024-approved-ai-portrait-generator-getting-closer-to-the-artistic-marvels/"><u>New 2024 Approved AI Portrait Generator Getting Closer to the Artistic Marvels</u></a></li>
 </ul></div>
+
 

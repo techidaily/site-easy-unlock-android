@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Nokia C12? Tips, Tricks and Helpful Advice
-date: 2024-04-30T16:06:40.547Z
-updated: 2024-05-01T16:06:40.547Z
+date: 2024-05-19T09:20:12.374Z
+updated: 2024-05-20T09:20:12.374Z
 tags: 
   - unlock
   - remove screen lock
@@ -476,4 +476,5 @@ Diving into OEM
 <li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y100i Power 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-how-to-make-gif-instagram/"><u>Updated In 2024, How to Make GIF Instagram</u></a></li>
 </ul></div>
+
 

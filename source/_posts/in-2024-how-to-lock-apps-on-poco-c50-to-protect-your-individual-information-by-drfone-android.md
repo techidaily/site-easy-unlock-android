@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Lock Apps on Poco C50 to Protect Your Individual Information
-date: 2024-04-30T16:14:25.561Z
-updated: 2024-05-01T16:14:25.561Z
+date: 2024-05-19T09:20:42.483Z
+updated: 2024-05-20T09:20:42.483Z
 tags: 
   - unlock
   - remove screen lock
@@ -420,4 +420,5 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-pro-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 Pro to PC via USB? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-90-pro-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from 90 Pro.</u></a></li>
 </ul></div>
+
 

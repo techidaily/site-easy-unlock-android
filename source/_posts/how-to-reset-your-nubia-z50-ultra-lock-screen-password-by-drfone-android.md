@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Nubia Z50 Ultra Lock Screen Password
-date: 2024-04-30T16:09:50.054Z
-updated: 2024-05-01T16:09:50.054Z
+date: 2024-05-19T09:20:24.306Z
+updated: 2024-05-20T09:20:24.306Z
 tags: 
   - unlock
   - remove screen lock
@@ -554,4 +554,5 @@ These are some of the best lock screen apps for Android that you can find. You c
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-choosing-the-perfect-green-screen-tool-for-mac-users/"><u>New 2024 Approved Choosing the Perfect Green Screen Tool for Mac Users</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-12-proplus-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme 12 Pro+ 5G Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

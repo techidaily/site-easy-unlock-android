@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nubia Z50S Pro Phone
-date: 2024-04-30T16:12:16.368Z
-updated: 2024-05-01T16:12:16.368Z
+date: 2024-05-19T09:20:33.912Z
+updated: 2024-05-20T09:20:33.912Z
 tags: 
   - unlock
   - remove screen lock
@@ -412,4 +412,5 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-s18-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo S18</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Infinix Smart 8? | Dr.fone</u></a></li>
 </ul></div>
+
 

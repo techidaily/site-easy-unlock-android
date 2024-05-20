@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Realme
-date: 2024-04-30T16:21:48.761Z
-updated: 2024-05-01T16:21:48.761Z
+date: 2024-05-19T09:21:11.731Z
+updated: 2024-05-20T09:21:11.731Z
 tags: 
   - unlock
   - remove screen lock
@@ -494,4 +494,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2020-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2020) With or Without Password | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-13t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi 13T Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

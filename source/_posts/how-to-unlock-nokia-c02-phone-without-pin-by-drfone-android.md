@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C02 Phone without PIN
-date: 2024-04-30T16:04:18.521Z
-updated: 2024-05-01T16:04:18.521Z
+date: 2024-05-19T09:20:02.998Z
+updated: 2024-05-20T09:20:02.998Z
 tags: 
   - unlock
   - remove screen lock
@@ -373,4 +373,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://ai-video-editing.techidaily.com/how-to-use-rules-of-thirds/"><u>How to Use Rules of Thirds</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor Magic 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

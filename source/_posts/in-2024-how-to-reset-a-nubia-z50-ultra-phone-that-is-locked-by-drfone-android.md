@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Nubia Z50 Ultra Phone that is Locked?
-date: 2024-04-30T16:10:28.588Z
-updated: 2024-05-01T16:10:28.588Z
+date: 2024-05-19T09:20:27.383Z
+updated: 2024-05-20T09:20:27.383Z
 tags: 
   - unlock
   - remove screen lock
@@ -884,4 +884,5 @@ If you want to manage your iOS passwords and want to [retrieve your Wifi Passwor
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-a-vacation-slideshow-in-5-minutes/"><u>Updated In 2024, How to Make a Vacation Slideshow in 5 Minutes</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-automate-your-transcriptions-how-to-turn-speech-into-text-for-2024/"><u>Updated Automate Your Transcriptions How to Turn Speech Into Text for 2024</u></a></li>
 </ul></div>
+
 

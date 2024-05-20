@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nubia Red Magic 9 Pro Phone
-date: 2024-04-30T16:12:50.487Z
-updated: 2024-05-01T16:12:50.487Z
+date: 2024-05-19T09:20:36.180Z
+updated: 2024-05-20T09:20:36.180Z
 tags: 
   - unlock
   - remove screen lock
@@ -488,4 +488,5 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-magic-6-lite-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor Magic 6 Lite? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12t-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12T Pro Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nubia Red Magic 8S Pro+ Phone
-date: 2024-04-30T16:11:08.290Z
-updated: 2024-05-01T16:11:08.290Z
+date: 2024-05-19T09:20:29.720Z
+updated: 2024-05-20T09:20:29.720Z
 tags: 
   - unlock
   - remove screen lock
@@ -455,4 +455,5 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c300-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C300 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-130-music-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia 130 Music Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Nokia C22 Lock Screen Password
-date: 2024-04-30T16:06:04.805Z
-updated: 2024-05-01T16:06:04.805Z
+date: 2024-05-19T09:20:09.876Z
+updated: 2024-05-20T09:20:09.876Z
 tags: 
   - unlock
   - remove screen lock
@@ -484,4 +484,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-edge-40-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Edge 40 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-xs-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 

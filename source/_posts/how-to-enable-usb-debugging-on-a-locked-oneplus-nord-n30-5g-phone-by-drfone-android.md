@@ -505,3 +505,4 @@ We know that losing or forgetting your Android lock code can be a real pain, and
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c12-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C12 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
 
+

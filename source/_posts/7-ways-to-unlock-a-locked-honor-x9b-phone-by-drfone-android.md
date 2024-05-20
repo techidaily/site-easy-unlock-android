@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Unlock a Locked Honor X9b Phone
-date: 2024-04-30T16:09:21.801Z
-updated: 2024-05-01T16:09:21.801Z
+date: 2024-05-19T09:20:22.676Z
+updated: 2024-05-20T09:20:22.676Z
 tags: 
   - unlock
   - remove screen lock
@@ -502,4 +502,5 @@ Above we have listed several ways to **remove a previously synced Google account
 <li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-x100-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo X100 Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 11 Pro</u></a></li>
 </ul></div>
+
 

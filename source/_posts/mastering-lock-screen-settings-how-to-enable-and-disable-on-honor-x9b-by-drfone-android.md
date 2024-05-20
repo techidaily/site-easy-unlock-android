@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Honor X9b
-date: 2024-04-30T16:09:19.555Z
-updated: 2024-05-01T16:09:19.555Z
+date: 2024-05-19T09:20:22.509Z
+updated: 2024-05-20T09:20:22.509Z
 tags: 
   - unlock
   - remove screen lock
@@ -485,4 +485,5 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-pro-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 Pro</u></a></li>
 </ul></div>
+
 

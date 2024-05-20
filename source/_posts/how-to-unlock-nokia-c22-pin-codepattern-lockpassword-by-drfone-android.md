@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C22 PIN Code/Pattern Lock/Password
-date: 2024-04-30T16:06:20.237Z
-updated: 2024-05-01T16:06:20.237Z
+date: 2024-05-19T09:20:11.083Z
+updated: 2024-05-20T09:20:11.083Z
 tags: 
   - unlock
   - remove screen lock
@@ -420,4 +420,5 @@ As Android reaches new heights every year, gestures are getting more and more en
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor X50 GT? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-lava-blaze-curve-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Lava Blaze Curve 5G to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

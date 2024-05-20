@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Nokia C02 Lock Screen Password
-date: 2024-04-30T16:04:04.063Z
-updated: 2024-05-01T16:04:04.063Z
+date: 2024-05-19T09:20:02.125Z
+updated: 2024-05-20T09:20:02.125Z
 tags: 
   - unlock
   - remove screen lock
@@ -531,4 +531,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-change-aspect-ratio-of-video/"><u>New In 2024, Change Aspect Ratio of Video</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset your Poco C65 Lock Screen Password
-date: 2024-04-30T16:19:02.969Z
-updated: 2024-05-01T16:19:02.969Z
+date: 2024-05-19T09:21:00.391Z
+updated: 2024-05-20T09:21:00.391Z
 tags: 
   - unlock
   - remove screen lock
@@ -533,4 +533,5 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-40i-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 40i Devices</u></a></li>
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

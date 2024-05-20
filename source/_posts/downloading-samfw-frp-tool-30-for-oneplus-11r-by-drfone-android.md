@@ -523,3 +523,4 @@ If you’re looking for ways that are time-effective and reliable, you can use y
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-smart-8-plus-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Smart 8 Plus Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

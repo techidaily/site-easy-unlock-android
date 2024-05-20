@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Poco C65? Tips, Tricks and Helpful Advice
-date: 2024-04-30T16:18:49.484Z
-updated: 2024-05-01T16:18:49.484Z
+date: 2024-05-19T09:20:59.519Z
+updated: 2024-05-20T09:20:59.519Z
 tags: 
   - unlock
   - remove screen lock
@@ -425,4 +425,5 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Plus Prevention & Solution | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-edit-recorded-video/"><u>Updated How to Edit Recorded Video</u></a></li>
 </ul></div>
+
 

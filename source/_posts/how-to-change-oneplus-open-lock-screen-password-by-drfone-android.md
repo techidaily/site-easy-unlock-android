@@ -502,3 +502,4 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-zte-blade-a73-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my ZTE Blade A73 5G</u></a></li>
 </ul></div>
 
+

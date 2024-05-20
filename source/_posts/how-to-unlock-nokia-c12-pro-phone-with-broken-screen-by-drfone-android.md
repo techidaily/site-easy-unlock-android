@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 Pro Phone with Broken Screen
-date: 2024-04-30T16:07:23.856Z
-updated: 2024-05-01T16:07:23.856Z
+date: 2024-05-19T09:20:15.059Z
+updated: 2024-05-20T09:20:15.059Z
 tags: 
   - unlock
   - remove screen lock
@@ -410,4 +410,5 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-f25-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo F25 Pro 5G Phone Now with These Tips</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-speed-up-video-with-lightworks-video-editor-for-2024/"><u>New How To Speed Up Video With Lightworks Video Editor for 2024</u></a></li>
 </ul></div>
+
 

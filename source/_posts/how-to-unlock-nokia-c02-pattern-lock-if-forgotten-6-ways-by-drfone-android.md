@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C02 Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:04:13.799Z
-updated: 2024-05-01T16:04:13.799Z
+date: 2024-05-19T09:20:02.760Z
+updated: 2024-05-20T09:20:02.760Z
 tags: 
   - unlock
   - remove screen lock
@@ -478,4 +478,5 @@ These are some of the best lock screen apps for Android that you can find. You c
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme Narzo 60 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-an-instant-slideshow-on-mac-for-2024/"><u>How to Make an Instant Slideshow on Mac for 2024</u></a></li>
 </ul></div>
+
 

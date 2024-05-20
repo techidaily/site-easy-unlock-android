@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nubia Red Magic 8S Pro+ Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T16:11:06.572Z
-updated: 2024-05-01T16:11:06.572Z
+date: 2024-05-19T09:20:29.591Z
+updated: 2024-05-20T09:20:29.591Z
 tags: 
   - unlock
   - remove screen lock
@@ -591,4 +591,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-13-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 13 in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-enable-the-motion-blur-effect-while-playing-dying-light-2-read-this-article-to-find-out-how-to-use-dying-light-2-motion-blur-for-a-gr/"><u>In 2024, Do You Want to Enable the Motion Blur Effect While Playing Dying Light 2? Read This Article to Find Out How to Use Dying Light 2 Motion Blur for a Great Gaming Experience</u></a></li>
 </ul></div>
+
 
