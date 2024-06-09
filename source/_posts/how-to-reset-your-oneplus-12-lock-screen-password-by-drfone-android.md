@@ -1,7 +1,7 @@
 ---
 title: How to Reset your OnePlus 12 Lock Screen Password
-date: 2024-04-30T16:25:01.754Z
-updated: 2024-05-01T16:25:01.754Z
+date: 2024-06-08T13:27:52.473Z
+updated: 2024-06-09T13:27:52.473Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset your OnePlus 12 Lock Screen Password
 excerpt: This article describes How to Reset your OnePlus 12 Lock Screen Password
 keywords: samfw frp tool,how to reset a phone that is locked,remove screen lock pin on android,how to lock apps on android,unlock android device phone with broken screen,bypass lock screen password,unlock android device phone pattern lock without factory reset,unlock android phone without pin,disable lock screen
-thumbnail: https://www.lifewire.com/thmb/tPZQXZ5f5-0L_L7obmLf1Q98jIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-569944733df78cafda90169f.jpg
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
 ---
 
 ## How to Reset your OnePlus 12 Lock Screen Password

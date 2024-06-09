@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Poco C50 Phone
-date: 2024-05-19T09:20:40.404Z
-updated: 2024-05-20T09:20:40.404Z
+date: 2024-06-08T13:27:31.736Z
+updated: 2024-06-09T13:27:31.736Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Poco C50 Phone
 excerpt: This article describes How to Reset a Locked Poco C50 Phone
 keywords: Poco C50 pattern unlock,bypass knox enrollment service,Poco C50 samfw frp tool,Poco C50 fingerprint not working,remove screen lock pin on android device,Poco C50 smart lock android,how to use oem unlocking,unlock android phone without pin,unlock phone guide,Poco C50 android password reset,unlock android device phone with broken screen,password cracker tools
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## How to Reset a Locked Poco C50 Phone

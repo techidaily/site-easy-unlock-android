@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Nokia C12? Tips, Tricks and Helpful Advice
-date: 2024-05-19T09:20:12.374Z
-updated: 2024-05-20T09:20:12.374Z
+date: 2024-06-08T13:28:03.720Z
+updated: 2024-06-09T13:28:03.720Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Still Using Pattern Locks with Nokia C12? Tips, Tricks and Helpful Advice
 excerpt: This article describes Still Using Pattern Locks with Nokia C12? Tips, Tricks and Helpful Advice
 keywords: Nokia C12 change android lock screen,reset gmail password on android device,smart lock android,Nokia C12 fingerprint lock app,Nokia C12 unlock with google assistant,Nokia C12 pattern lock screen,Nokia C12 android lock screen settings,Nokia C12 android screen lock,lock screen pattern,remove forgotten pin android device,Nokia C12 full guide to unlock
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Still Using Pattern Locks with Nokia C12? Tips, Tricks and Helpful Advice

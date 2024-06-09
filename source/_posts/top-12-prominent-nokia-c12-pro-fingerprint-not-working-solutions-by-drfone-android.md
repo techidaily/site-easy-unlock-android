@@ -1,7 +1,7 @@
 ---
 title: Top 12 Prominent Nokia C12 Pro Fingerprint Not Working Solutions
-date: 2024-05-19T09:20:14.437Z
-updated: 2024-05-20T09:20:14.437Z
+date: 2024-06-08T13:28:29.795Z
+updated: 2024-06-09T13:28:29.795Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 12 Prominent Nokia C12 Pro Fingerprint Not Working Solutions
 excerpt: This article describes Top 12 Prominent Nokia C12 Pro Fingerprint Not Working Solutions
 keywords: Nokia C12 Pro change android lock screen,unlock android device phone without pin,android lock screen settings,unlock,Nokia C12 Pro pattern lock,Nokia C12 Pro android show wifi password,smart lock android device,unlock phone forgot password,how to change lock screen password,password unlock tool,Nokia C12 Pro unlock bootloader
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Top 12 Prominent Nokia C12 Pro Fingerprint Not Working Solutions

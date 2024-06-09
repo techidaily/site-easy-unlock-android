@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Realme Phone that is Locked?
-date: 2024-05-19T09:21:14.274Z
-updated: 2024-05-20T09:21:14.274Z
+date: 2024-06-08T13:28:27.783Z
+updated: 2024-06-09T13:28:27.783Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Realme Phone that is Locked?
 excerpt: This article describes How to Reset a Realme Phone that is Locked?
 keywords: Realme 12 5G universal unlock pattern for android,unlock android phone pattern lock without factory reset,how to use oem unlocking,Realme 12 5G lock screen wallpaper on android,Realme 12 5G unlock android phone password without factory reset,Realme 12 5G android emergency call bypass,change android device lock screen
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## How to Reset a Realme 12 5G Phone that is Locked?

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Nokia C02 Lock Screen Password?
-date: 2024-05-19T09:20:04.692Z
-updated: 2024-05-20T09:20:04.692Z
+date: 2024-06-08T13:28:27.817Z
+updated: 2024-06-09T13:28:27.817Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Change Nokia C02 Lock Screen Password?
 excerpt: This article describes How To Change Nokia C02 Lock Screen Password?
 keywords: Nokia C02 unlock,Nokia C02 password unlock tool,android device lock screen settings,forgot android device password,top anti theft apps,remove screen lock pin on android device,lock screen pattern
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## How To Change Nokia C02 Lock Screen Password?

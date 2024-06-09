@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Poco C51
-date: 2024-05-19T09:20:51.937Z
-updated: 2024-05-20T09:20:51.937Z
+date: 2024-06-08T13:28:59.314Z
+updated: 2024-06-09T13:28:59.314Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Everything You Need to Know about Lock Screen Settings on your Poco C51
 excerpt: This article describes Everything You Need to Know about Lock Screen Settings on your Poco C51
 keywords: Poco C51 pattern lock,Poco C51 easy pattern lock,Poco C51 bypass android lock screen using emergency call,android device manager unlock,unlock android phone without pin,Poco C51 locked out of android phone
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Everything You Need to Know about Lock Screen Settings on your Poco C51

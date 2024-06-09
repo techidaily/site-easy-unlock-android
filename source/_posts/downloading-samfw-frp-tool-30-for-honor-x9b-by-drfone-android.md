@@ -1,7 +1,7 @@
 ---
 title: Downloading SamFw FRP Tool 3.0 for Honor X9b
-date: 2024-05-19T09:20:23.114Z
-updated: 2024-05-20T09:20:23.114Z
+date: 2024-06-08T13:26:55.198Z
+updated: 2024-06-09T13:26:55.198Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Downloading SamFw FRP Tool 3.0 for Honor X9b
 excerpt: This article describes Downloading SamFw FRP Tool 3.0 for Honor X9b
 keywords: Honor X9b how to reset voicemail password,Honor X9b unlock android phone without pin,forgot pattern lock,fingerprint lock app,how to lock apps on android device,how to unlock android phone without google account
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Downloading SamFw FRP Tool 3.0 for Honor X9b

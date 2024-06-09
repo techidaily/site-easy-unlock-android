@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Poco to Protect Your Individual Information
-date: 2024-05-19T09:20:41.369Z
-updated: 2024-05-20T09:20:41.369Z
+date: 2024-06-08T13:27:24.027Z
+updated: 2024-06-09T13:27:24.027Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Lock Apps on Poco to Protect Your Individual Information
 excerpt: This article describes How to Lock Apps on Poco to Protect Your Individual Information
 keywords: Poco M6 Pro 4G lock apps with fingerprint,android device password reset,smart lock android device,lock screen pattern,forgot android device password,Poco M6 Pro 4G reset locked android phone
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How to Lock Apps on Poco M6 Pro 4G to Protect Your Individual Information

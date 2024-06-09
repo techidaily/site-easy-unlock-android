@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Oppo A78 5G Phone
-date: 2024-04-12T00:02:45.195Z
-updated: 2024-04-13T00:02:45.195Z
+date: 2024-06-08T13:26:59.127Z
+updated: 2024-06-09T13:26:59.127Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Enable USB Debugging on a Locked Oppo A78 5G Phone
 excerpt: This article describes How To Enable USB Debugging on a Locked Oppo A78 5G Phone
 keywords: unlock bootloader,change android lock screen,fingerprint not working,lock apps with fingerprint,Oppo A78 5G unlock phone forgot password,bypass android device lock screen using emergency call
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How To Enable USB Debugging on a Locked Oppo A78 5G Phone

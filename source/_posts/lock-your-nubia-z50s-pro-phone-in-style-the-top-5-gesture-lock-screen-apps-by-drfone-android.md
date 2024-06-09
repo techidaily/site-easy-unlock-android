@@ -1,7 +1,7 @@
 ---
 title: Lock Your Nubia Z50S Pro Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-05-19T09:20:33.504Z
-updated: 2024-05-20T09:20:33.504Z
+date: 2024-06-08T13:27:52.543Z
+updated: 2024-06-09T13:27:52.543Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Lock Your Nubia Z50S Pro Phone in Style The Top 5 Gesture Lock Screen Apps
 excerpt: This article describes Lock Your Nubia Z50S Pro Phone in Style The Top 5 Gesture Lock Screen Apps
 keywords: Nubia Z50S Pro android emergency call bypass,how to unlock android device phone,Nubia Z50S Pro forgot pattern lock,fingerprint lock for android device,reset locked android phone,easy pattern lock,unlock phone guide
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Lock Your Nubia Z50S Pro Phone in Style: The Top 5 Gesture Lock Screen Apps

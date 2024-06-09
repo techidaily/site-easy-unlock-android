@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 Phone with Broken Screen
-date: 2024-05-19T09:20:13.114Z
-updated: 2024-05-20T09:20:13.114Z
+date: 2024-06-08T13:28:19.935Z
+updated: 2024-06-09T13:28:19.935Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Nokia C12 Phone with Broken Screen
 excerpt: This article describes How to Unlock Nokia C12 Phone with Broken Screen
 keywords: change android device lock screen,Nokia C12 pattern unlock,Nokia C12 smart lock android,how to lock apps on android,Nokia C12 delete gmail account with without password,Nokia C12 unlock phone forgot password,android show wifi password,Nokia C12 gusture lock screen
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## How to Unlock Nokia C12 Phone with Broken Screen

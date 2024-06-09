@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Poco X6 Pro
-date: 2024-05-19T09:21:03.870Z
-updated: 2024-05-20T09:21:03.870Z
+date: 2024-06-08T13:28:16.076Z
+updated: 2024-06-09T13:28:16.076Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Everything You Need to Know about Lock Screen Settings on your Poco X6 Pro
 excerpt: This article describes Everything You Need to Know about Lock Screen Settings on your Poco X6 Pro
 keywords: how to reset voicemail password,unlock screen,unlock android phone without password,Poco X6 Pro reset locked android phone,pattern unlock,unlock phone guide,Poco X6 Pro android emergency call bypass,easy pattern lock
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Everything You Need to Know about Lock Screen Settings on your Poco X6 Pro

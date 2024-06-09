@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Nokia C02 to Protect Your Individual Information
-date: 2024-05-19T09:20:02.553Z
-updated: 2024-05-20T09:20:02.553Z
+date: 2024-06-08T13:27:57.229Z
+updated: 2024-06-09T13:27:57.229Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Lock Apps on Nokia C02 to Protect Your Individual Information
 excerpt: This article describes How to Lock Apps on Nokia C02 to Protect Your Individual Information
 keywords: unlock,lock screen wallpaper on android,android device device manager unlock,Nokia C02 reset locked android phone,Nokia C02 change android lock screen,unlock android phone without pin,top 10 frp bypass tools,Nokia C02 reset gmail password on android,Nokia C02 bypass android face lock,how to unlock android phone without google account,fingerprint lock for android device
-thumbnail: https://www.lifewire.com/thmb/tPZQXZ5f5-0L_L7obmLf1Q98jIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-569944733df78cafda90169f.jpg
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
 ---
 
 ## How to Lock Apps on Nokia C02 to Protect Your Individual Information

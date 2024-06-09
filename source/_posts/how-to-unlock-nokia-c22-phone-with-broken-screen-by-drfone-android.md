@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C22 Phone with Broken Screen
-date: 2024-05-19T09:20:11.053Z
-updated: 2024-05-20T09:20:11.053Z
+date: 2024-06-08T13:26:44.015Z
+updated: 2024-06-09T13:26:44.015Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Nokia C22 Phone with Broken Screen
 excerpt: This article describes How to Unlock Nokia C22 Phone with Broken Screen
 keywords: Nokia C22 unlock bootloader,how to unlock android device phone without google account,smart lock android device,Nokia C22 android show wifi password,Nokia C22 forgot pattern lock,pattern lock screen,Nokia C22 how to reset a phone that is locked,Nokia C22 android emergency call bypass
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## How to Unlock Nokia C22 Phone with Broken Screen

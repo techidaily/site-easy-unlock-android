@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C02
-date: 2024-05-19T09:20:04.495Z
-updated: 2024-05-20T09:20:04.495Z
+date: 2024-06-08T13:28:59.242Z
+updated: 2024-06-09T13:28:59.242Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Mastering Lock Screen Settings How to Enable and Disable on Nokia C02
 excerpt: This article describes Mastering Lock Screen Settings How to Enable and Disable on Nokia C02
 keywords: easy pattern lock,Nokia C02 find lost phone with google map,android device screen lock,Nokia C02 reset locked android phone,Nokia C02 unlock android phone with broken screen,android lock screen settings,change android lock screen,enable usb debugging,Nokia C02 lock screen apps for android,android device manager unlock
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## Mastering Lock Screen Settings: How to Enable and Disable on Nokia C02

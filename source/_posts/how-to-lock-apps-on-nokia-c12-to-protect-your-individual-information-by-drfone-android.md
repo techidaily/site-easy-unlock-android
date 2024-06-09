@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Nokia C12 to Protect Your Individual Information
-date: 2024-05-19T09:20:12.613Z
-updated: 2024-05-20T09:20:12.613Z
+date: 2024-06-08T13:28:51.775Z
+updated: 2024-06-09T13:28:51.775Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Lock Apps on Nokia C12 to Protect Your Individual Information
 excerpt: This article describes How to Lock Apps on Nokia C12 to Protect Your Individual Information
 keywords: full guide to unlock,how to reset a phone that is locked,Nokia C12 lock screen pattern,android device pattern lock remover,lock screen apps for android device,bypass knox enrollment service
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## How to Lock Apps on Nokia C12 to Protect Your Individual Information

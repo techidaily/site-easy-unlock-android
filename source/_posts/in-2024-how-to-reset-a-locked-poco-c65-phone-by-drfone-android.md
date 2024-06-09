@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Poco C65 Phone
-date: 2024-05-19T09:21:01.500Z
-updated: 2024-05-20T09:21:01.500Z
+date: 2024-06-08T13:27:07.724Z
+updated: 2024-06-09T13:27:07.724Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Poco C65 Phone
 excerpt: This article describes How to Reset a Locked Poco C65 Phone
 keywords: how to reset voicemail password,android lock screen settings,Poco C65 unlock with google assistant,Poco C65 how to change lock screen password,best sim location trackers,find lost phone with google map
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## How to Reset a Locked Poco C65 Phone

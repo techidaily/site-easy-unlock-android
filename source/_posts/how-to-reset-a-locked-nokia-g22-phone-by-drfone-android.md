@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nokia G22 Phone
-date: 2024-05-19T09:20:08.624Z
-updated: 2024-05-20T09:20:08.624Z
+date: 2024-06-08T13:28:57.026Z
+updated: 2024-06-09T13:28:57.026Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Nokia G22 Phone
 excerpt: This article describes How to Reset a Locked Nokia G22 Phone
 keywords: how to lock apps on android device,Nokia G22 remove lock screen fingerprint,Nokia G22 remove forgotten pin android,fingerprint lock for android,Nokia G22 how to unlock android phone without google account,Nokia G22 how to reset a phone that is locked,Nokia G22 android lock screen settings,pattern unlock,how to unlock android device phone,Nokia G22 disable lock screen
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## How to Reset a Locked Nokia G22 Phone

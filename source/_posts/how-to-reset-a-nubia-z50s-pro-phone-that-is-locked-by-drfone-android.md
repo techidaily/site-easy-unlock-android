@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Nubia Z50S Pro Phone that is Locked?
-date: 2024-05-19T09:20:33.609Z
-updated: 2024-05-20T09:20:33.609Z
+date: 2024-06-08T13:28:32.184Z
+updated: 2024-06-09T13:28:32.184Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Nubia Z50S Pro Phone that is Locked?
 excerpt: This article describes How to Reset a Nubia Z50S Pro Phone that is Locked?
 keywords: hack wifi password android,change android device lock screen,fingerprint lock app,Nubia Z50S Pro bypass android face lock,Nubia Z50S Pro pattern unlock without password,unlock phone guide,reset locked android device phone,Nubia Z50S Pro how to change lock screen password,smart lock android device,Nubia Z50S Pro reset gmail password on android,vnrom bypass google account verification,smart lock android
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## How to Reset a Nubia Z50S Pro Phone that is Locked?

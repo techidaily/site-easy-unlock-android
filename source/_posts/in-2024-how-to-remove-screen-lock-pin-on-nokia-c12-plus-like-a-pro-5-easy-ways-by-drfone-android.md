@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Screen Lock PIN On Nokia C12 Plus Like A Pro 5 Easy Ways
-date: 2024-05-19T09:20:18.011Z
-updated: 2024-05-20T09:20:18.011Z
+date: 2024-06-08T13:28:02.675Z
+updated: 2024-06-09T13:28:02.675Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Remove Screen Lock PIN On Nokia C12 Plus Like A Pro 5 Easy Ways
 excerpt: This article describes How To Remove Screen Lock PIN On Nokia C12 Plus Like A Pro 5 Easy Ways
 keywords: how to remove previously synced google account from android,lock screen apps for android,pattern unlock without password,android screen lock,Nokia C12 Plus unlock apps for android,unlock android device phone with broken screen,pattern lock screen,Nokia C12 Plus hard pattern lock
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## How To Remove Screen Lock PIN On Nokia C12 Plus Like A Pro: 5 Easy Ways
