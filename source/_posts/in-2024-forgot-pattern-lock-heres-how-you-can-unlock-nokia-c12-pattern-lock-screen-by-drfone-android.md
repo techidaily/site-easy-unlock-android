@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Pattern Lock Screen
-date: 2024-05-19T09:20:13.554Z
-updated: 2024-05-20T09:20:13.554Z
+date: 2024-06-16T03:40:46.889Z
+updated: 2024-06-17T03:40:46.889Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Pattern Lock Screen
 excerpt: This article describes Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Pattern Lock Screen
 keywords: android device password reset,Nokia C12 how to reset a phone that is locked,android password reset,locked out of android phone,smart lock android,Nokia C12 fingerprint lock app,android pattern lock remover
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## Forgot Pattern Lock? Here's How You Can Unlock Nokia C12 Pattern Lock Screen

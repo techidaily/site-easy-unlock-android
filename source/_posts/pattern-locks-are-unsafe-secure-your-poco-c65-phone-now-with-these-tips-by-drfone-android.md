@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your Poco C65 Phone Now with These Tips
-date: 2024-05-19T09:20:59.754Z
-updated: 2024-05-20T09:20:59.754Z
+date: 2024-06-16T03:41:17.773Z
+updated: 2024-06-17T03:41:17.773Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pattern Locks Are Unsafe Secure Your Poco C65 Phone Now with These Tips
 excerpt: This article describes Pattern Locks Are Unsafe Secure Your Poco C65 Phone Now with These Tips
 keywords: Poco C65 android lock screen settings,Poco C65 best sim location trackers,unlock android device phone without pin,Poco C65 bypass android lock screen using emergency call,forgot pattern lock,Poco C65 pattern unlock,Poco C65 lock screen wallpaper on android,Poco C65 unlock screen,forgot android password,how to unlock android phone
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Pattern Locks Are Unsafe: Secure Your Poco C65 Phone Now with These Tips

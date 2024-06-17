@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nokia C02 Phone
-date: 2024-05-19T09:20:02.880Z
-updated: 2024-05-20T09:20:02.880Z
+date: 2024-06-16T03:40:08.954Z
+updated: 2024-06-17T03:40:08.954Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Nokia C02 Phone
 excerpt: This article describes How to Reset a Locked Nokia C02 Phone
 keywords: pattern unlock without password,android device device manager unlock,Nokia C02 how to change lock screen password,disable lock screen,password cracker tools,pattern lock,vnrom bypass google account verification,smart lock android device,Nokia C02 gusture lock screen,unlock android device phone without pin,lock screen apps for android,android device lock screen settings
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## How to Reset a Locked Nokia C02 Phone

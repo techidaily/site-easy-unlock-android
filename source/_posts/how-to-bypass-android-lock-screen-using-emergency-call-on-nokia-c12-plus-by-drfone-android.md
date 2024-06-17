@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Nokia C12 Plus?
-date: 2024-05-19T09:20:16.441Z
-updated: 2024-05-20T09:20:16.441Z
+date: 2024-06-16T03:40:49.124Z
+updated: 2024-06-17T03:40:49.124Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Bypass Android Lock Screen Using Emergency Call On Nokia C12 Plus?
 excerpt: This article describes How to Bypass Android Lock Screen Using Emergency Call On Nokia C12 Plus?
 keywords: Nokia C12 Plus password unlock tool,lock screen wallpaper on android,forgot android password,locked out of android device phone,samfw frp tool,how to change lock screen password
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## How to Bypass Android Lock Screen Using Emergency Call On Nokia C12 Plus?

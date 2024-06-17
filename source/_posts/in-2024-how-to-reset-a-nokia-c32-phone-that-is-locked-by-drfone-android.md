@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Nokia C32 Phone that is Locked?
-date: 2024-05-19T09:20:07.269Z
-updated: 2024-05-20T09:20:07.269Z
+date: 2024-06-16T03:41:20.107Z
+updated: 2024-06-17T03:41:20.107Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Nokia C32 Phone that is Locked?
 excerpt: This article describes How to Reset a Nokia C32 Phone that is Locked?
 keywords: Nokia C32 android lock screen settings,gusture lock screen,unlock android phone without password,android screen lock,unlock screen,Nokia C32 best sim location trackers,unlock android phone with broken screen
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## How to Reset a Nokia C32 Phone that is Locked?

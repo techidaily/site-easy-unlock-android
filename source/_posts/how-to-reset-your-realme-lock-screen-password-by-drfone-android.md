@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Realme Lock Screen Password
-date: 2024-05-19T09:21:11.750Z
-updated: 2024-05-20T09:21:11.750Z
+date: 2024-06-16T03:40:36.015Z
+updated: 2024-06-17T03:40:36.015Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset your Realme Lock Screen Password
 excerpt: This article describes How to Reset your Realme Lock Screen Password
 keywords: unlock bootloader,pattern lock screen,Realme 12 5G reset locked android phone,android lock screen settings,lock screen wallpaper on android device,unlock android phone with broken screen
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## How to Reset your Realme 12 5G Lock Screen Password

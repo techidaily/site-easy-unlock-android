@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Nokia C12 Plus Lock Screen Password
-date: 2024-05-19T09:20:16.351Z
-updated: 2024-05-20T09:20:16.351Z
+date: 2024-06-16T03:40:34.948Z
+updated: 2024-06-17T03:40:34.948Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset your Nokia C12 Plus Lock Screen Password
 excerpt: This article describes How to Reset your Nokia C12 Plus Lock Screen Password
 keywords: Nokia C12 Plus android emergency call bypass,reset gmail password on android device,full guide to unlock,android screen lock,vnrom bypass google account verification,Nokia C12 Plus remove screen lock pin on android,android show wifi password,forgot android device password
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## How to Reset your Nokia C12 Plus Lock Screen Password
