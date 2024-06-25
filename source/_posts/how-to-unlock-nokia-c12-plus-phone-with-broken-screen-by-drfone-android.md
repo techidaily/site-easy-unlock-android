@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nokia C12 Plus Phone with Broken Screen
-date: 2024-05-19T09:20:17.240Z
-updated: 2024-05-20T09:20:17.240Z
+date: 2024-06-24T04:37:10.373Z
+updated: 2024-06-25T04:37:10.373Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Nokia C12 Plus Phone with Broken Screen
 excerpt: This article describes How to Unlock Nokia C12 Plus Phone with Broken Screen
 keywords: how to unlock android phone without google account,Nokia C12 Plus pattern unlock without password,Nokia C12 Plus lock screen pattern,unlock android phone pattern lock without factory reset,password unlock tool,rootjunky frp bypass,Nokia C12 Plus lock apps with fingerprint,smart lock android device,bypass android lock screen using emergency call,remove screen lock pin on android device,oem unlock missing,Nokia C12 Plus reset gmail password on android
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## How to Unlock Nokia C12 Plus Phone with Broken Screen
@@ -46,7 +46,7 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
 
@@ -180,7 +180,7 @@ Just in case you set a hard pattern lock and promptly forgot that abstruse patte
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove the Hard Pattern Lock on Your Nokia C12 Plus If You Forgot!
 
@@ -288,7 +288,7 @@ Dr.Fone - Screen Unlock is the safest and most efficient tool to unlock your Nok
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Nokia C12 Plus  Phone Hassle-Free
 

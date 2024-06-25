@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Poco C51 to Protect Your Individual Information
-date: 2024-05-19T09:20:51.327Z
-updated: 2024-05-20T09:20:51.327Z
+date: 2024-06-24T04:38:17.306Z
+updated: 2024-06-25T04:38:17.306Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Lock Apps on Poco C51 to Protect Your Individual Information
 excerpt: This article describes How to Lock Apps on Poco C51 to Protect Your Individual Information
 keywords: locked out of android phone,find lost phone with google map,unlock android device phone pattern lock without factory reset,change android device lock screen,Poco C51 techeligible frp bypass,Poco C51 how to remove previously synced google account from android
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## How to Lock Apps on Poco C51 to Protect Your Individual Information
