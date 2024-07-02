@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Poco C51 Pattern Lock Screen
-date: 2024-06-24T04:39:03.236Z
-updated: 2024-06-25T04:39:03.236Z
+date: 2024-07-01T21:10:45.634Z
+updated: 2024-07-02T21:10:45.634Z
 tags: 
   - unlock
   - remove screen lock
@@ -266,7 +266,7 @@ If you are also facing the same issue, then you have come to the right place. Th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## Part 1: How to get into a locked phone with Dr.Fone?
 

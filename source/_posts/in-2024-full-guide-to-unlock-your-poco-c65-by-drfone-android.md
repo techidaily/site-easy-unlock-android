@@ -1,7 +1,7 @@
 ---
 title: In 2024, Full Guide to Unlock Your Poco C65
-date: 2024-05-19T09:21:01.447Z
-updated: 2024-05-20T09:21:01.447Z
+date: 2024-07-01T21:11:01.793Z
+updated: 2024-07-02T21:11:01.793Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Full Guide to Unlock Your Poco C65
 excerpt: This article describes Full Guide to Unlock Your Poco C65
 keywords: Poco C65 samfw frp tool,unlock phone forgot password,Poco C65 how to lock apps on android,forgot android device password,lock screen apps for android,Poco C65 swipe screen to unlock,Poco C65 android lock screen settings,smart lock android,Poco C65 pattern unlock
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Full Guide to Unlock Your Poco C65

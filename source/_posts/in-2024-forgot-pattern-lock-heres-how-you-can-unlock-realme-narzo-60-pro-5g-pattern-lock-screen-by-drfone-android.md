@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme Narzo 60 Pro 5G Pattern Lock Screen
-date: 2024-06-24T04:39:03.066Z
-updated: 2024-06-25T04:39:03.066Z
+date: 2024-07-01T21:11:02.790Z
+updated: 2024-07-02T21:11:02.790Z
 tags: 
   - unlock
   - remove screen lock
@@ -409,7 +409,7 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 
 ![](https://images.wondershare.com/drfone/guide/remove-iphone-sim-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
