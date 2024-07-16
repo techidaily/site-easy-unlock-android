@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Nubia Red Magic 8S Pro PIN Code/Pattern Lock/Password
-date: 2024-05-19T09:20:32.054Z
-updated: 2024-05-20T09:20:32.054Z
+date: 2024-07-15T19:40:08.824Z
+updated: 2024-07-16T19:40:08.824Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Nubia Red Magic 8S Pro PIN Code/Pattern Lock/Password
 excerpt: This article describes How to Unlock Nubia Red Magic 8S Pro PIN Code/Pattern Lock/Password
 keywords: how to lock apps on android,Nubia Red Magic 8S Pro pattern lock,how to reset a phone that is locked,fingerprint lock app,unlock android phone password without factory reset,lock screen wallpaper on android device,unlock android phone without pin,unlock phone forgot password,smart lock android,Nubia Red Magic 8S Pro remove screen lock pin on android,how to lock apps on android device,Nubia Red Magic 8S Pro android lock screen settings
-thumbnail: https://www.lifewire.com/thmb/ebrh4pryk1RCkUBx_N34Im614oA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-14050070541-0fc96b82fdc54287bf3bbce3ba323342.jpg
+thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
 ---
 
 ## How to Unlock Nubia Red Magic 8S Pro  PIN Code/Pattern Lock/Password
@@ -27,6 +27,18 @@ For this method, you need a PC and your Google account details. Here are the ste
 
 **Step 1:** Open your browser and go to [Google Find My Device](https://www.google.com/android/find) on your PC.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google account verification](https://images.wondershare.com/drfone/article/2022/05/google-account-verification.jpg)
 
 **Step 2:** Log in to the Google account you used to set up your Nubia Red Magic 8S Pro  phone.
@@ -37,6 +49,9 @@ For this method, you need a PC and your Google account details. Here are the ste
 
  And then select “**Erase Device.**”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select erase data](https://images.wondershare.com/drfone/article/2022/05/select-erase-device.jpg)
 
 Selecting this option will erase all content from your device, including screen unlock PIN, password, and pattern.
@@ -45,19 +60,22 @@ Selecting this option will erase all content from your device, including screen 
 
 Use this method only if your phone is backed up so you can restore all your data later.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Unlock Android device Using Lock Remove Tool?
 
 Another foolproof method on how to unlock Android pattern lock is by using a lock removal tool like [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/).
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 Dr.Fone - Screen Unlock is a screen unlock tool that can unlock your Android phone if you forget its screen unlock PIN, password, or pattern in just 5 minutes. It has a simple operation that requires just a few clicks to unlock your phone screen. Plus, this method is reliable, secure, and has a high success rate. However, there’s a possibility that it might not work with older phone models.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Android PIN Code/Pattern Lock/Password within Minutes
 
@@ -74,6 +92,9 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 **Step 2:** Connect your phone to your PC with a USB cable. Now click on the "Android" > "Unlock Android Screen" option.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
@@ -100,6 +121,9 @@ You can unlock your Nubia Red Magic 8S Pro  phone with Google Account in the fol
 - Using Google account details
 - Using Google security question
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock sony xperia](https://images.wondershare.com/drfone/article/2022/05/how-to-unlock-sony-xperia.png)
 
 ### Using Google Account Details
@@ -125,6 +149,9 @@ For the latter, here are the steps:
 - **Step 3:** Click on “Unlock” after which you will be asked if you want to set a new PIN or pattern. Select “Yes.”
 - **Step 4:** Your Nubia Red Magic 8S Pro  phone will be unlocked, and you can set a new PIN or pattern for your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Nubia Red Magic 8S Pro  by Hard Reset?
 
 Hard resetting your smartphone usually solves everything! Hence, it can also help you unlock your Nubia Red Magic 8S Pro  phone; however, using this method will erase all the data on your phone. So, if you still want to unlock Nubia Red Magic 8S Pro  phone using this method, only do so if you have backed up your device and have no other way to unlock your phone. This includes forgetting your Google account details or not having access to a PC to download and use Dr Fone - Screen Unlock (Android).
@@ -152,12 +179,18 @@ If you've forgotten the screen lock of your Nubia Red Magic 8S Pro  device, you 
 
 **Step 3:** Allow the program to download files to prepare for the update process and choose your Nubia Red Magic 8S Pro  model. Click “Next” and connect your Nubia Red Magic 8S Pro  to the PC. Ensure that the phone is turned off, and press and hold the "Volume Down" button when connecting the cable to the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![preparing the computer](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-3.jpg)
 
 **Step 4:** Once correctly connected to the PC, the program will download the necessary software and upload it to your device. After completing the process, you can unplug the Nubia Red Magic 8S Pro device and turn it on.
 
 ![updating the xiaomi device](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove Operator Lock on Nubia Red Magic 8S Pro ?
 
 An operator lock, also called a carrier lock, constitutes a limitation imposed on a mobile phone by a network provider. This measure is implemented to guarantee that the Nubia Red Magic 8S Pro device exclusively functions with the services provided by that specific carrier. If you wish to remove the operator lock from your Nubia Red Magic 8S Pro  device, you'll need to follow specific steps and meet certain criteria. Here's how to remove the operator lock on a Nubia Red Magic 8S Pro :
@@ -168,6 +201,9 @@ An operator lock, also called a carrier lock, constitutes a limitation imposed o
 
 **Step 2:** Carefully check the information provided on the screen. If there is "X" before the "Network" option and the number in front of it is larger than 0, it means your device can be unlocked. If the number in front of "Network" is 0, your device can't be unlocked as it is hard-locked.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check the network status](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-6.jpg)
 
 **Step 3:** The next step involves getting your device’s IMEI number. To accomplish this task, simply input "\*#06#" on your device. Once you have the IMEI number, use a reliable service from the internet to the unlocking code. Insert the SIM card of another network and provide the code you gained to unlock your Nubia Red Magic 8S Pro  device.
@@ -198,6 +234,9 @@ If you’re looking for ways that are time-effective and reliable, you can use y
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Change Nubia Red Magic 8S Pro Lock Screen Clock in Seconds
 
 The initial glimpse of your phone often involves the lock screen. This essential feature is customizable based on your Android device. With the advent of Android 12, a double-line clock has stirred some controversy among users. It’s because the **Android lock screen clock** veered from the one-line design of the previous version.
@@ -226,6 +265,9 @@ The exact names of settings may change depending on the manufacturer and version
 
 Currently, there isn’t an official method to **change the lock screen clock on Android** 12. However, there are several workarounds you can do. Let’s explore these techniques and see which works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Change Your Wallpaper
 
 In Android 11, adjusting your wallpaper is accessible through the Android Settings menu.
@@ -238,6 +280,9 @@ In Android 12, the process remains consistent.
 
 - **Step 1:** Locate the **Wallpaper & style** button within the **Settings** menu**.**
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wallpaper settings on android 12](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-04.jpg)
 
 - **Step 2**: Follow the provided instructions to transform your lock screen experience. Replace the oversized clock with dynamic, changing wallpapers.
@@ -248,6 +293,9 @@ An alternative to avoid **the Android lock screen clock** is disabling the Alway
 
 - **Step 1**: Access the **Settings** menu on your Android device. Scroll down and choose **Lock** **screen** > **Always On Display**.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android always on display setting](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-05.jpg)
 
 - **Step 2:** Toggle off to deactivate the **Always On Display**.
@@ -256,12 +304,18 @@ An alternative to avoid **the Android lock screen clock** is disabling the Alway
 
 **While this won’t alter the lock screen clock itself, it will turn off the display. It will prevent the constant presence of the lock screen clock. Instead, the clock will only become visible when you press the power button.**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Disable the Double-Line Clock
 
 Originally, there was no provision to **change the lock screen clock in Android 12**. With the release of a new update, Google introduced an option to deactivate the clock, bringing relief to users. Follow the steps below to disable the double-line clock on your Android.
 
 - **Step 1:** Go to **Settings** > **Display**. Next, choose **Lock screen**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![double line clock android settings](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-06.jpg)
 
 - **Step 2:** Toggle the **Double-line clock** off.
@@ -276,6 +330,9 @@ An alternative method to modify the **Android lock screen clock** involves activ
 
 - **Step 1:** Open the **Clock** app and tap the **three dots** in the upper-right corner. Select **Screensaver** and toggle it on.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screensaver and new lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-07.jpg)
 
 - **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
@@ -284,6 +341,9 @@ An alternative method to modify the **Android lock screen clock** involves activ
 
 To avoid adjusting your Android device settings, you can make the lock screen clock smaller by maintaining unread notifications. The clock occupies less space when there are unread notifications. It shifts back to the top-left corner when you receive a new notification. Simply leave notifications unread to keep the clock smaller.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![unread notifications on android lock screen](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-08.jpg)
 
 ### Bonus
@@ -299,6 +359,9 @@ Changing the lock screen clock on Samsung phones is similar to the general Andro
 
 - **Step 1:** Go to **Settings** > **Lock screen** or **Lock screen & security**. Choose **Customize lock screen** > **Clock**, **Clock** **style,** or **Lock screen clock**.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customizing lock screen clock on samsung](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-09.jpg)
 
 - **Step 2:** Choose between different styles, such as digital, analog, or others. Some Samsung models offer extra settings like color, size, and more to enhance your lock screen further. Select the one that suits your taste.
@@ -324,7 +387,7 @@ Accidentally locking yourself out of your Android device can be a stressful expe
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -350,6 +413,9 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 4:** Follow the on-screen instructions. Once they’re done, Dr.Fone will automatically proceed with the unlocking process. There will be a new screen showing the completion if done correctly. If it fails, click on **Try** **again**. Otherwise, click **Done** to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone done android screen unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ### What Else Can Dr.Fone Do for Android Owners?
@@ -387,6 +453,9 @@ Here is the complete guide with five methods to unlock an Nubia  device that wor
 
 ## Part 1: Lock System About Nubia Red Magic 8S Pro  
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1: Lock Types
 
 Before we move towards the **Nubia Red Magic 8S Pro  pattern unlock**, let's talk about its lock types and security system. Nubia Red Magic 8S Pro  is one of the older versions of Nubia  android phones that was released in 2016. At that time, only flagship phones from each brand came with features like fingerprint sensors and facial unlock. Nubia Red Magic 8S Pro  doesn't offer these lock types. You can only set up a screen lock as a password, pattern, and PIN. You can also lock apps on Nubia Red Magic 8S Pro  with its privacy password settings.
@@ -408,6 +477,9 @@ You can easily remove the lock screen of your Nubia Red Magic 8S Pro  if you rem
 - Disable the lock screen by tapping on the "Enable Lock Screen" button once.
 - Enter your password or pattern and wait for the system to remove the screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 5 Solutions to Unlock Nubia Red Magic 8S Pro  Without Password or Pattern
 
 ### 1: Google Find My Device
@@ -422,10 +494,16 @@ You can use the Google Find My Device for your **Nubia Red Magic 8S Pro  pattern
 - After verification, click on "Ok" and wait for the system to factory reset.
 - Power on your device and enter it without any pattern or password.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2: Google Account
 
 Here is how you can do an **Nubia Red Magic 8S Pro  pattern unlock without PC**. You don't need any third-party software or device for this method. Every step is easy to follow, and it only takes a few minutes for you to unlock your phone. This method requires your Google account and password. Don't use this method if you don't know your Google password. If you are a beginner, it is better to use other methods because this method involves the risk of blocking your device. Follow these steps to unlock your Nubia  device using your Google Account.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Nubia Red Magic 8S Pro  lock screen](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-02.jpg)
 
 - Enter a random password or PIN on your phone's lock screen five times.
@@ -435,6 +513,9 @@ Here is how you can do an **Nubia Red Magic 8S Pro  pattern unlock without PC**.
 - Now the system will ask for your Google account and password.
 - After you verify your Google account, you can enter your device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3: Answer Security Questions
 
 If you want to unlock your Nubia  phone, you can also answer some security questions and reset the password. This method does not work on all Nubia  devices, but you can use it for **Nubia Red Magic 8S Pro  screen unlock without PC**. You will see various questions if your Google account is linked with the Nubia Red Magic 8S Pro device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Nubia Red Magic 8S Pro  with security questions.
@@ -453,6 +534,9 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 - Switch off your Nubia Red Magic 8S Pro  with the power button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-04.jpg)
 
 - Press and hold the Volume down + Power buttons together for a few seconds. Hold the keys until you see the Nubia  logo on the screen.
@@ -465,6 +549,9 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
 
 - For confirmation, select the “OK” option and wait for the system to reboot.
@@ -475,9 +562,12 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 You can easily unlock your Nubia  device without your Google account password and losing data. The best way is to use an Nubia Red Magic 8S Pro  pattern lock removal tool. If you want an easy-to-use tool with fast and safe working, we recommend Dr.Fone - Screen Unlock. Dr.Fone enables users to unlock any android device within five minutes without password, Google account. You can unlock your Nubia Red Magic 8S Pro  without effort. With Dr.Fone, you can also [back up and restore your data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), do a [system repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) for your mobile, and transfer WhatsApp with a few clicks. Here are the steps to remove the pattern lock from Nubia Red Magic 8S Pro  with Dr.Fone – Screen Unlock.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Unlock Nubia Red Magic 8S Pro  Without Any Hassle!
 
@@ -502,6 +592,9 @@ With the button “Unlock Android Screen”, you can unlock your Nubia Red Magic
 
 When you’re on this page, “100% Remove Screen Lock” can unlock most phone brands’ screens. Because of the different recovery modes of different phone models, selecting the Nubia Red Magic 8S Pro device brand plays a great role in removing the lock.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4. Now, it's time to start removing the lock screen**
@@ -515,6 +608,9 @@ Now, no password or pattern to stop you from using your Nubia Red Magic 8S Pro  
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you know your Google account password, then you can easily unlock your phone after verification. If you don't know the password, you can use a hard reset to erase all data and settings from your device. Use the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) if you don't want to lose your data. Dr.Fone allows you to unlock your Nubia Red Magic 8S Pro  within minutes with easy-to-follow steps. It works for all old and new Nubia  models, and the procedure is the same for every device. You can also use Dr.Fone to recover data, repair android software problems, and fix other issues.
@@ -536,3 +632,54 @@ If you know your Google account password, then you can easily unlock your phone 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>[New] 2024 Approved  Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-freefire-hashtags-to-skyrocket-video-views-on-youtube-for-2024/"><u>[New] Essential FreeFire Hashtags to Skyrocket Video Views on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-navigating-the-maze-a-comprehensive-guide-to-mov-capture-in-win10-for-2024/"><u>[New] Navigating the Maze  A Comprehensive Guide to MOV Capture in Win10 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bringing-back-windows-photo-viewer-a-quick-guide-for-win-11-users/"><u>[Updated] Bringing Back Windows Photo Viewer  A Quick Guide for Win 11 Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-diving-deep-into-tiktoks-anime-world-the-symphony-of-dance-sounds-and-visual-magic/"><u>[Updated] In 2024, Diving Deep Into TikTok’s Anime World  The Symphony of Dance, Sounds and Visual Magic</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-infiltrate-live-tips-for-guesting-on-tiktok-sessions/"><u>[Updated] In 2024, Infiltrate Live  Tips for Guesting on TikTok Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-lost-iphone-x-heres-what-you-can-do/"><u>2024 Approved  Finding Lost iPhone X? Here's What You Can Do</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fun-frenzy-youtube-writers-of-joyful-entertainment/"><u>2024 Approved  Fun Frenzy  YouTube’ Writers of Joyful Entertainment</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>2024 Approved  Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>2024 Approved  Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-imagery-with-simple-grading-tricks/"><u>Amplify Imagery with Simple Grading Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-defy-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Motorola Defy 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-f54-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy F54 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 15 Plus without Face ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-gt-5-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme GT 5 Pro Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme GT 5 Pro Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme GT 5 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-gt-5-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme GT 5 Pro? Try These Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT 5 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme GT 5 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-gt-5-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme GT 5 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme GT 5 Pro?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-gt-5-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme GT 5 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme GT 5 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme GT 5 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-gt-5-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme GT 5 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme GT 5 Pro Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-photography-lighting-tips/"><u>In 2024, IPhone Photography Lighting Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-gt-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme GT 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-instagram-group-photography/"><u>In 2024, Mastering the Art of Instagram Group Photography</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-gt-5-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme GT 5 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT 5 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-gt-5-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme GT 5 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-gt-5-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme GT 5 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme GT 5 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme GT 5 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-se-2022-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone SE (2022) Without Passcode Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-gt-5-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme GT 5 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-gt-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme GT 5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-gt-5-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme GT 5 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-facebook-analytics-simplified-for-2024/"><u>Navigating Facebook Analytics Simplified for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/relaxation-in-a-box-best-10-stress-busters/"><u>Relaxation in a Box  Best 10 Stress Busters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streamlining-social-media-facebook-video-auto-play-for-2024/"><u>Streamlining Social Media  Facebook Video Auto-Play for 2024</u></a></li>
+</ul></div>

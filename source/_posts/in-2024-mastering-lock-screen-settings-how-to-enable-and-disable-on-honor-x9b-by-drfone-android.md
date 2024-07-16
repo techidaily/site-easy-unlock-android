@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor X9b
-date: 2024-06-24T04:37:53.281Z
-updated: 2024-06-25T04:37:53.281Z
+date: 2024-07-15T19:28:04.665Z
+updated: 2024-07-16T19:28:04.665Z
 tags: 
   - unlock
   - remove screen lock
@@ -29,10 +29,16 @@ If you have spent time searching and looking for features of your Android device
 
 · Step 2: Under the tab whose heading is entitled Screen Security, tap on the first bar in the list called Screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320324072.jpg)
 
 · Step 3: Once the step is done successfully, Android will give you plenty of choices about ways to lock your Android devices' screens. Among these ways, select one particular type which you feel is most convenient as well as free-risk. After that, type in your PIN code to confirm the choice and finally activate your lock screen feature as you wish.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320547280.jpg)
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555321629733.jpg)
@@ -47,6 +53,9 @@ To certain customers, the lock screen can do more harm than good, and they would
 
 · Step 2: Under the heading called Screen Security heading, you will be shown 3 choices. Tap on the first one, which is entitled Screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555321966246.jpg)
 
 · Step 3: Once you have done the previous step, a brand new screen will appear and then you will be asked to fill in your PIN code. This is a step that helps guarantee that you are the true owner of the Android device.
@@ -55,10 +64,16 @@ To certain customers, the lock screen can do more harm than good, and they would
 
 Step 4: As soon as you have confirmed the right PIN code in the bar provided, you will then be presented to the next drop-down menu. A similar screen will appear which shows you plenty of choices. Tap on the top of that list, which is a bar called None.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555322276060.jpg)
 
 Step 5: In the end, you have successfully disabled the screen lock on your Android devices. You are now capable of using it without any hesitation about the screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Common Problems of Disabling Lock Screen
 
 The process to disable the screen lock on Android may seem easy to handle as well as straightforward to several customers, but there are still some annoying problems that users have to deal with while trying to disable the lock screen.
@@ -81,16 +96,25 @@ Step 2: Continue to tap on the Clear Credentials (Remove all certificates) optio
 
 Step 3: To make sure that the previous step has been performed successfully, try looking at the bottom of the drop-down menu. If the Clear Credentials (Remove all certificates) are grey out and can not be selected, then you have managed to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14556833184389.jpg)
 
 Step 4: Now that the problem is solved, you can feel free to turn back to your Screen lock option in the beginning and disable the feature of locking screen Android as usual.
 
 2\. You have mistakenly encrypted your SD card. You want to disable the encryption, only to realize that it requires you to set a new screen lock code. But when you come to the Screen lock menu, all the options but Password have been greyed out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555323367933.jpg)![disable lock screen android](https://images.wondershare.com/drfone/others/14555323405268.jpg)
 
 This is pretty weird, but actually, it is one of the most common troubles that many users have complained about. But to your surprise, the solution is very simple and easy. All you have to do is to reset your password, but with a little change. Your password MUST include at least ONE NUMBER in it. Confirm your new password then you will be able to disable the lock screen Android as usual.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: Remove Android Screen Lock If Forgotten Password/Pattern
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -146,10 +170,16 @@ There will be times when you come into the situation of not knowing what your Gm
 
 **Step 1:** Visit the Gmail login page from your Android device. Click on the Need helpline, which is highlighted in blue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![reset Gmail password on Android](https://images.wondershare.com/drfone/others/14546021103734.jpg)
 
 **Step 2:** After that, you will be moved to the Google Account Recovery page. There will be 3 main options which indicate 3 frequent problems. Select the first one, which is entitled "I don't know my password". Once you have chosen it, you will be required to fill in your Gmail address in the bar provided. Click on the Continue button as long as you have made sure to finish all these tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
 
 **Step 3:** In this step, you may be asked to fill in a CAPCHA form. Just simply do it and move to the next page. There you had better type in the last password that you are still able to recall if possible, then click on the Continue button to move. Or else, you can skip this step by clicking on I don't know button.
@@ -158,16 +188,28 @@ There will be times when you come into the situation of not knowing what your Gm
 
 **Step 4:** Finally, you will be shown a list of options on how to reset your Gmail password on Android devices. You can either use your alternative email address or your phone number to receive a verification code. Bear in mind to fill in any required information and put a check in the CAPCHA box to submit the process.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-submit the process](https://images.wondershare.com/drfone/others/14546022423041.jpg)
 
 **Step 5:** In this step, a blank bar will appear and it will demand you to type in your verification code. Just do it carefully to make sure there is no error. Once you have done it, a new screen will appear to tell you.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
 
 **Step 6:** After you have done all the previous steps, you will know how to reset your Gmail password directly from your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 2: Change Gmail Password When You Still Know it
 
 Besides not knowing your password, there are still circumstances when you wish to change your current password for various reasons. Just simply follow these steps.
@@ -178,6 +220,9 @@ Step 1: Make sure your Android device is connected with the Internet. Then get a
 
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
 
 ## Part 3: Bonus Tips
@@ -218,6 +263,9 @@ Android Device Manager can unlock your phone under a specific set of circumstanc
 - • Thirdly, the Honor X9b device you are using for ADM, must be connected to Wi-Fi or internet, to login to your Google account.
 - • Lastly, Android Device Manager is not compatible for all Android versions. For now, it is only compatible with devices running Android 4.4 and above, so your phone must be in this category for ADM to work.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How to unlock Android phone with Android Device Manager?
 
 Just act according to the following steps, and the Android Device Manager will unlock your phone.
@@ -236,6 +284,9 @@ Just act according to the following steps, and the Android Device Manager will u
 
 7\. Visit your phone’s lock screen settings and disable the temporary password.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock with android device manager](https://images.wondershare.com/drfone/article/2017/10/15077981723179.jpg)
 
 The Android Device Manager has successfully unlocked your phone!
@@ -318,3 +369,42 @@ So, make use of this guide and get back command over your Android phone.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>[New] 2024 Approved  DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-analyzing-why-youtube-features-specific-comments-for-2024/"><u>[New] Analyzing Why YouTube Features Specific Comments for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-link-up-in-the-world-of-instagram-for-2024/"><u>[Updated] How-To  Link Up in the World of Instagram for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-asus-rog-phone-8-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Asus ROG Phone 8 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-poco-f5-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Poco F5 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-f5-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco F5 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-poco-f5-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Poco F5 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-poco-f5-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Poco F5 5G Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-f5-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco F5 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-f5-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco F5 5G? Try These Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-basic-to-brilliant-a-complete-insta-cover-photo-course/"><u>From Basic to Brilliant  A Complete Insta Cover Photo Course</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-f5-5g-lock-screen-password-by-drfone-android/"><u>How To Change Poco F5 5G Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-f5-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco F5 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-f5-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco F5 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-f5-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco F5 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-f5-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco F5 5G Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-f5-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco F5 5G Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Poco F5 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Poco F5 5G Phone without Google Account?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fixing-inaccurate-avatar-showcasing-in-fb-messages/"><u>In 2024, Fixing Inaccurate Avatar Showcasing in FB Messages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speak-worldwide-with-these-27-premium-tools-to-translate-videos/"><u>In 2024, Speak Worldwide with These 27 Premium Tools to Translate Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-poco-f5-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Poco F5 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-f5-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco F5 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-f5-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco F5 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-poco-f5-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Poco F5 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-f5-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco F5 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-f5-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco F5 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-f5-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco F5 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-f5-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco F5 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-f5-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco F5 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-f5-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco F5 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-f5-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco F5 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-5-foolproof-amazing-anime-text-to-speech-tips/"><u>Updated 2024 Approved 5 Foolproof Amazing Anime Text to Speech Tips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-video-trimming-apps-for-windows-10-a-comprehensive-review-for-2024/"><u>Updated Free Video Trimming Apps for Windows 10 A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-victory-youtubes-female-elite-ten-for-2024/"><u>Virtual Victory  YouTube’s Female Elite Ten for 2024</u></a></li>
+</ul></div>

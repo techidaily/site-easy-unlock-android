@@ -1,7 +1,7 @@
 ---
 title: How to Reset Gmail Password on OnePlus 11 5G Devices
-date: 2024-04-30T16:24:53.812Z
-updated: 2024-05-01T16:24:53.812Z
+date: 2024-07-15T22:30:54.688Z
+updated: 2024-07-16T22:30:54.688Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset Gmail Password on OnePlus 11 5G Devices
 excerpt: This article describes How to Reset Gmail Password on OnePlus 11 5G Devices
 keywords: how to reset a phone that is locked,how to lock apps on android device,OnePlus 11 5G remove forgotten pin android,OnePlus 11 5G how to unlock android phone without google account,OnePlus 11 5G password cracker tools,change android device lock screen,OnePlus 11 5G unlock bootloader,turn off google smart lock,unlock phone guide,bypass android lock screen using emergency call
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## How to Reset Gmail Password on OnePlus 11 5G Devices
@@ -33,6 +33,9 @@ There will be times when you come into the situation of not knowing what your Gm
 
 **Step 2:** After that, you will be moved to the Google Account Recovery page. There will be 3 main options which indicate 3 frequent problems. Select the first one, which is entitled "I don't know my password". Once you have chosen it, you will be required to fill in your Gmail address in the bar provided. Click on the Continue button as long as you have made sure to finish all these tasks.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
 
 **Step 3:** In this step, you may be asked to fill in a CAPCHA form. Just simply do it and move to the next page. There you had better type in the last password that you are still able to recall if possible, then click on the Continue button to move. Or else, you can skip this step by clicking on I don't know button.
@@ -41,6 +44,9 @@ There will be times when you come into the situation of not knowing what your Gm
 
 **Step 4:** Finally, you will be shown a list of options on how to reset your Gmail password on Android devices. You can either use your alternative email address or your phone number to receive a verification code. Bear in mind to fill in any required information and put a check in the CAPCHA box to submit the process.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-submit the process](https://images.wondershare.com/drfone/others/14546022423041.jpg)
 
 **Step 5:** In this step, a blank bar will appear and it will demand you to type in your verification code. Just do it carefully to make sure there is no error. Once you have done it, a new screen will appear to tell you.
@@ -57,12 +63,18 @@ Besides not knowing your password, there are still circumstances when you wish t
 
 Step 1: Make sure your Android device is connected with the Internet. Then get access to the link myaccount.google.com. After logging into your account (or maybe you have already done this), scroll down, find the Sign-in and security option and choose it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reset Gmail password on Android-find the Sign-in and security option](https://images.wondershare.com/drfone/others/14546023162049.jpg)
 
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Bonus Tips
 
 Gmail is undoubtedly a marvelous tool to use on Android devices, but have you really understood all the tips and tricks to take the best advantage of it? Below are the 5 most helpful tips that we want to offer you.
@@ -77,6 +89,9 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KvCMAn5bwx8" id="video-iframe-t"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lock Your OnePlus 11 5G Phone in Style: The Top 5 Gesture Lock Screen Apps
 
 Ever wondered, if there was an easier and more interesting way to unlock and open your devices and apps without boring PINs/Passwords that you tend to forget? Worry not, gestures are here! Imagine the joy when you can unlock your phone by just waving your hand over it, or instead of getting access through confusing patterns or lengthy PINs, you can just get in by drawing an alphabet! So let’s go through some gesture lock screen apps for Android phones.
@@ -92,6 +107,9 @@ Gestures have become an iconic piece of the entire mobile operating system and e
 - • Double-tap to wake
 - • Press and hold Power Off Button
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![guesture lock screen app](https://images.wondershare.com/drfone/article/2017/10/15074553821605.jpg)
 
 These gestures gave Android developers an idea of creating apps, to make use of new gestures for not only in-phone functionality but also for the most basic smartphone function of locking and unlocking.
@@ -126,6 +144,9 @@ The app was released early 2017, but Magic Unlock has already received 50,000-10
 
 Download the app from here - <https://play.google.com/store/apps/details?id=com.binarybuilding.magicunlock&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3) Gesture Magic
 
 Another app that uses gesture to lock/unlock the screen is the Gesture Magic app, developed by Apps2all. Compatible with most Android devices, this app is very easy for you to use.
@@ -140,6 +161,9 @@ Launched on 17th August 2017, the app has already fetched 100,000-500,000 instal
 
 Download this app from here - <https://play.google.com/store/apps/details?id=com.gesture.action&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4) Gesture Lock Screen
 
 Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to securing your Android phone with letters, signatures or a pull-down gesture. This is an intelligent gesture screen-lock app that detects and adjusts to the letters that are created every time and stored as lock screen passwords. You can be creative with this app as well; hearts, circles, triangles, squares, make any shape, letter, number and save it as the gesture lock.
@@ -160,6 +184,9 @@ With a 4.4/5-star rating in the Play Store, and with 5,000-10,000 downloads in a
 
 Download it from - <https://play.google.com/store/apps/details?id=com.vasu.gesturescreenlock&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5) Gestos – Gestures
 
 Developed by Imaxinacion, Gestos-Gestures is an amazing gesture screen-lock app, designed with the main aim of providing you with fluency and speed as you perform actions on your device. This app aims to give you the facility of accessing various functions by drawing an easy gesture on the lock screen.
@@ -218,6 +245,18 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 - Step 3. Enter your Google account login or backup PIN
 - Step 4. Now your phone would be unlocked.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
 
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
@@ -230,6 +269,9 @@ To bypass the OnePlus lock screen in this method, you ought to be an advanced us
 - Step 4. Flash the file on your card and restart the phone.
 - Step 5. Now your phone would boot up without lock screen. Don't worry if you had a gesture lock or password. All you need to do is to input a random gesture or password, and it will be unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5. Delete the Password File Using ADB
 
 It is yet another option that will work only when you have enabled USB Debugging previously on your device, and your PC is allowed to connect via ADB. If you meet such requirements, it is ideal to use this method to unlock the OnePlus lock screen.
@@ -239,6 +281,9 @@ It is yet another option that will work only when you have enabled USB Debugging
 
 ![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6. Factory Reset to Bypass OnePlus Lock Screen
 
 A factory reset is the best option in almost any case if one of these solutions couldn't work. According to your device type, the process may vary. In most devices, you have to turn off the OnePlus 11 5G device completely to start the process. But this method will delete all the precious data on the OnePlus 11 5G device after the factory reset.
@@ -250,6 +295,9 @@ A factory reset is the best option in almost any case if one of these solutions 
 - Step 5. Select it by pressing the Power button.
 - Step 6. Select "Reboot System Now" once the process is done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-factory reset](https://images.wondershare.com/drfone/others/14623546631338.jpg)
 
 [Backup your OnePlus phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
@@ -265,6 +313,9 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 - Step 5. Reboot your device and get out of safe mode.
 - Step 6. Now the irritating lock screen app is removed completely.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
 
 ## Method 8. Other Methods
@@ -296,3 +347,43 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-android-advantage-5-unique-playlist-downloaders-reviewed/"><u>[New] Android Advantage  5 Unique Playlist Downloaders Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-tips-excelling-at-slide-show-recordings/"><u>[Updated] In 2024, Advanced Tips  Excelling at Slide Show Recordings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-from-spectator-to-participant-joining-live-tiktok-events/"><u>[Updated] In 2024, From Spectator to Participant  Joining Live TikTok Events</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>2024 Approved  Superior Suggestions  Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-12-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme 12 5G Unlock Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compre-written-by-chloe-miller/"><u>A Compre Written by Chloe Miller</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-12-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme 12 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-creators-quest-searching-for-new-tech-wonders/"><u>Cosmic Creator's Quest: Searching for New Tech Wonders</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-12-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme 12 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-12-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme 12 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-12-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme 12 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-12-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme 12 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-12-5g-phone-by-drfone-android/"><u>How to Reset a Locked Realme 12 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-12-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 12 5G Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme 12 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Realme 12 5G Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone without PIN</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-low-cost-options-for-acquiring-gopro-cameras/"><u>In 2024, Low-Cost Options for Acquiring GoPro Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-snicker-station-event-oriented-joke-repository/"><u>In 2024, Snicker Station  Event-Oriented Joke Repository</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-in-2024-12-animated-slideshow-powerpoint-templates/"><u>New In 2024, 12 Animated Slideshow PowerPoint Templates</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-12-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme 12 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-12-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme 12 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-dual-careers-youtuber-and-full-time-employee-for-2024/"><u>The Art of Dual Careers  YouTuber & Full-Time Employee for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 5G Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-12-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme 12 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-realme-12-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Realme 12 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-12-5g-by-drfone-android/"><u>Universal Unlock Pattern for Realme 12 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-12-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme 12 5G Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-12-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 12 5G Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-funny-video-dubbing-apps-2023-edition/"><u>Updated In 2024, The Ultimate Guide to Funny Video Dubbing Apps (2023 Edition)</u></a></li>
+</ul></div>

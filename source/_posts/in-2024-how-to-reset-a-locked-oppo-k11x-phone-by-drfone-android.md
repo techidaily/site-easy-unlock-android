@@ -1,0 +1,468 @@
+---
+title: In 2024, How to Reset a Locked Oppo K11x Phone
+date: 2024-07-15T23:02:31.542Z
+updated: 2024-07-16T23:02:31.542Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - android
+description: This article describes How to Reset a Locked Oppo K11x Phone
+excerpt: This article describes How to Reset a Locked Oppo K11x Phone
+keywords: how to lock apps on android device,disable lock screen,android show wifi password,easy pattern lock,best sim location trackers,enable usb debugging,reset locked android device phone,how to lock apps on android,change android device lock screen,Oppo K11x bypass knox enrollment service,remove screen lock pin on android device,pattern unlock without password
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
+---
+
+## How to Reset a Locked Oppo K11x Phone
+
+There might be some moment when you have accidentally locked your phone and have no way to recover the phone's functionality without resetting. This moment is very much irritating to any of you. If your phone is locked, and you can't run your phone due to forgetting the password, you don't have to be dumbfounded. There are some ways by which you can recover your phone to its previous state. In this article, we will show you **how to reset a locked phone**.
+
+## Part 1: How to Hard Reset Locked Oppo K11x Phone
+
+The most common way of resetting an Android phone screen lock is by hard reset. You can hard reset your Android phone to unlock it. Remember, hard reset will erase all the data stored on your phone. So hard reset will unlock your phone, but you will not get your stored data back on it. So if you have no recent backup for your phone data, beware of that before going for a hard reset.
+
+Here you can learn **how to reset a locked phone** from different brands, as different models or brands have unique methods of resetting.
+
+### **1\. How to reset a locked HTC phone?**
+
+Now we will show you how to unlock HTC phone by hard reset.
+
+![reset a locked htc](https://images.wondershare.com/drfone/article/2016/07/14696881054139.jpg)
+
+You will have to press and hold the volume down button along with the power button. Keep holding until you see Android images. Then release the buttons and then follow the volume down button to go for factory reset, afterward select the power button.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### **2\. How to reset a Samsung phone that is locked?**
+
+Press and hold the volume up key, along with the power button and home key. You will see the Samsung logo onscreen. Go down to wipe data/factory reset by holding the volume down key. Now choose Yes. You could delete all the data on your phone by tapping on the volume down key. Your phone will start rebooting.
+
+![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
+
+### **3\. How to reset an LG phone that is locked?**
+
+To unlock your LG Android phone, you will have to press and hold the volume key and the power or lock key. You have to release the Lock or power key when you see the LG logo on the screen of your phone. Just after that, press and hold the power or lock key again. You can release all the buttons once you see a factory hard reset on the screen.
+
+![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
+
+### **4\. How to reset a locked Sony phone?**
+
+You have to confirm that your phone is switched off. Press and hold three keys altogether. The keys are Volume Up, Power, and Home keys. You have to release the buttons once you see the logo on the screen. Now follow volume down to scroll down. Power or Home key is used for selection. Choose factory reset or wipe data.
+
+![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
+
+### **5\. How to reset a locked Motorola phone?**
+
+Firstly, switch off your phone. Then press and hold the power key, home key, and volume up key. After a while, you will see the logo on the screen, just then release all the buttons. For scrolling, you can use the volume down key, and for selecting, you can use either home or power key. Now select factory reset or wipe data.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![reset locked motorola](https://images.wondershare.com/drfone/article/2016/07/14696882016754.jpg)
+
+Whatever your model or brand is, keep in mind that hard reset will delete all your valuable data from your phone! So if you want to unlock your locked phone without losing data from it, then follow the next part.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2: Reset Android Phone Screen Lock Without Password
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yjlTG2d0gSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+In this part, we will discuss Wondershare Dr.Fone for unlocking your locked Android device. Here are some of the features of this great software -
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
+
+Remove Android lock screen in 5 minutes
+
+- Pattern, PIN, password, fingerprints & face screen lock can all be unlocked.
+- Bypass Android FRP lock without a PIN or Google account.
+- Unlock mainstream Android brands like Samsung, Huawei, LG, Xiaomi, etc.
+- No tech knowledge required. Everyone can handle it.
+
+**3981454** people have downloaded it
+
+#### Here is the step-by-step procedures for unlocking your Android phone - other Android phones can also be unlocked with this tool
+
+**Step 1. Go for “Screen Unlock”**
+
+The first thing that you will have to do is open Dr.Fone on your PC and then click on Screen Unlock that allows your device to remove the password from any of the 4 types of lock screens (PIN, Password, Pattern, and Fingerprints).
+
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to reset a locked phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+**Step 2. Select the Oppo K11x device from the list.**
+
+![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+**Step 3. Go for Specific Mode**
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+**Step 4. Remove Lock Screen without Password**
+
+Once the previous step is complete, you will see the lock screen removal process started. After completing the lock screen removal process, you could enter into your phone without needing any password.
+
+![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+## Conclusion
+
+Forgetting your password is a perplexing situation though you have the solution to unlock your Android phone, as hard reset does not give your data back, you should rely on the software called [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) for smooth operation. So have the software and cheer up. I hope you will enjoy and forget about the hassle when you lost your password.
+
+## Full Guide to Unlock Your Oppo K11x
+
+_Yesterday my kid was using YouTube on my Oppo K11x to help solve an assignment. However, it wouldn't take the **Oppo K11x pattern unlock** when I tried opening the phone. Maybe the kid has accidentally changed the lock, but I don't know what to do. Please help me._
+
+This article is for you if you have been locked out of your Oppo phone. Many individuals fail to remember their password or change it accidentally. However, it is not a big deal now. We'll talk about the best **Oppo K11x password unlock tool** today.
+
+There are multiple ways to unlock your locked Oppo device. All the solutions mentioned here are effective and work 99% of the time. However, we suggest you use Dr.Fone. Dr.Fone is expert software to answer all your Android needs. It is safe, secure, and free of data loss.
+
+## Part 1: 3 Easy Ways to Remove Your Oppo K11x Lock
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Google Find My Device
+
+Google Find My Device is an inbuilt feature in Oppo phones to unlock your phone through Google accounts. You can utilize it to unlock the Oppo screen lock. However, you need to know that you will lose all your files on the Oppo phone after the **Oppo K11x password unlocks**. Therefore, make sure to back up your data before proceeding with the following steps:
+
+- Ensure your locked Oppo phone is connected to your Google account and WiFi/Data. Then open the Find My Device site on a PC, and sign in with your phone's Google account.
+- Kindly select your device, and tap the “Erase Device” option.
+- Type your Google account credentials once more. Then, click the “Erase” symbol to begin the unlocking system. That will remove the pattern lock from your OPPO, and you can open it without effort.
+
+![google find my device](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-password-unlock-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Answer Security Questions
+
+This method is for you if you have set security questions while making your Google ID. By addressing those questions, you can unlock the Oppo K11x screen lock. In any case, this way is invalid on some old Android phones.
+
+To unlock this way, you need to press the Forgot Password option. If you can't see the "Forgot Pattern/Password button on your phone, follow these steps:
+
+- Try unlocking your Oppo smartphone with some wrong patterns a few times. Then you will see the “Forgot Pattern” symbol on the screen and tap it.
+- Select the “Answer question” option to get to your security questions. Then, at that point, answer each of them correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![answer question](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-password-unlock-2.jpg)
+
+- It will automatically unlock your device if you answer all questions accurately. Then, it will expect you to set another screen lock for your OPPO. Therefore, keep the new PIN to yourself.
+
+### 3\. Hard Reset
+
+If you wouldn't worry about losing your user data, you can attempt this unlock method for your Oppo K11x. You won't require any account or applications. It requires you to have sufficient battery life. It is simple. So let's see how it is done.
+
+- Check whether the battery percentage is over half. Then power off your Oppo phone by holding the "Side/Power" key for around 10 seconds.
+- Press and hold the “Volume Down” and "Side/Power" buttons till the Oppo logo appears on display. Then, at that point, your phone is in recovery mode.
+- Utilize the volume keys to pick the "Wipe Data/Factory Reset" choice, and press the "Side/Power" button to select it. Then, at that point, pick "Yes" to go on. You can reboot your Oppo after the reset is finished, and the lock will be no more.
+
+![wipe data](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-password-unlock-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: The Efficient Tool for Your Oppo K11x Unlock
+
+[Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a wonderful tool that works to unlock Oppo devices rapidly. This lock screen remover tool can unlock your phone from every five locks: PIN, passcode, face lock, pattern, or fingerprint in only a couple of basic steps. It works with all the Oppo models hassle-free. So, download it right away for a safe unlocking experience. Here's how you can use it:
+
+**Step 1. **Start your hard reset from Dr.Fone****
+
+Make your Oppo K11x phone connected to the PC through a USB cable. Then, at that point, click “Screen Unlock” > “Android” on the program.
+
+**Step 2. Select Unlock Android Screen**
+
+When you arrive at this page, please choose the button “Unlock Android Screen”.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+**Step 3. Select device brand**
+
+We’ll offer you a phone brands list, almost all Android devices are here, for example, Samsung, Huawei, OPPO, Vivo, Lenovo, LG, etc. Then Select Oppo to continue.
+
+![download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+**Step 4. Unlock your Oppo K11x now**
+
+The following steps are the key to unlocking your Oppo device. Attention! The unlock process will also wipe your data!
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+![](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+Great! Now the unlocking progress is done, and you can use your phone without entering password.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+
+## Bonus Tips: The Importance of Backing Up Your Android Data Regularly
+
+The data loss on your Android phone or tablet can be extremely unpleasant. Subsequently, it's suggested that you back up your Android phone or tablet consistently. It will keep you from losing your data. As an expert application, Dr.Fone Backup and Restore (Android) can help back up a wide range of data and settings on Android. In the meantime, it lets you review and restore the backup documents to another phone. Here's how:
+
+- Open the Dr.Fone software on your computer, and connect your phone to the PC through a USB connector and click OK. Then select the "Back up device" option.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![phone backup](https://images.wondershare.com/drfone/guide/connect-android-5.png)
+
+- Tap the Backup option to begin the process.
+
+![connect oppo](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+- The process will require some time.
+- After it is done, you can see where the backup is stored by clicking on the "View BackupS" option.
+
+![backup complete](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
+
+
+## Conclusion
+
+All the best **Oppo K11x password unlock tools** are displayed above. They are helpful, dependable and safe to use. However, if you need the easiest tools, you must pick the Android Screen Unlock program. In this case, the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can unlock your Oppo phone without any issue. Therefore, we strongly suggest you use Dr.Fone for backup and unlock your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Lock Apps on Oppo K11x to Protect Your Individual Information
+
+If you are not a fan of having to go through the process of getting through a [pattern](https://drfone.wondershare.com/unlock/pattern-lock.html) or password every time you want to use your phone, the good news is that you don’t have to. There are really just a few Apps on your Android device that have sensitive information you don’t want others getting access to. It would really be great if you could lock those apps individually as opposed to locking the Oppo K11x device as a whole.
+
+Well, in light of helping you out, this article will address just how you can lock Apps on your device and not have to type in a code every time you want to use the Oppo K11x device.
+
+## Part 1. Why you need to Lock Apps on Android?
+
+Before we get down to the business of locking some of your Apps, let’s look at some of the reasons why you would want to lock certain apps.
+
+- You may simply want better access on your device. Locking certain apps will allow you to easily access the Oppo K11x device and use it without having to remember passwords and patterns.
+- If you are a person who is not good at remembering passwords or patterns, simply locking certain apps will help you not get locked out of your entire device which can cause a lot of problems.
+- If your device is used by more than one person, locking certain apps will keep the other users out of information you would rather they didn’t access.
+- If you have children, you can eliminate the many accidental in-app purchases by locking the apps your children shouldn’t be on.
+- Locking apps is also a good way to keep children from content they shouldn’t be accessing.
+
+## Part 2. How to Lock Apps in Android
+
+There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method One: Using Smart App Protector
+
+Smart App Protector is a freeware that allows you to lock specified applications.
+
+Step 1: Download and Install Smart App Protector from the Google Play Store and Launch it. You may be required to install a helper application for Smart App Protector. This helper will ensure that the many App services running on your device will not be killed by third party apps.
+
+Step 2: The default password 7777 but you can change this in the Password & Pattern Settings.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
+
+Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
+
+Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-03.jpg)
+
+Step 4: Now close the app and the Apps chosen will now be password protected.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 2: Using Hexlock
+
+Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
+
+Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
+
+Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
+
+You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
+
+## Part 3. 6 Private Apps that you should lock on your Android
+
+There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. The Messaging App
+
+This is the application that allows you to send and receive messages. You may want to lock this app if you use your device to send messages of a sensitive nature that you would rather keep private. You may also want to lock this app if your device is used by more than one person and you don’t want other users reading your messages.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-08.jpg)
+
+### 2\. Email App
+
+Most people use individual email applications such as Yahoo Mail App or Gmail. This is another critical one if you are going to protect your work emails. You may want to lock the email app if your work emails are sensitive in nature and contain information that is not for all individuals.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Google Play Services
+
+This is the application that allows you to download and install applications to your device. You may want to lock this one if you are trying to prevent other users from downloading and installing further apps to your device. This is especially valuable if your device is utilized by children.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-10.jpg)
+
+### 4\. Gallery App
+
+The Gallery app displays all the images on your device. The main reason you may want to lock the Gallery app may be because you have sensitive images that are not suitable for all viewers. Again this is ideal if children make use of your device and you have images that you would rather they didn’t see.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
+
+### 5\. Music Pla\_x\_yer App
+
+This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
+
+### 6\. File Manager App
+
+This is the App that displays all of the files that are saved on your device. It is the ultimate app to lock if you have sensitive information on your device that you would rather not share. Locking this app will ensure that all of the files on your device will remain safe from prying eyes.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-13.jpg)
+
+Having the ability to lock your Apps is an easy way to keep information out of the limelight. It also allows you to take full control of your device. Try it, it might just be freeing as opposed to locking your entire device.
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-melodic-freedom-fbs-music-library/"><u>[New] 2024 Approved  Melodic Freedom  FB's Music Library</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-designing-news-outro-sequences/"><u>[New] Designing News Outro Sequences</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-curating-the-perfect-soundtrack-youtubes-best-audio-sites-ranked/"><u>[New] In 2024, Curating the Perfect Soundtrack  YouTube's Best Audio Sites Ranked</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-optimal-methods-for-viewing-nba-games-online-for-2024/"><u>[New] Optimal Methods for Viewing NBA Games Online for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-instagrams-soundscape-feature/"><u>[New] Unlocking Instagram’s Soundscape Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-hack-your-webcam-efficient-recording-techniques/"><u>[Updated] 2024 Approved  Hack Your Webcam  Efficient Recording Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-ad-evolution-the-hottest-trends-to-watch/"><u>[Updated] In 2024, Facebook Ad Evolution  The Hottest Trends to Watch</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-film-finishing-finesse-download-personalized-epilogues-no-money/"><u>2024 Approved  Film Finishing Finesse  Download Personalized Epilogues, No Money</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-facebook-to-play-youtube-videos-without-interruption/"><u>2024 Approved  Navigating Facebook to Play YouTube Videos Without Interruption</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-simplified-techniques-for-capturing-vimeo-content/"><u>2024 Approved  Simplified Techniques for Capturing Vimeo Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-the-most-efficient-video-editing-software/"><u>2024 Approved The Most Efficient Video Editing Software</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-moto-g34-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Moto G34 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco X6 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-t2-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo T2 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oneplus-ace-2-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your OnePlus Ace 2 Pro Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oneplus-nord-n30-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your OnePlus Nord N30 5G Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-reno-10-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Reno 10 5G Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-reno-8t-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Reno 8T Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-11-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus 11 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-nord-ce-3-lite-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus Nord CE 3 Lite 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a56s-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A56s 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a78-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A78 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a78-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A78 Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-f23-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo F23 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 8T?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-c300-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia C300</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-a58-4g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo A58 4G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-a78-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo A78 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-k11-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo K11 5G Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-12-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus 12 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-a78-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo A78 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-nord-3-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Nord 3 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-nord-ce-3-lite-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Nord CE 3 Lite 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-nord-n30-se-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Nord N30 SE to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-a1x-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo A1x 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a1x-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A1x 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Find X6 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-11-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On OnePlus 11 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-nord-3-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-k11x-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo K11x Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-g42-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia G42 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-11r-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus 11R Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-open-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-f23-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo F23 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nokia-130-music-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nokia 130 Music Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oppo-a78-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo A78 5G Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oppo-k11x-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo K11x Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-nokia-xr21-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Nokia XR21 Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oneplus-nord-ce-3-lite-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on OnePlus Nord CE 3 Lite 5G Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-best-lightweight-action-cameras-for-backpacking-or-hiking/"><u>In 2024, Top 5 Best Lightweight Action Cameras For Backpacking Or Hiking</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-11-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme 11 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>In 2024, YouTube Subscriber Awards The Play Button Awards for Creators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-combining-igtv-with-insta-stories/"><u>Mastering the Art of Combining IGTV with Insta Stories</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-7-premier-choices-for-androids-audio-editing-needs-a-comprehensive-guide-beyond-audacity/"><u>New 2024 Approved 7 Premier Choices for Androids Audio Editing Needs – A Comprehensive Guide Beyond Audacity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x6-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X6 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
