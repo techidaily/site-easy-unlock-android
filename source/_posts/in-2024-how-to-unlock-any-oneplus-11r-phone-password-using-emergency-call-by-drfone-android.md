@@ -1,0 +1,485 @@
+---
+title: In 2024, How To Unlock Any OnePlus 11R Phone Password Using Emergency Call
+date: 2024-08-02T11:32:37.183Z
+updated: 2024-08-03T11:32:37.183Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - android
+description: This article describes How To Unlock Any OnePlus 11R Phone Password Using Emergency Call
+excerpt: This article describes How To Unlock Any OnePlus 11R Phone Password Using Emergency Call
+keywords: how to reset voicemail password,OnePlus 11R unlock android phone without password,OnePlus 11R fingerprint lock app,how to use oem unlocking,bypass android device face lock,OnePlus 11R android pattern lock remover,android device show wifi password,OnePlus 11R bypass android lock screen using emergency call,unlock android phone with broken screen
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
+---
+
+## How To Unlock Any OnePlus 11R Phone Password Using Emergency Call
+
+Today, smartphones are an extension of people. Securing them with a PIN, passcode, pattern, fingerprint, or face unlock has become the norm. It’s like putting a digital lock on our private world.
+
+But you have to face it: sometimes, people forget the codes they set to protect their phones or can’t unlock them with their injured fingers or faces. Picture this: you’re staring at your phone screen, trying to recall that password, but it’s not coming to you.
+
+That’s where emergency call bypass is a nifty little trick that can be a lifesaver. In this article, you’ll learn **how to unlock any phone password using the emergency call** technique. The article will also explore other methods for when your memory fails you. So, read through and never go through this trouble again.
+
+![android emergency call screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-01.jpeg)
+
+## Part 1: What Is the Emergency Call Bypass Method?
+
+The **Android emergency call bypass** method is a lesser-known workaround for those unfortunate moments when you’re locked out of your phone. This method exploits a loophole in the phone’s lock screen, allowing you to access your device even when you’ve [<u>forgotten your password, PIN, or pattern</u>](https://drfone.wondershare.com/unlock/9-ways-to-bypass-samsung-lock-screen-pattern-pin-password-fingerprint.html). It’s like finding a secret backdoor when the front door is bolted shut.
+
+**“How can unlocking Vivo, Oppo, and Samsung phones using emergency calls** be effective?” You may ask. Imagine you need to access important information on your phone but can’t remember your lock screen code. Instead of panicking or rushing to a technician, the emergency call bypass can be a quick and handy solution. It’s particularly useful when immediate access to your phone is crucial and you don’t have time to [<u>reset your password </u>](https://drfone.wondershare.com/reset-android/how-to-reset-privacy-password-in-oppo.html) through official channels.
+
+### Limitations of the Emergency Call Bypass Method
+
+However, it’s important to note that this method has its limitations. It primarily works on older Android devices, specifically those running Android 5.0 (Lollipop) and below. As smartphone technology has evolved, manufacturers have patched many loopholes to enhance security. So, this method might not work for you if you have a more recent Android version.
+
+But don’t worry – if you’re locked out of a newer phone, you can try several other methods, which you will explore later in this article. Remember, the **emergency call bypass** can be a lifesaver in specific scenarios. However, it’s always best to use such methods responsibly and ethically. And, of course, you should always note your passwords.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![android emergency screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-02.jpg)
+
+## Part 2: How To Perform Emergency Call Bypass To Unlock Screen
+
+Unlocking your Android phone without a password using the Emergency Call Bypass method can be tricky, but it’s doable, especially on devices running Android OS 5.0 (Lollipop) and below. Here’s a step-by-step guide on **how to unlock any phone password using the emergency call** feature:
+
+- **Step 1:** Start by tapping the **Emergency Call** button on your lock screen. This will bring up the emergency dialer screen.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![android tap to add emergency contacts](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-03.jpg)
+
+- **Step 2:** Type a series of special symbols on the dialer screen, such as asterisks (\*). Do this several times in a row.
+- **Step 3:** Double-tap the string of symbols to highlight them, then copy the string. Now, tap on the screen to paste the copied string. Repeat this process 10 to 11 times until you can no longer highlight the series.
+- **Step 4:** Go back to the lock screen. Open the **Camera** app by tapping the camera icon or sliding left. Simultaneously, pull down the Notification Panel from the top.
+- **Step 5:** In the Notification Panel, tap the gear icon to try and access your device’s settings.
+- **Step 6:** When prompted for a password, long-press and paste the copied string into the password field. Repeat this several times until the option to paste is no longer available.
+- **Step 7:** Keep pasting the string until the interface crashes. The lock screen should disappear, and the camera interface will expand. After some time, the camera app should also crash, and your device will unlock, displaying the home screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![android home screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-04.jpg)
+
+This method, while unconventional, has been known to work on various Android 5 devices, including Samsung models. However, using this technique responsibly and only on devices you own or have permission to access is important. Remember, this method exploits a security flaw and should be used as a last resort.
+
+## Part 3: Other Ways To Unlock Your Screen
+
+While the **emergency call bypass for Android** method is interesting, it’s largely unreliable and outdated, mainly effective on older Android versions. Modern devices have significantly improved security, making this method obsolete. There are other, more reliable methods for those needing to unlock their phone’s screen.
+
+### Method 1: Wondershare Dr.Fone – Screen Unlock
+
+[<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a comprehensive software solution for various mobile issues, including screen unlocking. It’s especially useful when you’ve forgotten your password, pattern, or PIN. Here’s how you can use Dr.Fone to unlock your screen:
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
+
+- Completely unlinked from the previous Google account, it won’t be traced or blocked by it anymore.
+- Remove all Android screen locks (PIN/pattern/fingerprints/face ID) in minutes.
+- Compatiable with various Android models.
+- Provide specific removal solutions to promise good success rate.
+
+**4,008,670** people have downloaded it
+
+- **Step 1:** Launch the Dr.Fone toolkit and go to **Toolbox** > **Screen Unlock.** Connect your Android device to your PC.
+
+![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+
+- **Step 2:** On the next page, choose **Android.**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![dr.fone screen unlock home](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
+
+- **Step 3:** Select **Unlock Android Screen**, as this is specifically for bypassing the lock screen
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![unlock android or google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+- **Step 4:** Select the brand of your device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+- **Step 5:** Click **Remove without Data Loss** to ensure your data stays intact.
+
+![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
+
+- **Step 6:** Confirm device details. Then, enter “000000” to confirm and initiate the unlocking process.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![confirmation 00000 screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
+
+- **Step 7:** The software will provide specific instructions to put your device into download mode. Follow them.
+
+![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+- **Step 8:** Once the process is complete, click **Done.** If it doesn’t work the first time, try again.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+### Method 2: Using “Forgot PIN/Passcode” and Google Account
+
+You can use the **Forgot PIN/Passcode** feature if you’ve linked your phone to a Google account. After multiple failed attempts to unlock your phone, you’ll see a prompt to reset the password via your Google account credentials.
+
+### Method 3: Forcing a Data Reset on Your Android Phone
+
+As a last resort, you can [<u>perform a factory reset</u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html). This will erase all data on your device but remove the lock screen. Access the recovery mode by pressing a combination of keys (usually volume up/down and the power button) and then selecting **Wipe data/Factory reset**.
+
+### Method 4: Booting Into Safe Mode
+
+Booting into safe mode can bypass third-party lock screens. This method won’t work on the default lock screen but can be helpful if an app sets the lock.
+
+In summary, while the emergency call bypass is a thing of the past, there are still various ways to unlock your phone. There’s always a solution, whether through a sophisticated tool like Wondershare Dr.Fone or built-in Android features.
+
+## Conclusion
+
+This guide explored **how to bypass the Android lock screen using an emergency call.** It mainly focused on outdated **Android emergency call bypass** and more reliable alternatives. Key takeaways include understanding that while older methods like the emergency call bypass are largely ineffective on modern devices, tools like Wondershare Dr.Fone offer a safe and trusted solution.
+
+Learning to unlock your phone screen ensures you’re never locked out of your device, keeping it within your reach. Consider using Dr. Fone- Screen Unlock for a secure and effective way to bypass phone lock screens. It’s an excellent tool for regaining access to your device without risking your data.
+
+
+
+## How to Bypass Android Lock Screen Using Emergency Call On OnePlus 11R?
+
+The main reason why we keep our smartphone locked is to prevent children (or stalkers) checking out our private photos or messages. You don't want anyone to access your pictures, emails, or other important data. What if you forget your pattern or PIN and cannot access your phone? Or someone changes lock screen pattern to leave you annoyed?
+
+To avoid such types of conditions, we have tried and tested the following methods to bypass the OnePlus lock screen pattern, PIN, password, and fingerprint.
+
+## Method 1. Use 'Find My Mobile' feature on OnePlus Phone
+
+All OnePlus devices come with the "Find My Mobile" feature. To bypass the OnePlus lock screen pattern, PIN, password, and fingerprint, you can just follow the below steps to get it done.
+
+- Step 1. First, set up your OnePlus account and log in.
+- Step 2. Click the "Lock My Screen" button.
+- Step 3. Enter a new PIN in the first field
+- Step 4. Click the "Lock" button at the bottom
+- Step 5. Within a few minutes, it will change the lock screen password to the PIN so that you can unlock your device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## Method 2. Use Android Device Manager to Bypass OnePlus Password
+
+To know how to unlock a OnePlus phone lock password with Android device manager, make sure the Android Device Manager is enabled on your device.
+
+- Step 1. Visit google.com/android/devicemanager on other smartphones or PC.
+- Step 2. Log into your Google account that you used on your locked device.
+- Step 3. Choose the OnePlus 11R device you want to unlock in ADM interface
+- Step 4. Click on the "Lock" option.
+- Step 5. Enter a password. There is no need to enter any recovery message. Select "Lock" again.
+- Step 6. You would see a confirmation below if it is successful, with "Ring, Lock and Erase" buttons.
+- Step 7. Now you must get the password field on your phone where you can enter your new password, and your phone will be unlocked.
+- Step 8. Go to lock screen settings on your device and disable the temporary password.
+
+![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
+
+## Method 3. Google Login (Supports Only Android 4.4 or Lower)
+
+If your device is still running on Android 4.4 or lower, here's how to bypass the OnePlus lock screen fast.
+
+- Step 1. Enter the wrong pattern for five times
+- Step 2. Choose "Forgot Pattern"
+- Step 3. Enter your Google account login or backup PIN
+- Step 4. Now your phone would be unlocked.
+
+![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
+
+## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
+
+To bypass the OnePlus lock screen in this method, you ought to be an advanced user who knows what are "custom recovery" and "rooting". You have to install any kind of customer recovery, and you should have an SD card on your phone. SD card is required to move a ZIP file to the phone, and it is the only way to transfer the file when the OnePlus 11R device is locked.
+
+- Step 1. Download a zip file named "Pattern Password Disable" on your computer and move it to the SD card of your OnePlus device.
+- Step 2. Insert the card on your device
+- Step 3. Restart your device into recovery mode.
+- Step 4. Flash the file on your card and restart the phone.
+- Step 5. Now your phone would boot up without lock screen. Don't worry if you had a gesture lock or password. All you need to do is to input a random gesture or password, and it will be unlocked.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Method 5. Delete the Password File Using ADB
+
+It is yet another option that will work only when you have enabled USB Debugging previously on your device, and your PC is allowed to connect via ADB. If you meet such requirements, it is ideal to use this method to unlock the OnePlus lock screen.
+
+- Step 1. Connect your device to the PC using USB cable and open command prompt in the adb directory. Type the command "adb shell rm /data/system/gesture.key" and then press "Enter".
+- Step 2. Restart your phone, and a secure lock screen must be gone, and you can access your device. Be sure to set a new PIN, pattern, or password before rebooting again.
+
+![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 6. Factory Reset to Bypass OnePlus Lock Screen
+
+A factory reset is the best option in almost any case if one of these solutions couldn't work. According to your device type, the process may vary. In most devices, you have to turn off the OnePlus 11R device completely to start the process. But this method will delete all the precious data on the OnePlus 11R device after the factory reset.
+
+- Step 1. Hold the power button and volume down at the same time. It will open the Bootloader menu.
+- Step 2. Press the volume down button two times to choose "Recovery Mode" and select it by pressing the "Power" button.
+- Step 3. Hold down the power button and tap "Volume Up" once, and you would enter "recovery" mode.
+- Step 4. Choose "Wipe Data/Factory Reset" option by using volume buttons.
+- Step 5. Select it by pressing the Power button.
+- Step 6. Select "Reboot System Now" once the process is done.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![how to unlock a samsung phone without the code-factory reset](https://images.wondershare.com/drfone/others/14623546631338.jpg)
+
+[Backup your OnePlus phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
+
+## Method 7. Boot into Safe Mode
+
+Chances may be that you are using a third-party lock screen app. Then lucky for you, this way works best to bypass the OnePlus lock screen. Specifically, you can boot your OnePlus device into [Android Safe Mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html).
+
+- Step 1. Open up the Power menu from the lock screen and press and hold the "Power Off" option.
+- Step 2. It will ask if you want to boot in safe mode. Tap "OK"
+- Step 3. Once the process finishes, it will temporarily disable the lock screen activated by the third-party app.
+- Step 4. Uninstall the third-party lock screen or just reset the data.
+- Step 5. Reboot your device and get out of safe mode.
+- Step 6. Now the irritating lock screen app is removed completely.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+## Method 8. Other Methods
+
+- Step 1. Take your friend's phone to call on your locked phone.
+- Step 2. Accept the call and press the back button without disconnecting.
+- Step 3. Now you can access the OnePlus 11R device completely
+- Step 4. Go to the security settings of the OnePlus 11R device and remove the pattern or pin.
+- Step 5. It will ask you the correct pin that you don't know, guess, and try various combinations you can recall.
+
+To avoid forgetting your password or PIN next time, be sure to write the pattern or numbers on a text file or paper to keep them safe. If you have to bypass the OnePlus lock screen pattern, PIN, password, and fingerprint, you may consider using Dr.Fone - Screen Unlock (Android). It is a professional tool that can remove all the fingerprints, pattern, and password lock screens without losing any data on your phone.
+
+## How to Unlock OnePlus 11R Phone Password Without Factory Reset?
+
+You always set up some sort of lock to secure your smartphone to stop others from checking your phone data, messages, or pictures. More importantly, it is needed to deny admission to your valuable phone data in case it gets stolen. However, many times you come across this situation where your Android phones are stuck as you cannot unlock the password. Either your children have been playing with the lock patterns, and the screen gets locked due to entering the wrong password many times, or you have unexpectedly forgotten your password. Or somebody else has reset your password, or you have broken your mobile screen, and you cannot enter your password. Many similar situations may arise.
+
+You are in the middle of some things, and you want to make some urgent calls. How to unlock Android phone passwords without a factory reset? What do you do then? There are very easy solutions to this that would help unlock your Android phone in no time without going for the factory reset and losing your valuable data.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+## Part 1: How to unlock Android password without factory reset using Dr.Fone - Screen Unlock?
+
+Whether you have a pattern or PIN or fingerprint as a password, you can remove any type of password by using the Dr.Fone - Screen Unlock. The only defect is that your data will be wiped out after unlocking the phone successfully. It helps in removing the lock screen on Android phones. Now, if you are thinking about how safe it is, let me assure you that the process is very safe and simple, with no risk of data leakage. This process is supported by most Samsung and LG smartphones without data loss, and you just need to connect your handset to let the Dr.Fone - Screen Unlock start the procedure.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/WOBqlRz2IaY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+Get into Locked Android Phones without Factory Reset
+
+- 4 screen lock types are available: pattern, PIN, password, fingerprints, face ID, etc.
+- Support 20,000+ mainstream models of Android phones & tablets.
+- Save you from ending up with a locked phone after too many wrong attempts.
+- Provide specific removal solutions to promise good success rate.
+
+**4,008,669** people have downloaded it
+
+Follow the following steps to unlock your Android password without factory reset using Dr.Fone.
+
+**Step 1:** Firstly, install and run [Download Dr.Fone –Screen Unlock](https://download.wondershare.com/drfone_unlock_full3372.exe) on your computer. And connect your Android phone to your computer with a USB cable > download.
+
+![Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2:** After that, select the phone model from the list or choose "I can't find my device model from the list above" on the next screen.
+
+![start to unlock android password](https://images.wondershare.com/drfone/drfone-android/drfone-lock-02.jpg)
+
+**Step 3:** Now, there will be three steps mentioned that you must follow to get your phone into the Download mode. The first is to power off the phone. The second is to press and hold the Volume button along with the Home button and Power button. The third step is to press the volume up the option to get into the download mode.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![boot phone in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+**Step 4:** Once your phone is in download mode, the program will start downloading the recovery package and then unlock your Android password without factory reset or data loss.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
+
+**Step 5:** You will see that the icon showing “Remove Password Completed” will pop up. This whole process takes only a few minutes to get your work done without any loss of any data.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![unlock android password without factory reset](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## Part 2: How to unlock Android password without factory reset using Android Device Manager?
+
+With very simple steps and a few minutes at hand, you can get rid of your password using Android Device Manager (ADM). This tool will unlock your password without going for a factory reset and losing data. The main feature of the Android device manager will run through the Google account. The installation of a Google account is very important to run out the Android device manager. The Android device will respond immediately once if the phone is switched on. The connectivity of the internet is a must to find the map on the OnePlus 11R device. How to unlock Android phone passwords without factory reset? May it be quite interesting to use device manager visuals? The steps are mentioned below:
+
+**Step 1.** Your Android phone is always linked to your Google account. So first and foremost, on your computer or on another mobile phone, open the site <www.google.com/Android/devicemanager>.
+
+![log in android device manager](https://images.wondershare.com/drfone/article/2017/10/15090637241780.jpg)
+
+• Now sign in with your Google credentials. Google will start searching for your device. Here you need to choose the Android phone you want to unlock in case it is already not selected.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![drfone](https://images.wondershare.com/drfone/article/2017/10/15090637463876.jpg)
+
+**Step 2.** Here you will see three options: “Ring,” “Lock,” and “Erase.” Select the “Lock” option
+
+**Step 3.** A window will appear where you need to type any temporary password. Do not enter your Google password, and you need not enter the recovery message. Click on “Lock ” again.
+
+![enter temporary password](https://images.wondershare.com/drfone/article/2017/10/15090638114424.jpg)
+
+Once successful, you will get a confirmation message below the three buttons: Ring, Lock, and the Erase option.
+
+**Step 4.** On your locked phone, you will see a field asking for your password. Here you can enter your temporary password. Doing so will unlock your device.
+
+**Step 5.** Now in your unlocked phone, go to Settings and then to Security. Now click on disable to remove the temporary password, and later you change it with a new one.
+
+You have successfully unlocked your device.
+
+## Part 3: Unlock Android password using custom recovery and Pattern Password Disable (SD card needed)?
+
+The third way to unlock an Android phone password without a factory reset it using the “custom recovery” technique. To work out this process, you would have to install the custom recovery process. Also, your phone needs to have an SD card. It will be required to send the zip file to the phone since your device is locked. This technique requires access to the Android System folder and rooting your device if not already rooted.
+
+Custom recovery is a usual mechanism in all smartphones. It predicts the troubleshooting techniques and how to process the main configuration with all sequences. Quite interesting, isn’t it?
+
+Follow the following steps to complete and unlock the Android password without a factory reset.
+
+- **Step 1.** First of all, download a zip file by the name [“Pattern Password Disable”](https://forum.xda-developers.com/attachment.php?attachmentid=2532214&d=1390399283) to the computer system and then transfer it to your SD card.
+- **Step 2.** Then you would need to insert the SD card into your locked phone and then restart the OnePlus 11R device in recovery mode.
+- **Step 3.** Next, move on to flash on the zip files to the card and restart. After that, your phone will boot and open up without the locked screen.
+
+_**Note**: Sometimes, the OnePlus 11R device may ask for a pattern or password. You just need to put in any random pattern/password then it will get unlocked._
+
+Through this easy method, you can now access your Android phone without using a factory reset and losing your valuable data.
+
+The problem of getting your mobile locked and not being able to open it is a common problem on Android phones these days. Many of us tend to panic when such problems arise. However, now that we have given some easy solutions and methods to unlock Android phone passwords without factory reset and losing any data, things would be much easier. Thus, you will solve your problems in no time.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bringing-bygone-era-filmmaking-to-life-today/"><u>[New] 2024 Approved  Bringing Bygone Era Filmmaking to Life Today</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigate-to-full-screen-bliss-on-facebook/"><u>[New] 2024 Approved  Navigate to Full-Screen Bliss on Facebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-picks-for-tiktok-conversion-tools-mp4-edition-for-2024/"><u>[New] Top Picks for TikTok Conversion Tools  MP4 Edition for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reimagining-focus-the-new-age-of-zooming-clear/"><u>[Updated] Reimagining Focus  The New Age of Zooming Clear</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-a-beginners-insight-into-av1-encoding/"><u>2024 Approved  A Beginner's Insight Into AV1 Encoding</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-dust-off-the-glare-avoiding-gopro-misting/"><u>2024 Approved  Dust Off the Glare  Avoiding GoPro Misting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nokia-130-music-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nokia 130 Music Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nokia-c210-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nokia C210? Try These Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g24-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Moto G24</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-reno-10-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo Reno 10 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-k11x-phone-by-drfone-android/"><u>How to Reset a Locked Oppo K11x Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-c12-plus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia C12 Plus Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-10t-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme 10T 5G Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oneplus-ace-2-lock-screen-password-by-drfone-android/"><u>How to Reset your OnePlus Ace 2 Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-redmi-13c-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Redmi 13C Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo A78 5G Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme 11 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-12r-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus 12R Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-m6-pro-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco M6 Pro 4G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nubia-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nubia Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Honor Magic 6 Phone Without Password?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-the-maze-of-youtube-short-mistakes/"><u>In 2024, Navigating the Maze of YouTube Short Mistakes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-blueprint-for-youtube-video-success/"><u>In 2024, The Blueprint for YouTube Video Success</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-g22-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia G22</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-12plus-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 12+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nubia-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nubia</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-11-proplus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 11 Pro+ Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mirror-your-gameplay-today-for-2024/"><u>Mirror Your Gameplay Today for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-the-path-to-play-pre-starfield/"><u>Pioneering the Path to Play Pre-Starfield</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nubia-red-magic-8s-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Nubia Red Magic 8S Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-7-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 7 Plus Without iTunes in 5 Ways</u></a></li>
+</ul></div>
