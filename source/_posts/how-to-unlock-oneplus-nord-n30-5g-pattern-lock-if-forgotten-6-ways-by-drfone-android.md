@@ -1,7 +1,7 @@
 ---
 title: How to Unlock OnePlus Nord N30 5G Pattern Lock if Forgotten? 6 Ways
-date: 2024-07-15T22:40:23.713Z
-updated: 2024-07-16T22:40:23.713Z
+date: 2024-09-07T00:48:53.761Z
+updated: 2024-09-08T00:48:53.761Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,7 +28,10 @@ If you want to unlock the pin, pattern, password, fingerprint, or any other kind
 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -41,9 +44,6 @@ Remove Pattern Locks on Android Screen at Ease
 
 **4,008,669** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### To learn how to unlock pattern lock using Dr.Fone, follow these steps
 
 - **Step 1.** Install Dr.Fone and launch it to perform pattern unlock. From the home screen, select the “**Screen Unlock**” option.
@@ -54,6 +54,12 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![connect android phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -72,6 +78,18 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 
 ![how to unlock pattern](https://images.wondershare.com/drfone/2020/lock.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 4.** Click on the “**Lock**” option to change the lock pattern on your device.
 - **Step 5.** Provide the new password for your device and write an optional recovery message.
 
@@ -80,7 +98,10 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Unlock Android Pattern Lock Using the 'Forgot Pattern' Feature?
 
@@ -91,6 +112,12 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 
 ![forgot pattern](https://images.wondershare.com/drfone/article/2017/09/15057372111138.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3.** Select the option to unlock your device with your Google credentials.
 
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057372279692.jpg)
@@ -99,7 +126,10 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 - **Step 5.** Later, you can set a new pattern for your device and confirm it. This will let you access your Android device with the new pattern lock.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: How to Unlock Samsung Phone Pattern Lock Using Samsung Find My Mobile?
 
@@ -109,20 +139,41 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![find my mobile](https://images.wondershare.com/drfone/article/2017/09/15057372744992.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** You can select your device from the left panel. By default, it will provide its location on the map.
 
 ![select the OnePlus Nord N30 5G device](https://images.wondershare.com/drfone/article/2017/09/15057372918464.jpg)
 
 - **Step 3.** Additionally, you can access various other services from here as well. Click on the “Unlock My Device” option to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Unlock Android Pattern Lock in Safe Mode?
 
 This is a simple and effective solution to knowing how to unlock patterns on an Android device. Nevertheless, this solution will only work for third-party lock screen apps. If you are using your phone’s native lock feature, then it might not work. After restarting your phone in Safe Mode, you can easily move past its pattern lock without any trouble. All you need to do is follow these steps:
@@ -130,17 +181,23 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 - **Step 1.** Simply press the Power button on your device to get the Power menu on its screen.
 - **Step 2.** Now, tap and hold the “Power off” option.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![power off android phone](https://images.wondershare.com/drfone/article/2017/09/15057373454386.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3.** This will display the following pop-up message. Agree to it and restart your phone in Safe Mode.
 - **Step 4.** Once the OnePlus Nord N30 5G device would be restarted in Safe Mode, the third-party lock screen would be disabled automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
 - **Step 5.** Later, you can go to the OnePlus Nord N30 5G device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
@@ -153,11 +210,14 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 - **Step 2.** Though, the correct key combination might differ from one version of the Android device to another.
 - **Step 3.** Use the Volume Up and Down key to navigate and the Power/Home button to make a choice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
 
@@ -166,9 +226,6 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
 - **Step 7.** Later, you can choose to reboot your phone and access it without any lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 By following this guide, you would certainly be able to learn how to unlock the pattern lock on your device without much trouble. We recommend using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to perform pattern unlock with no data loss. It has a user-friendly interface and is sure to yield the desired results. Now when you know how to unlock patterns on an Android device, you can share this information with others as well to help them!
@@ -185,6 +242,12 @@ Most of the time, we use Android phones, we get faced with the need to access th
 
 ## Part 1: Show Wifi Password on Rooted Android Device
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is Rooting?
 
 First of all, what does rooting mean? You have probably used a Windows computer or even Linux. For the case of Windows, when installing a new program or software, it always prompts a dialog box saying, "Administrator permission required to run this program." If you don't have the administrator permission, you won't install the program. In Android, this is called rooting. In simple terms, it means having the root permission to your phone. Some Android apps will require you the root permission, e.g., flashing your ROM. In this part, we will explain how you can show the Wi-Fi password on your Android with root.
@@ -194,7 +257,10 @@ To find the Wi-Fi passwords on your Android phone, you need to have an app to ex
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556285763404.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Steps of getting Wi-Fi password on Android with root
 
@@ -212,10 +278,28 @@ The root explorer needs to be enabled so that you can reach the root folders of 
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556292611536.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This will drop down a list of controls. Scroll down and find the **Root Explorer** option and enable it.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Get the passwords' file.
 
 Go back to ES file explorer, and this time, find the folder named **data**.
@@ -226,12 +310,24 @@ When this folder opens, find another one named **misc**. Open it and find anothe
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293762552.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Retrieve the wifi password on Android
 
 Make sure that you don't edit anything in the file. You might mess up with important data and fail to access the Wi-Fi(s) in the future.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556294042257.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As you can see above, we have found the Wi-Fi passwords on the android device. On each network profile, we have the name of the network represented by _name (ssid="{the name}")_, the network's password represented by _psk_, the network's access point represented by _key\_mgmt=WPA-PSK_ and its priority represented by _priority_.
 
 ## Part 2: Show Wifi Password on Android without Root
@@ -246,25 +342,22 @@ To access the files that Android uses to run passwords, you must first become a 
 
 Get your Android phone and go to settings. Scroll down and find "About phone." Tap on it and scroll down again to find Build number.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556302638925.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tap on this "build number" 5 to 6 times until a message pops up, saying, "You are now a developer".
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556303263992.jpg)
 
 Step 2: Enable the debugging.
 
 Go back to Settings. Scroll down for developer options. Turn on the button for "Android/USB debugging".
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556308665697.jpg)
 
 Step 3: Install ADB drivers.
@@ -273,13 +366,16 @@ Now, open your Windows desktop. Download and install ADB drivers. (Use this down
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Test the ADB
 
 Here, we would like to test whether the ABD is working properly. To do this, connect your phone to the PC using a USB. In the command prompt, type **adb services** and then press enter. If it's working properly, you should see a device on this list.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329984622.jpg)
 
 Step 5: Find the Android wifi password.
@@ -292,11 +388,14 @@ Lastly, open the file with a notepad, and there you go.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556331232772.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now you learned how to show the wifi password on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Guide: How to Bypass Swipe Screen to Unlock on OnePlus Nord N30 5G Device
 
 Nowadays, the security mode is enabled in almost all digital devices, which is the case with our smartphones. However, when we repeatedly change our password, we might be in a state of confusion to remember it. Such instances are highly schemed to lock our messages, galleries, emails, and other personal storage. Using the locking pattern enhances security, and thus, apart from the known user of the OnePlus Nord N30 5G device, unknown people cannot access your Android phone. To overcome this critical situation, we have this article to help you unlock your Android devices by removing or bypassing the swipe lock Android screen. The solutions provided in this article are easily accessible to all users and are easy to operate.
@@ -305,6 +404,12 @@ So, if you have ever been stuck due to a lock code, go through the article to re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to disable Swipe Screen to unlock when you can access the phone?
 
 Some people do not pay much attention to their privacy and will not bother locking their Android devices. They would disable the swipe screen to unlock their devices. Thus, this section will talk about the basic solution to disabling the swipe up to unlock Android devices. Our main focus here is on a disabling method of swiping the screen when your Android device is accessible.
@@ -330,7 +435,10 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 That's all. You have successfully run out of the disable commands for the swipe up to unlock the screen. You can now open and access your device without any security methods.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2:How to remove/bypass Swipe to unlock when the phone is locked?
 
@@ -340,6 +448,12 @@ The features of this Dr.Fone software are many. It gives a solution to four lock
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -357,25 +471,31 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 2:** Now, to bypass swipe lock Android, using the USB cable, connect the Android device to your computer, and it will prompt the Unlock Android Screen option.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start to unlock Android swipe screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** To enable the download mode on your Android device, shut down your phone>Simultaneously, press the volume down, Home button, and Power button >Press the Volume up button. Once your device is in download mode, the recovery kit will get downloaded.
 
 ![boot in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4:** You will see the result right in front of you as Dr.Fone - Screen Unlock, recovery will bypass swipe lock Android without hampering your data. Foremost, you can now access your device without swipe up to unlock the screen.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![android phone unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Pretty simple, right? Dr.Fone - Screen Unlock to the rescue for the issue of swipe screen to unlock.
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to turn off the swipe to unlock when the pattern is enabled?
 
 In this section, we will cover how to turn off the swipe to unlock when the pattern lock of the OnePlus Nord N30 5G device is enabled. Therefore, here we will go through the process of turning off the swipe to unlock the feature of your device. This structure is formed in some interval of locking the screen.
@@ -386,27 +506,30 @@ The steps below imply turning off of swiping screen instantly:
 
 **Step 2:** There will be multiple interfaces. Now choose the option “Security.”
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone security settings](https://images.wondershare.com/drfone/article/2017/10/15090622395204.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** To turn off the swipe screen, when the pattern is enabled then, choose “Screen lock” and then click on “NONE.”
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select none](https://images.wondershare.com/drfone/2020/enable-screen-lock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** If you have enabled your pattern choice already, it will again prompt you to enter the pattern. Once you entered the pattern, the swipe screen lock will disappear.
 
 **Step 5:** The final step is to reboot your Android device to update the feature of turning off the swipe screen. Now you can open your device at any time without using the pattern lock feature.
 
 **Note:** Regardless of any situation of forgetting the Android lock password, you can go for an email account set up for swiping into the Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Now, to sum up, we would say that in this article, we tried to bring out the best solutions for your Android device in such cases wherein you want to disable your screen security. The Dr.Fone - Screen Unlock is simply a proven mechanism that delivers what we need and that, too, without any data loss. We ensure that you can disable the swipe screen to unlock easily and effectively using the methods given above. Hence, you can access your phone by bypassing swipe lock Android even if you forget the screen lock code. So, don't just wait, but bring out the solution for the swipe screen to unlock the Android device with [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) now.
@@ -431,3 +554,51 @@ Now, to sum up, we would say that in this article, we tried to bring out the bes
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-record-panel-wide-digital-view/"><u>[New] 2024 Approved Record Panel-Wide Digital View</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-address-webview-compatibility-for-fb-streaming-for-2024/"><u>[New] Address WebView Compatibility for FB Streaming for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-digital-diaries-of-daily-displays-fb-live-downloads-for-2024/"><u>[New] Digital Diaries of Daily Displays FB Live Downloads for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-screen-time-secrets-in-depth-recorder-guide/"><u>[Updated] In 2024, Screen Time Secrets In-Depth Recorder Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-convenient-iphone-method-for-live-screen-capture/"><u>2024 Approved Convenient iPhone Method for Live Screen Capture</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-step-by-step-applying-the-cartoon-face-filter-in-snapchat/"><u>2024 Approved Step-by-Step Applying the Cartoon Face Filter in Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>2024 Approved Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285103394-2022dvd/"><u>如何在2022年將DVD變成數字格式：最佳策略解析</u></a></li>
+<li><a href="https://win-blog.techidaily.com/accelerate-your-play-fixed-techniques-for-skipping-forza-horizon-5s-load-screens/"><u>Accelerate Your Play: Fixed Techniques for Skipping Forza Horizon 5'S Load Screens</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-civi-3-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Civi 3</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-captivating-content-crafting-impactful-insta-videos/"><u>In 2024, Captivating Content Crafting Impactful Insta-Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-find-x6-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo Find X6 Pro Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c300-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C300 Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-ace-2-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus Ace 2 Lock Screen Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oneplus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on OnePlus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A56s 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nokia-c300-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nokia C300 Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-12-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus 12 Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-ace-2-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus Ace 2 Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo Reno 10 5G Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-11r-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus 11R Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-k11x-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo K11x Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-reno-10-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo Reno 10 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c110-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nokia C110 Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c110-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nokia C110 Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c300-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nokia C300 Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g310-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia G310 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-xr21-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nokia XR21 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2v-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2V Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 Lite 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-correct-shell32dll-misplacement-on-your-pc/"><u>Step-by-Step Guide to Correct Shell32.dll Misplacement on Your PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-gt-10-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Infinix GT 10 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-insufficient-resource-allocation-warnings/"><u>Troubleshooting Guide: Addressing Insufficient Resource Allocation Warnings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turning-still-shots-into-audio-visual-narratives-for-2024/"><u>Turning Still Shots Into Audio-Visual Narratives for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-your-gameplay-with-higher-fps-on-ring-of-elysium/"><u>Ultimate Guide: Enhancing Your Gameplay with Higher FPS on Ring of Elysium</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-omnicharge-omni-20-an-insightful-guide-to-its-all-purpose-portable-charging-abilities-and-integrated-wireless-feature-set/"><u>Unpacking the Omnicharge Omni 20: An Insightful Guide to Its All-Purpose Portable Charging Abilities & Integrated Wireless Feature Set</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-gt-10-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix GT 10 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://windows11.techidaily.com/winfix-guide-reviving-dormant-wsreset-service-process/"><u>Winfix Guide: Reviving Dormant WSReset Service Process</u></a></li>
+</ul></div>

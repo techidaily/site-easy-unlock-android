@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Oppo A1 5G Pattern Lock Screen Everything You Need to Know
-date: 2024-08-24T00:17:40.448Z
-updated: 2024-08-25T00:17:40.448Z
+date: 2024-09-07T00:53:08.481Z
+updated: 2024-09-08T00:53:08.481Z
 tags: 
   - unlock
   - remove screen lock
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
 
 Do you want to revamp your phone’s pattern lock screen and give it a new life? Well, you are not the only one! Lots of Android users keep looking for numerous ways to change their screen lock pattern and make it more secure. After all, if your lock screen pattern is strong, then it will certainly keep an intruder away. In today’s world, our privacy is everything and we should take every needed measure to protect it. To help you do the same, we have come up with this informative guide. Read on and learn how to set up a strong pattern lock screen on your device and what to do if you have forgotten it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to set up Pattern Lock Screen on Oppo A1 5G?
 
 Out of all the provided options for screen locks, pattern lock is mostly used due to its ease of access and added security. If you haven’t set up a screen lock pattern on your device, then we recommend you to do the same right away. Not only will it keep intruders away, it will also protect your privacy. To learn how to set up a lock screen pattern on an Android device, simply follow these steps:
@@ -39,11 +45,23 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 
 ![setup android pattern lock screen](https://images.wondershare.com/drfone/article/2017/09/15057380143598.jpg) ![setup android pattern lock screen-provide the same pattern](https://images.wondershare.com/drfone/article/2017/09/15057380317550.jpg) ![setup android pattern lock screen-provide a security pin](https://images.wondershare.com/drfone/article/2017/09/15057380506350.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - 10\. Similarly, you would be required to confirm the pin as well to finish the setup.
 - 11\. That’s it! By completing these steps, a screen lock pattern will be implemented on your device.
 
 Later, you can follow the same drill to change your device’s lock screen pattern as well. Though, you would be needed to provide the existing pattern to access these features. Out of all the lock screen options, you should go with the pattern lock. Not only it is the most accessible option, it also provides fast results with an added security.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What to do if you forget Android pattern lock?
 
 After following the above-mentioned tutorial, you would be able to set up a pattern lock screen on your device. Since it is recommended to have a strong pattern lock, users often forget their pattern lock after implementing it. This prohibits them from using their own Android device. If you have a similar experience, then don’t worry. There are plenty of ways to unlock a device and remove its pattern lock without causing any harm to the system. Visit our informative tutorial and learn different ways to [unlock or bypass the Android pattern lock screen.](https://drfone.wondershare.com/unlock/pattern-lock.html)
@@ -65,6 +83,12 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Top 10 Hardest pattern lock ideas for Android
 
 Your pattern lock is one of the most important security aspects on your device. Anyone can access your phone after decoding your pattern lock. Needless to say, if you have a simple pattern lock on your device, then it can easily be accessed by someone else. To help you set up a strong pattern lock screen, we have handpicked some of the hardest combinations. Have a look at these lock screen pattern combinations and choose the one you like the most!
@@ -73,30 +97,36 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 1](https://images.wondershare.com/drfone/article/2017/09/15057382355667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 # 1
 
 8 > 7 > 4 > 3 > 5 > 9 > 6 > 2 > 1
 
 ![android pattern lock idear 2](https://images.wondershare.com/drfone/article/2017/09/15057385086356.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 # 2
 
 7 > 4 > 1 > 5 > 2 > 3 > 8 > 6
 
 ![android pattern lock idear 3](https://images.wondershare.com/drfone/article/2017/09/15057385333697.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 # 3
 
 1 > 8 > 3 > 4 > 9
 
 ![android pattern lock idear 4](https://images.wondershare.com/drfone/article/2017/09/15057385588612.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 # 4
 
 7 > 4 > 2 > 3 > 1 > 5 > 9
@@ -109,27 +139,48 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386032751.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 # 6
 
 8 > 4 > 1 > 5 > 9 > 6 > 2 > 3 > 7
 
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386209876.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 # 7
 
 7 > 2 > 9 > 4 > 3 > 8 > 1 > 6 > 5
 
 ![android pattern lock idear 7](https://images.wondershare.com/drfone/article/2017/09/15057386366638.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 # 8
 
 5 > 7 > 2 > 9 > 1 > 4 > 8 > 6 > 3
 
 ![android pattern lock idear 8](https://images.wondershare.com/drfone/article/2017/09/15057386529029.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 # 9
 
 1 > 5 > 9 > 4 > 8 > 2 > 6 > 3 > 7
@@ -142,13 +193,22 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 10](https://images.wondershare.com/drfone/article/2017/09/15057386838919.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After selecting and setting up a new screen lock pattern on your device, make sure that you remember it. You can lock and unlock your phone a few times with your new pattern lock in order to memorize it. Nevertheless, if you forget your lock screen pattern, then you can take the assistance of Dr.Fone Android Pattern Lock Removal to get an instant solution.
 
 Now when you know every essential thing about pattern lock screen on Android, you can certainly keep your device safe from any unforeseen intrusion. A strong lock screen pattern will certainly be of a great use to you. It will protect your apps, data, and device accessibility in an effortless manner. Go ahead and set up a strong and secure pattern lock screen on your device and provide an added layer of security to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How to Reset your Oppo A1 5G Lock Screen Password
 
 Android phones have the option of locking the screen using a PIN, pattern, or password. This is meant to keep the phone secure and prevent any unwanted intrusion. PINs and patterns are somewhat easy to remember, but it is common to forget the Android lock screen password. The phone gets locked if someone consecutively enters the wrong password multiple times. Then it is a common question to ask, "How to reset your Android password?"
@@ -159,9 +219,6 @@ The device becomes inaccessible and requires an Android password reset. But ther
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 1: Dr.Fone - Screen Unlock (Android): A Direct Way to Unlock the Phone
 
 Using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a direct way to Android reset the password and unlock the phone. There is no tension of data loss, and this [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html) works for different lock systems. It can reset the Android password, pattern, PIN, and fingerprint lock in under 5 minutes. It is straightforward to operate and does not require any technical knowledge.
@@ -170,6 +227,24 @@ Wondershare offers you 100% security as it only authorizes you access. It is sim
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into Locked Android Phones Within Minutes
@@ -189,16 +264,21 @@ Open the program. After that, select and click on "Screen Unlock" on the right s
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now get the Android phone connected to the PC and select the Oppo A1 5G device model in the list to proceed.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 2: Activate download mode**
 
@@ -210,26 +290,50 @@ You have to put your device into download mode. For that, follow the instruction
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3: Download the recovery package**
 
 After the download mode has been entered, the program will begin to download the recovery package automatically. You have to hold your horses until it is complete.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4: Remove the Android password without data loss**
 
 Soon the recovery package finishes downloading. Then the program begins to remove the lock screen. After the process is over, you can access all your data on your Android device and reset your Android password.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 These simple steps will ensure that you can secure your Android lock screen easily, without any worries. You do not have to worry about data loss, and you will reset your Android phone. Even if you have forgotten your Android password and are thinking about starting your Android phone again, these simple tips will help.
 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Solution 2: How to reset Android Phone Password with Smart Lock?
 
@@ -241,22 +345,16 @@ These alternatives encompass trusted locations, connected devices, or facial rec
 
 ![access trust agents feature](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2.** Within "Trust agents," toggle on "Extend Unlock" and then return to the previous screen. Select "Extend Unlock" and input your pattern, PIN, or password to confirm. Next, pick your desired Smart Lock type and follow the on-screen prompts to activate.
 
 ![required extend lock](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 3: How to Unlock Samsung Phone with SmartThings?
 
 Unlocking an Android phone using SmartThings is an option available for Samsung devices. SmartThings offers remote control and management of Samsung devices. It also includes the ability to unlock your phone under specific conditions. Here's a general guide on how to use SmartThings to unlock your Samsung phone:
@@ -265,13 +363,16 @@ Unlocking an Android phone using SmartThings is an option available for Samsung 
 
 ![sign in to smart thing website](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2.** Select the "Unlock" button located in the top right corner of the menu. Then, proceed by clicking "Unlock," and entering your Samsung password. Finally, confirm by clicking Unlock once more. This action will reset all your lock settings, comprising biometric security, PIN, password, and swipe pattern.
 
 ![unlock your samsung device](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 4: How to Reset Android Password using Google？
 
 To reset the Android password using Google, it is necessary to remember the Google password and ID. Google account must also be activated on the phone. Also, this method only works on devices running Android 4.4 or below. Follow the steps below for the Android password reset.
@@ -282,18 +383,12 @@ Enter the wrong password 5 times till the Android device gives you a "Forgot pas
 
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2: Enter credentials and do an Android reset password**
 
 Now enter the Google ID and password and log in. You will be able to Android reset your password and get access to your phone.
 
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 5: How to Reset Android Password using Android Device Manager？
 
 Familiar with Android Device Manager? Well, it has been renamed now as Find My Device. This service provided by Google helps you find, lock, or wipe your Android device. Plus, if you have enabled Find My Device, it might prove very helpful to assist you in unlocking your device. Check out these easy-to-follow steps for unlocking your Android device. For this, you need to use Find My Device, the upgraded Android Device Manager:
@@ -303,7 +398,10 @@ Familiar with Android Device Manager? Well, it has been renamed now as Find My D
 ![erase all device data](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Solution 6: How to reset Android Phone Password using Factory Reset?
 
@@ -325,9 +423,6 @@ Now use the volume +/- button to navigate to the "Wipe Data / Factory Reset" opt
 
 From the available options, choose "Reboot System Now." After the Android device powers on, you will be able to do the Android password reset.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Bonus Part: Useful Tips to Prevent Future Lockouts on Android
 
 Here are some helpful tips to prevent future lockouts on your Android device and ensure better password management.
@@ -339,7 +434,10 @@ Here are some helpful tips to prevent future lockouts on your Android device and
 - **5\. Regularly Back Up Your Data**: Make it a habit to consistently [back up your device data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). To prevent potential data loss from forgotten passwords or unexpected issues, take precautions. Safeguard your crucial data by creating backups, whether in the cloud or on an external storage device.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -350,7 +448,16 @@ On the other hand, other methods have their limitations. For example, SmartThing
 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Downloading SamFw FRP Tool 3.0 for Oppo A1 5G
 
@@ -361,7 +468,10 @@ The page discusses and evaluates its effectiveness with a comprehensive review. 
 ![samfw frp tool software introduction](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1. A Detailed Introduction of SamFw FRP Tool
 
@@ -371,9 +481,6 @@ _“I’m facing a Google FRP lock issue on my recently acquired Samsung Galaxy 
 
 **SamFw FRP Tool** is designed to unlock Samsung devices afflicted by Google FRP locks. The tool aims to provide a solution for bypassing FRP without the previous owner’s credentials. It is beneficial for their Samsung devices to be locked out due to a factory reset.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of SamFw FRP Tool
 
 Explore the essential features of the **SamFw FRP Tool**. Learn its key features for efficient Android device security solutions.
@@ -394,9 +501,6 @@ The tool can also remove other Android security measures. It can [<u>bypass pins
 
 **SamFw FRP Tool** offers a straightforward solution to remove Google FRP locks. Its intuitive interface makes the process accessible for beginners.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### How To Use SameFw FRP Tool
 
 Here’s a comprehensive guide to help you bypass FRP using the **Sam FRP bypass tool**.
@@ -405,20 +509,32 @@ Here’s a comprehensive guide to help you bypass FRP using the **Sam FRP bypass
 
 ![samfw frp tool main window](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2**: Choose your device’s brand and click the **Remove FRP** button. Your phone screen will then display a notification requesting USB debugging permission. Tap **OK** to proceed.
 
 ![samfw frp tool remove frp option](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 3:** Allow the process to complete. Upon completion, your device will automatically reboot as part of the FRP removal process. The reboot signals that the process bypassed the FRP lock. Close the pop-up and enjoy unrestricted access to your device.
 
 ![frp removal completion pop-up](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 **Note**
 
 _It’s important to note that the_ **_**_SamFw FRP Tool_**_** _is only compatible with Windows OS. Users with Mac or Linux systems may need to explore alternative solutions for FRP bypass._
@@ -432,13 +548,22 @@ Wondershare Dr.Fone - Screen Unlock (Android) is the go-to choice for many users
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Versatile lock screen removal**. Dr.Fone excels in removing various Android lock screen types. It offers a comprehensive solution for users facing different security challenges.
 - **Pin and Google Account bypass**. The tool bypasses FRP without the need for a PIN or Google Account. It provides a hassle-free experience for users.
 - **Fast unlock process**. Dr.Fone ensures a swift unlocking process. With the ability to remove the lock screen within less than 5 minutes, it minimizes inconvenience.
 - **Extensive device compatibility**. Supporting over 2000+ Android models, Dr.Fone Screen Unlock - Android boasts extensive compatibility. It’s a versatile and reliable choice for users with various devices.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Bypass FRP With Dr.Fone - Screen Unlock (Android)
 
 Dr.Fone - Screen Unlock (Android) is the ultimate alternative to the **SamFw FRP Tool**. Follow the steps outlined to bypass FRP without complications using the platform.
@@ -447,13 +572,22 @@ Dr.Fone - Screen Unlock (Android) is the ultimate alternative to the **SamFw FRP
 
 ![choosing device type on dr.fone](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Connect your Android device to the computer using a USB cable. Choose the **Remove Google FRP Lock** option.
 
 ![remove google frp lock option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 3:** Choose your Android device type and click **Start** to proceed to the next window. Afterward, choose **All Android versions (One-Click Removal)** if you don’t know the OS version of your phone. Click the **Start** button again to continue.
 
@@ -463,16 +597,10 @@ Dr.Fone - Screen Unlock (Android) is the ultimate alternative to the **SamFw FRP
 
 ![debugging smartphone to authorize dr.fone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 5:** Dr.Fone will confirm the removal of the FRP locks from your Android device. After successful removal, the prompt window indicates completion. Click **Done** upon successful execution. If issues persist, retry the process with the **Try Again** option.
 
 ![removed frp status window](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Side-by-Side Comparison Between SamFw Tool and Dr.Fone
 
 Choosing between **SamFw Tool** and Dr.Fone - Screen Unlock (Android) shouldn’t be hard. Here’s a concise side-by-side comparison evaluating their ease of use, speed, compatibility, features, and more.
@@ -494,7 +622,10 @@ Choosing between **SamFw Tool** and Dr.Fone - Screen Unlock (Android) shouldn’
 [<u>Ways to Remove FRP Lock on Motorola Phones without a PC</u>](https://drfone.wondershare.com/google-frp-unlock/frp-motorola-guide.html)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

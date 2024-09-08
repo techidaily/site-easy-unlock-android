@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2024-08-24T00:16:51.632Z
-updated: 2024-08-25T00:16:51.632Z
+date: 2024-09-07T00:53:09.762Z
+updated: 2024-09-08T00:53:09.762Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677ce3ea0f3af2ecf0cae0e8a1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Elevate Your Tech Experience with Beefy Meteor Lake Processor: The OneXPlayer M1, Featuring a Powerful Intel Core Coffee Lake I9, Up to 32GB of RAM & Future-Ready Connectivity Options
 
 One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU enclosure, just introduced its first mini-PC on Indiegogo—the OneXPlayer M1\. This tiny device (via[Liliputing](https://liliputing.com/onexplayer-m1-is-a-mini-pc-with-intel-core-ultra-9-185h-oculink-and-usb4/) ) has the Intel Core Ultra 9 185H and up to 32 GB of RAM. It also has an RJ45 port, Wi-Fi 6E, and Bluetooth 5.2, meaning you have three different connectivity options.
@@ -25,6 +31,12 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -33,14 +45,32 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
  Aside from the Power button, One-Netbook also gave its mini-PC an RGB button to adjust the RGB lights on the case. But what’s interesting is that the Turbo button from PCs in the 1980s and 1990s is returning on the OneXPlayer M1\. The Turbo button will push the 185H’s power draw from the base 45 to 60 watts — just five watts short of its maximum configurable TDP. A 100-watt USB-C power supply also powers the mini-PC, so you’ll have ample power, even pushing the processor to its limit.
@@ -49,6 +79,12 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -131,7 +167,3 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 <li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-x6-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Poco X6 Users</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-inside-clubhouse-dissecting-its-core-ethos-features-and-significance-in-the-modern-era/"><u>Updated Inside Clubhouse Dissecting Its Core Ethos, Features, and Significance in the Modern Era</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
