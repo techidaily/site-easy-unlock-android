@@ -1,7 +1,7 @@
 ---
 title: "HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S"
-date: 2024-09-07T00:53:08.351Z
-updated: 2024-09-08T00:53:08.351Z
+date: 2024-09-05T17:41:45.600Z
+updated: 2024-09-13T00:06:54.871Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Unleashes Budget-Friendly Power: Get Your Hands on the Newest Snapdragon X Elite Mini PC – Preorder Now
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
@@ -22,11 +16,12 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -49,11 +44,18 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,8 +70,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,36 +79,18 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-iphones-viewpoint-vista-selecting-superior-shots-for-images/"><u>[New] IPhone's Viewpoint Vista  Selecting Superior Shots for Images</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach-for-2024/"><u>[Updated] Master Image Editing with These Top 8 Tablets  Beyond Filmora's Reach for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-motorola-edge-2023-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Edge 2023 Unlock Without Password</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitechs-latest-drivers-fast-optimized-for-windows-users/"><u>Download Logitech's Latest Drivers Fast: Optimized for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixed-guide-latest-driver-update-for-your-amd-radeon-vega-graphics-card-on-windows-systems/"><u>Fixed Guide: Latest Driver Update for Your AMD Radeon Vega Graphics Card on Windows Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y28-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y28 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-a58-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo A58 4G Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-x5-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco X5 Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-11-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus 11 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nokia-c12-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nokia C12 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oneplus-open-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Open Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme 12 Pro+ 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-narzo-60-pro-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme Narzo 60 Pro 5G Face Lock?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme Narzo 60 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oppo-a78-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo A78 Phone that is Locked?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-12-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme 12 5G Through Google Earth?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y27s-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y27s to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-se-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 SE Phone with Broken Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-poco-m6-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Poco M6 Pro 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-v30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme V30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-v30t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme V30T Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-c65-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco C65</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-c12-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia C12 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-best-free-srt-translators-online-tips-to-choose/"><u>In 2024, Top 8 Best Free SRT Translators Online (Tips to Choose)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics/"><u>In 2024, YouTube's Flawless Beauty Masterclass  Skincare, Hairdos & Cosmetics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/navigating-graphics-card-problems/"><u>Navigating Graphics Card Problems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-c51-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme C51</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-gt-3-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme GT 3 Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-visualizing-audio-brilliance-for-2024/"><u>The Ultimate Guide to Visualizing Audio Brilliance for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-12-proplus-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 12 Pro+ 5G Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/videocutters-comprehensive-scrutiny-final-verdict/"><u>VideoCutter's Comprehensive Scrutiny – Final Verdict</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-rated-dj-templates-free-access-for-music-makers/"><u>[New] Top-Rated DJ Templates Free Access for Music Makers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-understanding-podcast-profit-margins/"><u>[Updated] 2024 Approved Understanding Podcast Profit Margins</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advanced-steganography-in-videos-hiding-the-unseen-for-2024/"><u>[Updated] Advanced Steganography in Videos Hiding the Unseen for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-10-proplus-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco X5 Pro Phone without PIN</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-10-proven-strategies-for-earning-money-with-your-videos-on-vimeo/"><u>In 2024, 10 Proven Strategies for Earning Money with Your Videos on Vimeo</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-12plus-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 12+ 5G Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-c33-2023-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme C33 2023 Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy F04 FRP</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-imovie-photo-slideshow-with-music-in-2024/"><u>Updated How to Make a iMovie Photo Slideshow with Music, In 2024</u></a></li>
 </ul></div>
+
