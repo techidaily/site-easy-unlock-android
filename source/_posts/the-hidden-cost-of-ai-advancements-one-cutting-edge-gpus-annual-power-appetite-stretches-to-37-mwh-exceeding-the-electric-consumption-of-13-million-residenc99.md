@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2024-09-11T03:28:27.717Z
-updated: 2024-09-13T04:13:15.305Z
+date: 2024-09-13T06:11:32.083Z
+updated: 2024-09-18T03:15:51.324Z
 tags:
   - desktop
 categories:
@@ -49,13 +49,6 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,19 +72,28 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-strategy-unveiled-masterful-box-opening-tactics/"><u>[New] Strategy Unveiled Masterful Box-Opening Tactics</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-essential-guide-to-radiant-android-videos/"><u>[Updated] In 2024, The Essential Guide to Radiant Android Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-m6-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco M6 Pro 5G</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-hilarity-in-a-click-meme-creation/"><u>2024 Approved Hilarity in a Click (Meme Creation)</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-infinix-smart-7-hd-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Smart 7 HD Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-samsung-galaxy-f34-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 8T</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-10-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 10 Pro+ 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-motorola-moto-g24-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Moto G24 Phone Screen?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-11-pro-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 11 Pro With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-nord-n30-se-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Nord N30 SE Lock Screen Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-magic-6-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Magic 6 Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ready-to-carry-the-ultimate-review-of-the-amazon-basics-folding-tablet-stand/"><u>Ready to Carry: The Ultimate Review of the Amazon Basics Folding Tablet Stand</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-launching-command-prompt-in-various-windows-versions-win11-win10-win8-win7/"><u>Ultimate Tutorial: Launching Command Prompt in Various Windows Versions (Win11, Win10, Win8, Win7)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treamed-dialogue-scribe-for-2024/"><u>[New] Streamed Dialogue Scribe for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-and-science-of-writing-smart-slug-lines/"><u>[New] The Art and Science of Writing Smart Slug Lines</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-motorola-g24-power-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola G24 Power Unlock Without Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/custom-templates-n-indicates-a-new-line-for-readability/"><u>Custom Templates ( N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963834464-detailed-description-of-the-chemical-products-offered-by-hahron-spice-including-spices-with-unique-chemical-properties-used-for-industrial-applications/"><u>Detailed Description of the Chemical Products Offered by HAHRON SPICE, Including Spices with Unique Chemical Properties Used for Industrial Applications.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-gt-5-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme GT 5 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 12 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco F5 Pro 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-blade-a73-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Blade A73 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-x6-pro-by-drfone-android/"><u>Universal Unlock Pattern for Poco X6 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-by-drfone-android/"><u>Universal Unlock Pattern for Realme</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

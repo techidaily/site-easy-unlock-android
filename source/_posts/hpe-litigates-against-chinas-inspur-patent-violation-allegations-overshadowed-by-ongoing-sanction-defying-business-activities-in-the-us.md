@@ -1,7 +1,7 @@
 ---
 title: "HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S"
-date: 2024-09-05T17:41:45.600Z
-updated: 2024-09-13T00:06:54.871Z
+date: 2024-09-16T21:22:10.352Z
+updated: 2024-09-18T05:52:49.244Z
 tags:
   - desktop
 categories:
@@ -14,13 +14,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -42,19 +35,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -79,18 +59,26 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-rated-dj-templates-free-access-for-music-makers/"><u>[New] Top-Rated DJ Templates Free Access for Music Makers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-understanding-podcast-profit-margins/"><u>[Updated] 2024 Approved Understanding Podcast Profit Margins</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advanced-steganography-in-videos-hiding-the-unseen-for-2024/"><u>[Updated] Advanced Steganography in Videos Hiding the Unseen for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-10-proplus-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 10 Pro+ 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco X5 Pro Phone without PIN</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-10-proven-strategies-for-earning-money-with-your-videos-on-vimeo/"><u>In 2024, 10 Proven Strategies for Earning Money with Your Videos on Vimeo</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco M6 Pro 4G</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-12plus-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 12+ 5G Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-c33-2023-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme C33 2023 Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy F04 FRP</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-imovie-photo-slideshow-with-music-in-2024/"><u>Updated How to Make a iMovie Photo Slideshow with Music, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-echoes-of-everyday-events/"><u>[New] In 2024, Echoes of Everyday Events</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rewinding-the-record-of-a-twitch-broadcast-top-ten-strategies/"><u>[New] Rewinding the Record of a Twitch Broadcast Top Ten Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-120plus-snapchat-private-story-name-ideas/"><u>[Updated] 2024 Approved 120+ Snapchat Private Story Name Ideas</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-use-of-custom-gifs-in-your-instagram-stories/"><u>2024 Approved Mastering the Use of Custom GIFs in Your Instagram Stories</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-c67-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme C67 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-audio-enhancer-on-android/"><u>In 2024, Premium Audio Enhancer on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/real-time-resizing-techniques-for-designers-for-2024/"><u>Real-Time Resizing Techniques for Designers for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-narzo-60x-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme Narzo 60x 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-loss-of-sound-on-your-desktop-or-laptop/"><u>Troubleshooting Complete Loss of Sound on Your Desktop or Laptop</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-n55s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme Narzo N55s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>Updated 2024 Approved Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
