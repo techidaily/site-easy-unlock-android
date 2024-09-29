@@ -1,7 +1,7 @@
 ---
 title: Skype Volume Troubles? Here's How You Can Fix It
-date: 2024-09-21T16:24:38.023Z
-updated: 2024-09-22T18:08:12.225Z
+date: 2024-09-21T22:44:15.078Z
+updated: 2024-09-28T23:08:52.013Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  The developer keeps releasing the latest patch for Skype to fix some bug issues and improve your experience, so there may be some problem, including the sound problem in the older version of Skype, and you can install the latest update for Skype and keep it up to date. Then check if it fixes the no sound issue in Skype.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Check the audio settings in your computer
@@ -60,22 +60,16 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4053a7b464e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left, and make sure your microphone is**turned on** , and**allow Skype to access microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4053ec702ab.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Also click on**Camera** (or**Webcam** ), and make sure that it’s**turned on** and**allow Skype to access camera** .
 
@@ -85,6 +79,13 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40545141ea1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Recording** tab, and right click on the empty area in the window and check**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4054a4d8e69.jpg)
@@ -92,13 +93,6 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
  3) Check if your microphone is listed on the window.  4) Right click on your microphone device, and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4054d5b96ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select your microphone to highlight it, and click**Set Default** . Then click **OK** to save the changes.
 
@@ -114,18 +108,25 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405558127a4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Make sure the**Startup** **type** is**Automatic** , and the**Service status** is**Running** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4055746b393.jpg)
 
- 5) Restart your computer and try to Skype call again to see if the sound is working.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 5) Restart your computer and try to Skype call again to see if the sound is working.
 
 ### Fix 4: Update available drivers
 
@@ -133,21 +134,22 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40569a29987.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40582b6d503.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer to take effect, and check if there’s any sound in your Skype.
@@ -172,5 +174,20 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-highly-effective-ways-to-stream-and-record-sports-games/"><u>[New] 2024 Approved Highly Effective Ways to Stream and Record Sports Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-acclaimed-selections-outstanding-iphone-tone-specialists/"><u>[Updated] Acclaimed Selections Outstanding iPhone Tone Specialists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-inside-apoyser-detailed-comparison-with-leading-screen-recorder-apps-for-2024/"><u>[Updated] Inside Apoyser Detailed Comparison with Leading Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-list-of-20-magic-words-for-marketing/"><u>[Updated] The Ultimate List of 20 Magic Words for Marketing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-100-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor 100 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-c53-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme C53 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-hp-printer-drivers-optimized-for-windows-10-11/"><u>Download the Most Recent HP Printer Drivers - Optimized for Windows 10, 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-c50-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco C50 Pattern Lock Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-c65-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco C65 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 
