@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Oppo A78 5G
-date: 2024-09-27T19:36:26.930Z
-updated: 2024-09-28T18:01:08.369Z
+date: 2024-09-27T17:50:45.017Z
+updated: 2024-10-04T17:38:16.451Z
 tags: 
   - unlock
   - remove screen lock
@@ -97,6 +97,13 @@ This is pretty weird, but actually, it is one of the most common troubles that m
 
 As much as the lock screen can protect the personal information on the phone, it can also cause much trouble if you forget the lock screen password or enter the wrong password too many times. So here comes the need for [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html). One of the best is Dr.Fone - Screen Unlock (Android), which can help us [bypass forgotten Android screen locks](https://drfone.wondershare.com/unlock/9-ways-to-bypass-samsung-lock-screen-pattern-pin-password-fingerprint.html) without any data loss（limited to Samsung and LG series phones）. Other Android brand phones will be wiped out all the data once starting to unlock with Dr.Fone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -154,13 +161,6 @@ So, look no further if you want to remove your **Android screen lock** in just a
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to unlock Android Phone Screen!
@@ -181,6 +181,13 @@ The Best Tool to unlock Android Phone Screen!
 This is the page to start your unlock process with two options here, please select" Unlock Android Screen" to unlock your device screen.
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3. Select device model**
 
@@ -204,23 +211,9 @@ Get into Recovery Mode on Samsung phone without Bixby:
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Get into Recovery Mode in Samsung phone with Home Button:
 
 ![home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5. Instructions to Wipe Cache Partition**
 
@@ -231,6 +224,13 @@ During the steps in Recovery Mode, please don't pick the wrong choices!
 You're now able to access your Android device again when the whole process is over. And you no longer need a password or pattern!
 
 ![finish the process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Solutions to Unlock Android Screen
 
@@ -243,10 +243,10 @@ You're now able to access your Android device again when the whole process is ov
 **Step 2:** Click "Erase my device," which you will see on the left half of your screen. After affirming the Delete capability, your phone will boot into recovery and begin playing out a production line reset. It is difficult to stop or drop on your android gadget when you endorse this activity. Regardless of whether you shut down your Android phone - the reboot will continue on startup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Recovery Mode
@@ -260,13 +260,6 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 **Step 3:** Search for the Wipe Data option and select it.
 
 ![wipe data](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
 
@@ -289,20 +282,33 @@ With your Android phone connected and the cmd opens, enter:
 
 ![cmd command](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-4.jpg)
 
-After entering, reboot your phone once more.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+After entering, reboot your phone once more.
 
 ### 4\. Boot into Safe Mode
 
 **Step 1:** For most phones and your Android, you can do this by opening the power menu and holding the "Power Off." A message will spring up on your screen, asking whether you might want to Reboot to Safe Mode. Press Ok.
 
 **Step 2:** Clear data from your lock screen application, uninstall and reboot your phone to escape the Safe mode. When you do so, your Android **screen lock** will unlock.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Crash Lock Screen
 
@@ -312,16 +318,16 @@ This strategy to sidestep a locked screen is only a crisis workaround for the ph
 
 ![ten asterisks](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Copy and paste asterisks on the dialer until the "Paste" choice no longer appears.
 - Get back to the lock screen and tap on the camera symbol.
 - Go to the settings on your Android after pulling down the notifications bar. Now you will have the chance to enter the password, and you must continue the same thing here. Continue to paste until the Android lock screen crashes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -353,6 +359,13 @@ Why do we need these gesture apps? –Would you not want to control your phone�
 A top-rated app in the Google Play Store, for gestures, the Gesture Lock Screen is a wonderful gesture app that locks and unlocks Android lock screens. Rated 4/5 stars in the Google Play Store, this app was developed by Q Locker.
 
 ![guesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074554194436.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Gesture Lock Screen is an all-in-one gesture app that locks the screen as well as provides you with other good features. The app allows you to draw anything or gesture to unlock your phone; you can draw letter, signatures, various shapes, whatever you want to unlock your device! This app gives you the convenience to unlock your phone through fingerprints, gestures, and recover passwords as well.  
 
@@ -416,13 +429,6 @@ Developed by Imaxinacion, Gestos-Gestures is an amazing gesture screen-lock app,
 
 ![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556205078.jpg)![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556219960.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gestos allows you to – call contacts, enable or disable settings like Wi-Fi, Bluetooth, GPS, etc, run various system options, lock or unlock your device, and access websites as well.
 
 Talking about configuration, Gestos is a well-designed app that can be activated by just a double-touch on your home screen. Its sensitivity can be adjusted according to what you prefer, a permanent notification toggle floating button is available as well!
@@ -447,22 +453,20 @@ As Android reaches new heights every year, gestures are getting more and more en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-restore-order-fixing-compromised-fb-profile-for-2024/"><u>[New] Restore Order Fixing Compromised Fb Profile for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-deciding-on-a-top-gopro-camera-max-or-hero-11-in-2024/"><u>[Updated] Deciding on a Top GoPro Camera Max or Hero 11, In 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x9b-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X9b</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-nord-n30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus Nord N30 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-ace-2-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus Ace 2</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g42-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia G42 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oneplus-nord-ce-3-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For OnePlus Nord CE 3 5G Unlock Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-10t-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme 10T 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-11-proplus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme 11 Pro+</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/scene-reduction-unveiling-imovies-cropping-logic-for-2024/"><u>Scene Reduction Unveiling iMovie's Cropping Logic for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-htc-u23-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your HTC U23 Phone</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-poco-f5-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Poco F5 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c51-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme C51 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ram-mp4-mp4convert/"><u>무료 RAM 푸시 지원: 인터넷을 통한 MP4 구성 기술 - Mp4convert</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-zenithbgfreeze-top-background-elimination-solution/"><u>[Updated] 2024 Approved ZenithBgFreeze Top Background Elimination Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-deeper-dive-into-vsdc-plus-its-top-alternatives/"><u>A Deeper Dive Into VSDC, Plus Its Top Alternatives</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-the-leaders-of-mobile-tech-what-sets-iphone-15-pro-max-apart-from-galaxy-s24-ultra/"><u>Comparing the Leaders of Mobile Tech: What Sets iPhone 15 Pro Max Apart From Galaxy S24 Ultra</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-motorola-edge-2023-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Edge 2023? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-c65-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco C65 Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-a1x-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A1x 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/identify-the-exact-model-of-your-android-smartphone-a-step-by-step-guide/"><u>Identify the Exact Model of Your Android Smartphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-k11x-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo K11x</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-landscape-of-music-and-intellectual-property-on-insta/"><u>In 2024, Exploring the Landscape of Music & Intellectual Property on Insta</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c22-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia C22 Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-c51-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco C51</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-x5-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco X5</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mythos-makers-circle-top-ten-tales-for-2024/"><u>Mythos Makers Circle – Top Ten Tales for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/say-laughs-say-free-mememakers-tutorial/"><u>Say Laughs, Say Free - MemeMaker's Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/which-is-better-for-streamers-obs-studio-or-fraps/"><u>Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
 </ul></div>
 

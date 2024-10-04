@@ -1,7 +1,7 @@
 ---
 title: "Global Release: The New ASRock DeskMini X60e, Featuring AMD Ryzen Processors – Out Now!"
-date: 2024-08-16T19:09:42.704Z
-updated: 2024-08-17T19:09:42.704Z
+date: 2024-10-03T16:26:15.414Z
+updated: 2024-10-04T17:44:30.169Z
 tags:
   - desktop
 categories:
@@ -41,8 +41,12 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,14 +55,11 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -67,4 +68,20 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-black-screen-after-update/"><u>[Fix] Windows 10 Black Screen After Update</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-windows-way-to-pluck-visuals-from-videos/"><u>[New] In 2024, Window's Way to Pluck Visuals From Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-start-of-a-zoom-call-android-edition-for-2024/"><u>[Updated] Navigating the Start of a Zoom Call Android Edition for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-emotional-support-with-ai-unveiling-the-best-therapist-bots-and-mental-health-applications/"><u>Advanced Emotional Support with AI: Unveiling the Best Therapist Bots & Mental Health Applications</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-10-proplus-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-solution-for-iphone-error-4013-during-updates-and-system-restores/"><u>Comprehensive Solution for iPhone Error 4013 During Updates and System Restores</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-90-gt-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor 90 GT To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco X5 Pro Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Poco M6 Pro 4G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c02-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C02? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-12plus-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 12+ 5G Device</u></a></li>
+</ul></div>
 
