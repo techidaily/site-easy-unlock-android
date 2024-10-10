@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Oppo A78 5G Bootloader Easily
-date: 2024-09-28T17:57:38.255Z
-updated: 2024-10-04T16:18:33.464Z
+date: 2024-10-08T23:29:35.951Z
+updated: 2024-10-09T19:27:18.503Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,22 +31,35 @@ As one of the initial measures, backup the Oppo A78 5G device completely as boot
 
 ![unlock bootloader htc](https://images.wondershare.com/drfone/article/2016/12/14822577889251.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, ensure that HTC Sync Manager is installed on the PC.
 
 Step 3: From the bootloader page, select your device using the drop down option as shown in the picture below.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578344435.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After selecting the Oppo A78 5G device, click on “Begin Unlock Bootloader”, and then confirm all the dialogue boxes which come your way on screen.
 
@@ -57,13 +70,6 @@ Step 4: Now, you will be presented with four steps to put the Oppo A78 5G device
 Step 5: Use the volume keys of the Oppo A78 5G device to select Fastboot option along with pressing power button to confirm, after the Oppo A78 5G device is in bootloader mode. Now, connect the Oppo A78 5G device to the computer using a USB cable.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822588941681.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: Go to Fastboot folder on the PC and holding down the shift key, click on any empty space followed by a click on “Open command window here”.
 
@@ -80,6 +86,13 @@ fastboot flash unlocktoken Unlock\_code.bin
 Step 10: On the Oppo A78 5G , one message will appear asking if you want to unlock the Oppo A78 5G device bootloader.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Use volume keys to select and power button to confirm. Once this is done, the Oppo A78 5G  device will restart once and it’s done. The device is now bootloader unlocked.
 
@@ -122,6 +135,13 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 - **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
 
 ![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** On your Android phone, open a file explorer app and install the downloaded **RootJunky APK** file.
 - **Step 5:** Connect your smartphone to your computer using a USB cable.
@@ -171,6 +191,19 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**
 
 The next steps may vary depending on the brand you selected.
@@ -179,29 +212,9 @@ The next steps may vary depending on the brand you selected.
 
 ![remove google frp lock interface](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** Access the secret menu on your phone using the on-screen instructions, then click **Next** to proceed to the next step.
 
 ![instructions to access device secret menu](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 6:** When your Samsung prompts you to activate USB debugging, tap **Allow**. Then, on your computer screen, click **Authorized** to confirm.
 
@@ -211,16 +224,16 @@ The next steps may vary depending on the brand you selected.
 
 ![dr.fone bypassing google frp lock](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 8:** Click **Done** if the FRP lock removal was successful, otherwise, click **Try Again** to repeat the process.
 
 ![successful frp lock removal](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That’s it! With Dr.Fone Screen Unlock, you can easily bypass Google FRP and regain access to your Android device, leaving the complexities of **RootJunky** behind.
 
@@ -258,13 +271,6 @@ You can use your photo to manipulate the face lock app. Simply use your photo to
 If it still doesn't recognize your face, try a different photo or even change the camera's lighting settings or the angles to see if that helps.
 
 Anyway, this method is still unstable because of many uncontrollable factors. If everything fails, consider the following methods to bypass the face lock.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Hard Reset your phone
 
@@ -310,6 +316,13 @@ The following guide explains how to use Dr.Fone-Screen unlock to bypass the Andr
 
 ![dr fone homescreen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Select Unlock Android Screen**
 
 Please select" Unlock Android Screen" for the rest process.
@@ -321,13 +334,6 @@ Please select" Unlock Android Screen" for the rest process.
 Please click the button fitting your phone.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When arriving at this page, we have a lot of options to unlock your device screen for most phone brands, like Samsung, Nokia, LG, OPPO, etc.
 
@@ -347,6 +353,13 @@ _(Recovery Mode When the Samsung phone without Bixby)_
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _(Recovery Mode When the Samsung phone with Home button)_
 
 **Step 6: Instructions to Wipe Cache Partition**
@@ -358,13 +371,6 @@ This step in Recovery Mode is the most important to unlock your screen. Please c
 Now you can see your device is unlocked successfully
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -384,24 +390,20 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-add-edge-to-insta-videos-a-trifecta-guide/"><u>[New] In 2024, Add Edge to Insta Videos - A Trifecta Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-broad-spectrum-of-uavs-for-2024/"><u>[Updated] Broad Spectrum of UAVs for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-embrace-the-future-facebook-video-autoplay-for-2024/"><u>[Updated] Embrace the Future Facebook Video Autoplay for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-banishing-black-edges-on-your-youtube-video/"><u>[Updated] In 2024, Banishing Black Edges on Your YouTube Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-and-defeat-the-definitive-fixes-for-dead-space-remake-start-up-problems-updated-guide-2024/"><u>Decode and Defeat: The Definitive Fixes for Dead Space Remake Start-Up Problems – Updated Guide 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-the-newest-version-of-vlc-on-windows-groove-discover-updates-improvements-and-uncover-common-bugs/"><u>Download the Newest Version of VLC on Windows Groove: Discover Updates, Improvements and Uncover Common Bugs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-gt-5-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme GT 5 Pro</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/engaging-youtube-summaries-with-tailored-templates-for-2024/"><u>Engaging YouTube Summaries with Tailored Templates for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-c55-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco C55 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-g22-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia G22</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-11-proplus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme 11 Pro+ Phone that is Locked?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-v30t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme V30T Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-lite-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 Lite 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oneplus-nord-n30-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a OnePlus Nord N30 5G Phone that is Locked?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-11-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 11 Pro Phone?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-rapid-video-capture-software-w-audible-commentaries/"><u>In 2024, Rapid Video Capture Software W/ Audible Commentaries</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-tools-discover-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Tools: Discover ManyCam, the Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-c67-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme C67 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-a-comprehensive-examination-of-simple-hdr-methods/"><u>[New] 2024 Approved A Comprehensive Examination of Simple HDR Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-performer-freedom-agreement-form/"><u>2024 Approved Performer Freedom Agreement Form</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-solutions-to-unlock-realme-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock Realme Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-stop-stray-from-crashing-your-pc-top-6-fixes/"><u>Effective Solutions: Stop 'Stray' From Crashing Your PC - Top 6 Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-addressing-and-fixing-the-eos-login-hurdle-in-palworld-game/"><u>Expert Tips: Addressing and Fixing the EOS Login Hurdle in Palworld Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-for-copy-not-working-on-windows-11/"><u>Fix for Copy Not Working on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-nord-ce-3-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Nord CE 3 5G Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nubia-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nubia Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-c300-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia C300</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g04-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G04 Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Phone without PIN</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-converting-your-webpt-video-files-into-mp4-or-mov-format-on-pcmac/"><u>Step-by-Step Guide: Converting Your WebPT Video Files Into MP4 or MOV Format on PC/Mac</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-discover-the-top-10-2d-animation-software-for-windows-and-mac/"><u>Updated In 2024, Discover the Top 10 2D Animation Software for Windows and Mac</u></a></li>
 </ul></div>
 
