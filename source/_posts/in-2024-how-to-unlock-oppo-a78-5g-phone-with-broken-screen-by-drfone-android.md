@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Oppo A78 5G Phone with Broken Screen
-date: 2024-10-14T19:52:55.770Z
-updated: 2024-10-15T21:16:12.047Z
+date: 2024-10-14T21:32:02.569Z
+updated: 2024-10-21T19:14:11.236Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,6 +46,13 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -57,6 +64,13 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Oppo A78 5G device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -67,23 +81,9 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** As soon as the Oppo A78 5G devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Oppo A78 5G device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can then go about backing up the contents of your device.
 
@@ -95,25 +95,11 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -163,13 +149,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 - 3\. Press the volume up to enter download mode.
 
 ![Dr.Fone android Lock Screen Removal](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5.** The loading process will take you a few minutes because it is going to verify first your device's compatibility.
 
@@ -226,6 +205,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3. How to Unlock Android Phone Using Minimal ADB and Fastboot (with Data Loss)
 
 If you weren't able to connect to the Internet, but you, fortunately, enabled your USB Debugging option before your device was locked, the ARONSDB tool from the Android SDK package can help you unlock your Android phone.
@@ -253,6 +239,13 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[primary drive\]> Program Files \[for 32-bit\] or Program Files (x86) \[for 64-bit\] > Minimal ADB and Fasboot.
 
 ![Local Disk](https://images.wondershare.com/drfone/article/2016/06/14648313589887.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Program Files (x86) folder](https://images.wondershare.com/drfone/article/2016/06/14648313591963.jpg)
 
@@ -313,16 +306,16 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 ![android forgot pattern lock](https://images.wondershare.com/drfone/article/2016/06/14648495587136.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Check ''Enter your Google Account details'' then tap next.
 
 ![Unlock screen enter google account details](https://images.wondershare.com/drfone/article/2016/06/14648495698424.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Input your Google Account details, username, and password. You are done.
 
@@ -355,13 +348,6 @@ It is a dedicated Android app designed to harness the power of IMEI numbers for 
 
 ![antitheft app and imei tracker app](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 These functionalities encompass using secure commands with a designated secret code. Using these commands, you can have the smartphone ring audibly at its maximum volume. It can also get the GPS coordinates of the Oppo A78 5G device. You can also display a personalized message across the screen. Lastly, it can even capture photographs through the front-facing camera.
 
 ## Part 3: Online Solutions: Finding The Best Anti-Theft Online Tool Using IMEI Tracking
@@ -387,16 +373,16 @@ Another player in the online IMEI tracking space is TrackIMEI.net. It offers a u
 
 ![use track imei tool](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Anti-Theft Apps That Locate Devices Without IMEI
 
 Anti-theft apps offer a mean to locate a device even without relying on the IMEI number. These apps provide an alternative route to safeguard your valuable possessions. Moreover, these apps offer an extra layer of security and assurance. Below are two noteworthy anti-theft apps that enable users to track their devices:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1. [<u>Find My Device (IMEI Tracker)</u>](https://play.google.com/store/apps/details?id=com.swae.porpl.cdrue.imei)
 
@@ -455,6 +441,13 @@ After choosing the Oppo A78 5G device type, select "Unlock Android Screen". Now 
 
 ![choose remove without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Step 3: Agree to the Android Screen Unlock Terms
 
 Enable the checkbox that indicates your agreement with the warning and your readiness to proceed. Then, proceed by clicking the "Next" button to unlock the screen. A confirmation step will appear, asking you to enter the code "000000". Once you've entered the code, click on "Confirm" to carry out the necessary operation.
@@ -466,6 +459,13 @@ Enable the checkbox that indicates your agreement with the warning and your read
 The final step is to put your Android device into Download Mode. To make it easier for you, the instructions are given on the screen. As soon as the Download Mode is activated, the Android screen unlock process will start. Click "Done" once the process has been completed.
 
 ![activate the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -487,24 +487,21 @@ As a bonus, Wondershare Dr.Fone emerged as a powerful ally for those locked out 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>[New] In 2024, Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-srt-creation-a-comprehensive-manual-and-tricks/"><u>[New] Mastering SRT Creation A Comprehensive Manual & Tricks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-perfect-drone-companions-for-skilled-pilots-top-5/"><u>[New] Perfect Drone Companions for Skilled Pilots (Top 5)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rediscovering-the-riches-delving-into-literary-masterpieces-of-yore/"><u>[Updated] In 2024, Rediscovering the Riches Delving Into Literary Masterpieces of Yore</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-fb-reel-creation-step-by-step-guide-for-2024/"><u>[Updated] Mastering FB Reel Creation Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-how-to-use-kinemaster-online-and-10-best-online-alternatives/"><u>2024 Approved How To Use KineMaster Online and 10 Best Online Alternatives</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-spark-20-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Spark 20 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-reno-10-proplus-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Reno 10 Pro+ 5G Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-c300-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia C300</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a78-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A78</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-130-music-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nokia 130 Music Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c210-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C210 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c210-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia C210 Phone with Broken Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Bootloader Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Phone with Broken Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-3-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock OnePlus Ace 3 Phone Without Password?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-the-challenge-of-persistent-mir4-errors-on-pc/"><u>Overcoming the Challenge of Persistent MIR4 Errors on PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlocking-youtube-tracks-three-free-safe-techniques-explored/"><u>Unlocking YouTube Tracks Three Free, Safe Techniques Explored</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/lite-editing-selection-quality-software-for-youtubers-for-2024/"><u>[New] Elite Editing Selection Quality Software for YouTubers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-record-television-shows-on-pc-free-software-insights/"><u>[New] In 2024, How to Record Television Shows on PC Free Software Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-art-and-science-of-striking-youtube-live-images/"><u>[New] In 2024, The Art and Science of Striking YouTube Live Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-lenovo-savvy-efficient-screencasting-made-simple-for-2024/"><u>[New] Lenovo Savvy Efficient Screencasting Made Simple for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ispring-screencap-tech-explored-in-detail/"><u>[Updated] 2024 Approved ISpring Screencap Tech Explored in Detail</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-resource-for-instagram-livestreams-via-obs-software/"><u>[Updated] 2024 Approved The Ultimate Resource for Instagram Livestreams via OBS Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-of-corsair-void-pro-graphics-drivers-for-pcs-with-windows/"><u>Effortless Installation of Corsair Void Pro Graphics Drivers for PCs with Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-nord-n30-se-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-g310-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia G310 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-c51-easily-by-drfone-android/"><u>How To Unlock a Realme C51 Easily?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oneplus-ace-2-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your OnePlus Ace 2 Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-m6-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco M6 5G Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11x-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme 11X 5G Phone without Google Account?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-tropico-6-mastering-the-art-of-managing-a-perfect-island/"><u>Inside Tropico 6 - Mastering the Art of Managing a Perfect Island</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ling-secrets-to-boost-engagement-in-gaming-vlogs-via-hashes-for-2024/"><u>Unveiling Secrets to Boost Engagement in Gaming Vlogs via Hashes for 2024</u></a></li>
 </ul></div>
 

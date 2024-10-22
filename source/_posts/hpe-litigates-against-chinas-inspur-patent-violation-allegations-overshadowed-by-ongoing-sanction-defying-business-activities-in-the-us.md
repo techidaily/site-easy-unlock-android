@@ -1,7 +1,7 @@
 ---
 title: "HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S"
-date: 2024-10-10T05:21:20.392Z
-updated: 2024-10-16T07:49:10.570Z
+date: 2024-10-16T21:03:09.884Z
+updated: 2024-10-21T20:22:31.789Z
 tags:
   - desktop
 categories:
@@ -37,16 +37,10 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -72,24 +66,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-exploring-the-realm-of-ar-stickers-googles-edge-for-2024/"><u>[New] Exploring the Realm of AR Stickers - Google's Edge for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-maximum-duration-limit-for-instagram-videos-for-2024/"><u>[New] Navigating the Maximum Duration Limit for Instagram Videos for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streaming-obs-content-to-instagram-for-2024/"><u>[New] Streaming OBS Content to Instagram for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-spiritual-slow-motion-videoworkshop/"><u>[Updated] Spiritual Slow-Motion Videoworkshop</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/easy-steps-to-blend-igtv-into-your-stories-for-2024/"><u>Easy Steps to Blend IGTV Into Your Stories for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-just-in-time-compilation-and-its-limitations-for-iphone-game-emulators-under-apple-policies/"><u>Exploring Just-In-Time Compilation & Its Limitations for iPhone Game Emulators Under Apple Policies</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nubia-z50-ultra-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nubia Z50 Ultra? Fixed | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-c110-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C110</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-12-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus 12 Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-reno-9a-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Reno 9A Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-c300-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia C300</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Nokia G42 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your OnePlus Nord CE 3 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-x6-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find X6 Device</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-nokia-c110-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia C110? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/re-troubleshooting-tl-wn722n-wireless-adapter-undetectable-on-windows/"><u>Re: Troubleshooting TL-WN722N Wireless Adapter - Undetectable on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-reno-10-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Reno 10 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-oppo-a78-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo A78 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-websites-for-ultimate-vector-clarity/"><u>[New] Exclusive Websites for Ultimate Vector Clarity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-realizing-unseen-friend-requests-for-2024/"><u>[New] Realizing Unseen Friend Requests for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-12-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme 12 Pro 5G Unlock Without Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-book-summary-vids/"><u>Dynamic Book Summary Vids</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-m6-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco M6 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-12-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 12 5G Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-xr21-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia XR21 Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-gt-5-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme GT 5 Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-m6-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco M6 5G Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selecting-the-ideal-vr-device-seeking-simplicity-with-wireless-or-precision-with-tethers/"><u>Selecting the Ideal VR Device Seeking Simplicity with Wireless, Or Precision With Tethers?</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-new-age-of-nba-fandom-with-fb-and-twt-partnership/"><u>The New Age of NBA Fandom with FB and Twt Partnership</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-2021-apple-macbook-pro-with-m1-chip-review-how-apple-continues-to-lead-in-laptop-excellence/"><u>The Ultimate 2021 Apple MacBook Pro with M1 Chip Review - How Apple Continues to Lead in Laptop Excellence</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-installs-minecraft-flawlessly-on-your-windows-11-pc/"><u>Troubleshooting Tips: Installs Minecraft Flawlessly on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-your-inner-champion-with-effective-royal-match-playing-tips/"><u>Unleash Your Inner Champion with Effective Royal Match Playing Tips</u></a></li>
 </ul></div>
 
