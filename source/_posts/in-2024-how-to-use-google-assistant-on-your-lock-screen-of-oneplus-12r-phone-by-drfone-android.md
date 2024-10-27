@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of OnePlus 12R Phone
-date: 2024-10-12T23:12:45.846Z
-updated: 2024-10-15T17:58:03.340Z
+date: 2024-10-26T16:08:22.875Z
+updated: 2024-10-27T17:12:48.283Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,6 +54,13 @@ Locate the “Lock Screen” settings and make sure to switch on “Assistant re
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How To Use Google Assistant on Lock Screen
 
 After you've successfully enabled Google Assistant on your lock screen, let's see how to use Google Assistant to do certain tasks more efficiently and hands-free.
@@ -79,6 +86,13 @@ When you can still **unlock with Google Assistant**, you can ask it to “unlock
 Google Assistant will then provide spoken responses and display relevant information on the lock screen. For instance, if you ask for the weather, it might verbally provide the current conditions and display a brief summary on your lock screen.
 
 ![Using Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Common Problems When Using Google Assistant
 
@@ -175,10 +189,16 @@ Dr.Fone will then guide you to put your Android device into Download Mode accord
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
@@ -225,19 +245,6 @@ Resetting a locked OnePlus 12R  phone through Google Find My Device presents a c
 
 ![tap on erase device](https://images.wondershare.com/drfone/article/2023/09/reset-a-motorola-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** A confirmation dialog will appear, prompting you to input your Google account password. Finally, click the "Erase" button to initiate the factory reset process.
 
 ## Part 3: How to reset a OnePlus 12R  phone that is locked without a password?
@@ -271,6 +278,13 @@ Now, you need to connect your OnePlus 12R  phone to the computer via a USB cable
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Choose Device Model**
 
 Here you need to select the exact brand of your phone. In your case, you can just tap "OnePlus 12R ." The program then will start the process for the lock screen removal.
@@ -284,13 +298,6 @@ Go along with the instructions on the screen and remove all the settings of the 
 ![unlock motorola phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 After the entire process is completed, you can easily access your OnePlus 12R  Phone without the need to enter your password. All the restrictions that were set properly to unlock will be removed so that you can use your phone as intended.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to reset a OnePlus 12R  phone that is locked with a hard reset
 
@@ -321,6 +328,13 @@ Now, press the Volume Down button to navigate to the Recovery Mode.
 Use the buttons to navigate to the “Wipe data/factory reset” option and select it by pressing the Power button. Now, choose the option ”Factory data Reset” and wait for a few seconds till it is completed.
 
 ![reset a motorola phone that is locked 4](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5: Reboot Now**
 
@@ -360,13 +374,6 @@ One way to avoid getting locked out of your OnePlus 12R  phone is to set up alte
 
 Regular data backups are crucial to safeguarding your essential files and information. Utilize cloud backup services or local backup solutions to routinely save your data. In case of a lockout or a factory reset, you can quickly restore your data without loss.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Using Secure and Memorable Passwords
 
 When setting up lock methods, opt for strong, unique, and memorable passwords. Avoid using easily guessable information like birthdays or simple patterns. Strong passwords can enhance security while minimizing the chances of forgetting your credentials.
@@ -388,13 +395,6 @@ Although you might not frequently enter your lock screen pin or password if you 
 You'll need to reset your Google Account password if you forget it or become locked out for some other reason when you try to keep accessing all of your data. You might also need to change lock screen passcode from time to time.
 
 ![lock screen](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change/Set up Lock Screen Password
 
@@ -447,6 +447,13 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. It might be helpful if you discover that your device is functioning strangely. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
 
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode are different for every android device.
@@ -456,13 +463,6 @@ However, users can also use it to reset the android password if it is forgotten.
 In case you lose your pattern, PIN, or other passwords, older versions of Android, including Android 4.4 KitKat, have an integrated feature to let you continue using your device.
 
 Enter an erroneous pattern or PIN five times on the lock screen to reveal this function. A button with the words "Forgot pattern," "Forgot PIN," or "Forgot password" will show up. Tap it. The username and password for the Google account connected to your Android smartphone will be required.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Using ADB
 
@@ -475,19 +475,6 @@ Use the shell's following command to start
 Rm /data/system/gesture.key using the adb shell
 
 Turn the phone back on normally. Any pattern will unlock the screen, and you will be prompted to enter one.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Method: Dr.Fone - Screen Unlock
 
@@ -509,22 +496,29 @@ Only when you select the right phone brand so the unlock process will go with su
 
 ![unlock process](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3. Enter into Recovery Mode**
 
 Then go with the instructions for getting the Android phone into Recovery Mode. Here we show you examples of Samsung phones.
 
 ![enter into recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _(Recovery Mode When the Samsung phone via Bixby)_
 
 ![bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _(Recovery Mode When the Samsung phone via Bixby)_
 
@@ -560,24 +554,15 @@ Any of the aforementioned methods can be used to overcome the obstacle of using 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-breaking-down-the-monetization-barriers-for-2024/"><u>[New] Breaking Down the Monetization Barriers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-effortlessly-convert-youtube-audio-top-4-low-cost-apps/"><u>[New] In 2024, Effortlessly Convert YouTube Audio - Top 4 Low-Cost Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bellylaugh-blast-websites-with-the-best-comical-ringtones/"><u>[Updated] BellyLaugh Blast Websites with the Best Comical Ringtones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-perfecting-audio-rates-in-youtube-playback/"><u>[Updated] Perfecting Audio Rates in YouTube Playback</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram-for-2024/"><u>[Updated] The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-activer-lencodage-avec-nvenc-sur-handbrake-pour-une-videosynchronisation-efficace/"><u>Comment Activer L'encodage Avec NVENC Sur Handbrake Pour Une Vidéosynchronisation Efficace ?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/deciphering-the-best-from-av1-and-vp9-for-2024/"><u>Deciphering the Best From AV1 and VP9 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-f23-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo F23 5G Bootloader Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oneplus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your OnePlus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 10 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nokia-130-music-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nokia 130 Music Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oneplus-nord-ce-3-lite-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track OnePlus Nord CE 3 Lite 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nokia G42 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oneplus-12r-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock OnePlus 12R Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastery-guide-securely-archiving-snapchat-media-on-devices-for-2024/"><u>Mastery Guide Securely Archiving Snapchat Media on Devices for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For OnePlus</u></a></li>
-<li><a href="https://facebook.techidaily.com/rusts-expansion-fueled-by-social-media-giant/"><u>Rust's Expansion Fueled by Social Media Giant</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-k11x-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo K11x Phone Pattern Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/god-of-war-memory-crash-fixing-the-insufficient-memory-glitch/"><u>God of War Memory Crash: Fixing the 'Insufficient Memory' Glitch</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G04</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-narzo-60-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme Narzo 60 5G Users</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lostdata-finder-androids-savior/"><u>LostData Finder: Android's Savior</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mute-unnecessary-system-updates-on-windows-11/"><u>Mute Unnecessary System Updates on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-transforming-aac-and-m4p-tracks-from-apple-music-into-mp3-format/"><u>Step-by-Step Guide: Transforming AAC & M4P Tracks From Apple Music Into MP3 Format</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nubia-z50s-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nubia Z50S Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-note-50-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme Note 50 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-enhance-your-video-content-how-to-add-subtitles-and-captions-in-final-cut-pro-x-for-2024/"><u>Updated Enhance Your Video Content How to Add Subtitles and Captions in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
 

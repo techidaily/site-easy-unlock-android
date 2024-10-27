@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Oppo A1x 5G Phone without Google Account?
-date: 2024-10-14T18:52:27.524Z
-updated: 2024-10-21T19:58:54.370Z
+date: 2024-10-25T18:59:09.330Z
+updated: 2024-10-27T17:08:57.964Z
 tags: 
   - unlock
   - remove screen lock
@@ -65,6 +65,13 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Goodle log in](https://images.wondershare.com/drfone/others/14637535763672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Choose the “forgot password” option. You will be prompted to enter your email address to proceed.
 
 ![android Google trouble signing in](https://images.wondershare.com/drfone/others/14637535788151.jpg)
@@ -106,13 +113,6 @@ Remove Android Screen Lock In One Click
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now connect your Android phone connected with the PC, and select the Oppo A1x 5G device brand from the list.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -124,6 +124,20 @@ Now connect your Android phone connected with the PC, and select the Oppo A1x 5G
 **Step 3:** After the process is complete, your Android device should be unlocked, and you can access it without the screen lock.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,16 +181,10 @@ Step 3. Choose the model version according to your android phone. For people who
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4. Enter and download the recovery package as the instructions show on the PC or Mac.
@@ -187,23 +195,9 @@ Step 5. It will be finished when the recovery package downloading is completed. 
 
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the whole progress is over, you can access your Android device without entering any password and view all your data on the Oppo A1x 5G device with no limits.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to unlock the Android phone pattern lock without resetting using a Google account?
 
@@ -273,13 +267,6 @@ Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and pre
 
 ![adb shell rm](https://images.wondershare.com/drfone/article/2017/09/15057365341304.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
 
 ## Conclusion
@@ -324,10 +311,10 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 ![get into a locked phone with Dr.Fone-Start](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3.** Now, you need to put your Android device in Download mode. To do this, you need to turn your device off by pressing the Power button. Afterward, press the Home, Power, and Volume Down buttons together. After a while, let go of these buttons and press the Volume Up button to enter the Download Mode.
@@ -335,10 +322,10 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 ![get into a locked phone with Dr.Fone-in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 4.** As soon as your device is not in the Download Mode, Dr.Fone will automatically start downloading its respective recovery packages.
@@ -376,13 +363,6 @@ If you are using a Samsung device, you can also use its Find My Mobile service t
 
 ![get into a locked phone-access various features](https://images.wondershare.com/drfone/article/2017/10/15081759638999.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** From the provided options on the left panel, click on the “Unlock My Screen” option.
 - **Step 5.** Click on the “Unlock” button again to move past the lock screen of your device.
 
@@ -399,6 +379,13 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 
 ![get into a locked phone-Forgot Pattern](https://images.wondershare.com/drfone/article/2017/10/15081760134210.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** On the next screen, you can unlock your device by providing the backup PIN of your device or sign in using the Google credentials of the account linked to the Oppo A1x 5G device.
 
 ![get into a locked phone-unlock your device](https://images.wondershare.com/drfone/article/2017/10/15081760404056.jpg)
@@ -414,6 +401,13 @@ If nothing else seems to work, then you can also choose to factory reset your de
 - **Step 3.** Once your phone has entered the recovery mode; you can navigate with the Volume up and down button and use the Power button to make a selection.
 
 ![get into a locked phone-enter the recovery mode](https://images.wondershare.com/drfone/article/2017/10/15081760743252.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4.** Select the option of “wipe data/factory reset.
 
@@ -471,24 +465,21 @@ By following these simple steps, you would learn how to get into a locked phone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-your-virtual-presence-with-ease-live-streaming-101/"><u>[New] Initiate Your Virtual Presence with Ease Live Streaming 101</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-sending-instagram-direct-messages-with-twitter-videos-for-2024/"><u>[New] Sending Instagram Direct Messages with Twitter Videos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-insiders-guide-to-instagrams-music-licensing-policies/"><u>[New] The Insider’s Guide to Instagram's Music Licensing Policies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-independent-game-apps-for-screen-free-android-playing-for-2024/"><u>[New] Top Independent Game Apps for Screen-Free Android Playing for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c12-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C12 Pro</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/effortless-transfer-of-your-windows-10-user-account-to-a-different-pc/"><u>Effortless Transfer of Your Windows 10 User Account to a Different PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nubia-red-magic-8s-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nubia Red Magic 8S Pro Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nubia-lock-screen-password-by-drfone-android/"><u>How to Reset your Nubia Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-a1-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo A1 5G Lock Screen Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-stream-your-fire-stick-on-any-projector-screen/"><u>How To Stream Your Fire Stick on Any Projector Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oppo-reno-8t-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo Reno 8T 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nubia PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-x5-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco X5 Pro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-fe-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 FE FRP Locks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-xr-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone XR With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-12-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme 12 Pro 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/precision-copywriting-a-deep-dive-into-the-world-of-slug-lines/"><u>Precision Copywriting A Deep Dive Into the World of Slug Lines</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-media-playback-post-upgrade-on-win10/"><u>Seamless Media Playback Post-Upgrade on Win10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-m6-5g-by-drfone-android/"><u>Universal Unlock Pattern for Poco M6 5G</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-channel-ownership-and-revenue-with-2024-ytp-plan/"><u>[New] Channel Ownership & Revenue with 2024 YTP Plan</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-track-converting-your-srt-files-to-text-format-today/"><u>[New] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-chart-a-course-to-prominence-in-facebooks-hierarchy/"><u>[New] In 2024, Chart a Course to Prominence in Facebook's Hierarchy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-11-proplus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme 11 Pro+ Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-f5-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco F5 Pro 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-repairing-a-malfunctioning-bose-sound-system/"><u>DIY Guide: Repairing a Malfunctioning Bose Sound System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oneplus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our OnePlus Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-a56s-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo A56s 5G Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nokia-g42-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nokia G42 5G Phone that is Locked?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-poco-m6-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Poco M6 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-optimal-windows-11-search-performance/"><u>Navigating to Optimal Window's 11 Search Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-16-free-video-software-revealed-here/"><u>Prime 16 Free Video Software, Revealed Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/resolution-duel-comparing-gopro-hero-and-polaroid-cube-for-2024/"><u>Resolution Duel Comparing GoPro Hero and Polaroid Cube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-11-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme 11 5G</u></a></li>
 </ul></div>
 
