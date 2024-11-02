@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to OnePlus Ace 2V Pattern Lock Screen Everything You Need to Know
-date: 2024-10-23T17:27:48.520Z
-updated: 2024-10-27T19:00:28.053Z
+date: 2024-10-27T07:34:10.286Z
+updated: 2024-11-01T21:07:15.015Z
 tags: 
   - unlock
   - remove screen lock
@@ -44,6 +44,19 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 
 Later, you can follow the same drill to change your device’s lock screen pattern as well. Though, you would be needed to provide the existing pattern to access these features. Out of all the lock screen options, you should go with the pattern lock. Not only it is the most accessible option, it also provides fast results with an added security.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: What to do if you forget Android pattern lock?
 
 After following the above-mentioned tutorial, you would be able to set up a pattern lock screen on your device. Since it is recommended to have a strong pattern lock, users often forget their pattern lock after implementing it. This prohibits them from using their own Android device. If you have a similar experience, then don’t worry. There are plenty of ways to unlock a device and remove its pattern lock without causing any harm to the system. Visit our informative tutorial and learn different ways to [unlock or bypass the Android pattern lock screen.](https://drfone.wondershare.com/unlock/pattern-lock.html)
@@ -77,13 +90,6 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 2](https://images.wondershare.com/drfone/article/2017/09/15057385086356.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 # 2
 
 7 > 4 > 1 > 5 > 2 > 3 > 8 > 6
@@ -101,13 +107,6 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 7 > 4 > 2 > 3 > 1 > 5 > 9
 
 ![android pattern lock idear 5](https://images.wondershare.com/drfone/article/2017/09/15057385873434.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 # 5
 
@@ -145,6 +144,19 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 10](https://images.wondershare.com/drfone/article/2017/09/15057386838919.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After selecting and setting up a new screen lock pattern on your device, make sure that you remember it. You can lock and unlock your phone a few times with your new pattern lock in order to memorize it. Nevertheless, if you forget your lock screen pattern, then you can take the assistance of Dr.Fone Android Pattern Lock Removal to get an instant solution.
 
 Now when you know every essential thing about pattern lock screen on Android, you can certainly keep your device safe from any unforeseen intrusion. A strong lock screen pattern will certainly be of a great use to you. It will protect your apps, data, and device accessibility in an effortless manner. Go ahead and set up a strong and secure pattern lock screen on your device and provide an added layer of security to it.
@@ -158,6 +170,13 @@ This article is for you if you have been locked out of your OnePlus phone. Many 
 There are multiple ways to unlock your locked OnePlus device. All the solutions mentioned here are effective and work 99% of the time. However, we suggest you use Dr.Fone. Dr.Fone is expert software to answer all your Android needs. It is safe, secure, and free of data loss.
 
 ## Part 1: 3 Easy Ways to Remove Your OnePlus Ace 2V Lock
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device
 
@@ -206,13 +225,6 @@ When you arrive at this page, please choose the button “Unlock Android Screen�
 
 ![unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3. Select device brand**
 
 We’ll offer you a phone brands list, almost all Android devices are here, for example, Samsung, Huawei, OPPO, Vivo, Lenovo, LG, etc. Then Select OnePlus to continue.
@@ -229,13 +241,6 @@ Great! Now the unlocking progress is done, and you can use your phone without en
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Tips: The Importance of Backing Up Your Android Data Regularly
 
 The data loss on your Android phone or tablet can be extremely unpleasant. Subsequently, it's suggested that you back up your Android phone or tablet consistently. It will keep you from losing your data. As an expert application, Dr.Fone Backup and Restore (Android) can help back up a wide range of data and settings on Android. In the meantime, it lets you review and restore the backup documents to another phone. Here's how:
@@ -243,13 +248,6 @@ The data loss on your Android phone or tablet can be extremely unpleasant. Subse
 - Open the Dr.Fone software on your computer, and connect your phone to the PC through a USB connector and click OK. Then select the "Back up device" option.
 
 ![phone backup](https://images.wondershare.com/drfone/guide/connect-android-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Tap the Backup option to begin the process.
 
@@ -259,13 +257,6 @@ The data loss on your Android phone or tablet can be extremely unpleasant. Subse
 - After it is done, you can see where the backup is stored by clicking on the "View BackupS" option.
 
 ![backup complete](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -280,10 +271,23 @@ Among these tools, **Techeligible FRP** stands out, known for its reliability an
 ![frp bypass](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part I. A Comprehensive Overview of Techeligible
@@ -419,6 +423,13 @@ On the other side, these points disclose the inconvenience Techeligible is facin
 
 **Techeligible FRP** simplifies the bypass process with its straightforward interface and an array of tools catering to different device models. Accessible across various phone brands, it offers a user-friendly solution to unlocking your device from FRP barriers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II. How To Bypass a Phone Using Techeligible?
 
 How do you use the **Techeligible FRP bypass tools** now that you have them? There are a few crucial steps to using them. Let’s have a look at these Techeligible FRP bypass steps:
@@ -435,6 +446,13 @@ Using the appropriate Google Account Manager, you may effortlessly download the 
 
 ![techeligible google account manager](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### FRP Bypass APK Tools
 
 If you want to reset your devices, you can utilize several bypass APK programs that will be connected to your PC. The graphic below shows several distinct sorts of APK tools.
@@ -446,6 +464,13 @@ If you want to reset your devices, you can utilize several bypass APK programs t
 PC FRP utilities assist you in connecting devices to the PC. These tools are simple to use and make it simple to reset the OnePlus Ace 2V devices. You only need to download the relevant file to get started.
 
 ![techeligible pc frp tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide
 
@@ -463,19 +488,6 @@ Now check out below the steps on how to use the **Techeligible FRP Bypass** feat
 Unlocking an Android device locked by FRP barriers is a little complicated with Techeligible. But fear not, a simpler path awaits with Dr.Fone - Screen Unlock (Android). It stands tall as a user-friendly alternative to the complex process of using Techeligible. It’s designed to streamline the FRP bypass, ensuring a smoother unlocking experience for Android users.
 
 ![drfone unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Advantages of Dr.Fone - Screen Unlock
 
@@ -547,21 +559,18 @@ Its user-friendly approach and efficiency make it an ideal alternative to **Tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rofessional-footage-with-top-tier-stabilizers-for-2024/"><u>[New] Professional Footage with Top-Tier Stabilizers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-seamless-slidecasts-combining-webcam-and-ppt/"><u>[Updated] In 2024, Seamless Slidecasts Combining Webcam and PPT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-niche-based-strategies-for-youtube-ad-creators/"><u>2024 Approved Niche-Based Strategies for YouTube Ad Creators</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-a1x-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo A1x 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014559727-cutting-edge-techniques-to-eliminate-discord-echo-glitches-on-pc-in-202-groovy-trending-methods-for-a-crystal-clear-voice-chat/"><u>Cutting-Edge Techniques to Eliminate Discord Echo Glitches on PC in 202 Groovy-Trending Methods for a Crystal Clear Voice Chat!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-your-audio-journey-with-upgraded-nvidia-drivers-for-win7/"><u>Elevate Your Audio Journey with Upgraded Nvidia Drivers for Win7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g34-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G34 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 9 Pro+ Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-narzo-n53-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme Narzo N53</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-11-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme 11 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco X6 Phone Without Password?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-maximize-impact-with-professional-360-video-uploads-for-youtube/"><u>In 2024, Maximize Impact with Professional 360° Video Uploads for YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ranking-top-online-tutorial-providers-excluding-udemy/"><u>In 2024, Ranking Top Online Tutorial Providers Excluding Udemy</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-gt-neo-5-se-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme GT Neo 5 SE Users</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/nebulanet-recovery/"><u>NebulaNet Recovery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/tunefabs-top-screen-recorder-picks-for-2024/"><u>Tunefab's Top Screen Recorder Picks for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snap-into-action-quick-tips-for-cellphone-screen-capture/"><u>[New] 2024 Approved Snap Into Action Quick Tips for Cellphone Screen Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-recording-made-simple-for-laptops-and-chromebooks/"><u>[New] In 2024, Webcam Recording Made Simple for Laptops & Chromebooks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-world-of-montage-image-magic/"><u>[Updated] Exploring the World of Montage Image Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>[Updated] Lifetime of Memories, Elevated in the Cloud Free & Paid Storage Compared</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximize-impact-video-resizing-techniques-for-instagram-for-2024/"><u>[Updated] Maximize Impact Video Resizing Techniques for Instagram for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-poco-c55-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Poco C55</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-ageing-technology-of-netgear-c300n-modemrouter-combo-is-it-effective-anymore/"><u>Exploring the Ageing Technology of Netgear C300n Modem/Router Combo – Is It Effective Anymore?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/four-effective-methods-to-move-your-files-from-windows-10-to-windows-11/"><u>Four Effective Methods to Move Your Files From Windows 10 to Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-a78-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A78 Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-11x-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 11X 5G Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ri-formattare-i-tuoi-file-avi-in-m4v-progettati-esclusivamente-per-luso-di-movavi-completa-gratuitamente-online/"><u>Ri-Formattare I Tuoi File AVI in M4V Progettati Esclusivamente per L'Uso Di Movavi, Completa Gratuitamente Online!</u></a></li>
 </ul></div>
 
