@@ -1,7 +1,7 @@
 ---
 title: Skype Volume Troubles? Here's How You Can Fix It
-date: 2024-10-29T21:32:57.441Z
-updated: 2024-11-01T23:58:59.326Z
+date: 2024-11-02T09:54:46.062Z
+updated: 2024-11-08T06:41:11.287Z
 tags:
   - win11
   - win10
@@ -29,26 +29,32 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 4. [Update available drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Modify the audio settings in your Skype](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot the hardware issue
 
  When you find that the sound is not working or there’s no sound in your Skype, the first thing to do is to troubleshoot the hardware issue, such as your microphone or your headset.  1) Make sure that your microphone or headset are plugged properly and firmly into the correct jacks.  2) Make sure that your microphone or your headset works properly. You can try your microphone or headset on another device to see if it works or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update Skype in your device
 
  The developer keeps releasing the latest patch for Skype to fix some bug issues and improve your experience, so there may be some problem, including the sound problem in the older version of Skype, and you can install the latest update for Skype and keep it up to date. Then check if it fixes the no sound issue in Skype.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Check the audio settings in your computer
@@ -61,25 +67,18 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405d7695a89.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Make sure microphone is on
 
  If the microphone is turned off in your Windows computer, there’ll be no sound on your computer or from your Skype, so you should check and make sure the microphone is turned on.  If you’re using Windows 10, 8.1 and 8:  1) On your keyboard, press the **Windows log key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**I** at the same time.  2) Click**Privacy** in Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4053a7b464e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Microphone** on the left, and make sure your microphone is**turned on** , and**allow Skype to access microphone** .
 
@@ -93,13 +92,6 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40545141ea1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Recording** tab, and right click on the empty area in the window and check**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4054a4d8e69.jpg)
@@ -107,6 +99,19 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
  3) Check if your microphone is listed on the window.  4) Right click on your microphone device, and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4054d5b96ae.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select your microphone to highlight it, and click**Set Default** . Then click **OK** to save the changes.
 
@@ -122,13 +127,6 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405558127a4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Make sure the**Startup** **type** is**Automatic** , and the**Service status** is**Running** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4055746b393.jpg)
@@ -136,10 +134,10 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
  5) Restart your computer and try to Skype call again to see if the sound is working.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
@@ -148,11 +146,25 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40569a29987.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40582b6d503.jpg)
 
  4) Restart your computer to take effect, and check if there’s any sound in your Skype.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Modify the audio settings in your Skype
 
@@ -176,18 +188,21 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-asmr-videos-a-complete-guide/"><u>[New] In 2024, How to Make ASMR Videos A Complete Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-the-art-of-laptop-video-capturing/"><u>[New] Mastering the Art of Laptop Video Capturing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-cutting-edge-leading-10-4k-dslr-shoulder-rigs/"><u>[Updated] 2024 Approved Cutting Edge Leading 10 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quickcopy-custodians-judgment/"><u>[Updated] 2024 Approved QuickCopy Custodians' Judgment</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-streamlining-your-video-workflow-in-windows-11/"><u>[Updated] In 2024, Streamlining Your Video Workflow in Windows 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-delving-into-history-accessible-copyrighted-canvases/"><u>2024 Approved Delving Into History Accessible, Copyrighted Canvases</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/clashing-kings-the-top-battle-royale-games-for-2024/"><u>Clashing Kings The Top Battle Royale Games for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/guia-paso-a-paso-para-transferir-videos-de-vhs-a-dvd-utilizando-tu-ordenador/"><u>Guía Paso a Paso Para Transferir Vídeos De VHS a DVD Utilizando Tu Ordenador</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-11x-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 11X 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-motorola-g24-power-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola G24 Power Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme 12 Pro 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c22-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia C22 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-motorola-moto-g04-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola Moto G04 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-11-innovative-metaverse-projects-for-insightful-analysis/"><u>[New] 11 Innovative Metaverse Projects for Insightful Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-adding-movies-to-your-playlist-an-intuitive-process-for-youtube-users-for-2024/"><u>[New] Adding Movies to Your Playlist An Intuitive Process for YouTube Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-balancing-act-volume-control-techniques-for-logic-pro-x-for-2024/"><u>[New] Balancing Act Volume Control Techniques for Logic Pro X for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-crafting-unique-ps3-gameplay-presentations-with-screen-recordings/"><u>[Updated] Crafting Unique PS3 Gameplay Presentations with Screen Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smilesketcher-turn-your-ideas-into-memes-and-graphics/"><u>[Updated] SmileSketcher Turn Your Ideas Into Memes & Graphics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-mainstream-underrated-movies-of-the-year/"><u>Avoid Mainstream Underrated Movies of the Year</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-techniques-for-superior-pics-free-of-charge/"><u>In 2024, Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-proplus-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 Pro+ 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-9a-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Reno 9A Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-video-potential-key-tactics-for-backlink-creation/"><u>In 2024, Unleash Video Potential Key Tactics for Backlink Creation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c110-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia C110 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a56s-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A56s 5G Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oppo-k11x-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Oppo K11x</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-oneplus-nord-ce-3-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with OnePlus Nord CE 3 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-artist-drawing-tablets-the-ultimate-list/"><u>Top Rated Artist Drawing Tablets - The Ultimate List</u></a></li>
 </ul></div>
 

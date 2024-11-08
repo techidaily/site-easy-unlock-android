@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with OnePlus 12? Tips, Tricks and Helpful Advice
-date: 2024-09-27T16:09:07.397Z
-updated: 2024-10-04T16:38:37.867Z
+date: 2024-11-04T01:11:25.170Z
+updated: 2024-11-08T05:11:57.791Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,6 +23,13 @@ They have been along for a long, long time now – pattern locks – the easiest
 
 The first cellphone locks were 4-digit number locks. Then came 6-digit codes, and even alphanumeric ones. Pattern locks were all the rage a while ago. Though pattern locks continue to be used, they are not considered safe to use any longer. What is all that about? Here’s what you need to know about pattern locks, whether you are a seasoned pattern lock user or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### I.I: What Are Pattern Locks?
 
 Believe it or not, technology has advanced at such a rapid pace in the last two decades that you’d be forgiven if you don’t know what a pattern lock is, especially if you have only ever used iPhones, or Android phones in just the last few years.
@@ -30,13 +37,6 @@ Believe it or not, technology has advanced at such a rapid pace in the last two 
 Pattern locks are patterns you create on your smartphone and designate as a smartphone lock/ screen lock. There is a 9-point keypad of sorts, and you start swiping your finger from any point to any point for any which way you feel like. Android 13 allows a minimum of 4 points registered. They are easy to create, and easy to use, hence called easy pattern locks.
 
 Pattern locks have only ever been offered on Android devices and were commonplace a few years ago until they were deemed not secure enough for use by modern standards because they were _easy_ to figure out by malicious actors.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### I.II: Popularity and Usage
 
@@ -57,6 +57,13 @@ There is no denying that using an **easy pattern lock** to lock their smartphone
 While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
 
 What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part II: How People Use Pattern Locks
 
@@ -82,6 +89,13 @@ To further help you see how easy it might be for anyone to guess your pattern, M
 - \- On average, irrespective of gender, people set 5-point patterns, with 4-point patterns being the most common. This means that the number of combinations on average was 7152 for 5-point patterns and a bogglingly low 1624 for 4-point patterns.
 
 The above data makes it amply clear how using an **easy pattern lock** is actually worse than using a 4-digit PIN, simply because how people are usually using the pattern lock feature.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part III: Tips For Using More Secure Pattern Locks
 
@@ -130,13 +144,6 @@ Step 3: You will see a list of supported manufacturers on the next screen. Selec
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
@@ -160,13 +167,6 @@ In today’s digitally-driven work environment, many companies rely on **Knox En
 This article will guide you through removing or bypassing the serviceon your phone. However, it’s important to note that this should ideally be done with your employer’s consent. For transitioning to personal use or other reasons, understanding how to **remove or bypass Knox Enrollment Service** can be crucial for some users.
 
 ![knox manage admin portal](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What Is the Knox Enrollment Service?
 
@@ -224,13 +224,6 @@ However, this method is risky and not recommended for the average user. It will 
 
 **Removing Knox Enrollment Service** from your phone is feasible but requires careful consideration, especially in a corporate context. Always ensure you have the necessary permissions and understand the risks of modifying your device’s software.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### If You Can’t Use the Above Methods
 
 If none of the above methods are feasible, and you find your phone locked or restricted due to Knox, read through the next section. It will provide additional insights on what to do next.
@@ -248,10 +241,10 @@ The Screen Unlock feature in Dr.Fone is specifically designed to bypass screen l
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -291,6 +284,13 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** After the process is completed, click **Done**. Don’t be afraid to retry the process if it doesn’t work.
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -322,6 +322,13 @@ Here is the complete guide with five methods to unlock an OnePlus  device that w
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/PNC9VCRYu18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Part 1: Lock System About OnePlus 12  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1: Lock Types
 
@@ -377,18 +384,18 @@ If you want to unlock your OnePlus  phone, you can also answer some security que
 
 ![OnePlus 12  forgot pattern interface](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Use a random password or PIN five times and wait for the 30 seconds alert message.
 - Tap on the “Forgot Pattern” option and move to the next screen.
 - Select the “Answer Question” option if you want to unlock security questions. You can also select "Enter Google account details" if you know your Google account password.
 - Tap on the “Next” button and answer every question that comes up.
 - If you give correct answers, the system will open the screen lock.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4: Hard Reset (data loss)
 
@@ -397,6 +404,13 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 - Switch off your OnePlus 12  with the power button.
 
 ![power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Press and hold the Volume down + Power buttons together for a few seconds. Hold the keys until you see the OnePlus  logo on the screen.
 
@@ -409,13 +423,6 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - For confirmation, select the “OK” option and wait for the system to reboot.
 
@@ -447,19 +454,6 @@ Open Dr.Fone on the PC with a USB cable connected to your phone > click “Scree
 With the button “Unlock Android Screen”, you can unlock your OnePlus 12  via this part.
 
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
 
@@ -495,22 +489,22 @@ If you know your Google account password, then you can easily unlock your phone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-essential-high-definition-cameras-for-extreme-enthusiasts/"><u>[New] Essential High Definition Cameras for Extreme Enthusiasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-30-webcams-elevating-audio-quality/"><u>[New] Top 30 Webcams Elevating Audio Quality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-jumpstart-gaming-fun-xbox-one-and-zoom-integration/"><u>[Updated] Jumpstart Gaming Fun Xbox One and Zoom Integration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014487358-fortnite-voice-chat-trouble-heres-how-to-get-back-on-track/"><u>Fortnite Voice Chat Trouble? Here's How to Get Back on Track</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-f5-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco F5 Pro 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nokia C22 Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Pro Phone without PIN</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo A56s 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-poco-f5-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Poco F5 5G?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-enhanced-media-experience-top-8-free-players-for-windows-pcos-x/"><u>In 2024, Enhanced Media Experience Top 8 Free Players for Windows PC/OS X</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-poco-c65-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Poco C65 Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c32-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C32 Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/iphones-quickest-way-to-record-time-lapse-photos/"><u>IPhone's Quickest Way to Record Time-Lapse Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/iphonewmv/"><u>IPhone上でWMV動画鑑賞:コンバータアプリと再生方法</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mobile-mastery-high-shots-with-your-smartphone-for-2024/"><u>Mobile Mastery High Shots with Your Smartphone for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-msi-z370-a-pro-drivers/"><u>[Download] MSI Z370-A PRO Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much/"><u>[Updated] In 2024, Earning Strategies for Successful Youtube Shorts What You Need & How Much?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-invisible-enthusiast-of-facebook-episodes/"><u>[Updated] In 2024, Invisible Enthusiast of Facebook Episodes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-x9b-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor X9b</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-reno-10-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Reno 10 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://article-files.techidaily.com/dynamic-playback-pace-enhancers-list/"><u>Dynamic Playback Pace Enhancers List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone X, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-phone-without-google-account-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nubia-z50-ultra-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nubia Z50 Ultra Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-proplus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro+ Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco M6 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-12-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme 12 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-transition-vanishing-in-a-minute/"><u>Instant Transition Vanishing in a Minute</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-conversion-transforming-mod-format-into-high-quality-mp4-a-step-by-step-guide/"><u>Seamless Conversion: Transforming MOD Format Into High-Quality MP4 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streaming-iphone-7-display-like-a-pro-for-2024/"><u>Streaming iPhone 7 Display Like a Pro for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rt-of-building-powerful-youtube-backlinks-for-2024/"><u>The Art of Building Powerful YouTube Backlinks for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Oppo K11x Phone Password Without Factory Reset Full Guide Here
-date: 2024-10-01T17:30:15.209Z
-updated: 2024-10-04T16:57:50.739Z
+date: 2024-11-02T04:13:34.300Z
+updated: 2024-11-08T08:52:55.630Z
 tags: 
   - unlock
   - remove screen lock
@@ -40,10 +40,10 @@ Up until Android version 4.4, you could lock your phone screen with a pattern. G
 Now that you have unlocked your Oppo K11x  phone with Google security questions, we have a tip for you. For the safety and security of your data on your phone, it might be time to trade in the Oppo K11x device for a newer phone with the latest Android OS. Between Android 4.4 and the Android 12 prevalent today, there have been massive security updates and code improvements that you can benefit from. It makes sense given that our phones hold a substantially large part of our personal and professional lives these days. And we are not even talking about features that you may or may not need - we are talking only from a data security point of view. Of course, you will also benefit from the massive performance improvements that have taken place thanks to hardware and software improvements over the years.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Unlock Your Oppo K11x  Phone Using Wondershare Dr.Fone ( Easy & Fast)
@@ -54,9 +54,29 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 
 ![wondershare drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1:** Launch Dr.Fone on your computer. Select the Screen Unlock module.
 
 ![drfone screen unlock tool](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Click Unlock Android Screen.
 
@@ -65,6 +85,13 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 **Step 3:** Select the first option – 100% Remove Screen Lock as Oppo K11x  devices cannot be unlocked without data loss.
 
 ![drfone screen unlock choose your brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Choose your phone brand carefully – Oppo K11x  in this case.
 
@@ -75,13 +102,6 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 **Step 6:** The software will start downloading, and if everything went smoothly you will see a screen to click Remove Now.
 
 ![motorola phone screen unlock](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 7:** When all is done, you will see the following:
 
@@ -141,6 +161,13 @@ There are a handful of methods you can use to unlock a Oppo K11x  phone in case 
 
 Do you want to revamp your phone’s pattern lock screen and give it a new life? Well, you are not the only one! Lots of Android users keep looking for numerous ways to change their screen lock pattern and make it more secure. After all, if your lock screen pattern is strong, then it will certainly keep an intruder away. In today’s world, our privacy is everything and we should take every needed measure to protect it. To help you do the same, we have come up with this informative guide. Read on and learn how to set up a strong pattern lock screen on your device and what to do if you have forgotten it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to set up Pattern Lock Screen on Oppo K11x?
 
 Out of all the provided options for screen locks, pattern lock is mostly used due to its ease of access and added security. If you haven’t set up a screen lock pattern on your device, then we recommend you to do the same right away. Not only will it keep intruders away, it will also protect your privacy. To learn how to set up a lock screen pattern on an Android device, simply follow these steps:
@@ -167,13 +194,6 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 11\. That’s it! By completing these steps, a screen lock pattern will be implemented on your device.
 
 Later, you can follow the same drill to change your device’s lock screen pattern as well. Though, you would be needed to provide the existing pattern to access these features. Out of all the lock screen options, you should go with the pattern lock. Not only it is the most accessible option, it also provides fast results with an added security.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: What to do if you forget Android pattern lock?
 
@@ -202,6 +222,13 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 1](https://images.wondershare.com/drfone/article/2017/09/15057382355667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 # 1
 
 8 > 7 > 4 > 3 > 5 > 9 > 6 > 2 > 1
@@ -220,13 +247,6 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 4](https://images.wondershare.com/drfone/article/2017/09/15057385588612.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 # 4
 
 7 > 4 > 2 > 3 > 1 > 5 > 9
@@ -238,13 +258,6 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 2 > 4 > 1 > 5 > 8 > 9 > 6 > 3 > 7
 
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386032751.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 # 6
 
@@ -270,6 +283,13 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 9](https://images.wondershare.com/drfone/article/2017/09/15057386683110.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 # 10
 
 7 > 5 > 3 > 4 > 2 > 6 > 1 > 9
@@ -279,13 +299,6 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 After selecting and setting up a new screen lock pattern on your device, make sure that you remember it. You can lock and unlock your phone a few times with your new pattern lock in order to memorize it. Nevertheless, if you forget your lock screen pattern, then you can take the assistance of Dr.Fone Android Pattern Lock Removal to get an instant solution.
 
 Now when you know every essential thing about pattern lock screen on Android, you can certainly keep your device safe from any unforeseen intrusion. A strong lock screen pattern will certainly be of a great use to you. It will protect your apps, data, and device accessibility in an effortless manner. Go ahead and set up a strong and secure pattern lock screen on your device and provide an added layer of security to it.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Oppo K11x Pattern Lock Removal Tools: Remove Android Pattern Lock Without Losing Data
 
@@ -302,13 +315,6 @@ Note that you can unlock your android lock screen by a hard reset, but it will c
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a comprehensive software developed by Wondershare that specializes in unlocking Android devices. It offers a user-friendly interface and a wide range of features to help you bypass lock screens on various Android devices. With Dr.Fone - Screen Unlock (Android), you can remove passwords, patterns, PINs, and even fingerprints from your Android device in just a few simple steps. The software supports a wide range of Android brands, including Samsung, LG, HTC, Motorola, and more. Additionally, Dr.Fone - Screen Unlock (Android) ensures the safety of your data throughout the process, so you don't have to worry about any data loss or privacy breaches.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -350,13 +356,6 @@ Now we have another pattern lock remover named Android multi-tool. Android Multi
 - The tool can reset your set without losing data.
 - It can run on PC and work on Android devices smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Unlock Pattern lock with Android Multi Tool?
 
 Here are the step-by-step guidelines for unlocking a locked screen.
@@ -367,6 +366,13 @@ Here are the step-by-step guidelines for unlocking a locked screen.
 - **Step 2.** SConnect your Android phone to your PC via USB cable. Make sure that your Android device is connected to your PC properly. Otherwise, it will not work.
 - **Step 3.** SAfter running the Android Multi tool on your PC, you will see onscreen instructions like different numbers for different functions. Press on a number for which action you want to perform. For unlocking patterns, there is a numbering button so you will go for that.
 - **Step 4.** SYou will see that your phone has started rebooting after pressing a specific button. Wait until you see it starts automatically. When the phone will start, you could use it without any problem. Good thing is that this tool also does not delete data while unlocking your pattern lock.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: A Comprehensive Comparison: Dr.Fone - Screen Unlock (Android) vs. Android Multi Tool
 
@@ -409,24 +415,18 @@ Whether you prefer user-friendly software like [Dr.Fone – Screen Unlock (Andro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-vr-bike-games-a-compreayers-guide/"><u>[New] In 2024, TOP VR Bike Games A Compreayer’s Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unleash-full-potential-with-camcapturers-innovations/"><u>[New] In 2024, Unleash Full Potential with CamCapturer's Innovations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-immediate-removal-policy-for-videos-user-concerns/"><u>[Updated] 2024 Approved Immediate Removal Policy for Videos - User Concerns</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtube-introduction-guide-2-approaches-explored/"><u>[Updated] 2024 Approved YouTube Introduction Guide - 2 Approaches Explored</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nokia-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nokia</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-11-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 11 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-nubia-red-magic-9-proplus-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-v30t-lock-screen-password-by-drfone-android/"><u>How To Change Realme V30T Lock Screen Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia C12 Plus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-poco-c50-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Poco C50?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oneplus-ace-2v-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock OnePlus Ace 2V Pattern Lock Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-inviolable-tactic-to-eliminate-youtube-shorts/"><u>In 2024, Inviolable Tactic to Eliminate YouTube Shorts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-11-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 11 5G Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-v30-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme V30 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-new-idt-audio-into-w7-operating-system/"><u>Integrate New IDT Audio Into W7 Operating System</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-x5-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco X5 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/transcribing-chats-efficient-techniques-for-fb-live-recordings-for-2024/"><u>Transcribing Chats Efficient Techniques for FB Live Recordings for 2024</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-14-plus-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 14 Plus by restoring it to default settings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevate-your-social-media-impact-with-inspiring-tiktok-usernames/"><u>[New] In 2024, Elevate Your Social Media Impact with Inspiring TikTok Usernames</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-now-available-vr-hardware-specs/"><u>[New] In 2024, Now Available VR Hardware Specs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-pinnacle-5-iphone-apps-for-auditory-escapades/"><u>[New] Pinnacle 5 iPhone Apps for Auditory Escapades</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-superior-audio-alerts-prime-pick-pages-for-2024/"><u>[New] Superior Audio Alerts Prime Pick Pages for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-smart-shoppers-guide-to-camcorder-choices-in-winter-for-2024/"><u>[New] The Smart Shopper's Guide to Camcorder Choices in Winter for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722149717168-cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-examination-unveiling-the-performance-of-googles-latest-smartphone-pixel-e6/"><u>Comprehensive Examination: Unveiling the Performance of Google's Latest Smartphone, Pixel E6</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unexpected-reference-to-token-in-win10win11/"><u>Correcting Unexpected Reference to Token in Win10/Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-x5-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco X5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-10t-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme 10T 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-ace-2v-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus Ace 2V</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-proplus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia Device</u></a></li>
 </ul></div>
 

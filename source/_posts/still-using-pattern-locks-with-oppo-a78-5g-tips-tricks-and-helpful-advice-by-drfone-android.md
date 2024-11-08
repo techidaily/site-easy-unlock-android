@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo A78 5G? Tips, Tricks and Helpful Advice
-date: 2024-09-27T16:37:11.565Z
-updated: 2024-10-04T17:41:50.971Z
+date: 2024-11-03T00:43:20.577Z
+updated: 2024-11-08T08:15:16.097Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,16 +24,10 @@ They have been along for a long, long time now – pattern locks – the easiest
 The first cellphone locks were 4-digit number locks. Then came 6-digit codes, and even alphanumeric ones. Pattern locks were all the rage a while ago. Though pattern locks continue to be used, they are not considered safe to use any longer. What is all that about? Here’s what you need to know about pattern locks, whether you are a seasoned pattern lock user or not.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### I.I: What Are Pattern Locks?
@@ -109,6 +103,13 @@ Supercharged with the information above, you went ahead and changed your easy pa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Unlock Your Oppo A78 5G without Pattern Locks!
@@ -124,6 +125,19 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -135,13 +149,6 @@ Step 2: Click Unlock Android Screen.
 Step 3: You will see a list of supported manufacturers on the next screen. Select yours.
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
@@ -322,13 +329,6 @@ If you want to reset your devices, you can utilize several bypass APK programs t
 
 ![techeligible frp bypass apk tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### PC FRP Tools
 
 PC FRP utilities assist you in connecting devices to the PC. These tools are simple to use and make it simple to reset the Oppo A78 5G devices. You only need to download the relevant file to get started.
@@ -381,6 +381,13 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 
 ![drfone remove without data loss](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** To unlock the Android screen, you must first select the **Brand**, **Device Name**, and **Device Model**. To advance, click the associated checkbox to enable the option that states **I agree with the warning and am ready to proceed**. Click **Next** to proceed with unlocking the screen.
 
 ![drfone choose device model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
@@ -401,6 +408,13 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 [<u>Bypassing Google FRP Lock on Xiaomi, Redmi, and Poco Easily</u>](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-lock-on-xiaomi-redmi-and-poco-phones.html)
 
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -424,22 +438,15 @@ Before we get down to the business of locking some of your Apps, let’s look at
 - If you have children, you can eliminate the many accidental in-app purchases by locking the apps your children shouldn’t be on.
 - Locking apps is also a good way to keep children from content they shouldn’t be accessing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2. How to Lock Apps in Android
 
 There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method One: Using Smart App Protector
@@ -451,13 +458,6 @@ Step 1: Download and Install Smart App Protector from the Google Play Store and 
 Step 2: The default password 7777 but you can change this in the Password & Pattern Settings.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
@@ -481,18 +481,18 @@ Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
 
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. 6 Private Apps that you should lock on your Android
 
@@ -505,10 +505,16 @@ This is the application that allows you to send and receive messages. You may wa
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Email App
@@ -557,19 +563,17 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-instant-reddit-archives-posts-once-erased-now-found/"><u>[New] Instant Reddit Archives Posts Once Erased Now Found</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/aximizing-income-sourav-joshis-youtube-journey-for-2024/"><u>[New] Maximizing Income Sourav Joshi's YouTube Journey for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-best-places-for-finding-attractive-free-tiktok-bg-videos/"><u>2024 Approved The Best Places for Finding Attractive Free TikTok BG Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nubia-red-magic-8s-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Nubia Red Magic 8S Pro Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c53-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme C53 Bootloader Easily</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-g2-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo G2 FRP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-edge-2023-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Edge 2023?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-honor-x9b-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor X9b Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-3d-luts-a-comprehensive-guide-for-2024/"><u>Mastering 3D LUTs A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-wisdom-unleashing-sticky-notes-on-win11/"><u>Tech Wisdom: Unleashing Sticky Notes on Win11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/xbox-series-x-reviewed-revolutionizing-play-with-powerful-performance-and-crisp-4k-visuals/"><u>Xbox Series X Reviewed: Revolutionizing Play with Powerful Performance and Crisp 4K Visuals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-instagram-video-to-mp3-sound/"><u>[New] In 2024, From Instagram Video to Mp3 Sound</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-essential-mac-tips-for-creating-perfect-snaps/"><u>[New] In 2024, The Essential Mac Tips for Creating Perfect Snaps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevating-visuals-by-attaching-youtube-music-tracks/"><u>[Updated] Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-iphone-camera-apps-for-pro-shots-and-free-use-for-2024/"><u>Best iPhone Camera Apps for Pro Shots and Free Use for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g34-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola Moto G34 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-correcting-error-code-0x80072efd-on-your-windows-11-pc/"><u>Comprehensive Guide to Correcting Error Code 0X80072EFD on Your Windows 11 PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-win-os-guide-ie-driver-deployment/"><u>Comprehensive Win OS Guide: IE Driver Deployment</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-motorola-moto-g34-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G34 5G Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-m6-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco M6 5G Phone that is Locked?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-tactics-for-triumphing-in-virtual-marketplaces/"><u>In 2024, Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-gt-3-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme GT 3 Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A1 5G Phone
-date: 2024-09-28T16:59:53.711Z
-updated: 2024-10-04T17:37:23.114Z
+date: 2024-11-05T10:20:58.818Z
+updated: 2024-11-08T06:03:57.993Z
 tags: 
   - unlock
   - remove screen lock
@@ -37,10 +37,10 @@ Although you can no longer use the **Google Assistant unlock** feature, you can 
 - Asking Google for information, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable Google Assistant on Lock Screen: A Step-by-Step Guide
@@ -158,19 +158,6 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 
 ![Select Unlock Android Screen from the options](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Remove Screen Lock Without Data Loss
 - In this step, you will be directed to select your device brand. Choose the Android device brand you are using and opt for "Remove without Data Loss" if you don't want to lose your data.
 
@@ -187,6 +174,13 @@ Next, make sure to check and confirm the Brand, Device Name, and Device Model to
 Type "000000" continue by clicking Confirm.
 
 ![Confirm to unlock your Android phone screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** Put Android in Download Mode
 
@@ -259,18 +253,18 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![Dr.Fone removing lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6.** Wait until everything is done. You should then see your device already has no lock screen.
 
 ![Dr.Fone lock screen removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
@@ -281,13 +275,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 **Step 1.** Download [Aroma File Manager](https://code.google.com/archive/p/rom-cmexmini/downloads) on your PC. This is a tool that unlocks Android phones. Android users can use it for free.
 
 ![Aroma File Manager download page](https://images.wondershare.com/drfone/article/2016/06/14647610652100.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Go to your Downloads folders and copy the downloaded zip file.
 
@@ -302,6 +289,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 ![Paste aroma file manager](https://images.wondershare.com/drfone/article/2016/06/14647610796449.jpg)
 
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5.** Enter Recovery Mode for your device. Each Android device has its own ways of entering recovery mode, so take a look at this [link](http://www.digitaltrends.com/mobile/use-recovery-mode-android/) and find your device.
 
@@ -322,6 +316,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![arom file manager](https://images.wondershare.com/drfone/article/2016/06/14647610871048.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
 
 ## Part 3. How to Unlock Android Phone Using Minimal ADB and Fastboot (with Data Loss)
@@ -333,6 +334,13 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 **Step 1.** Go to [Minimal ADB and Fastboot](https://androidmtk.com/download-minimal-adb-and-fastboot-tool) download page.
 
 ![Minimal adb and fastboot dowload page](https://images.wondershare.com/drfone/article/2016/06/14648313491726.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2.** Download the tool's latest version.
 
@@ -391,13 +399,6 @@ Google Find My Device is another handy way to unlock your locked Android device.
 
 **Step 3:** You will now be asked to confirm your identity through a Google account password or using a pass-key. Afterward, follow the on-screen instructions to erase and unlock your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Unlock Android Phone without Losing Data in Safe Mode
 
 One way to unlock your Android phone without losing the data is by utilizing Safe Mode. This method works only if the screen lock you have been using is a third-party app. Since Safe Mode disables third-party apps, you can easily use it to uninstall the problematic app. Here is **how to unlock an Android phone without losing data**:
@@ -428,13 +429,6 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 You will be given the option to input a new password or pattern right after you enter your Google account details. But if not, Google must have emailed you your temporary password or pattern that you will input to unlock your lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Track IMEI Number Of Oppo A1 5G Through Google Earth?
 
 When losing your phone, having a reliable tool at your fingertips can make all the difference. That tool is IMEI tracking, your secret weapon for locating your lost or stolen device. IMEI is a unique number that every mobile device possesses. It's like a fingerprint for your phone.
@@ -448,6 +442,13 @@ Now, the question is, is it possible **to track an IMEI number through Google Ea
 This **Google Maps IMEI number tracking** issue has caused quite a buzz and controversy on the internet. It has raised many concerns regarding the safety and privacy of every smartphone user. To tell you the truth, Google Earth lacks IMEI location data and does not provide such capabilities. Thus, there is no truth in **tracking IMEI numbers through Google Earth**.
 
 However, if you have access to a cell phone's GPS coordinates or the location of a cell tower to which it is linked, you can use Google Earth to follow its location.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Locate a Smartphone Using Google Earth
 
@@ -488,6 +489,13 @@ If you have the IMEI number of the stolen device, you can track the phone [using
 
 **Note:** Most of the apps require authorization access to your phone. Some also provide a feature where you may send an SMS or a command to get the lost phone's location.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Online IMEI Tracking
 
 In certain situations, an online platform is preferable to a mobile app. For your convenience, a free online platform for tracking a phone using its IMEI number is featured below:
@@ -497,13 +505,6 @@ In certain situations, an online platform is preferable to a mobile app. For you
 The online IMEI TRACKER is simple to use. After searching an IMEI tracker in Google and opening its website, please enter a valid IMEI code in its search bar and specify the country where your cell phone was first registered. After that, you have to wait for a few moments, and then you may view the phone's location status and determine whether it is lost or stolen.
 
 ![online imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-07.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pros and Cons of IMEI Trackers: Apps and Online Platforms
 
@@ -536,13 +537,6 @@ In the previous sections, this article delved into IMEI tracking, which helps yo
 There are numerous scenarios where one may forget the passcode on their iOS device. While many people dismiss their phones as useless, there are ways to unlock iPhones correctly. And that's where [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) comes to the rescue. It's like the locksmith for your phone's digital lock.
 
 ![drfone v13 interface](https://images.wondershare.com/drfone/product-2021/screen/screen_hero.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Dr.Fone - Screen Unlock Is Your Go-To Solution
 
@@ -600,22 +594,22 @@ But that's not all. This article also introduced and divulged an amazing and rel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-25-smart-and-proven-tactics-to-get-your-youtube-channel-noticed/"><u>[New] 2024 Approved 25 Smart & Proven Tactics to Get Your YouTube Channel Noticed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>[New] 2024 Approved The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-best-of-the-best-essential-themes-for-animes/"><u>[New] Best of the Best Essential Themes for Animes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-cost-analysis-completing-a-music-video-shoot/"><u>[New] Cost Analysis Completing A Music Video Shoot</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-effortlessly-edit-podcasts-best-practices-with-garageband/"><u>[New] Effortlessly Edit Podcasts Best Practices with GarageBand</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-essential-guide-to-metaverse-brand-strategies/"><u>2024 Approved The Essential Guide to Metaverse Brand Strategies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oneplus-11r-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your OnePlus 11R</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-11r-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus 11R Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Poco F5 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-c67-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme C67 5G Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-hot-40-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Hot 40? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-10t-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme 10T 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/steps-for-macos-sierra-rollback-to-os-x-el-capitan-for-2024/"><u>Steps for MacOS Sierra Rollback to OS X El Capitan for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862773459-unbeatable-deal-portable-15/"><u>Unbeatable Deal: Portable 15</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-mastering-facebook-live-embedding-techniques-on-websites/"><u>[New] In 2024, Mastering Facebook Live Embedding Techniques on Websites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale/"><u>[Updated] 2024 Approved Crafting a Non-Ad Revenue Stream on YouTube The Self-Sustaining Creator’s Tale</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-captivating-startups-discovering-the-best-15-video-intros/"><u>[Updated] In 2024, Captivating Startups Discovering the Best 15 Video Intros</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-effortless-igtv-video-downloads-ios-and-android-guide/"><u>[Updated] In 2024, Effortless IGTV Video Downloads IOS & Android Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-proplus-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-x-flip-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo X Flip</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-reno-9a-phone-by-drfone-android/"><u>How to Reset a Locked Oppo Reno 9A Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo Reno 8T Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-poco-x6-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Poco X6 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-prime-time-the-top-10-windows-webcam-recorders/"><u>In 2024, Prime Time The Top 10 Windows Webcam Recorders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macos-passwords-at-your-fingertips-discover-how-to-access-them-easily/"><u>MacOS Passwords at Your Fingertips: Discover How to Access Them Easily</u></a></li>
+<li><a href="https://facebook.techidaily.com/path-to-regain-lost-fb-access-without-previous-keys/"><u>Path to Regain Lost FB Access without Previous Keys</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-c33-2023-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme C33 2023</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-n55-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme Narzo N55 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 
