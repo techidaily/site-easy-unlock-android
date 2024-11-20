@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Oppo A78 5G Phone with Broken Screen
-date: 2024-11-03T20:10:18.570Z
-updated: 2024-11-08T09:05:36.210Z
+date: 2024-11-15T16:14:07.386Z
+updated: 2024-11-19T20:47:41.902Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,19 +46,6 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -70,6 +57,13 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Oppo A78 5G device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -80,18 +74,18 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** As soon as the Oppo A78 5G devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Oppo A78 5G device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
 You can then go about backing up the contents of your device.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Using your Samsung Account
 
@@ -198,6 +192,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![Android system recovery](https://images.wondershare.com/drfone/article/2016/06/14647615657193.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 7.** After it, restart, and recovery mode will reopen as Aroma File Manager, so go to its settings and select ''Automount all devices on start'', then restart. Back in Aroma File Manager, go to the directory data>system. Check if the ff. exist. If they do, delete them. Then restart again.
 
 - gesture.key (pattern) / password.key (password)
@@ -229,19 +230,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
 
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
@@ -256,13 +244,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5.** Inside the folder, hold the Shift key on your keyboard, then right-click your mouse. An additional "Open command window here" will appear so select that.
 
 ![Minimal adb and fastboot open command](https://images.wondershare.com/drfone/article/2016/06/14648313653169.jpg)
@@ -270,13 +251,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Oppo A78 5G and retype the command. If there are listed devices already, proceed.
 
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
 
@@ -363,16 +337,10 @@ It is a dedicated Android app designed to harness the power of IMEI numbers for 
 These functionalities encompass using secure commands with a designated secret code. Using these commands, you can have the smartphone ring audibly at its maximum volume. It can also get the GPS coordinates of the Oppo A78 5G device. You can also display a personalized message across the screen. Lastly, it can even capture photographs through the front-facing camera.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Online Solutions: Finding The Best Anti-Theft Online Tool Using IMEI Tracking
@@ -380,6 +348,13 @@ These functionalities encompass using secure commands with a designated secret c
 The internet makes it easy to deal with lost or stolen devices. Online solutions offer another way to find your smartphone using [<u>IMEI tracking</u>](https://drfone.wondershare.com/unlock/imei-check-iphone.html). In contrast to conventional approaches, these digital tools enhance the efficiency of the process.
 
 They provide a ray of optimism, even for individuals with limited tech proficiency. Below are two prominent **anti-theft apps & IMEI trackers online** that use IMEI tracking to aid in phone location:
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1. [<u>IMEI-Tracker</u>](https://imei-tracker.com/)
 
@@ -426,6 +401,20 @@ The utility offers different unlock modes to cater to various scenarios. These i
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -453,13 +442,6 @@ You start with launching Wondershare Dr.Fone on your computer. Navigate to "Tool
 
 ![tap on android device type](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 2: Choose Your Oppo A78 5G Device Brand
 
 After choosing the Oppo A78 5G device type, select "Unlock Android Screen". Now choose the brand of your Android, for example, Samsung, and on the next screen, click "Remove without Data Loss". Following this, you need to input the "Brand", "Device Name", and "Device Model" of your smartphone.
@@ -479,10 +461,10 @@ The final step is to put your Android device into Download Mode. To make it easi
 ![activate the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -505,24 +487,17 @@ As a bonus, Wondershare Dr.Fone emerged as a powerful ally for those locked out 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-audience-friendly-techniques-for-monitoring-facebook-live/"><u>[New] 2024 Approved Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unrestricted-media-playback-free-on-windows-and-macos/"><u>[New] Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-from-static-to-dynamic-hyperlapse-video-techniques/"><u>[Updated] From Static to Dynamic Hyperlapse Video Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-insiders-look-at-twitter-ad-performance-metrics/"><u>[Updated] The Insider's Look at Twitter Ad Performance Metrics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y100-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y100 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a78-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A78 5G Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-12r-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus 12R Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-a78-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo A78 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-105-classic-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia 105 Classic PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-130-music-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia 130 Music Phone without Google Account?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c210-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nokia C210 Phone Without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Bootloader Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11r-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11R PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/introducing-microsofts-new-ai-companion-experience-the-power-of-copilot-without-integrating-with-bing/"><u>Introducing Microsoft's New AI Companion: Experience the Power of Copilot without Integrating with Bing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nvidia-control-panel-not-responding-heres-how-you-can-get-it-running-smoothly-again/"><u>NVIDIA Control Panel Not Responding? Here's How You Can Get It Running Smoothly Again!</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-fixing-battle-royale-warzone-interruptions-on-desktop-latest-tips/"><u>Step-by-Step Solutions for Fixing Battle Royale Warzone Interruptions on Desktop (Latest Tips)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stepping-into-the-arena-of-interactive-design/"><u>Stepping Into the Arena of Interactive Design</u></a></li>
-<li><a href="https://common-error.techidaily.com/unfreezing-slow-moving-window-update-states-on-legacy-oss-latest-techniques-and-solutions-for-better-user-experience-in-the-year-of-our-lord-two-thousand-an59/"><u>Unfreezing Slow-Moving Window Update States On Legacy OSs - Latest Techniques And Solutions For Better User Experience in the Year of Our Lord Two Thousand and Twenty Four (Guide, Helpful Tips & Troubleshooting Steps)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-motion-with-precision-how-to-choose-between-30-and-60fps/"><u>[New] 2024 Approved Capturing Motion with Precision How to Choose Between 30 and 60Fps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-essential-guide-to-simple-iphone-screen-recording/"><u>[New] 2024 Approved The Essential Guide to Simple Iphone Screen Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[New] In 2024, From Bland to Brilliant Transform Your YouTube Channels' Image</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-start-uploading-your-videos-to-instagram-via-pcmac/"><u>[Updated] Quick Start Uploading Your Videos to Instagram via PC/Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-c12-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia C12 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-to-restoring-lost-or-absent-d3dx934dll-components-in-windows-systems/"><u>Complete Guide to Restoring Lost or Absent d3dx9_34.dll Components in Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-v30t-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme V30T Face Lock?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nokia-c12-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nokia C12 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-5-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme GT 5 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-streaming-equipment-for-broadcasters/"><u>In 2024, Advanced Streaming Equipment for Broadcasters</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
 

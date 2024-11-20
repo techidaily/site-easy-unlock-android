@@ -1,7 +1,7 @@
 ---
 title: In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Ace 2V
-date: 2024-08-24T00:03:40.424Z
-updated: 2024-08-25T00:03:40.424Z
+date: 2024-11-18T18:26:38.501Z
+updated: 2024-11-19T17:27:11.001Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,9 +19,6 @@ FRP (Factory Reset Protection) is a security feature for Android devices to prev
 
 The page discusses and evaluates its effectiveness with a comprehensive review. After that, you’ll see considering another option is wise, and the article will also recommend an alternative. Stay tuned for our insights. For now, you can **download the SamFw FRP Tool** for free and explore its features. Read on to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![samfw frp tool software introduction](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-01.jpg)
 
 ## Part 1. A Detailed Introduction of SamFw FRP Tool
@@ -31,6 +28,13 @@ For many Samsung users, [<u>encountering a Google FRP lock </u>](https://drfone.
 _“I’m facing a Google FRP lock issue on my recently acquired Samsung Galaxy S23 from eBay. Has anyone successfully used SamFw to bypass FRP without the previous owner’s account credentials?”_
 
 **SamFw FRP Tool** is designed to unlock Samsung devices afflicted by Google FRP locks. The tool aims to provide a solution for bypassing FRP without the previous owner’s credentials. It is beneficial for their Samsung devices to be locked out due to a factory reset.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features of SamFw FRP Tool
 
@@ -52,18 +56,12 @@ The tool can also remove other Android security measures. It can [<u>bypass pins
 
 **SamFw FRP Tool** offers a straightforward solution to remove Google FRP locks. Its intuitive interface makes the process accessible for beginners.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How To Use SameFw FRP Tool
 
 Here’s a comprehensive guide to help you bypass FRP using the **Sam FRP bypass tool**.
 
 - **Step 1**: **Download the SamFw FRP tool** on your computer. Install the app and launch it afterward. Connect your Samsung to your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![samfw frp tool main window](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-02.jpg)
 
 - **Step 2**: Choose your device’s brand and click the **Remove FRP** button. Your phone screen will then display a notification requesting USB debugging permission. Tap **OK** to proceed.
@@ -80,16 +78,10 @@ _It’s important to note that the_ **_**_SamFw FRP Tool_**_** _is only compatib
 
 If you’re seeking a reliable and flexible alternative to the **SamFw FRP tool**, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock (Android) is the best choice. Its proven track record and various compatibilities offer a seamless solution for Android devices. In addition, it makes it easy to work on FRP lock without a PIN or Google Account. Let’s explore further below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. Best SamFW FRP Tool Alternative: Wondershare Dr.Fone
 
 Wondershare Dr.Fone - Screen Unlock (Android) is the go-to choice for many users seeking efficient FRP bypass methods. The app is available for Windows, Mac, and Linux, adding to its versatility. Here are some reasons why it’s the best alternative to the **SamFw FRP Tool**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Versatile lock screen removal**. Dr.Fone excels in removing various Android lock screen types. It offers a comprehensive solution for users facing different security challenges.
@@ -97,9 +89,6 @@ Wondershare Dr.Fone - Screen Unlock (Android) is the go-to choice for many users
 - **Fast unlock process**. Dr.Fone ensures a swift unlocking process. With the ability to remove the lock screen within less than 5 minutes, it minimizes inconvenience.
 - **Extensive device compatibility**. Supporting over 2000+ Android models, Dr.Fone Screen Unlock - Android boasts extensive compatibility. It’s a versatile and reliable choice for users with various devices.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How To Bypass FRP With Dr.Fone - Screen Unlock (Android)
 
 Dr.Fone - Screen Unlock (Android) is the ultimate alternative to the **SamFw FRP Tool**. Follow the steps outlined to bypass FRP without complications using the platform.
@@ -108,21 +97,31 @@ Dr.Fone - Screen Unlock (Android) is the ultimate alternative to the **SamFw FRP
 
 ![choosing device type on dr.fone](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
-
 - **Step 2:** Connect your Android device to the computer using a USB cable. Choose the **Remove Google FRP Lock** option.
 
 ![remove google frp lock option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose your Android device type and click **Start** to proceed to the next window. Afterward, choose **All Android versions (One-Click Removal)** if you don’t know the OS version of your phone. Click the **Start** button again to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choosing android version window](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
 
 - **Step 4:** Next**,** follow the on-screen instructions. Locate the **Emergency Call** button on your Android and tap it. Dial “\*#0\*#” for a secret menu. Click **Next** in the app. Your Android will prompt the USB debugging option. Tap **Allow** on your phone, then click **Authorized** on your computer.
 
 ![debugging smartphone to authorize dr.fone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Dr.Fone will confirm the removal of the FRP locks from your Android device. After successful removal, the prompt window indicates completion. Click **Done** upon successful execution. If issues persist, retry the process with the **Try Again** option.
 
@@ -162,9 +161,6 @@ In addition to passwords and patterns, the fingerprint scanner is one of the hot
 
 However, if your phone has an inbuilt fingerprint scanner but it does not countenance you to lock the individual apps in your mobile with the fingerprint scanner, you do not need to worry at all! There are some apps that can add this option on your phone. And we are here to suggest you the 5 best options to lock apps with the fingerprint on your Android phones out of the many apps available in the app store! Here we go:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. AppLock
 
 AppLock is rated as the best one of the apps for locking apps on your Android phone. Once you download this app you will notice that it can lock apps with fingerprint practically on your Android phone. It is also capable of locking photos and videos on your device. The app features are secured when you feel that someone is trying to stealthily look at the mobile while you are unlocking your Android phone. Apart from this, you will also get the option to replace the icon so that you are capable of hiding the app. Now the bonus –You can download and use this app absolutely free for locking the apps on your iPhone or Android apps using the fingerprint.
@@ -184,8 +180,12 @@ AppLock is rated as the best one of the apps for locking apps on your Android ph
 ![lock apps with fingerprint android-AppLock](https://images.wondershare.com/drfone/article/2017/10/15090398843847.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. App Locker: Fingerprint & Pin
 
 The subsequent name on the list of best app locks using lock apps with the fingerprint on your Android phone is App Locker. Most of the functions and features of this app are similar to the app lock. This lock apps with fingerprint iPhone have a tricky feature though, want to know? This naughty app, along with the app lock facility (using PIN, password, or fingerprint sensor), can trigger a sham crash screen which will trick the impostors to think that your phone is crashed! Isn’t it interesting? One more thing to interest you – it is also free to download and use.
@@ -220,14 +220,15 @@ The next on the list is FingerSecurity - one of the feature-rich lock apps with 
 
 **Google Rating:** 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock apps with fingerprint android-FingerSecurity](https://images.wondershare.com/drfone/article/2017/10/15090399282756.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Norton Applock
 
 Whenever we have heard the word anti-virus, the first name that comes to our mind is Norton. Norton is a big shot in the field of antivirus apps. Now they have also come up with free lock apps with fingerprint Android. It involves a four digits PIN or password or pattern as its lock system. It also supports icons and photos in conjunction with the apps. The app suggests you with the sanctions list which tells you which apps should be locked. Again the bonus – this is free for download on any Android devices.
@@ -242,14 +243,15 @@ Whenever we have heard the word anti-virus, the first name that comes to our min
 
 **Google Rating:** 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![lock apps with fingerprint android-Norton Applock](https://images.wondershare.com/drfone/article/2017/10/15090399468920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Perfect Applock
 
 Perfect App Lock is yet another great lock apps with the fingerprint for Android from the basket of app locks. Like other app locks, this one also features the basics. In addition, it has special features including support for locking Wi-Fi, Bluetooth, and other buckles. It is a tough one to intrude. It tricks the bye passers-by throwing out fake errors and messages to confuse the intruders. This rather makes the thief think that there is a different issue with the phone excluding the app lock. This lock app with fingerprint Android is also available for free. The free and the paid versions offer the exact same features, except that the paid version is free from advertisements.
@@ -291,6 +293,13 @@ Let's get started!
 
 ![sim pin](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Like most people, you probably lock your OnePlus phone as soon as you turn it on. It's a good way to keep your phone safe from prying eyes and accidental button presses. But what happens when you forget your phone's passcode? Or worse, what if your phone gets locked by a malicious app?
 
 There are a few different ways to unlock your OnePlus phone. We'll show you how to do it.
@@ -321,6 +330,13 @@ Follow these steps to unlock the OnePlus lock screen password without losing dat
 
 You can use it to unlock your OnePlus if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A few conditions, however, must be met for this to work
 
 - You must turn on your OnePlus phone.
@@ -329,9 +345,6 @@ You can use it to unlock your OnePlus if you have activated the Android Device M
 - You must be connected to WiFi on your device to log into your Google account.
 - Your phone needs to be set to location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2. Unlock OnePlus Lock Screen With Hard Reset
 
 If you perform a hard reset on your OnePlus lock screen, all data, and user information will be erased, including your screen lock, password, pattern lock, and PIN.
@@ -383,9 +396,6 @@ If you have a classic-style keypad phone or an Android device, unlocking a locke
 
 _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your OnePlus phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important OnePlus data!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -398,9 +408,22 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-streamlining-processes-adding-tracks-to-your-custom-youtube-collection/"><u>[Updated] In 2024, Streamlining Processes Adding Tracks to Your Custom YouTube Collection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-you-need-to-know-about-garmin-vivosmart-4-mastering-body-battery-and-stress-monitor-for-improved-wellness/"><u>All You Need to Know About Garmin Vivosmart 4: Mastering Body Battery & Stress Monitor for Improved Wellness</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nubia-red-magic-8s-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-netgear-wna3100-driver-software-here-fast-and-simple/"><u>Get the Latest Netgear WNA3100 Driver Software Here, Fast and Simple!</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-a1x-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo A1x 5G Phone Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-12-proplus-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme 12 Pro+ 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-g22-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia G22 Phone that is Locked?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-poco-c50-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Poco C50 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-note-50-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme Note 50 Phone that is Locked?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/prime-time-video-capture-for-windows-users-10-best-for-2024/"><u>Prime Time Video Capture for Windows Users - 10 Best for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-for-fixing-performance-hiccups-in-your-obs-live-streams-and-recordings/"><u>Tips for Fixing Performance Hiccups in Your OBS Live Streams and Recordings</u></a></li>
+</ul></div>
 

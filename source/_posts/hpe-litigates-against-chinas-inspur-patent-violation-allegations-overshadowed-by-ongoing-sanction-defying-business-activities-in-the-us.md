@@ -1,7 +1,7 @@
 ---
 title: "HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S"
-date: 2024-11-06T20:16:28.701Z
-updated: 2024-11-07T19:01:18.530Z
+date: 2024-11-14T16:46:20.648Z
+updated: 2024-11-19T19:24:16.702Z
 tags:
   - desktop
 categories:
@@ -37,10 +37,16 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,18 +72,17 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-nail-the-art-of-time-lapses-with-your-gopro-hero5-black/"><u>[New] 2024 Approved Nail the Art of Time-Lapses with Your GoPro Hero5 Black</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-platform-preference-opting-for-obstwitch-live-for-2024/"><u>[New] Platform Preference Opting for OBS/Twitch Live for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-guardian-of-gifs-saving-memorable-moments-from-twitter-for-2024/"><u>[New] The Guardian of GIFs Saving Memorable Moments From Twitter for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-freenoweb-recorder-app-evaluation-insights/"><u>[Updated] 2024 Approved FreenoWeb Recorder App Evaluation Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>[Updated] Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-how-to-access-your-devices-android-build-information/"><u>Discover How to Access Your Device's Android Build Information</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-final-cut-pro-unlocked-how-to-edit-for-free/"><u>In 2024, Final Cut Pro Unlocked How to Edit for Free</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find X6 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-reno-8t-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Reno 8T 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-12-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your OnePlus 12 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-ace-2-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your OnePlus Ace 2 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-c110-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia C110 Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-c210-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia C210 Phone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>[New] 2024 Approved Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-is-sns-hdr-pro-worth-your-investment-a-critical-look/"><u>[New] Is SNS HDR Pro Worth Your Investment A Critical Look</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-top-mobile-apps-for-flawless-snapchat-story-filters-and-effects/"><u>[New] Top Mobile Apps for Flawless Snapchat Story Filters & Effects</u></a></li>
+<li><a href="https://fox-info.techidaily.com/efficient-multi-tasking-activating-and-disabling-pip-in-safari-for-2024/"><u>Efficient Multi-Tasking Activating & Disabling PIP in Safari for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Edge 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-vs-gpt-35-unveiled-analyzing-their-five-main-differences/"><u>GPT-4 Vs. GPT-3.5 Unveiled: Analyzing Their Five Main Differences</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-ace-2-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus Ace 2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60x-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60x 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimizing-your-video-success-the-ultimate-guide-to-perfect-youtube-thumbnail-sizes/"><u>Optimizing Your Video Success: The Ultimate Guide to Perfect YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-x6-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco X6 Pro</u></a></li>
 </ul></div>
 
