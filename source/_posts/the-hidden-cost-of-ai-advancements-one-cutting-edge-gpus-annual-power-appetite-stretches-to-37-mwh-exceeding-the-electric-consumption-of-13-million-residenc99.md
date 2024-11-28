@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2024-11-18T22:48:02.162Z
-updated: 2024-11-19T19:03:10.441Z
+date: 2024-11-23T18:10:35.139Z
+updated: 2024-11-28T16:22:09.141Z
 tags:
   - desktop
 categories:
@@ -49,6 +49,10 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -72,25 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-replay-redux-mastering-iphones-videography-backwards/"><u>[New] 2024 Approved Replay Redux Mastering iPhone's Videography Backwards</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-youtubes-potential-title-and-tag-best-practices/"><u>[New] 2024 Approved Unlocking YouTube's Potential Title and Tag Best Practices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-resource-for-profiting-from-your-youtube-content/"><u>[Updated] In 2024, The Ultimate Resource for Profiting From Your YouTube Content</u></a></li>
-<li><a href="https://win-special.techidaily.com/efficient-methods-unlimited-downloads-from-gaana-without-exertion/"><u>Efficient Methods: Unlimited Downloads From Gaana without Exertion</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-gt-neo-5-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme GT Neo 5 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-c50-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco C50? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-note-50-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme Note 50 Face Lock?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/golden-five-best-dvd-makers-for-macos-sierra-for-2024/"><u>Golden Five Best DVD Makers for macOS Sierra for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-gt-neo-5-se-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme GT Neo 5 SE Through Google Earth?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-giants-of-social-platforms-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Mastering the Giants of Social Platforms: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-absence-of-msvcr120dll-in-windows-environments/"><u>Resolving Absence of MSVCR120.DLL in Windows Environments</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-your-viewing-experience-6-effective-mac-strategies-for-netflix-screenshots/"><u>Streamlining Your Viewing Experience 6 Effective Mac Strategies for Netflix Screenshots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-details-of-atandts-global-network-roaming-policy/"><u>Unraveling the Details of AT&T's Global Network Roaming Policy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-election-excitement-5-best-voting-simulators/"><u>[New] 2024 Approved Election Excitement 5 Best Voting Simulators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-game-on-camera-off-top-methods-to-record-sims-4-triumphs-and-tribulations/"><u>[Updated] 2024 Approved Game On, Camera Off? Top Methods to Record Sims 4 Triumphs and Tribulations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-virtual-sessions-a-compreayer-to-using-zoom-in-windows-10/"><u>[Updated] 2024 Approved Mastering Virtual Sessions A Compreayer to Using Zoom in Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-gentle-volume-declines-using-logic-pro/"><u>2024 Approved Crafting Gentle Volume Declines Using Logic Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-s18e-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo S18e?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-moto-g04-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Moto G04</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-performance-with-corsair-mp600-mini-1tb-ssd-the-ultimate-review-of-the-markets-best-m2-nvme-solution/"><u>Experience Next-Level Performance with Corsair MP600 Mini 1TB SSD - The Ultimate Review of the Market's Best M.2 NVMe Solution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/explore-diverse-backdrops-for-tiktok-videos-for-2024/"><u>Explore Diverse Backdrops for TikTok Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-v30-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme V30 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus 12 Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-12-proplus-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme 12 Pro+ 5G? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-c33-2023-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme C33 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-12-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme 12 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-pc-searches-use-everythingapp/"><u>Streamline Your PC Searches, Use EverythingApp</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-12-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme 12 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004017408-troubleshooting-guide-adobe-startup-failure-issue-error-0xc00/"><u>Troubleshooting Guide: Adobe Startup Failure Issue - Error 0Xc00#</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

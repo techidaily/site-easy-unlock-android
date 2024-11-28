@@ -1,7 +1,7 @@
 ---
 title: Top 10 Password Cracking Tools For OnePlus Nord N30 5G
-date: 2024-11-13T22:00:41.011Z
-updated: 2024-11-19T16:29:52.990Z
+date: 2024-11-24T16:24:16.552Z
+updated: 2024-11-28T16:02:55.204Z
 tags: 
   - unlock
   - remove screen lock
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 ---
 
 ## Top 10 Password Cracking Tools For OnePlus Nord N30 5G
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What is password cracking?**
 
@@ -72,10 +76,7 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 [http://www.oxid.it](http://www.oxid.it/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
@@ -85,6 +86,10 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -114,6 +119,10 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 **Site for Download:**
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
@@ -173,13 +182,6 @@ Ophcrack is completely free to download, Windows based password cracker that use
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
 Brutus is the fastest, most flexible, and most popular software used to crack remote system passwords. It guess password through applying different permutations or by using a dictionary.
@@ -210,6 +212,10 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -245,13 +251,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Medusa : Speedy network password cracking tool
 
 Medusa is remote systems password cracking tool just like THC Hydra but its stability, and fast login ability prefer him over THC Hydra.
@@ -261,13 +260,6 @@ It is speedy brute force, parallel and modular tool. Software can perform Brute 
 Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of information. All modules available as an independent .mod file, so no modification is required to extend the list that supports services for brute forcing attack.
 
 ![medusa](https://images.wondershare.com/images/utilities/medusa_1037.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features of Medusa**
 
@@ -306,6 +298,10 @@ Downloading **vnROM FRP Bypass** involves obtaining the tool from reputable sour
 
 ![download vnrom bypass frp](https://images.wondershare.com/drfone/article/2024/01/bypassing-google-account-with-vnrom-bypass-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** After you've downloaded the tool, proceed with its installation. Once installed, open the “Settings” app and find the "General Management" option. Now select the "Reset" option and head to the next step.
 
 ![access general management](https://images.wondershare.com/drfone/article/2024/01/bypassing-google-account-with-vnrom-bypass-4.jpg)
@@ -320,6 +316,10 @@ Using the vnROM Bypass on your devices turns out to be a simple procedure. Below
 
 - **Step 1.** Access vnROM's official website via your browser and download the APK file onto a USB drive. This APK serves as the primary application for initiating the bypass. Power up the locked phone and follow the on-screen instructions to set up the mobile device. During the setup process, connect the USB drive to your phone using an OTG cable when prompted to verify your account.
 - **Step 2.** Install the vnROM bypass APK from the USB drive onto the OnePlus Nord N30 5G device. Once the APK is installed, navigate to the OnePlus Nord N30 5G device's "Settings" menu and perform a factory reset. Upon completion of the factory reset, the OnePlus Nord N30 5G device will automatically restart. Proceed to set up your phone without providing your Google account credentials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Some Prominent Limitations of vnROM Bypass
 
@@ -350,13 +350,6 @@ In situations requiring the bypassing of FRP lock via APK services, several alte
 Technocare APK offers a simplified approach to bypassing Google account verification. This tool specializes in bypassing FRP (Factory Reset Protection) locks. It aids users in regaining access to their devices without the original Google account credentials. Its ease of use and compatibility with many Android devices make it notable.
 
 ![technocare frp bypass apk](https://images.wondershare.com/drfone/article/2024/01/bypassing-google-account-with-vnrom-bypass-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. [Pangu FRP Bypass APK](https://www.pangu.in/pangu-frp-unlocker-7-1-2/)
 
@@ -416,6 +409,10 @@ Choose the Android OS version on your Samsung device. If you want to use the qui
 
 ![bypass latest android os](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3. Authorization and FRP Lock Removal Confirmation**
 
 Next, an activation prompt for USB debugging will appear on your Android screen. Upon allowing this on your Samsung device, click "Authorized." Subsequently, the following screen on your computer will indicate the removal of the FRP lock from your Android device. A prompt window will confirm completion once the FRP lock removal is successful. Click “Done” to conclude the process.
@@ -433,19 +430,6 @@ Dr.Fone got you covered if you use a device other than a Samsung device. You can
 Open Wondershare Dr.Fone on your computer, navigate to the Toolbox and click Screen Unlock. To bypass the FRP lock, opt for the Android option once the screen appears. Then, choose 'Remove Google FRP Lock' from the provided options. Next, select your specific Android phone brand from the options displayed on the screen.
 
 ![navigate screen unlock option](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2: FRP Lock Removal Initialization**
 
@@ -542,27 +526,17 @@ You're now able to access your Android device again when the whole process is ov
 
 ![finish the process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Solutions to Unlock Android Screen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device
 
 **Step 1:** Open the "Find my Device" webpage from a browser on your PC.
 
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Click "Erase my device," which you will see on the left half of your screen. After affirming the Delete capability, your phone will boot into recovery and begin playing out a production line reset. It is difficult to stop or drop on your android gadget when you endorse this activity. Regardless of whether you shut down your Android phone - the reboot will continue on startup.
 
@@ -601,6 +575,10 @@ With your Android phone connected and the cmd opens, enter:
 
 After entering, reboot your phone once more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Boot into Safe Mode
 
 **Step 1:** For most phones and your Android, you can do this by opening the power menu and holding the "Power Off." A message will spring up on your screen, asking whether you might want to Reboot to Safe Mode. Press Ok.
@@ -637,18 +615,21 @@ Passwords shield our phones from unapproved access, yet we get locked out unexpe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insightful-advice-for-an-unhindered-instagram-experience/"><u>[New] In 2024, Insightful Advice for an Unhindered Instagram Experience</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2023s-leading-youtube-and-facebook-collaboration-8-essential-views/"><u>[Updated] 2023'S Leading YouTube & Facebook Collaboration - 8 Essential Views</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-resolving-windows-notorious-error-0x800704cf/"><u>Effective Strategies for Resolving Windows' Notorious Error 0X800704CF</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-x6-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco X6 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Reno 8T Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-c22-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C22 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-reno-10-pro-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Reno 10 Pro 5G? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-gt-5-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme GT 5 Pro Through Google Earth?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-free-power-players-ranking-the-top-10-free-luts/"><u>In 2024, Premium-Free Power Players Ranking the Top 10 Free LUTs</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/microsoft-reverses-decision-continues-support-for-windows-control-panel-confirms-future-updates/"><u>Microsoft Reverses Decision: Continues Support for Windows Control Panel, Confirms Future Updates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/simple-snippets-for-iphone-sound-capture-for-2024/"><u>Simple Snippets for iPhone Sound Capture for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-g24-power-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola G24 Power</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-5-video-snapshot-recorders-for-2024/"><u>[Updated] Elite 5 Video Snapshot Recorders for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-3d-home-theaters-top-blu-ray-player-reviews/"><u>2024 Approved Ideal 3D Home Theaters Top Blu-Ray Player Reviews</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-in-depth-review-free2x-webcam-capturing-software/"><u>2024 Approved In-Depth Review Free2X Webcam Capturing Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessing-the-microsoft-ergonomic-design-a-top-tier-keyboard-worth-every-penny/"><u>Assessing the Microsoft Ergonomic Design: A Top-Tier Keyboard Worth Every Penny</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-top-12-free-hard-drive-defrag-tools-updated/"><u>Expertly Selected Top 12 Free Hard Drive Defrag Tools - Updated</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-nokia-xr21-easily-by-drfone-android/"><u>How To Unlock a Nokia XR21 Easily?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-reno-10-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Reno 10 Pro 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-narzo-n53-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Narzo N53 Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-v30t-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme V30T</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a1-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo A1 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-12-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme 12 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-12-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme 12 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g35-headset-software-easy-installation-guide-for-windows-7-10-users/"><u>Logitech G35 Headset Software: Easy Installation Guide for Windows 7-10 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-easy-steps-for-uninstalling-software-from-macos-devices/"><u>Quick & Easy Steps for Uninstalling Software From macOS Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safekeeping-your-online-space-youtube-channel-blocking-guide-for-2024/"><u>Safekeeping Your Online Space Youtube Channel Blocking Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-capturing-screenshots-seamlessly-on-dell-lenovo-and-mac-zdnet/"><u>Ultimate Guide: Capturing Screenshots Seamlessly on Dell, Lenovo, and Mac - ZDNet</u></a></li>
 </ul></div>
 
