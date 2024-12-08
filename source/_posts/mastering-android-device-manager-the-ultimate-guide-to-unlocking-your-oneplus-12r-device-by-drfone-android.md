@@ -1,7 +1,7 @@
 ---
 title: Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus 12R Device
-date: 2024-11-01T19:14:10.644Z
-updated: 2024-11-07T20:12:27.671Z
+date: 2024-12-01T20:32:25.777Z
+updated: 2024-12-08T00:05:36.085Z
 tags: 
   - unlock
   - remove screen lock
@@ -125,6 +125,10 @@ If you cannot remember your pin, pattern or password to access your Android devi
 
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a highly straightforward, fast and handy [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html). With that particular application, you will be able to solve the lock screen removal issue in 5 minutes. It is really powerful as it can handle 4 types of screen locks such as password, fingerprints, pin and pattern. All you data will not be touched by the app and you do not have to possess some knowledge in tech field. So far, Dr.Fone - Android Lock Screen Removal is available for Samsung Galaxy S, Note and Tab Series and LG series for unlocking without any data losing.Temporarily, this tool can't mantain all the data when unlocking the screen from other mobile devices including Onepus, Xiaomi, iPhone. However really soon, the app will be available for the users of other operating systems. Before you purchase it, you are free to try it. You can acquire the app for 49.95 USD. You will be getting advantage using this app as comes with free lifetime update, also you will receive the keycode in minutes. Comments and feedback on Dr.Fone - Android Lock Screen Removal can be viewed here. You definitely will be interested as the app has 5 stars rating and tons of positive feedback.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -142,6 +146,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![best way to unlock Android fingerprint lock-Install Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Connect your Android phone and then select the OnePlus 12R device mode on the list. If it's not on the list, select "I can't find my device model from the list above".
 
 ![best way to unlock Android fingerprint lock-Connect your Android phone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -151,10 +159,7 @@ Remove 4 Types of Android Screen Lock without Data Loss
 ![best way to unlock Android fingerprint lock-Type the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**. Have recovery package downloaded.
@@ -168,6 +173,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 _Remove Android Screen Lock_
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/TQnsFr9oUHA?list=PLUrYm4QGcoz8IHR2-1WtKqPnJOnSShtFB" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best 10 Fingerprint Lock Apps for Android Gadgets
 
@@ -185,18 +194,15 @@ This app is a real fingerprint lock for Android that features a true biometric l
 
 ![best way to unlock Android fingerprint lock-ICE Unlock Fingerprint Scanner](https://images.wondershare.com/drfone/others/ice-unlock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3rd - Finger Scanner
 
 One of many free to download Android Fingerprint Lock app is Finger Scanner. It offers 2 work modes: double protection and single. You can unlock by scanning or pin, also, it features different scanning times. Finger Scanner is highly customizable and you can use background and colors that you prefer. It immediately will turn your screen off whenever you cover the camera lens.
 
 ![best way to unlock Android fingerprint lock-Finger Scanner](https://images.wondershare.com/drfone/others/finger-scanner.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4th - GO Locker - Theme & Wallpaper
 
@@ -210,18 +216,15 @@ Whether you prefer having simple or complex, solid or multi colored lock screens
 
 ![best way to unlock Android fingerprint lock-Locker Master](https://images.wondershare.com/drfone/others/locker-master-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6th – Start
 
 With [Start](https://play.google.com/store/apps/details?id=com.celltick.lockscreen), your lock screen becomes into your Start screen. Right from the lock screen, you will have a quick access to the most of apps that you actively use. You can set the security level, enjoy simple but smart navigation characteristics noticeably faster. It is a real fingerprint lock for Android devices which can be your one-stop lock screen application.
 
 ![best way to unlock Android fingerprint lock-Start](https://images.wondershare.com/drfone/others/start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7th – Solo Locker (DIY Locker)
 
@@ -229,31 +232,21 @@ With [Start](https://play.google.com/store/apps/details?id=com.celltick.lockscre
 
 ![best way to unlock Android fingerprint lock-Solo Locker (DIY Locker)](https://images.wondershare.com/drfone/others/solo-locker-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8th – Widget Locker
 
 Out of all the apps that we have listed here, Widget Locker is the one that is not free to download. It will cost you 2, 99 United States Dollars and it has really attractive features such as a control of the mood and layouts of your smartphone. "Your privacy is the app's number one priority" (that is what the designers of Widget Locker state). Drag and drop options, selectable sliders, Slide to Launch a Camera or Slide to call My Mom options and easy resizing of widgets are some of the really efficient features of this fingerprint lock app for android devices.
 
 ![best way to unlock Android fingerprint lock-Widget Locker](https://images.wondershare.com/drfone/others/widget-locker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9th - M Locker - KKM Marshmallow 6.0
 
 This real fingerprint lock app for android is known to the users as A Top Android 6.0 Lock application with numerous upgraded and developed features such as: a multi-functional lock screen, easy to navigate and simply comprehensive look. M Locker - KKM Marshmallow 6.0 includes a torch on your locker, easy but powerful swiping options, your music can be controlled from the locker and provides the snapshots of intruders who enters the wrong passcode continuously or will be placing his fingerprint for several times to log into your device.
 
 ![best way to unlock Android fingerprint lock-M Locker](https://images.wondershare.com/drfone/others/m-locker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 10th - Fireflies Lock Screen
 
@@ -262,6 +255,10 @@ With over 300,000 downloads and the rate of 4.3 stars, [Fireflies Lock Screen](h
 ![best way to unlock Android fingerprint lock-Fireflies Lock Screen](https://images.wondershare.com/drfone/others/fireflies-lock-screen.jpg)
 
 The unlock method that was described in the beginning of our content, is the most functional approach to handle a lock screen problem successfully. In Non-Ranking and No-Comparisons form, we have presented you the list of best 10 fingerprint lock apps for Android devices. Each user is different and that is why there are various applications for your gadget. Try them out and find the one that suits you best!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Proven Ways to Unlock OnePlus 12R Phone When You Forget the Password
 
@@ -331,18 +328,15 @@ After this step, you will be guided to another screen where you need to choose t
 
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3. Enter Download Mode**
 
 You will need to put your device into Download Mode for unlocking. Depending on your device's brand and model, the instructions for doing so may vary.
 
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4. Observe the Unlock Process**
 
@@ -382,13 +376,6 @@ This feature is available on Android 4.0 and older versions. So if you are using
 
 - **Step 4.** Bravo! You can now reset your password.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 5. Factory Reset Your Android and Remove Password
 
 If you are not successful with the above method, you can opt to perform a factory reset. This method should be the last option since you will lose data that has not been synced to your Google Account. It is wise to remove your SD card before performing the Android reset.
@@ -405,19 +392,6 @@ You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory rese
 - **Step 6.** After the reset, select "reboot system now" and tap the Power/Side button to restart your device.
 - **Step 7.** Your phone will now be unlocked, and the password will be removed.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 6. Unlock Samsung Phone with Samsung's Find My Mobile
 
 The best way to unlock **Android forgot password** on Samsung is to use Samsung's Find My Mobile service. This service allows you to remotely unlock your device, reset the lock screen password, and even disable the lock screen altogether.
@@ -429,6 +403,10 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 - **Step 3:** Enter your new password. Once unlocked, you can access your device with your new password.
 
 ## FAQs About Android Unlock
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Is there any universal code to unlock the Android phone?
 
@@ -477,16 +455,21 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>[New] 2024 Approved Unlock the Value of Viewership A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-accelerated-8-screencap-solutions/"><u>[New] Accelerated 8 Screencap Solutions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-dissecting-tseries-profit-generation-through-youtube-videos/"><u>[Updated] 2024 Approved Dissecting TSeries' Profit Generation Through YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>2024 Approved Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-sony-xperia-1-v-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Sony Xperia 1 V Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/harnessing-instagrams-potential-with-video-posts/"><u>Harnessing Instagram's Potential with Video Posts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c210-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C210?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a78-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A78 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55t-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel P55T?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-g22-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia G22</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-x5-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco X5?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-your-creative-potential-an-overview-of-final-cut-pro/"><u>[New] Unlock Your Creative Potential An Overview of Final Cut Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-speed-it-up-crafting-beautiful-timelapse-videos-on-galaxy/"><u>[Updated] 2024 Approved Speed It Up Crafting Beautiful Timelapse Videos on Galaxy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-racing-games-the-ultimate-5-list/"><u>2024 Approved Essential Racing Games The Ultimate 5-List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-scope-on-splitcam-highest-quality-camera/"><u>2024 Approved The Scope on SplitCam Highest Quality Camera?</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/winpe-usbusb-windows-10/"><u>如何利用WinPE USB及USB驅動器部署 Windows 10 映像：一份全面的教程</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-gaming-brilliance-our-selection-of-the-finest-1440p-displays/"><u>Budget-Friendly Gaming Brilliance: Our Selection of the Finest 1440P Displays</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo A78 5G Phone Without Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-k11-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo K11 5G Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-g310-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia G310</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reversing-mcafee-antivirus-file-deletion-errors-your-ultimate-recovery-tutorial/"><u>Reversing McAfee Antivirus File Deletion Errors - Your Ultimate Recovery Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-nord-3-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Nord 3 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oppo-a58-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo A58 4G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-notch-performance-of-the-kensun-portable-air-compressor-for-tires-reviewed/"><u>Top-Notch Performance of the Kensun Portable Air Compressor for Tires Reviewed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-nord-3-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your OnePlus Nord 3 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppos-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppos Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

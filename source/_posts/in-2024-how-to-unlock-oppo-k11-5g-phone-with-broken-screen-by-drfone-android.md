@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Oppo K11 5G Phone with Broken Screen
-date: 2024-10-31T20:47:50.904Z
-updated: 2024-11-07T20:00:17.385Z
+date: 2024-12-05T22:21:04.450Z
+updated: 2024-12-07T22:19:44.229Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,6 +46,10 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -56,6 +60,10 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 - Provide specific removal solutions to promise good success rate.
 
 **4,008,670** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
@@ -71,6 +79,10 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can then go about backing up the contents of your device.
 
 ## Method 3: Using your Samsung Account
@@ -82,10 +94,7 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
@@ -143,6 +152,10 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** You will see that the icon showing “Remove Password Completed” will pop up. This whole process takes only a few minutes to get your work done without any loss of any data.
 
 ![unlock android password without factory reset](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -173,6 +186,10 @@ Once successful, you will get a confirmation message below the three buttons: Ri
 
 You have successfully unlocked your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Unlock Android password using custom recovery and Pattern Password Disable (SD card needed)?
 
 The third way to unlock an Android phone password without a factory reset it using the “custom recovery” technique. To work out this process, you would have to install the custom recovery process. Also, your phone needs to have an SD card. It will be required to send the zip file to the phone since your device is locked. This technique requires access to the Android System folder and rooting your device if not already rooted.
@@ -191,6 +208,10 @@ Through this easy method, you can now access your Android phone without using a 
 
 The problem of getting your mobile locked and not being able to open it is a common problem on Android phones these days. Many of us tend to panic when such problems arise. However, now that we have given some easy solutions and methods to unlock Android phone passwords without factory reset and losing any data, things would be much easier. Thus, you will solve your problems in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Remove or Bypass Knox Enrollment Service On Oppo K11 5G
 
 In today’s digitally-driven work environment, many companies rely on **Knox Enrollment Service** to secure their employees’ phones and safeguard sensitive data. However, you might have a Knox-enrolled phone you wish to unlock for personal use.
@@ -203,13 +224,6 @@ This article will guide you through removing or bypassing the serviceon your pho
 
 **Knox Enrollment Service** is an integral part of Samsung’s Knox, a toolbox of security features for enterprise-level management of mobile devices. This service is pivotal in how companies manage and secure their mobile devices, especially in a corporate environment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What It Is
 
 **Knox Enrollment Service by Samsung** is a tool businesses use to automatically enroll Samsung devices into their management systems when the Oppo K11 5G device is connected to the internet. It’s designed for IT administrators to easily deploy, manage, and enforce policies across devices in their network, ensuring consistency and security.
@@ -221,10 +235,7 @@ The service allows IT administrators to pre-configure settings and apps and mana
 ![knox mobile enrolment page](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advantages
@@ -259,13 +270,6 @@ Here’s a step-by-step guide to removing itfrom the Admin’s Portal:
 
 ![knox unenroll confirmation](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After removing the Oppo K11 5G device from Knox Enrollment via the admin account, you may still need to uninstall the Knox app from the Android device. This can usually be done through the Oppo K11 5G device’s settings. Navigate to ‘Apps’ in the settings menu, locate the Knox app, and select ‘Uninstall’ or ‘Disable’. Be aware that this option might not be available on all devices, depending on how Knox was configured.
 
 ### Rooting and Flashing a New ROM To Remove Knox Enrollment Service
@@ -292,6 +296,10 @@ The Screen Unlock feature in Dr.Fone is specifically designed to bypass screen l
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -309,13 +317,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** On the next pages, select **Android > Unlock Android Screen**.
 
 ![unlock android or google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -325,10 +326,7 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 ![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Select **Remove without Data Loss.**
@@ -343,13 +341,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7:** After the process is completed, click **Done**. Don’t be afraid to retry the process if it doesn’t work.
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -363,13 +354,6 @@ If you find yourself locked out of your phone due to Knox and unable to use conv
 [<u>8 Safe and Effective Methods to Unlock Your iPhone Without a Passcode</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html)
 
 [<u>How to Unlock OPPO Phone Without Password?</u>](https://drfone.wondershare.com/unlock/how-to-unlock-oppo-phone-without-password.html)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -391,16 +375,20 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-revolutionize-your-teams-productivity-with-these-tools/"><u>[Updated] In 2024, Revolutionize Your Team's Productivity with These Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-chilly-ambiance-ideal-winter-bgs-for-videos/"><u>2024 Approved Chilly Ambiance Ideal Winter BGs for Videos</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/adding-a-personal-touch-using-watermark-functionality-in-your-apowerpdf-documents/"><u>Adding a Personal Touch: Using Watermark Functionality in Your ApowerPDF Documents</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oneplus-nord-ce-3-lite-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your OnePlus Nord CE 3 Lite 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-poco-c65-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Poco C65 Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-ace-3-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Ace 3 Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oppo-f23-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo F23 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-troubleshooting-tips-unearth-hidden-facebook-content/"><u>In 2024, Troubleshooting Tips Unearth Hidden Facebook Content</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-find-x6s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find X6s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-groundbreaking-tools-for-analyzing-computer-sounds-and-mics/"><u>[New] 2024 Approved Groundbreaking Tools for Analyzing Computer Sounds & Mics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-insiders-choice-the-ultimate-list-of-screen-recorders/"><u>[New] In 2024, Insider's Choice The Ultimate List of Screen Recorders</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-legal-secure-and-safe-tiktok-follower-recommendations-for-2024/"><u>[New] Legal, Secure, and Safe TikTok Follower Recommendations for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/deciphering-on-device-ai-its-operations-explained/"><u>Deciphering On-Device AI - Its Operations Explained</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-xiaomi-redmi-a2plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi A2+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-explore-the-top-7-innovative-apps-for-effortless-youtube-live-broadcasts-on-iphone-and-android/"><u>In 2024, Explore the Top 7 Innovative Apps for Effortless YouTube LIVE Broadcasts on iPhone and Android</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-a78-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A78 5G Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-use-of-jump-cuts-for-non-linear-storytelling/"><u>In 2024, Strategic Use of Jump Cuts for Non-Linear Storytelling</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-reno-10-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo Reno 10 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unleash-the-power-of-obs-for-superior-skype-screen-capture/"><u>In 2024, Unleash the Power of OBS for Superior Skype Screen Capture</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-ace-2v-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Ace 2V Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-best-combined-cable-modems-and-routers-of-2024/"><u>Ultimate Guide to the Best Combined Cable Modems & Routers of 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oppo-f23-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo F23 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-pc-components-wisdom-by-tom/"><u>Unlocking Performance Secrets for PC Components - Wisdom by Tom</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-ace-2v-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Ace 2V Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tips and Tricks for Setting Up your Nokia C210 Phone Pattern Lock
-date: 2024-11-03T00:47:48.940Z
-updated: 2024-11-08T10:35:19.297Z
+date: 2024-11-30T18:45:22.457Z
+updated: 2024-12-07T21:50:52.321Z
 tags: 
   - unlock
   - remove screen lock
@@ -26,6 +26,10 @@ So, keep following us to unlock the **lock screen pattern** and use your phone a
 A **pattern lock** is used to identify the actual user by your Android phone. It is a widely used phone locking system and a secured one. Simply put, a pattern lock includes a line pattern you choose that you can draw to unlock a lock screen. You can enable this lock screen feature from the security menu in the settings application.
 
 So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Best Tool to Unlock Your Pattern
 
@@ -81,13 +85,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
 ### 1\. Google Find My Device (For Android7.1.1 or later)
@@ -127,6 +124,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 ![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Emergency Call Trick (For Android 5 or 5.1.1)
 
@@ -186,6 +187,10 @@ adb reboot
 
 This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock a Network Locked Nokia C210 Phone?
 
 Revolutions in the telecommunication industry have introduced advancements in smartphone features and utilities. The other side of the coin is, however, not as appealing. Thanks to the different carrier services, network locking is the commonest issue of recent mobile launches. Users have reported of Nokia C210 phones refusing to work with different carriers.
@@ -193,13 +198,6 @@ Revolutions in the telecommunication industry have introduced advancements in sm
 The issue limits the smartphone's functioning to the specific carrier from whom the Nokia C210 device is purchased. Consequently, there are annoying connectivity problems that restrict seamless mobile usage. The problem aggravates in geo-restricted regions where the carrier options are quite limited. This scenario puts forward the need for **Nokia C210 network unlock** solutions.
 
 ![unlock a network locked Nokia C210 phone](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What Does It Mean When Your Nokia C210 Phone is Network Locked?
 
@@ -216,6 +214,10 @@ Unlocking your network-locked phone is legal in every sense. It is however advis
 ## Part 2. How to Unlock a Network Locked Nokia C210 Phone?
 
 When looking for affordable solutions to address the **Nokia C210 SIM unlock** task, you can follow the methods discussed below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Use Network Unlock Code
 
@@ -258,6 +260,10 @@ If you don't wish to use the carrier unlock code, several third-party services c
 
 ![installing unlockscope app in Nokia C210 phone](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select the details of brand, phone model, IMEI number, country, and network. Then, enter your email address and agree to the app's terms and conditions to continue.
 
 ![selecting brand and model of Nokia C210 phone](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-05.jpg)
@@ -268,16 +274,13 @@ If you don't wish to use the carrier unlock code, several third-party services c
 
 ![choosing the price and payment method](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Make the payment and wait for its acknowledgment. You will receive the code once the payment is successful.
 
 ![acknowledgment slip of the successful payment](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -287,13 +290,6 @@ Unlock Your Nokia C210 Phone in a Flash
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Huawei, OnePlus, Xiaomi, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - No tech knowledge required, Simple, click-through, process.
 
 **3,981,454** people have downloaded it
@@ -301,6 +297,10 @@ Unlock Your Nokia C210 Phone in a Flash
 ## Part 3. What to ask Before Signing a New Nokia C210 Phone Contract?
 
 Signing in a new Nokia C210 contract has many factors to consider for affordable purchases and consumer safety. When entering into such deals, you should pay head-to-data allowances, upfront costs, price hikes, carrier coverage, roaming charges, contract length, flexibility, etc. A low price is not the only thing that should be taken care of.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4：Bonus Tips: iPhone SIM Unlock to Work on Any Carrier Worldwide
 
@@ -328,22 +328,12 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 !['remove sim locked' function of drfone](https://images.wondershare.com/drfone/guide/remove-iphone-sim-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Tap 'Start' to initiate the authorization and verification process. Next, connect your iPhone to the PC and hit the 'Confirmed' button to proceed further.
 
 ![verification and authorization confirmation pop up](https://images.wondershare.com/drfone/guide/remove-iphone-sim-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Follow the instructions in the configuration profile sent by Dr.Fone to unlock the iPhone screen. It is necessary to jailbreak your iPhone to remove the SIM lock.
 
@@ -363,18 +353,15 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 
 Technology has a pivotal influence on today's high-tech lifestyles, which is rewarding in several ways, but there are glitches too. The latest ones are the network-locked Nokia C210 devices that have become carrier-specific. When looking for effective solutions to resolve the issue, getting in touch with your service provider is the safest option. You will receive an unlock code to make your device work with different carriers. Another way is to use third-party apps to address the concern. If you want to unlock your iPhone. Searching for a reliable one, you can trust the [**Dr.Fone - Screen Unlock (iOS)**](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) application for a quick and convenient solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Still Using Pattern Locks with Nokia C210? Tips, Tricks and Helpful Advice
 
 They have been along for a long, long time now – pattern locks – the easiest of all smartphone locks. You just swipe your finger across to create an **easy pattern lock** of your choosing and that’s it, it becomes your new screen lock. No more remembering tedious digits! So, why have these easy pattern locks become outdated, and why do people still continue to use them? Let’s take a dive and find out all about pattern locks.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Things To Know About Pattern Locks
 
@@ -387,6 +374,10 @@ Believe it or not, technology has advanced at such a rapid pace in the last two 
 Pattern locks are patterns you create on your smartphone and designate as a smartphone lock/ screen lock. There is a 9-point keypad of sorts, and you start swiping your finger from any point to any point for any which way you feel like. Android 13 allows a minimum of 4 points registered. They are easy to create, and easy to use, hence called easy pattern locks.
 
 Pattern locks have only ever been offered on Android devices and were commonplace a few years ago until they were deemed not secure enough for use by modern standards because they were _easy_ to figure out by malicious actors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I.II: Popularity and Usage
 
@@ -432,13 +423,6 @@ To further help you see how easy it might be for anyone to guess your pattern, M
 - \- On average, irrespective of gender, people set 5-point patterns, with 4-point patterns being the most common. This means that the number of combinations on average was 7152 for 5-point patterns and a bogglingly low 1624 for 4-point patterns.
 
 The above data makes it amply clear how using an **easy pattern lock** is actually worse than using a 4-digit PIN, simply because how people are usually using the pattern lock feature.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part III: Tips For Using More Secure Pattern Locks
 
@@ -517,21 +501,19 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-within.techidaily.com/1728488548238-202/"><u>202</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-connect-to-a-real-time-tiktok-livestayers-world/"><u>2024 Approved Connect to a Real-Time TikTok Livestayer's World</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-wincams-capturing-life-at-your-fingertips/"><u>2024 Approved WinCams Capturing Life at Your Fingertips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-for-persistent-lagging-and-crashing-in-rocket-league/"><u>Comprehensive Fixes for Persistent Lagging and Crashing in Rocket League</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/discover-unmatched-performance-with-geekoms-ax8-mini-pc-supporting-13th-gen-intel-and-ryzen-8000-cpu-series/"><u>Discover Unmatched Performance with GeekOm's AX8 Mini PC Supporting 13Th Gen Intel and Ryzen 8000 CPU Series</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-n30-se-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus Nord N30 SE Lock Screen Password?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-make-a-gif-from-vimeo-video/"><u>How to Make a GIF From Vimeo Video</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-gt-neo-5-se-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme GT Neo 5 SE Phone that is Locked?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Poco F5 Pro 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c12-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia C12</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-motorola-moto-g04-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Moto G04 Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-clear-webcam-footage-recording-and-editing-tips/"><u>In 2024, Mastering Clear Webcam Footage Recording & Editing Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-engagement-mastering-instagram-stories/"><u>The Ultimate Guide to Engagement Mastering Instagram Stories</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c12-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C12 Device</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-tutorial-simplifying-videos-into-easy-summaries/"><u>Ultimate Tutorial: Simplifying Videos Into Easy Summaries</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-top-strategies-for-box-enthusiasts/"><u>[New] The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y27s-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y27s</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-a-blueprint-for-locating-captivating-pexel-visuals-for-2024/"><u>Crafting a Blueprint for Locating Captivating Pexel Visuals for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/detailed-guide-to-optimal-full-screen-displaying/"><u>Detailed Guide to Optimal Full Screen Displaying</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fashion-memes-for-social-sharing-via-adobe/"><u>Fashion Memes for Social Sharing via Adobe</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy S23 FE?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-premiere-pro-from-crashing-on-your-windows-11-or-10-computer/"><u>How to Stop Premiere Pro From Crashing on Your Windows 11 or 10 Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-13c-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi 13C to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X6 Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-xr21-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia XR21 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-nord-ce-3-lite-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus Nord CE 3 Lite 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-motivations-behind-cyber-attacks-on-chatgpt-platforms/"><u>Understanding the Motivations Behind Cyber Attacks on ChatGPT Platforms</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Your Oppos Potential The Top 20 Lock Screen Apps You Need to Try
-date: 2024-11-25T17:32:32.168Z
-updated: 2024-11-28T18:34:10.323Z
+date: 2024-12-02T16:24:46.273Z
+updated: 2024-12-07T22:13:28.922Z
 tags: 
   - unlock
   - remove screen lock
@@ -93,10 +93,6 @@ Compatibility – Device dependent
 
 ![GO Locker](https://images.wondershare.com/drfone/others/go-locker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. SlideLock Locker
 
 For iOS fanatics this app delivers the Apple way of swiping to right to unlock. Doing it the other way gives direct access to camera. You can set custom alerts for each app.
@@ -106,7 +102,7 @@ Compatibility – Android 4.1+
 ![SlideLock Locker](https://images.wondershare.com/drfone/others/slidelock-locker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 12\. Cover Lock Screen
@@ -116,10 +112,6 @@ Ever heard about an app that predicts your need? Cover uses real time data to pl
 Compatibility – Android 4.1+
 
 ![Cover Lock Screen](https://images.wondershare.com/drfone/others/cover-lock-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 13\. SnapLock Smart Lock Screen
 
@@ -137,6 +129,10 @@ Compatibility – Android 4.0+
 
 ![L Locker](https://images.wondershare.com/drfone/others/l-locker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 16\. DashClock Widget
 
 DashClock lock screen android app lets you access weather reports, missed calls, calendar events, emails and alarms directly. It can also be used with other supported apps.
@@ -146,7 +142,7 @@ Compatibility – Android 4.2+
 ![DashClock Widget](https://images.wondershare.com/drfone/others/dashclock-widget.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 18\. Locker Master
@@ -167,10 +163,6 @@ Compatibility – Android 2.3.3+
 
 These are some of the best lock screen apps for Android that you can find. You can get more security and do more with your Android apps, in an easy manner. Plus, do not forget that every phone should have an app lock for Android – it might be really risky not to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset Gmail Password on Oppo F25 Pro 5G Devices
 
 Nowadays, along with Windows or Apple devices, Android devices are starting to take its place as one of the most popular, reliable, and efficient technical equipment brands. As a result, the use of Android as an operating system for both PC and portable tools is becoming an extremely hot trend.
@@ -181,10 +173,6 @@ Gmail being used directly by an Android tool is a great advantage, but it still 
 
 Luckily for you, this performance is possible. In this article, a very informative and detailed description will be delivered to you to help you solve the problem of resetting your Gmail password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Reset Gmail Password When you Forget it
 
 There will be times when you come into the situation of not knowing what your Gmail password is, or you just simply forget it. You want to change your password but you don't have access to a computer or laptop to perform this task. Now with the help of Android, you can do it through your own Android devices.
@@ -194,16 +182,12 @@ There will be times when you come into the situation of not knowing what your Gm
 ![reset Gmail password on Android](https://images.wondershare.com/drfone/others/14546021103734.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** After that, you will be moved to the Google Account Recovery page. There will be 3 main options which indicate 3 frequent problems. Select the first one, which is entitled "I don't know my password". Once you have chosen it, you will be required to fill in your Gmail address in the bar provided. Click on the Continue button as long as you have made sure to finish all these tasks.
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** In this step, you may be asked to fill in a CAPCHA form. Just simply do it and move to the next page. There you had better type in the last password that you are still able to recall if possible, then click on the Continue button to move. Or else, you can skip this step by clicking on I don't know button.
 
@@ -229,6 +213,10 @@ Step 1: Make sure your Android device is connected with the Internet. Then get a
 
 ![reset Gmail password on Android-find the Sign-in and security option](https://images.wondershare.com/drfone/others/14546023162049.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
@@ -242,6 +230,10 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 3. You are capable of sorting your mails with a certain level of accuracy once you are fully aware of the features of Gmail app on Android devices. Just click on the email, then choose Settings menu and mark it as "Mark as not important", "Mark important" or "Report to spam" owing to the priority of your email.
 4. Gmail app provided you with the ability to have conversations online, and whenever a message comes, there will be a sound. In case you are in a vital conference, or you don't want to be disturbed by the noise, you can mute it. All you have to do is to tap into the conversation, choose the three dots icon then click on the Mute option in the menu.
 5. Enhance the speed and the accuracy of your search with the use of certain phrases. Let's take an instance to see what Gmail can do for you in this case. If you want to search for the mails which have been sent by a certain person, typefrom:(name of the person on Gmail) in the searching bar. And in case you would love to look for a private message from that person, please type is:chat:(name of the person on Gmail) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Video on How to Reset Gmail Password on Android Devices
 
@@ -262,10 +254,6 @@ Follow the guide below to bypass the face unlock settings and choose the best on
 
 ![face lock](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Bypass Android Face Lock by Ourselves?
 
 If you want to bypass face lock by yourself, then different methods can help you. These are all tested and work well.
@@ -277,6 +265,10 @@ You can use your photo to manipulate the face lock app. Simply use your photo to
 If it still doesn't recognize your face, try a different photo or even change the camera's lighting settings or the angles to see if that helps.
 
 Anyway, this method is still unstable because of many uncontrollable factors. If everything fails, consider the following methods to bypass the face lock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Hard Reset your phone
 
@@ -328,6 +320,10 @@ Please select" Unlock Android Screen" for the rest process.
 
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Select device model**
 
 Please click the button fitting your phone.
@@ -337,10 +333,6 @@ Please click the button fitting your phone.
 When arriving at this page, we have a lot of options to unlock your device screen for most phone brands, like Samsung, Nokia, LG, OPPO, etc.
 
 ![most phone brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5: Enter into Recovery Mode**
 
@@ -356,6 +348,10 @@ _(Recovery Mode When the Samsung phone without Bixby)_
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _(Recovery Mode When the Samsung phone with Home button)_
 
 **Step 6: Instructions to Wipe Cache Partition**
@@ -367,6 +363,10 @@ This step in Recovery Mode is the most important to unlock your screen. Please c
 Now you can see your device is unlocked successfully
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -386,21 +386,21 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-assessing-mr-beasts-monetary-trajectory-for-2024/"><u>[New] Assessing Mr. Beast’s Monetary Trajectory for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-poco-x6-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Poco X6</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-tech-connect-chromecast-to-amazons-firestick-for-ultimate-streaming/"><u>Bridging Tech: Connect Chromecast to Amazon's Firestick for Ultimate Streaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-creative-ally-for-aspiring-video-game-writers-six-methods-to-excel/"><u>ChatGPT as a Creative Ally for Aspiring Video Game Writers: Six Methods to Excel</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c02-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C02</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-methods-for-saving-your-favorite-dvd-movies-directly-onto-your-computers-storage-windowsmac/"><u>Easy Methods for Saving Your Favorite DVD Movies Directly Onto Your Computer's Storage (Windows/Mac)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-and-easy-winx-dvd-creator-software-top-choice-for-dvd-burning-on-windows-10-and-11/"><u>Free & Easy WinX DVD Creator Software: Top Choice for DVD Burning on Windows 10 & 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-narzo-60-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme Narzo 60 5G?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-instagram-communications-through-video-engagement/"><u>In 2024, Enhancing Instagram Communications Through Video Engagement</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oneplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on OnePlus?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco C51 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-rapid-learning-path-for-keying-mastery/"><u>In 2024, Rapid Learning Path for Keying Mastery</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-12plus-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme 12+ 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-restore-your-surface-pros-wi-fi-connection/"><u>Troubleshooting Steps to Restore Your Surface Pro's Wi-Fi Connection</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-amazon-basics-tablet-holder-compact-design-fits-right-in-your-pocket/"><u>Ultimate Guide: Amazon Basics Tablet Holder - Compact Design Fits Right in Your Pocket!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-global-industrys-biggest-uav-lifters-the-ultimate-list/"><u>[New] In 2024, Global Industry's Biggest UAV Lifters The Ultimate List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transparent-perspective-reviewing-recordcasts-strengths/"><u>[Updated] 2024 Approved Transparent Perspective Reviewing RecordCast's Strengths</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-flipping-the-script-how-to-revamp-your-tiktok-username-effectively/"><u>[Updated] In 2024, Flipping the Script How to Revamp Your TikTok Username Effectively</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhancing-virtual-collaboration-recording-techniques-for-gotomeet-for-2024/"><u>Enhancing Virtual Collaboration Recording Techniques for GoToMeet for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-nord-n30-se-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus Nord N30 SE?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-c67-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme C67 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-n30-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Nord N30 5G Bootloader Easily</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-perfection-4-methods-of-saving-chromebook-screenshots/"><u>In 2024, Capture Perfection 4 Methods of Saving Chromebook Screenshots</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-c53-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme C53</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c12-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia C12?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-personalized-ringtone-crafting-from-tiktok-beats-to-cellphone-alerts/"><u>In 2024, Personalized Ringtone Crafting From TikTok Beats to Cellphone Alerts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/leading-digital-facial-exchange-software-effortlessly-edit-your-photos-online/"><u>Leading Digital Facial Exchange Software: Effortlessly Edit Your Photos Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-6-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 6 Pro Device</u></a></li>
+<li><a href="https://win-best.techidaily.com/tutorial-gratuit-transformer-facilement-un-fichier-mp3-en-format-aiff-sur-internet-movavi/"><u>Tutorial Gratuit: Transformer Facilement Un Fichier MP3 en Format AIFF Sur Internet - Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-new-possibilities-mastery-of-chatgpt-wolfram-plugin-tactics/"><u>Unlock New Possibilities: Mastery of ChatGPT-Wolfram Plugin Tactics</u></a></li>
 </ul></div>
 

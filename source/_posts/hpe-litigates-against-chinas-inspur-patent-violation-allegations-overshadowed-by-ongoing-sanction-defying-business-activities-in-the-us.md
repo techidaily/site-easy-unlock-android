@@ -1,7 +1,7 @@
 ---
 title: "HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S"
-date: 2024-11-27T17:12:14.892Z
-updated: 2024-11-28T18:30:16.481Z
+date: 2024-12-01T19:14:36.209Z
+updated: 2024-12-07T23:12:42.897Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,24 +67,20 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-recording-webinars/"><u>[New] 2024 Approved Recording Webinars</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>[New] 2024 Approved TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-pixels-to-perfection-selecting-the-premier-screen-recording-software/"><u>[New] From Pixels to Perfection Selecting the Premier Screen Recording Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-in-depth-evaluation-of-the-next-gen-slomo-video-tool/"><u>[New] The In-Depth Evaluation of the Next-Gen SloMo Video Tool</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unraveling-the-packaging-a-marketing-approach/"><u>[New] Unraveling the Packaging A Marketing Approach</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-demystifying-income-flow-to-creators-within-the-short-video-model/"><u>[Updated] 2024 Approved Demystifying Income Flow to Creators Within the Short Video Model</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-inside-the-world-of-facetune-a-comprehensive-photography-tool-for-2024/"><u>[Updated] Inside the World of Facetune A Comprehensive Photography Tool for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-nord-n30-se-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Nord N30 SE Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-c33-2023-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme C33 2023?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-note-50-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme Note 50</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-11-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 11 Pro Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028227449-mp3youtube/"><u>MP3形式でYouTubeのオーディオコンテンツを簡単にダウンロードする方法</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-go-2023-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark Go (2023) Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-outils-logiciels-pour-creer-des-gifs-parfaits-la-selection-de-2024-avec-movavi/"><u>Top 10 Outils Logiciels Pour Créer Des GIFs Parfaits - La Sélection De 2024 Avec Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-gt-3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme GT 3 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-c65-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco C65 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-x6-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco X6 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-chuckle-chest-premium-selection-of-gratuitous-gags/"><u>[Updated] Chuckle Chest Premium Selection of Gratuitous Gags</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-integrating-fb-live-on-roku-step-by-step-guide/"><u>[Updated] Integrating FB Live on Roku Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-break-down-the-essentials-of-youtube-sharing-on-facebook/"><u>2024 Approved Break Down The Essentials of YouTube Sharing on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-time-is-money-speedy-guide-to-convert-srt-files-into-text/"><u>2024 Approved Time Is Money Speedy Guide to Convert SRT Files Into Text</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-11x-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme 11X 5G Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-x5-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco X5?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-ace-2-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-ace-2-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Ace 2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme GT Neo 5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 12 Pro 5G Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-c33-2023-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme C33 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premier-video-call-alternatives-zooms-rivalry-explained-for-2024/"><u>Premier Video Call Alternatives Zoom's Rivalry Explained for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/validating-your-visual-story-on-instagram-for-2024/"><u>Validating Your Visual Story on Instagram for 2024</u></a></li>
 </ul></div>
 

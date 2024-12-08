@@ -1,7 +1,7 @@
 ---
 title: In 2024, Still Using Pattern Locks with Oppo F23 5G? Tips, Tricks and Helpful Advice
-date: 2024-09-29T17:40:03.210Z
-updated: 2024-10-04T16:12:13.620Z
+date: 2024-12-03T23:51:21.152Z
+updated: 2024-12-07T17:42:26.221Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,18 +31,15 @@ Pattern locks are patterns you create on your smartphone and designate as a smar
 
 Pattern locks have only ever been offered on Android devices and were commonplace a few years ago until they were deemed not secure enough for use by modern standards because they were _easy_ to figure out by malicious actors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### I.II: Popularity and Usage
 
 Pattern lock is a feature unique to Android and has been so since the start. Naturally, it is one of the preferred ways users have come to unlock their Android devices over the years. Even though modern Android smartphones come with fingerprint recognition and face recognition technologies, there exists a large subset of users still addicted to and acclimatized with the pattern lock feature, opting over fingerprint and face recognition.
 
 There has been, however, research conducted into the safety and security offered by pattern lock in Android.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### I.III: Advantages and Drawbacks
 
@@ -57,6 +54,10 @@ There is no denying that using an **easy pattern lock** to lock their smartphone
 While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
 
 What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part II: How People Use Pattern Locks
 
@@ -140,13 +141,6 @@ Your device will be successfully unlocked.
 
 ![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Note that this method wipes all data on the Oppo F23 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
 ## Closing Words
@@ -171,6 +165,10 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android](https://images.wondershare.com/drfone/others/14546021103734.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After that, you will be moved to the Google Account Recovery page. There will be 3 main options which indicate 3 frequent problems. Select the first one, which is entitled "I don't know my password". Once you have chosen it, you will be required to fill in your Gmail address in the bar provided. Click on the Continue button as long as you have made sure to finish all these tasks.
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
@@ -184,22 +182,12 @@ There will be times when you come into the situation of not knowing what your Gm
 ![reset Gmail password on Android-submit the process](https://images.wondershare.com/drfone/others/14546022423041.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5:** In this step, a blank bar will appear and it will demand you to type in your verification code. Just do it carefully to make sure there is no error. Once you have done it, a new screen will appear to tell you.
 
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
 
@@ -213,9 +201,17 @@ Step 1: Make sure your Android device is connected with the Internet. Then get a
 
 ![reset Gmail password on Android-find the Sign-in and security option](https://images.wondershare.com/drfone/others/14546023162049.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tips
 
@@ -231,21 +227,37 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KvCMAn5bwx8" id="video-iframe-t"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Your Oppo F23 5G  Phone with Ease: The 3 Best Lock Screen Removal Tools
 
 Let's just say that you recently changed your Oppo F23 5G  phone's password, and now you are having trouble remembering it. After a few wrong attempts, you will get an alert message saying that more wrong attempts will block your device. In these situations, you can hard reset your device, but it will delete all your data and settings.
 
 Instead of using other methods, you can use an **Oppo F23 5G  password unlock tool** to unlock your device without a password. You can find many unlock tools but if you want an easy-to-use and efficient Oppo F23 5G  unlock tool, try Dr.Fone - Screen Unlock. With Dr.Fone, you can unlock your Oppo F23 5G  device within five minutes. You don't have to worry about harm to your phone's software. Here, we will discuss the three best Oppo F23 5G  unlock tools and a complete guide on how to remove the Oppo F23 5G  screen lock with Dr.Fone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tool 1: Dr.Fone - Screen Unlock (Android)
 
 ![screen unlock web page](https://images.wondershare.com/drfone/product-2021/screen/drfone-android-unlock-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For Oppo F23 5G  smartphone users who have forgotten their password and are locked out of their device, finding a reliable and efficient password unlock tool is crucial. One such tool that stands out is Dr.Fone - Screen Unlock (Android). [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a fast and efficient solution to unlock your Oppo F23 5G  device. With its advanced algorithms and technology, it can bypass various lock screen types, including PIN, password, pattern, and fingerprint. You can regain access to your device within minutes, saving you from the frustration of being locked out of your phone for an extended period.
 
 Dr.Fone - Screen Unlock is the first choice of many people because of the simple device unlock procedure. When you unlock your device with Dr.Fone, you don't have to worry about damaging its software. Dr.Fone is the most efficient **Oppo F23 5G  pattern lock remove tool** because it can unlock all old and new Oppo F23 5G  devices. In addition to that, Dr.Fone also offers various other features like system repair, WhatsApp transfer, phone transfer, data backup and restore, data eraser, etc. Here is the guide to unlocking the Oppo F23 5G  lock screen with Dr.Fone.
 
 ![home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With Dr.Fone, you can remove the lock screen of any Oppo F23 5G  mobile in four easy steps. Each step is easy to follow.
 
@@ -255,34 +267,13 @@ With Dr.Fone, you can remove the lock screen of any Oppo F23 5G  mobile in four 
 
 ![choose unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Click the “OPPO” icon and use a USB cable to connect your Oppo F23 5G  phone and your PC. Dr.Fone will start to unlock Android screen after getting into the specific mode. There are various phone brands for you to choose, don't make it wrong, otherwise, all rest processes won't work well.
 
 ![choose device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** Once the unlock progress is over, you can access your Oppo F23 5G  phone without any password or pattern.
 
 ![remove Oppo F23 5G  lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tool 2: Oppo F23 5G  Password Unlock
 
@@ -296,13 +287,6 @@ You can only reset your password using the **Oppo F23 5G  password unlock tool**
 - **Step 2.** For the MTK(MediaTek) chipset, all you need to do is set your MAC address from the network adaptor options and start the unlock process.
 - **Step 3.** For the Qualcomm chipset, select your device model and click on the "Service" tab to enable DIAG mode.
 - **Step 4.** Start the Oppo F23 5G device unlock process. Once the process is complete, your device will automatically boot up and format all data. There will be no screen lock or FRP lock.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tool 3: iToolab - UnlockGo
 
@@ -352,22 +336,17 @@ These are the three best tools to unlock your Oppo F23 5G  smartphone. Each of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-free-top-chromebook-recording-software/"><u>[New] Free Top Chromebook Recording Software</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-tiktok-a-mac-users-quickstart-list/"><u>[Updated] 2024 Approved Mastering TikTok A Mac User's Quickstart List</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-poco-x6-unlock-without-password-by-drfone-android/"><u>5 Solutions For Poco X6 Unlock Without Password</u></a></li>
-<li><a href="https://solve-info.techidaily.com/elevate-your-digital-presence-with-cutting-edge-cookiebot-technology-solutions/"><u>Elevate Your Digital Presence with Cutting-Edge Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-105-classic-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia 105 Classic?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-gt-3-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme GT 3 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-m6-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco M6 5G Fingerprint Lock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-racing-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Infinix Note 30 VIP Racing Edition Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-10t-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme 10T 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-c55-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco C55 Lock Screen Password</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-in-premiere-4-proven-strategies-to-elevate-iphone-hdri/"><u>In 2024, Precision in Premiere 4 Proven Strategies to Elevate iPhone HDRI</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-11x-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 11X 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-c12-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia C12 Pro Device</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lg-bp550-review-2023-update-for-2024/"><u>LG BP550 Review - 2023 Update for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-a24-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy A24</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-restoring-functionality-for-a-broken-pvpnet-lol-players-kernel-update-process/"><u>Step-by-Step: Restoring Functionality for a Broken PvP.net LOL Player's Kernel Update Process</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-engaging-local-audiences-with-social-media-videos/"><u>[Updated] 2024 Approved Engaging Local Audiences with Social Media Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-classroom-mastery-the-prime-10-audio-visual-aids-for-instructors/"><u>2024 Approved Classroom Mastery The Prime 10 Audio-Visual Aids for Instructors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-proven-methods-to-eliminate-jpeg-distortions-at-no-cost/"><u>4 Proven Methods to Eliminate JPEG Distortions at No Cost</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-edgeplus-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Edge+ (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-chatgpt-on-advancements-and-innovations-in-healthcare/"><u>Exploring the Impact of ChatGPT on Advancements and Innovations in Healthcare</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-nord-ce-3-lite-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus Nord CE 3 Lite 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a78-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A78 Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-reno-10-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo Reno 10 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976909046-to-solve-for-x-we-multiply-both-sides-by-4-to-cancel-out-the-division/"><u>To Solve for ( X ), We Multiply Both Sides by 4 (to Cancel Out the Division)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-12-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus 12 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c110-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nokia C110 Users</u></a></li>
 </ul></div>
 
