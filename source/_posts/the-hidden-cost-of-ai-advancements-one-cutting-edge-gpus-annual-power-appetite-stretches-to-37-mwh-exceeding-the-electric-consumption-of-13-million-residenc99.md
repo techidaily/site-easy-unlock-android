@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2024-12-02T20:42:18.689Z
-updated: 2024-12-07T20:16:47.410Z
+date: 2024-12-06T23:01:34.908Z
+updated: 2024-12-13T17:05:06.738Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,18 +76,20 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios/"><u>[New] Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tailored-ending-scenes-get-em-for-free/"><u>[Updated] 2024 Approved Tailored Ending Scenes - Get 'Em for Free</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-pic-tastic-alterations-comedy-central-editors-online/"><u>[Updated] In 2024, Pic-Tastic Alterations Comedy Central Editors Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pros-choice-top-15-luts-for-excellent-gopro-videos/"><u>[Updated] Pro's Choice Top 15 LUTs For Excellent GoPro Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-access-download-your-own-tailored-tracks/"><u>Exclusive Access Download Your Own Tailored Tracks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-your-hands-on-tech-savvy-exploring-motorola-one-vs-iphone-prices/"><u>Get Your Hands on Tech Savvy: Exploring Motorola One Vs. IPhone Prices.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a58-4g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A58 4G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-a78-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo A78 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-v30t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme V30T</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-c55-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco C55? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-note-50-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme Note 50</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>[New] Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-techniques-recording-playstation-4-games/"><u>[Updated] 2024 Approved Essential Techniques Recording PlayStation 4 Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>[Updated] Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-a-compelling-pitch-products-sponsoring-youtubers-for-2024/"><u>Crafting a Compelling Pitch Products Sponsoring Youtubers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cut-screen-claims-is-splitcam-supreme-for-2024/"><u>Cut Screen Claims Is SplitCam Supreme for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c02-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C02 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oppo-a1-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A1 5G Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-narzo-n53-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme Narzo N53</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-v30t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme V30T</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instantpodstreams-a-step-by-step-approach-to-live-broadcasting/"><u>InstantPodStreams A Step-by-Step Approach to Live Broadcasting</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-conversions-and-revenue-with-procookies-the-cutting-edge-alternative-to-cookiebot/"><u>Maximize Conversions and Revenue with ProCookies: The Cutting-Edge Alternative to Cookiebot</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-x6-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco X6 Phone Now with These Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-motorola-g24-power-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Motorola G24 Power</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-elite-server-racks-and-enclosures-of-2024-industry-experts-weigh-in/"><u>Unveiling the Elite Server Racks and Enclosures of 2024 – Industry Experts Weigh In</u></a></li>
 </ul></div>
 

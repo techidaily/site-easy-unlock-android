@@ -1,7 +1,7 @@
 ---
 title: Critical Fixes for City Skylines 2'S PC Crashing Problems - Play Smoothly Now
-date: 2024-12-04T18:11:13.114Z
-updated: 2024-12-07T17:27:37.830Z
+date: 2024-12-07T23:23:16.890Z
+updated: 2024-12-13T22:31:28.702Z
 tags:
   - win11
   - win10
@@ -45,10 +45,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -67,10 +63,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Remove incompatible software
 
  Norton anti-virus software is known to cause issues with Minecraft. It can be a little too protective and will block things you don’t want to block even when you’ve disabled it. You can install the software or replace it to avoid bumping into the same problem.
@@ -82,7 +74,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -114,6 +106,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -122,10 +118,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  4) After updating the drivers, you need to restart your computer to take effect.
@@ -133,6 +125,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  See if updating your video driver fixes your Minecraft not responding issue. If not, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Minecraft as administrator
 
@@ -148,13 +144,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Run Minecraft again to see if this works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -176,19 +172,23 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Right-click the**.minecraft** folder and select**Delete** to make sure you’ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,18 +218,15 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-visionary-visual-story-conduit-suite/"><u>[Updated] 2024 Approved Visionary Visual Story Conduit Suite</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-peak-psd-layer-magic/"><u>2024 Approved Peak PSD Layer Magic</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crackdown-on-the-blackout-bug-eliminating-error-887a0005-in-cod-bocw/"><u>Crackdown on the 'Blackout' Bug - Eliminating Error 887A0005 in COD BOCW</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-combined-video-narrative-on-iphone-for-2024/"><u>Crafting a Combined Video Narrative on iPhone for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-6s-plus-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 6s Plus with 3 Methods</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c300-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C300</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-nord-n30-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Nord N30 5G Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oppo-k11-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo K11 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/reinstating-a-disabled-debit-card-on-playstation/"><u>Reinstating a Disabled Debit Card on PlayStation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oneplus-ace-2v-by-drfone-android/"><u>Top 10 Password Cracking Tools For OnePlus Ace 2V</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-infinix-note-30-vip-racing-edition-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Infinix Note 30 VIP Racing Edition Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-ais-evolution-within-the-windows-11-era/"><u>Unraveling AI's Evolution Within the Windows 11 Era</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-grit-in-valorant-tackling-lags-head-on/"><u>Winning Grit in Valorant: Tackling Lags Head-On</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-will-your-tv-screen-showcase-fb-feeds-soon-in-2024/"><u>[Updated] Will Your TV Screen Showcase FB Feeds Soon, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029585915-pc/"><u>画面録画データ量の最適化:PC/スマホ向け圧縮方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-on-acer-predator-helios-300-by-updating-graphic-drivers/"><u>Enhance Gaming on Acer Predator Helios 300 by Updating Graphic Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/forget-not-fundamental-cinematography-for-aspiring-directors/"><u>Forget Not Fundamental Cinematography for Aspiring Directors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-f23-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo F23 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oneplus-nord-n30-se-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For OnePlus Nord N30 SE Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-reno-8t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo Reno 8T Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Poco F5 5G Phone?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-soundtrack-of-success-on-instagram/"><u>The Soundtrack of Success on Instagram</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-f04-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy F04 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with OnePlus Nord N30 5G? Tips, Tricks and Helpful Advice
-date: 2024-12-06T21:24:37.953Z
-updated: 2024-12-07T20:31:03.654Z
+date: 2024-12-10T21:54:35.168Z
+updated: 2024-12-13T18:53:49.267Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 They have been along for a long, long time now – pattern locks – the easiest of all smartphone locks. You just swipe your finger across to create an **easy pattern lock** of your choosing and that’s it, it becomes your new screen lock. No more remembering tedious digits! So, why have these easy pattern locks become outdated, and why do people still continue to use them? Let’s take a dive and find out all about pattern locks.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Things To Know About Pattern Locks
 
@@ -111,10 +115,6 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -127,19 +127,23 @@ Step 3: You will see a list of supported manufacturers on the next screen. Selec
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After completing the process, when the Next button becomes available, click it.
 
 Your device will be successfully unlocked.
 
 ![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note that this method wipes all data on the OnePlus Nord N30 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
@@ -158,10 +162,6 @@ For those looking to truly unleash the full potential of their Android device, a
 **OEM lock** might sound like technical jargon to many. However, it’s a key concept for those who wish to dive deeper into Android customization. OEM stands for Original Equipment Manufacturer. Unlocking in this context refers to removing restrictions made by the manufacturer on the OnePlus Nord N30 5G device.
 
 This process allows you to gain deeper access to the OnePlus Nord N30 5G device’s software. Thus, OEM unlocking is often required for customizing or modifying the system at a more advanced level.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why Enable OEM Unlock?
 
@@ -218,10 +218,6 @@ Unlocking your phone’s OEM opens up a world of possibilities. It allows you to
 
 ![android custom roms](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Root Your Device
 
 Rooting is akin to having the master key to your device’s software. It allows you to gain superuser access, enabling modifications and access to system files that were previously restricted. With rooting, you can:
@@ -229,10 +225,6 @@ Rooting is akin to having the master key to your device’s software. It allows 
 - Remove pre-installed apps or bloatware.
 - Customize system settings and UI elements.
 - Enhance performance or battery life through underclocking or overclocking the CPU.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Flash a Custom ROM
 
@@ -271,6 +263,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 **4,008,671** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Perform Screen Unlock With Dr.Fone
 
 The process is straightforward. It involves connecting your device to a computer and running the Dr.Fone software. Then, you’ll follow simple on-screen instructions. Learn how to do those below:
@@ -283,10 +279,6 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![dr.fone screen unlock home](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Select **Unlock Android Screen**.
 
 ![unlock android or google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -295,13 +287,13 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Click **Remove without Data Loss**.
 
 ![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** After confirming device details, type “000000” to execute the operation.
 
@@ -328,6 +320,10 @@ You can always stay in touch with friends, family, and coworkers thanks to voice
 ## Part 1: 3 Easy Ways To Reset Or Change Your Lost Voicemail Password
 
 ![voicemail](https://images.wondershare.com/drfone/article/2022/10/how-to-reset-voicemail-password-on-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Contact your carrier
 
@@ -379,10 +375,6 @@ YouMail is an Android app that helps you to control visual voicemail. Additional
 
 ![youmail](https://images.wondershare.com/drfone/article/2022/10/how-to-reset-voicemail-password-on-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. **Visual voicemail from AT&T**
 
 You can view the caller's name and phone number before listening to their message, which makes monitoring your voicemail incredibly simple.
@@ -406,6 +398,10 @@ You may access your mailbox on another phone if your phone is out of reach or th
 ## Bonus Tip: Best Tool When You Forgot The Phone Password
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -455,16 +451,12 @@ Note: Different brands have different steps to enter the Recovery Mode.
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Go to the Recovery Mode on Samsung phone without Bixby**
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Go to Recovery Mode on Samsung phone with Home Button**
 
@@ -476,11 +468,19 @@ Good! You’re now in the final step, be careful to choose the correct options s
 
 ![instructions to wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now no pattern or password is on your phone screen to bother you!
 
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 This is how you can easily get rid of phone lock issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -502,20 +502,24 @@ Have you ever experienced voicemail lockout? Which technique did you employ to f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-color-perfection-interface/"><u>[New] In 2024, Color Perfection Interface</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-premier-video-communication-tools-the-top-10-for-ios-and-android/"><u>[New] Premier Video Communication Tools The Top 10 for iOS & Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-secrets-of-recording-video-without-distracting-noise/"><u>[Updated] 2024 Approved Secrets of Recording Video without Distracting Noise</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/advanced-5-cloud-view-recorder/"><u>Advanced 5 Cloud View Recorder</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boosting-efficiency-creating-speed-driven-google-collages-for-2024/"><u>Boosting Efficiency Creating Speed-Driven Google Collages for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-poco-f5-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Poco F5 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-astro-a50-earphones-microphone-issues-troubleshooting-steps-and-solutions/"><u>Fixing Astro A50 Earphones Microphone Issues: Troubleshooting Steps & Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi K70 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c02-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia C02</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-without-password-by-drfone-android/"><u>How To Unlock Realme GT Neo 5 Phone Without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fraps-to-video-an-evaluation-review/"><u>In 2024, Fraps to Video An Evaluation Review</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-c51-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme C51</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-10t-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 10T 5G Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/supercharged-macx-mediatrans-lightning-fast-iphone-photography-backup/"><u>Supercharged MacX MediaTrans: Lightning-Fast iPhone Photography Backup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explaining-instagrams-sudden-video-pivot/"><u>[Updated] Explaining Instagram's Sudden Video Pivot</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-ace-2-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Ace 2 Unlock Without Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g14-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G14 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-poco-x6-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco X6 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-comprehensive-guide-to-social-account-linking-for-xbox/"><u>Crafting a Comprehensive Guide to Social Account Linking for Xbox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cutting-edge-content-alert-obtain-latest-copy-protected-dvds-plus-free-sports-movievideo-torrent-download-options-for-windows-and-mac-enthusiasts/"><u>Cutting-Edge Content Alert! Obtain Latest Copy Protected DVDs + Free Sports Movie/Video Torrent Download Options for Windows & Mac Enthusiasts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-reno-9a-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Reno 9A? Try These Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-raw-to-refined-a-complete-guide-to-polarr-photo-tools-for-2024/"><u>From Raw to Refined A Complete Guide to Polarr Photo Tools for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus 11 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g04-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Moto G04 Phone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-brilliance-in-display-top-5-for-grading-professionals/"><u>In 2024, Brilliance in Display TOP 5 for Grading Professionals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-c110-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia C110</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlock-creative-potential-with-expert-macro-video-cinematography-guidance/"><u>In 2024, Unlock Creative Potential with Expert Macro Video Cinematography Guidance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-narzo-60-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Narzo 60 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-new-leadership-the-implications-of-sam-altman-leaving-openai-on-chatgpts-evolution/"><u>Navigating New Leadership: The Implications of Sam Altman Leaving OpenAI on ChatGPT's Evolution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-strategic-use-of-tags-a-guide-to-youtube-success-for-2024/"><u>The Strategic Use of Tags A Guide to YouTube Success for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11-proplus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11 Pro+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-conversations-in-your-linux-shell-utilizing-chatgpt-via-shellgpt/"><u>Unlocking AI Conversations in Your Linux Shell: Utilizing ChatGPT via ShellGPT</u></a></li>
 </ul></div>
 

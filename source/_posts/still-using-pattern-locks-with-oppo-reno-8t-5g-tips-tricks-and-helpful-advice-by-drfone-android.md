@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo Reno 8T 5G? Tips, Tricks and Helpful Advice
-date: 2024-12-01T18:18:22.244Z
-updated: 2024-12-07T16:39:06.574Z
+date: 2024-12-12T20:30:41.729Z
+updated: 2024-12-13T16:15:06.981Z
 tags: 
   - unlock
   - remove screen lock
@@ -76,6 +76,10 @@ To further help you see how easy it might be for anyone to guess your pattern, M
 
 The above data makes it amply clear how using an **easy pattern lock** is actually worse than using a 4-digit PIN, simply because how people are usually using the pattern lock feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III: Tips For Using More Secure Pattern Locks
 
 Now, we know how hard it is to break habits cemented over years of use, so in case you must at all costs use a pattern lock only, the least you can do is try and change your easy pattern lock to a better, more secure hard pattern lock.
@@ -95,6 +99,10 @@ Here are some tips to help you create a better, more secure pattern lock for you
 Supercharged with the information above, you went ahead and changed your easy pattern lock to a hard-to-guess pattern lock. Only problem is, your brain is habituated to that old pattern, and you’ve suddenly forgotten what the new pattern was! Well, worry not; Wondershare Dr.Fone - Screen Unlock (Android) will help you [unlock your phone without pattern lock](https://drfone.wondershare.com/unlock/pattern-lock.html)!
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -132,6 +140,10 @@ After completing the process, when the Next button becomes available, click it.
 Your device will be successfully unlocked.
 
 ![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note that this method wipes all data on the Oppo Reno 8T 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
@@ -172,12 +184,16 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![connect android phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your Oppo Reno 8T 5G and access it without any pattern lock.
@@ -199,10 +215,6 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 
 ![set new lock screen](https://images.wondershare.com/drfone/article/2017/09/15057371966761.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
 
 ## Part 3: How to Unlock Android Pattern Lock Using the 'Forgot Pattern' Feature?
@@ -218,12 +230,12 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057372279692.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Provide the correct Google credentials of the account that is linked to your device.
 - **Step 5.** Later, you can set a new pattern for your device and confirm it. This will let you access your Android device with the new pattern lock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Unlock Samsung Phone Pattern Lock Using Samsung Find My Mobile?
 
@@ -270,18 +282,10 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
 
 ![factory reset device](https://images.wondershare.com/drfone/article/2017/09/15057374154915.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
 - **Step 7.** Later, you can choose to reboot your phone and access it without any lock screen.
@@ -292,10 +296,6 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Delete Gmail Account With/Without Password On Oppo Reno 8T 5G
 
 Email accounts have proven their worth in digital devices beyond sending emails. Lately, Android devices have only operated with a Gmail account. This is because most of the data, such as contact information, messages, and other details, are saved across the storage space offered with the email. Against all recognizable uses of Gmail accounts, users look for ways **how to delete Gmail accounts.**
@@ -303,10 +303,6 @@ Email accounts have proven their worth in digital devices beyond sending emails.
 To this day, it is known that Gmail accounts can be removed with or without a password. However, one should know that if they consider deleting their Gmail account, they won't be able to send or receive emails. With that, let's proceed to reveal all essential methods that can be used to **delete a Gmail account permanently**. This article will also focus on a perfect tool that assists in making the process easier.
 
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
@@ -317,6 +313,10 @@ Although the process of deleting a Gmail account sounds basic, there are many po
 - **Access to Other Services:** Although you are deleting your Gmail account, you can still access Google Photos, Google Drive, and other services.
 - **Lookout For Emails:** Ensure that the emails in your account are saved. You can easily download them anywhere before deleting the Gmail account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Delete Your Gmail Account Using Your Password: Desktop Solution
 
 For the first method, we will discuss **how to delete a Google account** with your password. You will use your computer for this process and access the [Google Account](https://myaccount.google.com/) services. The service helps you save all your essential Gmail data before you remove it. To understand how it makes it possible, look through the steps provided below:
@@ -324,6 +324,10 @@ For the first method, we will discuss **how to delete a Google account** with yo
 - **Step 1.** Access the website [https://myaccount.google.com/](https://myaccount.google.com/) on your desktop browser and log in with your credentials. Proceed to the “Data & privacy” section from the left panel.
 
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
 
@@ -340,6 +344,10 @@ For the first method, we will discuss **how to delete a Google account** with yo
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
@@ -383,6 +391,10 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### iOS Devices
 
 - **Step 1.** You need to turn on Finder if you own a macOS Catalina or later device. Conversely, use iTunes if you have a macOS Mojave or earlier version or if you are using Windows. Connect your iPhone to the computer using the lightning cable and put it in Recovery Mode.
@@ -399,10 +411,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![recovery mode iphone 6 or earlier](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
@@ -414,10 +422,6 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -458,10 +462,6 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 
 ![successfully unlock device](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Oppo Reno 8T 5G device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
@@ -480,19 +480,17 @@ This article has specifically provided you with some important details on **how 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[Updated] How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-lightweight-travel-bags-with-camera-integration/"><u>2024 Approved Lightweight Travel Bags with Camera Integration</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-closer-look-at-luminance-and-its-hdr-achievements-for-2024/"><u>A Closer Look at Luminance and Its HDR Achievements for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-exploration-of-sierra-icloud-documentdesktop-views-for-2024/"><u>Complete Exploration of Sierra iCloud Document/Desktop Views for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-mts-files-to-mp4-for-free-top-8-methods-compatible-with-pc-and-mac/"><u>Convert MTS Files to MP4 for Free: Top 8 Methods Compatible with PC & Mac</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-your-dell-2330ddn-printing-with-updated-mono-laser-printer-drivers/"><u>Enhance Your Dell 2330D/DN Printing with Updated Mono Laser Printer Drivers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-reno-8t-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo Reno 8T Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-c32-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia C32 Phone?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-130-music-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia 130 Music Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco F5 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G24</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-noise-into-notes-daw-mastery-with-ai-assisted-gpt/"><u>Transforming Noise Into Notes: DAW Mastery with AI-Assisted GPT</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/vocal-interaction-redefined-in-the-augmented-realm/"><u>Vocal Interaction Redefined in the Augmented Realm</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>[Updated] Earning Through Eyes The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-gslides-to-life-with-youtube-media-for-2024/"><u>Bring Your GSlides to Life with YouTube Media for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/chasing-success-fb-commits-5m-to-challenge-substacks-journalist-community/"><u>Chasing Success: FB Commits $5M to Challenge Substack’s Journalist Community</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-windows-11-ambiance-with-wallpaper-ideas/"><u>Enhancing Windows 11 Ambiance with Wallpaper Ideas</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-update-for-your-ch340g-serial-driver-on-windows-10-system/"><u>Get the Newest Update for Your CH340g Serial Driver on Windows 10 System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-130-music-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia 130 Music Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-poco-x5-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Poco X5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-c02-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia C02 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-narzo-n55-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme Narzo N55 Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-safari-glitches-on-iphone-discover-10-effective-fixes-now/"><u>Resolve Safari Glitches on iPhone: Discover 10 Effective Fixes Now!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/restore-accidentally-erased-system-checkpoints-in-windows-11-a-comprehensive-guide/"><u>Restore Accidentally Erased System Checkpoints in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-content-conundrums-finding-elusive-vids/"><u>Social Media Content Conundrums Finding Elusive Vids</u></a></li>
 </ul></div>
 

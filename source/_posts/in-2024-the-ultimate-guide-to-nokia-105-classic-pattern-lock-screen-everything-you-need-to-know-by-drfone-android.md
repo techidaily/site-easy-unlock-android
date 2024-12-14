@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Nokia 105 Classic Pattern Lock Screen Everything You Need to Know
-date: 2024-12-01T17:42:57.356Z
-updated: 2024-12-07T18:55:43.053Z
+date: 2024-12-10T16:14:57.653Z
+updated: 2024-12-13T19:56:09.367Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,7 +45,7 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 Later, you can follow the same drill to change your device’s lock screen pattern as well. Though, you would be needed to provide the existing pattern to access these features. Out of all the lock screen options, you should go with the pattern lock. Not only it is the most accessible option, it also provides fast results with an added security.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: What to do if you forget Android pattern lock?
@@ -67,10 +67,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Top 10 Hardest pattern lock ideas for Android
 
 Your pattern lock is one of the most important security aspects on your device. Anyone can access your phone after decoding your pattern lock. Needless to say, if you have a simple pattern lock on your device, then it can easily be accessed by someone else. To help you set up a strong pattern lock screen, we have handpicked some of the hardest combinations. Have a look at these lock screen pattern combinations and choose the one you like the most!
@@ -84,6 +80,10 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 8 > 7 > 4 > 3 > 5 > 9 > 6 > 2 > 1
 
 ![android pattern lock idear 2](https://images.wondershare.com/drfone/article/2017/09/15057385086356.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 # 2
 
@@ -103,10 +103,6 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 5](https://images.wondershare.com/drfone/article/2017/09/15057385873434.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 # 5
 
 2 > 4 > 1 > 5 > 8 > 9 > 6 > 3 > 7
@@ -118,6 +114,10 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 8 > 4 > 1 > 5 > 9 > 6 > 2 > 3 > 7
 
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386209876.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 # 7
 
@@ -147,6 +147,10 @@ After selecting and setting up a new screen lock pattern on your device, make su
 
 Now when you know every essential thing about pattern lock screen on Android, you can certainly keep your device safe from any unforeseen intrusion. A strong lock screen pattern will certainly be of a great use to you. It will protect your apps, data, and device accessibility in an effortless manner. Go ahead and set up a strong and secure pattern lock screen on your device and provide an added layer of security to it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mastering Android Device Manager: The Ultimate Guide to Unlocking Your Nokia 105 Classic Device
 
 So, what is Android Device Manager?  Android has this amazing native tool to help you locate and remote wipe your lost or stolen phone. We lock our phones via passwords or patterns or fingerprints to maintain the security but what if someone dares to meddle with your phone or unfortunately, it gets stolen? Don’t worry, all you need to do is let Android Device Manager unlock your Android phone. For this, it just needs to be enabled on your phone (before you unluckily locked yourself out of it). Android Device Manager unlocks your phone in a small amount of time, saving you from all the troubles.
@@ -156,7 +160,7 @@ In addition to this, the Android Device Manager also unlocks your password/pin-e
 ![how to use android device manager](https://images.wondershare.com/drfone/article/2017/10/15077981108622.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Using the Android Device Manager to track a lost phone_
@@ -193,6 +197,10 @@ Just act according to the following steps, and the Android Device Manager will u
 7\. Visit your phone’s lock screen settings and disable the temporary password.
 
 ![unlock with android device manager](https://images.wondershare.com/drfone/article/2017/10/15077981723179.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Android Device Manager has successfully unlocked your phone!
 
@@ -257,6 +265,10 @@ So, make use of this guide and get back command over your Android phone.
 
 ## Top 10 Password Cracking Tools For Nokia 105 Classic
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What is password cracking?**
 
 Password cracking process involves recovering a password from storage locations or from data, transmitted by a computer system on network. Password cracking term refers to group of techniques used to get password from a data system.
@@ -301,10 +313,6 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Cain & Abel:**
 
 - Used for WEP (Wired Equivalent Privacy) cracking
@@ -326,7 +334,7 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features of John the Ripper**
@@ -340,10 +348,6 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 
 [http://www.openwall.com](http://www.openwall.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Aircrack : Fast and effective WEP/WPA cracking tool
 
 Aircrack is a combination different tools used for Wifi, WEP and WPA passwords cracking. With the help of these tools you can crack WEP/WPA passwords easily and effectively
@@ -351,10 +355,6 @@ Aircrack is a combination different tools used for Wifi, WEP and WPA passwords c
 Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) techniques can be used to crack WEP/WPA passwords. Basically it collects and analyzes encrypted packets then using its different tool crack password out of the packets. Although aircrack is available for Windows but there are different issues with this software if we use this in Windows environment, so it’s best when we use it in Linux environment.
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Aircrack**
 
@@ -373,6 +373,10 @@ THC Hydra is a supper fast network password cracking tool. It uses network to cr
 It can be used to crack passwords of different protocols including HTTPS, HTTP, FTP, SMTP, Cisco, CVS, SQL, SMTP etc. It will give you option that you may supply a dictionary file that contains list of possible passwords. It’s best when we use it in Linux environment.
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of THC Hydra**
 
@@ -406,7 +410,7 @@ Site for Download:
 [http://project-rainbowcrack.com/](http://project-rainbowcrack.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. OphCrack : Tool for Windows password cracking
@@ -437,10 +441,6 @@ It can be used for different network protocols including HTTP, FTP, IMAP, NNTP a
 It is only available for windows operation systems. Tool has a limitation that it has not been updated since 2000.
 
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Brutus**
 
@@ -532,24 +532,15 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-11-ranked-audio-recorders-of-the-year/"><u>[New] 11 Ranked Audio Recorders of the Year</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-elevation-reach-youtube-affiliate-level-with-10k-views/"><u>[New] 2024 Approved Channel Elevation Reach YouTube Affiliate Level with 10K Views</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-new-territory-your-guide-to-live-streaming-tiktoks/"><u>[Updated] 2024 Approved Explore New Territory Your Guide to Live-Streaming TikToks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-goovision-elite-next-gen-screen-capture/"><u>[Updated] In 2024, GooVision Elite Next-Gen Screen Capture</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-compreehing-and-engaging-with-your-twitter-archive/"><u>2024 Approved Compreehing & Engaging with Your Twitter Archive</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-efficient-remote-streaming-via-vlc-media-player/"><u>2024 Approved Unlock Efficient Remote Streaming via VLC Media Player</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-uploading-finesse-imovie-videos-meeting-youtube-standards/"><u>2024 Approved Uploading Finesse IMovie Videos Meeting YouTube Standards</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-steps-for-resetting-browsers-autofill-settings/"><u>Effective Steps for Resetting Browser's Autofill Settings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-nord-3-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus Nord 3 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-g310-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia G310 Phone that is Locked?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y100i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100i without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oneplus-11r-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For OnePlus 11R</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-g24-power-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola G24 Power</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-note-50-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme Note 50 Face Lock?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia C12 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-narzo-n55-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme Narzo N55 Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-edge-2023-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Edge 2023 Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-c50-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco C50 Device</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-camera-app-performance-eliminate-0xa00f425d/"><u>Unlocking Camera App Performance: Eliminate 0xA00F425D</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-charting-success-with-youtube-income-streams/"><u>[Updated] 2024 Approved Charting Success with YouTube Income Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[Updated] In 2024, WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-gionee-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Gionee Fingerprint Lock</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-video-posting-dilemmnas-which-way/"><u>Facebook Video Posting Dilemmnas Which Way?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nokia-g42-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nokia G42 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-proplus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme 11 Pro+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-12plus-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme 12+ 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-fast-track-easy-driver-update-techniques-for-your-gtx-1660-graphics-card/"><u>The Fast Track: Easy Driver Update Techniques for Your GTX 1660 Graphics Card</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-v30t-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme V30T Phone</u></a></li>
 </ul></div>
 

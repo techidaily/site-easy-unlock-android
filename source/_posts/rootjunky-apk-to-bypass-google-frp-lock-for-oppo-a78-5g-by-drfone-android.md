@@ -1,7 +1,7 @@
 ---
 title: Rootjunky APK To Bypass Google FRP Lock For Oppo A78 5G
-date: 2024-12-03T18:21:10.327Z
-updated: 2024-12-07T22:47:08.277Z
+date: 2024-12-07T20:31:04.229Z
+updated: 2024-12-13T23:05:21.044Z
 tags: 
   - unlock
   - remove screen lock
@@ -48,10 +48,6 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 - **Step 2:** On your phone, download the **Rootjunky APK** (com.rootjunky.frpbypass-1.0.apk) file from the official website or other reputable sites.
 
 ![rootjunky frp bypass apk file](https://images.wondershare.com/drfone/article/2024/01/rootjunky-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
 
@@ -117,13 +113,13 @@ The next steps may vary depending on the brand you selected.
 
 ![instructions to access device secret menu](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** When your Samsung prompts you to activate USB debugging, tap **Allow**. Then, on your computer screen, click **Authorized** to confirm.
 
 ![allow usb debugging on phone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7:** You will see the FRP lock being bypassed on your Android device on the next screen.
 
@@ -138,7 +134,7 @@ That’s it! With Dr.Fone Screen Unlock, you can easily bypass Google FRP and re
 _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -153,10 +149,6 @@ The main reason why we keep our smartphone locked is to prevent children (or sta
 
 To avoid such types of conditions, we have tried and tested the following methods to bypass the Oppo lock screen pattern, PIN, password, and fingerprint.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1. Use 'Find My Mobile' feature on Oppo Phone
 
 All Oppo devices come with the "Find My Mobile" feature. To bypass the Oppo lock screen pattern, PIN, password, and fingerprint, you can just follow the below steps to get it done.
@@ -170,7 +162,7 @@ All Oppo devices come with the "Find My Mobile" feature. To bypass the Oppo lock
 ![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2. Use Android Device Manager to Bypass Oppo Password
@@ -209,10 +201,6 @@ To bypass the Oppo lock screen in this method, you ought to be an advanced user 
 - Step 4. Flash the file on your card and restart the phone.
 - Step 5. Now your phone would boot up without lock screen. Don't worry if you had a gesture lock or password. All you need to do is to input a random gesture or password, and it will be unlocked.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5. Delete the Password File Using ADB
 
 It is yet another option that will work only when you have enabled USB Debugging previously on your device, and your PC is allowed to connect via ADB. If you meet such requirements, it is ideal to use this method to unlock the Oppo lock screen.
@@ -250,10 +238,6 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 8. Other Methods
 
 - Step 1. Take your friend's phone to call on your locked phone.
@@ -278,6 +262,10 @@ Except for pattern locks unlocking, it works for the PIN, fingerprints, Face ID,
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into Locked Phones within Minutes
@@ -293,9 +281,17 @@ Step 1. [Download Dr.Fone –Screen Unlock](https://download.wondershare.com/drf
 
 ![ run the program to remove android lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2. Connect your Android phone to the computer using a USB cable. Next, click the "**Unlock Android Screen**" from the interface.
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. Choose the model version according to your android phone. For people who don't know the operating system version, tick the circle "I can't find my device model from the list above".
 
@@ -313,10 +309,6 @@ Once the whole progress is over, you can access your Android device without ente
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to unlock the Android phone pattern lock without resetting using a Google account?
 
 If you have an older Android device, then you can simply move past its lock by taking the assistance of your Google account. All you need is access to the same Google account that is linked to your device. Though, this technique will only work on devices running on Android 4.4 and earlier versions. To learn how to remove pattern lock on Android without a factory reset, follow these steps:
@@ -326,6 +318,10 @@ Step 1. Simply provide any pattern on the Oppo A78 5G device. Since the pattern 
 Step 2. Tap on the “**Forgot Pattern**” option located at the bottom of the screen.
 
 ![forgot android pattern](https://images.wondershare.com/drfone/article/2017/09/15057363904017.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. This will provide different ways to access your phone. Select the Google Account details and tap on the “Next” option.
 
@@ -357,9 +353,17 @@ Step 4. This will launch a new pop-up window. From here, you can provide a new l
 
 ![set new lock screen](https://images.wondershare.com/drfone/article/2017/09/15057364746547.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5. Confirm your choice and save it to remotely change the lock screen password on your device.
 
 In the end, you would be able to learn how to unlock an Android phone pattern lock without a factory reset after following these above-mentioned steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to unlock Android phone pattern lock without factory reset using ADB?
 
@@ -379,10 +383,6 @@ Step 5. Go to Settings > Developer Options and turn on the feature of USB debugg
 
 ![usb debugging](https://images.wondershare.com/drfone/article/2017/09/15057365186961.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 6. After connecting your device to the system, launch the command prompt in the installation directory on your respective ADB.
 
 Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and press enter.
@@ -392,7 +392,7 @@ Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and pre
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -413,22 +413,14 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-looms-labyrinth-navigating-screen-record-art-for-2024/"><u>[New] Loom's Labyrinth Navigating Screen Record Art for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-cinematography-step-by-step-recipe-tutorials/"><u>[Updated] 2024 Approved Culinary Cinematography Step-by-Step Recipe Tutorials</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-chucklechief-easy-meme-design-tool-for-2024/"><u>[Updated] ChuckleChief Easy Meme Design Tool for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-end-scene-excellence-your-guide-to-yt-outro-mastery/"><u>[Updated] End Scene Excellence Your Guide to YT Outro Mastery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-charting-updates-youtube-money-standards/"><u>[Updated] In 2024, Charting Updates YouTube Money Standards</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970404521-easy-installation-of-intel-chipset-drivers-get-them-now/"><u>Easy Installation of Intel Chipset Drivers – Get Them Now!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/easy-to-use-apps-for-idevice-screen-capturing/"><u>Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-sons-of-the-forest-freezes-and-crashes-on-your-pc-guide/"><u>Effortless Fixes for 'Sons of the Forest' Freezes and Crashes on Your PC - Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-g310-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia G310</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>In 2024, How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-f23-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo F23 5G Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oneplus-nord-3-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a OnePlus Nord 3 5G Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oppo-reno-10-proplus-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo Reno 10 Pro+ 5G Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c300-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C300 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-12r-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock OnePlus 12R Phone Without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock OnePlus Ace 2 Phone Without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 Lite 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-avoid-social-stress-how-to-unfollow-people/"><u>[New] In 2024, Avoid Social Stress How to Unfollow People</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-premiere-pro-transition-plugins-top-picks-for-creators-for-2024/"><u>Best Premiere Pro Transition Plugins Top Picks for Creators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-adobe-shake-control-enhance-creative-process-in-photoshop-in-2024/"><u>Can Adobe Shake Control Enhance Creative Process in Photoshop, In 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c33-2023-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme C33 2023 Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-features-unveiled-special-edition-improvements-coming-to-certain-apple-airpods-later-this-year/"><u>New Features Unveiled: Special Edition Improvements Coming to Certain Apple AirPods Later This Year</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-to-stabilize-hp-screen-flashes/"><u>Solutions to Stabilize HP Screen Flashes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-n55-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo N55 Device</u></a></li>
 </ul></div>
 

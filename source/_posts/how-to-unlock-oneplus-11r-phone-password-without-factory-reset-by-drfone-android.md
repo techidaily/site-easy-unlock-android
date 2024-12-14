@@ -1,7 +1,7 @@
 ---
 title: How to Unlock OnePlus 11R Phone Password Without Factory Reset?
-date: 2024-09-07T00:51:26.512Z
-updated: 2024-09-08T00:51:26.512Z
+date: 2024-12-06T23:56:46.547Z
+updated: 2024-12-13T18:37:28.573Z
 tags: 
   - unlock
   - remove screen lock
@@ -13,12 +13,6 @@ keywords: android pattern lock remover,fingerprint lock for android device,OnePl
 thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unlock OnePlus 11R Phone Password Without Factory Reset?
 
 You always set up some sort of lock to secure your smartphone to stop others from checking your phone data, messages, or pictures. More importantly, it is needed to deny admission to your valuable phone data in case it gets stolen. However, many times you come across this situation where your Android phones are stuck as you cannot unlock the password. Either your children have been playing with the lock patterns, and the screen gets locked due to entering the wrong password many times, or you have unexpectedly forgotten your password. Or somebody else has reset your password, or you have broken your mobile screen, and you cannot enter your password. Many similar situations may arise.
@@ -33,14 +27,12 @@ Whether you have a pattern or PIN or fingerprint as a password, you can remove a
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Android Phones without Factory Reset
@@ -58,16 +50,14 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After that, select the phone model from the list or choose "I can't find my device model from the list above" on the next screen.
 
 ![start to unlock android password](https://images.wondershare.com/drfone/drfone-android/drfone-lock-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Now, there will be three steps mentioned that you must follow to get your phone into the Download mode. The first is to power off the phone. The second is to press and hold the Volume button along with the Home button and Power button. The third step is to press the volume up the option to get into the download mode.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
@@ -76,34 +66,10 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5:** You will see that the icon showing “Remove Password Completed” will pop up. This whole process takes only a few minutes to get your work done without any loss of any data.
 
 ![unlock android password without factory reset](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to unlock Android password without factory reset using Android Device Manager?
 
 With very simple steps and a few minutes at hand, you can get rid of your password using Android Device Manager (ADM). This tool will unlock your password without going for a factory reset and losing data. The main feature of the Android device manager will run through the Google account. The installation of a Google account is very important to run out the Android device manager. The Android device will respond immediately once if the phone is switched on. The connectivity of the internet is a must to find the map on the OnePlus 11R device. How to unlock Android phone passwords without factory reset? May it be quite interesting to use device manager visuals? The steps are mentioned below:
@@ -112,12 +78,6 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 
 ![log in android device manager](https://images.wondershare.com/drfone/article/2017/10/15090637241780.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 • Now sign in with your Google credentials. Google will start searching for your device. Here you need to choose the Android phone you want to unlock in case it is already not selected.
 
 ![drfone](https://images.wondershare.com/drfone/article/2017/10/15090637463876.jpg)
@@ -129,11 +89,9 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 ![enter temporary password](https://images.wondershare.com/drfone/article/2017/10/15090638114424.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Once successful, you will get a confirmation message below the three buttons: Ring, Lock, and the Erase option.
 
 **Step 4.** On your locked phone, you will see a field asking for your password. Here you can enter your temporary password. Doing so will unlock your device.
@@ -142,12 +100,6 @@ Once successful, you will get a confirmation message below the three buttons: Ri
 
 You have successfully unlocked your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Unlock Android password using custom recovery and Pattern Password Disable (SD card needed)?
 
 The third way to unlock an Android phone password without a factory reset it using the “custom recovery” technique. To work out this process, you would have to install the custom recovery process. Also, your phone needs to have an SD card. It will be required to send the zip file to the phone since your device is locked. This technique requires access to the Android System folder and rooting your device if not already rooted.
@@ -166,8 +118,6 @@ Through this easy method, you can now access your Android phone without using a 
 
 The problem of getting your mobile locked and not being able to open it is a common problem on Android phones these days. Many of us tend to panic when such problems arise. However, now that we have given some easy solutions and methods to unlock Android phone passwords without factory reset and losing any data, things would be much easier. Thus, you will solve your problems in no time.
 
-
-
 ## Unlock Your OnePlus 11R  Phone with Ease: The 3 Best Lock Screen Removal Tools
 
 Let's just say that you recently changed your OnePlus 11R  phone's password, and now you are having trouble remembering it. After a few wrong attempts, you will get an alert message saying that more wrong attempts will block your device. In these situations, you can hard reset your device, but it will delete all your data and settings.
@@ -178,30 +128,12 @@ Instead of using other methods, you can use an **OnePlus 11R  password unlock to
 
 ![screen unlock web page](https://images.wondershare.com/drfone/product-2021/screen/drfone-android-unlock-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For OnePlus 11R  smartphone users who have forgotten their password and are locked out of their device, finding a reliable and efficient password unlock tool is crucial. One such tool that stands out is Dr.Fone - Screen Unlock (Android). [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a fast and efficient solution to unlock your OnePlus 11R  device. With its advanced algorithms and technology, it can bypass various lock screen types, including PIN, password, pattern, and fingerprint. You can regain access to your device within minutes, saving you from the frustration of being locked out of your phone for an extended period.
 
 Dr.Fone - Screen Unlock is the first choice of many people because of the simple device unlock procedure. When you unlock your device with Dr.Fone, you don't have to worry about damaging its software. Dr.Fone is the most efficient **OnePlus 11R  pattern lock remove tool** because it can unlock all old and new OnePlus 11R  devices. In addition to that, Dr.Fone also offers various other features like system repair, WhatsApp transfer, phone transfer, data backup and restore, data eraser, etc. Here is the guide to unlocking the OnePlus 11R  lock screen with Dr.Fone.
 
 ![home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With Dr.Fone, you can remove the lock screen of any OnePlus 11R  mobile in four easy steps. Each step is easy to follow.
 
 - **Step 1.** Download Wondershare Dr.Fone from our official website and install it on your PC.
@@ -215,21 +147,13 @@ With Dr.Fone, you can remove the lock screen of any OnePlus 11R  mobile in four 
 ![choose device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - **Step 4.** Once the unlock progress is over, you can access your OnePlus 11R  phone without any password or pattern.
 
 ![remove OnePlus 11R  lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tool 2: OnePlus 11R  Password Unlock
 
 ![OnePlus 11R  unlock tool home screen](https://images.wondershare.com/drfone/article/2022/10/oppo-password-unlock-tool-01.jpg)
@@ -262,20 +186,6 @@ _**Bonus Tips:** Have you ever found yourself locked out of your OnePlus 11R  ph
 
 Dr.Fone - Screen Unlock is the safest and most efficient tool to unlock your OnePlus 11R  device without a password. It only removes the lock screen and doesn't affect your device's security. One of the advantages of using Dr.Fone is that it saves your phone's warranty. When you unlock OnePlus 11R  phones with Dr.Fone, you don't need your Google password or a factory reset. Dr.Fone also gives you the option to back up your data. You can also use it to repair software problems on your device, like screen stuck, volume problems, or device lag.
 
-
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your OnePlus 11R  Phone Hassle-Free
@@ -291,12 +201,6 @@ Unlock Your OnePlus 11R  Phone Hassle-Free
 
 These are the three best tools to unlock your OnePlus 11R  smartphone. Each of these tools can unlock your phone without a password. If we want to pick the best **OnePlus 11R  password unlock tool**, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is better than the other two for various reasons. With Dr.Fone, you get a simple user interface and an easy-to-follow procedure to unlock your device. The tool guides you to complete every step, and you can unlock your OnePlus 11R  smartphone within five minutes. And you also don't have to worry about losing your phone's warranty. Dr.Fone is a one-stop solution for Android problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Solutions For OnePlus 11R  Unlock Without Password
 
 One out of three people forget their phone's password every day or make continuous wrong attempts that lock their phone. However, you can't unlock your phone without the screen lock pattern or password. If you are an OnePlus 11R  user, and you can't remember your device's pattern or password, we have the best solution or you. Here, you will find the easiest and foolproof methods for an **OnePlus 11R  pattern unlock**.
@@ -307,19 +211,6 @@ Here is the complete guide with five methods to unlock an OnePlus  device that w
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/PNC9VCRYu18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Lock System About OnePlus 11R  
 
 ### 1: Lock Types
@@ -334,6 +225,10 @@ Follow these steps to set up any type of lock on your OnePlus 11R  .
 - The lock system menu would appear if your device had no screen locks. If your device has a screen lock, you will have to enter the password to enter the settings.
 - Select the "Lockscreen Password" option at the top and tap on the "Enable Lock Screen" button.
 - Select the type of lock you want to set and create a password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3: How to Remove Them with Password or Pattern?
 
@@ -351,30 +246,12 @@ You can use the Google Find My Device for your **OnePlus 11R  pattern unlock**. 
 
 ![google find my device web home page](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Open any browser on your PC and visit "Google Find My Device."
 - Make sure your phone is connected to the internet.
 - Select the "Erase Device" option and log in with your Google account.
 - After verification, click on "Ok" and wait for the system to factory reset.
 - Power on your device and enter it without any pattern or password.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2: Google Account
 
 Here is how you can do an **OnePlus 11R  pattern unlock without PC**. You don't need any third-party software or device for this method. Every step is easy to follow, and it only takes a few minutes for you to unlock your phone. This method requires your Google account and password. Don't use this method if you don't know your Google password. If you are a beginner, it is better to use other methods because this method involves the risk of blocking your device. Follow these steps to unlock your OnePlus  device using your Google Account.
@@ -401,11 +278,9 @@ If you want to unlock your OnePlus  phone, you can also answer some security que
 - If you give correct answers, the system will open the screen lock.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4: Hard Reset (data loss)
 
 A hard reset would be the best solution if you forgot your phone's lock screen password or pattern. However, you can unlock your phone with your Google account as well. Do a hard reset if you can't remember your Google account password and don't want to use third-party tools. The only problem with hard resetting is that you lose all your data, images, files, settings, and personalization. That is why you can't recover any of your data after the hard reset if you don't have a data backup. The process of hard reset is different for every device. Here are the steps for **OnePlus 11R  pattern unlock without a PC** through a hard reset.
@@ -414,16 +289,14 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Press and hold the Volume down + Power buttons together for a few seconds. Hold the keys until you see the OnePlus  logo on the screen.
 
 ![volume down and power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Select the Language using the volume keys to navigate and the power key to select.
 
 ![select device language](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-06.jpg)
@@ -432,46 +305,24 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - For confirmation, select the “OK” option and wait for the system to reboot.
 
 ![hard reset confirmation](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-08.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 5: Dr.Fone - Screen Unlock
 
 You can easily unlock your OnePlus  device without your Google account password and losing data. The best way is to use an OnePlus 11R  pattern lock removal tool. If you want an easy-to-use tool with fast and safe working, we recommend Dr.Fone - Screen Unlock. Dr.Fone enables users to unlock any android device within five minutes without password, Google account. You can unlock your OnePlus 11R  without effort. With Dr.Fone, you can also [back up and restore your data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), do a [system repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) for your mobile, and transfer WhatsApp with a few clicks. Here are the steps to remove the pattern lock from OnePlus 11R  with Dr.Fone – Screen Unlock.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Unlock OnePlus 11R  Without Any Hassle!
@@ -493,18 +344,16 @@ With the button “Unlock Android Screen”, you can unlock your OnePlus 11R  vi
 
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
 
 When you’re on this page, “100% Remove Screen Lock” can unlock most phone brands’ screens. Because of the different recovery modes of different phone models, selecting the OnePlus 11R device brand plays a great role in removing the lock.
 
 ![select brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4. Now, it's time to start removing the lock screen**
 
 Follow the guide step by step to complete all steps, these steps are important to unlock your OnePlus 11R  .
@@ -515,17 +364,9 @@ Now, no password or pattern to stop you from using your OnePlus 11R  !
 
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you know your Google account password, then you can easily unlock your phone after verification. If you don't know the password, you can use a hard reset to erase all data and settings from your device. Use the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) if you don't want to lose your data. Dr.Fone allows you to unlock your OnePlus 11R  within minutes with easy-to-follow steps. It works for all old and new OnePlus  models, and the procedure is the same for every device. You can also use Dr.Fone to recover data, repair android software problems, and fix other issues.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -539,10 +380,22 @@ If you know your Google account password, then you can easily unlock your phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-audio-attenuation-a-focus-on-lumafusions-tools/"><u>[Updated] Perfecting Audio Attenuation A Focus on Lumafusion's Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-reclaiming-deleted-youtube-treasures-a-2-step-guide/"><u>[Updated] Reclaiming Deleted YouTube Treasures A 2-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-potential-innovative-strategies-for-better-insta-content/"><u>[Updated] Unlocking Potential Innovative Strategies for Better Insta Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-deciphering-srt-cues-in-oses-with-ease/"><u>2024 Approved Deciphering SRT Cues in OSes with Ease</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-use-kinemaster-online-and-10-best-online-alternatives/"><u>How To Use KineMaster Online and 10 Best Online Alternatives</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-8t-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Reno 8T Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nokia-130-music-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nokia 130 Music Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-x6-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo Find X6</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-open-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Open Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-k11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo K11 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-iphone-x-animoji-handbook-for-seamless-experience-for-2024/"><u>Ultimate iPhone X Animoji Handbook for Seamless Experience for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-implementing-login-change-replace-your-windows-11-pin-with-a-password/"><u>Understanding and Implementing Login Change: Replace Your Windows 11 PIN With a Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-ace-3-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Ace 3 Users</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-11-update-fees-by-microsoft-to-kick-off-next-year-explore-the-potential-price-breakdown-and-implications/"><u>Windows 11 Update Fees by Microsoft to Kick Off Next Year; Explore the Potential Price Breakdown and Implications</u></a></li>
+</ul></div>
 
