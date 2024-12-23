@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked OnePlus 11 5G Phone
-date: 2024-09-14T01:16:53.240Z
-updated: 2024-09-18T06:11:32.381Z
+date: 2024-12-19T18:11:51.086Z
+updated: 2024-12-23T01:22:16.190Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,17 +31,33 @@ Now we will show you how to unlock HTC phone by hard reset.
 
 You will have to press and hold the volume down button along with the power button. Keep holding until you see Android images. Then release the buttons and then follow the volume down button to go for factory reset, afterward select the power button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. How to reset a Samsung phone that is locked?**
 
 Press and hold the volume up key, along with the power button and home key. You will see the Samsung logo onscreen. Go down to wipe data/factory reset by holding the volume down key. Now choose Yes. You could delete all the data on your phone by tapping on the volume down key. Your phone will start rebooting.
 
 ![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. How to reset an LG phone that is locked?**
 
 To unlock your LG Android phone, you will have to press and hold the volume key and the power or lock key. You have to release the Lock or power key when you see the LG logo on the screen of your phone. Just after that, press and hold the power or lock key again. You can release all the buttons once you see a factory hard reset on the screen.
 
 ![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. How to reset a locked Sony phone?**
 
@@ -96,13 +112,6 @@ Once the previous step is complete, you will see the lock screen removal process
 
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
@@ -118,13 +127,6 @@ Users of Android phones can benefit from data and file protection tools like pas
 - The lock screen fingerprint can also malfunction if there are repeated tries from an unauthorized finger.
 
 ![fingerprint warning](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you use a wrong password or a fingerprint unlock, it can permanently lock your Android device.
 
@@ -162,25 +164,11 @@ Open Dr.Fone on your PC, then among all the tools, choose "Screen Unlock."
 
 ![user interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Select a device type.**
 
 We are in this part to provide you with two ways to unlock practically any Android handset, including those made by Samsung, Huawei, OPPO, Vivo, Lenovo, LG, and others. It's crucial to choose the right device brand to unlock the lock because the recovery modes for various phone models vary. The list contains every supported device model.
 
 ![remove screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here you will have some brands to choose from, don't make it wrong.
 
@@ -220,6 +208,10 @@ Users of Android smartphones and tablets can troubleshoot various issues with th
 
 However, users can also use it to reset the android password if it is forgotten. This password also includes fingerprint locks. The instructions for resetting android devices through recovery mode differ for every android device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Google Find My Device
 
 As you are likely aware, every Android device is connected to a Google account. As a result, if you'd like, you may also use it to unlock Android. You'll need to know your Google account login information for this. When you're ready, use these instructions to find out how to unlock a phone password.
@@ -231,11 +223,19 @@ As you are likely aware, every Android device is connected to a Google account. 
 3. To wipe the OnePlus 11 5G device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
 4. Once more, select "Erase." This will reset the OnePlus 11 5G device and get rid of the dysfunctional fingerprint lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Seek Help from Local Dealers
 
 It might be a complicated case if you cannot reset your lock screen fingerprint through the methods described above. In this situation, you need to visit your nearest mobile technician, who can help you restore your device.
 
 ![mobile repair](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does not Fingerprint Work
 
@@ -253,6 +253,10 @@ Another software-related issue that may occur because " fingerprint sensor not w
 
 ![software update](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To install an update, open the Settings app, tap on 'System,' pick 'System Update,' and download and install any pending update.
 
 ### 3\. Clean your Screen
@@ -260,6 +264,10 @@ To install an update, open the Settings app, tap on 'System,' pick 'System Updat
 If you have a device with under-display fingerprint scanner, you might need to clean the screen properly before using the fingerprint. In some cases, screen protectors also interfere with fingerprint functioning.
 
 ![phone screen clean](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -286,18 +294,15 @@ These gestures gave Android developers an idea of creating apps, to make use of 
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1) Gesture Lock Screen
 
 A top-rated app in the Google Play Store, for gestures, the Gesture Lock Screen is a wonderful gesture app that locks and unlocks Android lock screens. Rated 4/5 stars in the Google Play Store, this app was developed by Q Locker.
 
 ![guesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074554194436.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Gesture Lock Screen is an all-in-one gesture app that locks the screen as well as provides you with other good features. The app allows you to draw anything or gesture to unlock your phone; you can draw letter, signatures, various shapes, whatever you want to unlock your device! This app gives you the convenience to unlock your phone through fingerprints, gestures, and recover passwords as well.  
 
@@ -383,5 +388,20 @@ As Android reaches new heights every year, gestures are getting more and more en
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-freecamx-analyzed-performance-and-usability-review/"><u>[New] 2024 Approved FreeCamX Analyzed Performance & Usability Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-curious-case-of-inverted-images-on-social-media/"><u>[Updated] 2024 Approved The Curious Case of Inverted Images on Social Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-learning-path-for-keying-mastery/"><u>2024 Approved Rapid Learning Path for Keying Mastery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-picks-ultimate-tools-for-efficient-scheduling-screen-captures/"><u>2024 Approved Top Picks Ultimate Tools for Efficient Scheduling Screen Captures</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-website-optimization/"><u>Cookiebot-Enabled Website Optimization</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/giroptic-360cam-complete-review/"><u>Giroptic 360Cam Complete Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-n30-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change OnePlus Nord N30 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oneplus-open-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-c12-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia C12 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-lava-yuva-2-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lava Yuva 2 Pro – What Can I Do? | Dr.fone</u></a></li>
+</ul></div>
 

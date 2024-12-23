@@ -1,7 +1,7 @@
 ---
 title: Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 10 Pro 5G Device
-date: 2024-12-10T20:13:45.494Z
-updated: 2024-12-14T00:09:59.478Z
+date: 2024-12-19T00:15:03.138Z
+updated: 2024-12-22T23:27:03.541Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,10 +36,6 @@ Check out some of the most common scenarios where a phone might get lost:
 - Have you ever left your phone in a cab or at a restaurant? It's surprisingly common.
 - Sometimes, it slips out of your pocket during a hectic commute.
 - In the worst cases, it might even get stolen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Growing Need for SIM Card Finders
 
@@ -182,10 +178,6 @@ Now, what if you don't only want to **track your SIM number location** but also 
 
 ![drfone remove sim locked](https://images.wondershare.com/drfone/guide/remove-iphone-sim-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
 
 Best SIM Unlock for iPhone.
@@ -207,6 +199,10 @@ Below are the key features that make this tool unmatched:
 - **Broad Compatibility.**It supports many iPhone models and is regularly updated to stay compatible with new releases.
 - **Quick and Easy.**The process is designed to be simple and efficient, ensuring you [get your iPhone back up](https://drfone.wondershare.com/iphone-backup/upgrade-your-iphone-without-losing-your-data.html) and running quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide to Using Dr.Fone - SIM Unlock
 
 Here's a simple step-by-step guide to unlocking your iPhone SIM using Dr.Fone - SIM Unlock:
@@ -226,10 +222,6 @@ Here's a simple step-by-step guide to unlocking your iPhone SIM using Dr.Fone - 
 - **Step 4:** Because this method necessitates jailbreaking your iOS device, you will be prompted to do so first. If you want to follow a guide, click on **Jailbreak Guide**. If you want to watch a video guide, select **Watch Video**.
 
 ![drfone jailbreak your device first](https://images.wondershare.com/drfone/guide/remove-iphone-sim-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** The screen will invite you to perform several actions, starting with removing the SIM card from the iDevice. To access the Oppo Reno 10 Pro 5G device's network settings, go to **Settings,** then **WLAN**. Find the Wi-Fi networks you've joined and select **Forget This Network**.
 - **Step 6:** Unlink all connected networks from **My Networks** and turn off Wi-Fi. After that, re-insert your SIM card and press the **Continue** button. The following screen will offer a prompt box with the status of the unlocking process.
@@ -284,6 +276,10 @@ If you click “Remove without Data Loss,” only some limited Samsung or LG pho
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -306,6 +302,10 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5. **Instructions to Wipe Cache Partition****
 
 Now you’re in recovery mode, pick these options in the image below.
@@ -317,10 +317,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device (For Android7.1.1 or later)
 
@@ -352,6 +348,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![google account](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** To reset the **lock screen pattern**, you must give the correct details of the Google ID previously logged into the Oppo Reno 10 Pro 5G device.
 
 **Step 5.** After giving the correct details, you can provide another pattern lock to the phone.
@@ -375,6 +375,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 1:** You can bring up the power menu and hold the "Power Off" button for most phones, especially Android phones. A warning will spring up, asking whether you might want to Reboot to Safe Mode. Here, it would help if you had to press Ok.
 
 ![reboot to safe mode](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Clear your lock screen application's data.
 
@@ -418,10 +422,6 @@ adb reboot
 
 This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Remove or Bypass Knox Enrollment Service On Oppo Reno 10 Pro 5G
 
 In today’s digitally-driven work environment, many companies rely on **Knox Enrollment Service** to secure their employees’ phones and safeguard sensitive data. However, you might have a Knox-enrolled phone you wish to unlock for personal use.
@@ -429,6 +429,10 @@ In today’s digitally-driven work environment, many companies rely on **Knox En
 This article will guide you through removing or bypassing the serviceon your phone. However, it’s important to note that this should ideally be done with your employer’s consent. For transitioning to personal use or other reasons, understanding how to **remove or bypass Knox Enrollment Service** can be crucial for some users.
 
 ![knox manage admin portal](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is the Knox Enrollment Service?
 
@@ -443,10 +447,6 @@ This article will guide you through removing or bypassing the serviceon your pho
 The service allows IT administrators to pre-configure settings and apps and manage other aspects of the Oppo Reno 10 Pro 5G device’s functionality. When a device is enrolled, it can be remotely controlled and monitored. The administrators can push updates, track device locations, remotely wipe data for security, and enforce specific compliance policies. This automation of device enrollment simplifies the setup process for both the IT department and the end-user.
 
 ![knox mobile enrolment page](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Advantages
 
@@ -490,6 +490,10 @@ However, this method is risky and not recommended for the average user. It will 
 
 **Removing Knox Enrollment Service** from your phone is feasible but requires careful consideration, especially in a corporate context. Always ensure you have the necessary permissions and understand the risks of modifying your device’s software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### If You Can’t Use the Above Methods
 
 If none of the above methods are feasible, and you find your phone locked or restricted due to Knox, read through the next section. It will provide additional insights on what to do next.
@@ -500,19 +504,11 @@ When faced with a locked phone due to Knox security features, and if conventiona
 
 Wondershare Dr.Fone is a versatile software suite that tackles various smartphone issues, including unlocking screens. Its Screen Unlock feature is useful for bypassing security barriers without requiring extensive technical knowledge. It hosts several features, such as those you need for [<u>data recovery</u>](https://drfone.wondershare.com/android-recovery/recover-lost-samsung.html), system repairs, and other smartphone services.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone’s Screen Unlock Feature
 
 The Screen Unlock feature in Dr.Fone is specifically designed to bypass screen locks. Often, you can use it for issues such as forgotten passwords or the like. The great thing is that it can also bypass those locks enforced by Knox. You can do all these without causing data loss or significant changes to your device’s system.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -524,6 +520,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 - Provide specific removal solutions to promise good success rate.
 
 **4,008,669** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Dr.Fone - Screen Unlock
 
@@ -539,10 +539,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Select **Remove without Data Loss.**
 
 ![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
@@ -552,12 +548,16 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 ![confirmation 00000 screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6:** Follow the instructions to put your device into Download Mode.
 
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** After the process is completed, click **Done**. Don’t be afraid to retry the process if it doesn’t work.
 
@@ -593,18 +593,17 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>[Updated] Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>[Updated] Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-12-camcorders-integrating-advanced-gps-technology/"><u>[Updated] Top 12 Camcorders Integrating Advanced GPS Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-civ-5-crashing-issues-on-pc/"><u>Fix CIV 5 Crashing Issues On PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-ace-2-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-11-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus 11 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-google-pixel-7a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Google Pixel 7a to iPod | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco X5 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-a58-4g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo A58 4G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c02s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia C02s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pickup-vs-competitors-unveiling-the-best-android-photo-editor/"><u>[New] 2024 Approved PickUp Vs. Competitors Unveiling the Best Android Photo Editor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-techniques-to-keep-your-mov-files-organized-on-windows/"><u>[New] Top Techniques to Keep Your .mov Files Organized on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-narzo-60-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme Narzo 60 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-transfer-learning-insights-and-functionality/"><u>Decoding AI Transfer Learning – Insights & Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-x6-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco X6 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-motorola-g24-power-easily-by-drfone-android/"><u>How To Unlock a Motorola G24 Power Easily?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-g2-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-poco-x5-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Poco X5 Pro Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-gt-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme GT 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-click-methodology-building-google-collage-projects-at-breakneck-speeds-for-2024/"><u>Quick Click Methodology Building Google Collage Projects at Breakneck Speeds for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-why-cant-internet-explorer-present-my-web-page/"><u>Solution Steps: Why Can't Internet Explorer Present My Web Page?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-trick-how-to-easily-enable-flashlight-functionality-on-android-phones/"><u>Ultimate Trick: How to Easily Enable Flashlight Functionality on Android Phones</u></a></li>
 </ul></div>
 

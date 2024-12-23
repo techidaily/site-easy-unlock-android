@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Nokia 105 Classic Phone
-date: 2024-09-15T22:37:16.590Z
-updated: 2024-09-18T03:59:07.633Z
+date: 2024-12-19T16:44:25.214Z
+updated: 2024-12-22T22:08:37.796Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,18 +49,19 @@ You have to confirm that your phone is switched off. Press and hold three keys a
 
 ![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. How to reset a locked Motorola phone?**
 
 Firstly, switch off your phone. Then press and hold the power key, home key, and volume up key. After a while, you will see the logo on the screen, just then release all the buttons. For scrolling, you can use the volume down key, and for selecting, you can use either home or power key. Now select factory reset or wipe data.
 
 ![reset locked motorola](https://images.wondershare.com/drfone/article/2016/07/14696882016754.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Whatever your model or brand is, keep in mind that hard reset will delete all your valuable data from your phone! So if you want to unlock your locked phone without losing data from it, then follow the next part.
 
@@ -89,6 +90,10 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 ![how to reset a locked phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Select the Nokia 105 Classic device from the list.**
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -96,6 +101,10 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 **Step 3. Go for Specific Mode**
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4. Remove Lock Screen without Password**
 
@@ -109,6 +118,10 @@ Once the previous step is complete, you will see the lock screen removal process
 
 Forgetting your password is a perplexing situation though you have the solution to unlock your Android phone, as hard reset does not give your data back, you should rely on the software called [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) for smooth operation. So have the software and cheer up. I hope you will enjoy and forget about the hassle when you lost your password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Solutions For Nokia 105 Classic  Unlock Without Password
 
 One out of three people forget their phone's password every day or make continuous wrong attempts that lock their phone. However, you can't unlock your phone without the screen lock pattern or password. If you are an Nokia 105 Classic  user, and you can't remember your device's pattern or password, we have the best solution or you. Here, you will find the easiest and foolproof methods for an **Nokia 105 Classic  pattern unlock**.
@@ -121,16 +134,13 @@ Here is the complete guide with five methods to unlock an Nokia  device that wor
 
 ## Part 1: Lock System About Nokia 105 Classic  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1: Lock Types
 
 Before we move towards the **Nokia 105 Classic  pattern unlock**, let's talk about its lock types and security system. Nokia 105 Classic  is one of the older versions of Nokia  android phones that was released in 2016. At that time, only flagship phones from each brand came with features like fingerprint sensors and facial unlock. Nokia 105 Classic  doesn't offer these lock types. You can only set up a screen lock as a password, pattern, and PIN. You can also lock apps on Nokia 105 Classic  with its privacy password settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2: How to Set Them up?
 
@@ -140,6 +150,10 @@ Follow these steps to set up any type of lock on your Nokia 105 Classic  .
 - The lock system menu would appear if your device had no screen locks. If your device has a screen lock, you will have to enter the password to enter the settings.
 - Select the "Lockscreen Password" option at the top and tap on the "Enable Lock Screen" button.
 - Select the type of lock you want to set and create a password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3: How to Remove Them with Password or Pattern?
 
@@ -176,6 +190,10 @@ Here is how you can do an **Nokia 105 Classic  pattern unlock without PC**. You 
 - Now the system will ask for your Google account and password.
 - After you verify your Google account, you can enter your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3: Answer Security Questions
 
 If you want to unlock your Nokia  phone, you can also answer some security questions and reset the password. This method does not work on all Nokia  devices, but you can use it for **Nokia 105 Classic  screen unlock without PC**. You will see various questions if your Google account is linked with the Nokia 105 Classic device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Nokia 105 Classic  with security questions.
@@ -203,13 +221,6 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 - Select the Language using the volume keys to navigate and the power key to select.
 
 ![select device language](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
@@ -258,9 +269,17 @@ Follow the guide step by step to complete all steps, these steps are important t
 
 ![oppo logo](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, no password or pattern to stop you from using your Nokia 105 Classic  !
 
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -295,19 +314,6 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 5\. After it has been located, you will have a few options for what to do next. If you do not know your phone's location, you can call it from this screen, but if you know where it is, click the ‘Enable Lock & Erase’ option.
 
 ![android Device Manager device located](https://images.wondershare.com/drfone/others/14637942568385.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6\. A notification will pop up on your device; confirm it.
 
@@ -346,13 +352,6 @@ If you have forgotten your Google Account password, it is still possible to unlo
 6\. Once you have been redirected to the ‘reset password’ page, you can input your new login information.
 
 ![android Google reset link](https://images.wondershare.com/drfone/others/14637552475841.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7\. Finally, you can unlock your Google account on your Android! Confirm this by clicking the “Change Password” button. Success!
 
@@ -407,5 +406,19 @@ We know that losing or forgetting your Android lock code can be a real pain, and
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-switch-onoff-youtubes-pip-mode-on-your-iphone-for-2024/"><u>[New] Switch On/Off YouTube's PIP Mode on Your iPhone for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr/"><u>[Updated] 2024 Approved Quantum HDR Everything You May Want to Know About Quantum HDR</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-through-uninterrupted-gameplay-tackling-modern-warfare-3-pc-crashes-effectively/"><u>Battle Through Uninterrupted Gameplay: Tackling Modern Warfare 3 PC Crashes Effectively</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/die-5-effektivsten-methoden-zur-behebung-von-fehlermeldung-windows-11-mit-code-0x80-070422/"><u>Die 5 Effektivsten Methoden Zur Behebung Von Fehlermeldung Windows 11 Mit Code 0X80 070422</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-12-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus 12</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-reno-10-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo Reno 10 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-n30-se-phone-without-google-account-by-drfone-android/"><u>How to Unlock OnePlus Nord N30 SE Phone without Google Account?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artistic-revolution-identifying-top-6-nft-visionaries/"><u>In 2024, The Artistic Revolution Identifying Top 6 NFT Visionaries</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-narzo-n53-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme Narzo N53 Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-x5-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Poco X5 Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-your-iphone-password-a-step-by-step-guide-to-factory-resetting/"><u>Lost Your iPhone Password? A Step-by-Step Guide to Factory Resetting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-internet-queries-the-best-ai-integrated-search-engine-options/"><u>Revolutionize Your Internet Queries: The Best AI Integrated Search Engine Options</u></a></li>
+</ul></div>
 

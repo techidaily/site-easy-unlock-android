@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked OnePlus 11R Phone
-date: 2024-09-14T23:09:54.120Z
-updated: 2024-09-17T21:12:12.409Z
+date: 2024-12-18T18:50:54.816Z
+updated: 2024-12-22T23:19:36.464Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,18 +49,19 @@ You have to confirm that your phone is switched off. Press and hold three keys a
 
 ![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. How to reset a locked Motorola phone?**
 
 Firstly, switch off your phone. Then press and hold the power key, home key, and volume up key. After a while, you will see the logo on the screen, just then release all the buttons. For scrolling, you can use the volume down key, and for selecting, you can use either home or power key. Now select factory reset or wipe data.
 
 ![reset locked motorola](https://images.wondershare.com/drfone/article/2016/07/14696882016754.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Whatever your model or brand is, keep in mind that hard reset will delete all your valuable data from your phone! So if you want to unlock your locked phone without losing data from it, then follow the next part.
 
@@ -69,13 +70,6 @@ Whatever your model or brand is, keep in mind that hard reset will delete all yo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yjlTG2d0gSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 In this part, we will discuss Wondershare Dr.Fone for unlocking your locked Android device. Here are some of the features of this great software -
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -112,16 +106,13 @@ Once the previous step is complete, you will see the lock screen removal process
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Forgetting your password is a perplexing situation though you have the solution to unlock your Android phone, as hard reset does not give your data back, you should rely on the software called [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) for smooth operation. So have the software and cheer up. I hope you will enjoy and forget about the hassle when you lost your password.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ultimate Guide: How to Bypass Swipe Screen to Unlock on OnePlus 11R Device
 
@@ -155,11 +146,19 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 
 That's all. You have successfully run out of the disable commands for the swipe up to unlock the screen. You can now open and access your device without any security methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2:How to remove/bypass Swipe to unlock when the phone is locked?
 
 To unlock your device, the only solution is to follow the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). If you are looking to unlock the screen when the phone is locked, then this method solidly proves to bypass swipe lock Android when it is locked. It helps to resolve this issue by bypassing or removing the swipe screen without causing any loss to your data. This tool temporarily supports bypassing Android screens without data loss on Samsung and LG. As for other Android phones, all the data will disappear after unlocking with this tool.
 
 The features of this Dr.Fone software are many. It gives a solution to four lock methods: a pin, pattern, fingerprint, and password. It is user-friendly, and even a user with no technical information can also use it with no issue. This tool is only limited to remove the screen lock on Samsung and LG without losing data. Your data will still be wiped out on other Android phones after using this tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -202,19 +201,6 @@ The steps below imply turning off of swiping screen instantly:
 
 ![android phone security settings](https://images.wondershare.com/drfone/article/2017/10/15090622395204.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** To turn off the swipe screen, when the pattern is enabled then, choose “Screen lock” and then click on “NONE.”
 
 ![select none](https://images.wondershare.com/drfone/2020/enable-screen-lock.jpg)
@@ -236,19 +222,6 @@ _“How to unlock pattern lock on my Android phone? I have changed my pattern lo
 Lately, we have got lots of feedback and queries like this from our readers who like to perform a pattern unlock on their devices. It doesn’t matter if you have forgotten the password/pattern of your Android device or would like to access someone else’s phone, there are plenty of ways to know how to unlock the pattern on an Android phone. In this comprehensive guide, we will let you know about 6 different ways to perform pattern unlock without any trouble.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to Unlock Android Phone Pattern Lock with Dr.Fone - Screen Unlock (Android)?
 
@@ -279,6 +252,10 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your OnePlus 11R and access it without any pattern lock.
 
 ![pattern lock removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -292,6 +269,10 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 - **Step 3.** As you would select your device, you will get various options: erase, lock, and ring.
 
 ![how to unlock pattern](https://images.wondershare.com/drfone/2020/lock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Click on the “**Lock**” option to change the lock pattern on your device.
 - **Step 5.** Provide the new password for your device and write an optional recovery message.
@@ -351,6 +332,10 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 
 - **Step 5.** Later, you can go to the OnePlus 11R device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: How to Unlock Pattern Lock with the Factory Reset?
 
 Consider this as your last resort, as it will wipe the data and saved settings on your device entirely. As the name suggests, your device would be restored to its factory setting by losing its data. Though, if you wish to learn how to unlock a pattern by performing a factory reset, then you can perform these steps:
@@ -369,11 +354,19 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
 - **Step 7.** Later, you can choose to reboot your phone and access it without any lock screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By following this guide, you would certainly be able to learn how to unlock the pattern lock on your device without much trouble. We recommend using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to perform pattern unlock with no data loss. It has a user-friendly interface and is sure to yield the desired results. Now when you know how to unlock patterns on an Android device, you can share this information with others as well to help them!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -387,5 +380,20 @@ By following this guide, you would certainly be able to learn how to unlock the 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-integrated-systems-approach-for-film-recording-on-diverse-computers/"><u>[New] Integrated Systems Approach for Film Recording on Diverse Computers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-and-compare-20plus-best-free-video-editors-for-ios-for-2024/"><u>[Updated] Explore and Compare 20+ Best Free Video Editors for iOS for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-12-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme 12 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clearing-the-darkness-how-to-restore-color-to-your-facetime-video-calls/"><u>Clearing the Darkness: How to Restore Color to Your FaceTime Video Calls</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compare-and-contrast-how-the-microsoft-surface-laptop-go-stands-out-as-an-economical-portable-ultrabook-option/"><u>Compare & Contrast: How the Microsoft Surface Laptop Go Stands Out as an Economical Portable Ultrabook Option</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-m6-pro-4g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-nord-n30-se-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Nord N30 SE Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-n30-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock OnePlus Nord N30 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-a78-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo A78 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Poco M6 Pro 5G</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-health-metrics-a-review-of-the-garmin-vivosmart-4s-advanced-body-battery-and-stress-monitoring-tools/"><u>Mastering Health Metrics: A Review of the Garmin Vivosmart 4'S Advanced Body Battery & Stress Monitoring Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-pixels-11-proven-methods-for-better-colors/"><u>Perfecting Pixels 11 Proven Methods for Better Colors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+</ul></div>
 

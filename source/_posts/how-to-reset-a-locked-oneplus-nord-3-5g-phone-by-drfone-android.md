@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked OnePlus Nord 3 5G Phone
-date: 2024-09-14T05:06:18.658Z
-updated: 2024-09-17T21:20:36.056Z
+date: 2024-12-18T23:48:19.427Z
+updated: 2024-12-23T02:47:27.531Z
 tags: 
   - unlock
   - remove screen lock
@@ -29,6 +29,10 @@ Now we will show you how to unlock HTC phone by hard reset.
 
 ![reset a locked htc](https://images.wondershare.com/drfone/article/2016/07/14696881054139.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will have to press and hold the volume down button along with the power button. Keep holding until you see Android images. Then release the buttons and then follow the volume down button to go for factory reset, afterward select the power button.
 
 ### **2\. How to reset a Samsung phone that is locked?**
@@ -44,17 +48,7 @@ To unlock your LG Android phone, you will have to press and hold the volume key 
 ![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. How to reset a locked Sony phone?**
@@ -62,6 +56,10 @@ To unlock your LG Android phone, you will have to press and hold the volume key 
 You have to confirm that your phone is switched off. Press and hold three keys altogether. The keys are Volume Up, Power, and Home keys. You have to release the buttons once you see the logo on the screen. Now follow volume down to scroll down. Power or Home key is used for selection. Choose factory reset or wipe data.
 
 ![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. How to reset a locked Motorola phone?**
 
@@ -95,19 +93,6 @@ Remove Android lock screen in 5 minutes
 The first thing that you will have to do is open Dr.Fone on your PC and then click on Screen Unlock that allows your device to remove the password from any of the 4 types of lock screens (PIN, Password, Pattern, and Fingerprints).
 
 ![how to reset a locked phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2. Select the OnePlus Nord 3 5G device from the list.**
 
@@ -155,6 +140,10 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-fill in a CAPCHA form](https://images.wondershare.com/drfone/others/14546022088819.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Finally, you will be shown a list of options on how to reset your Gmail password on Android devices. You can either use your alternative email address or your phone number to receive a verification code. Bear in mind to fill in any required information and put a check in the CAPCHA box to submit the process.
 
 ![reset Gmail password on Android-submit the process](https://images.wondershare.com/drfone/others/14546022423041.jpg)
@@ -193,6 +182,10 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KvCMAn5bwx8" id="video-iframe-t"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Change OnePlus Nord 3 5G Lock Screen Clock in Seconds
 
 The initial glimpse of your phone often involves the lock screen. This essential feature is customizable based on your Android device. With the advent of Android 12, a double-line clock has stirred some controversy among users. It’s because the **Android lock screen clock** veered from the one-line design of the previous version.
@@ -200,13 +193,6 @@ The initial glimpse of your phone often involves the lock screen. This essential
 The larger clock style appears when there’s no notification. It will only switch to the old one-line format when a notification pops up. Discover how to **change the lock screen clock on your Android** and tweak its appearance. Explore the article to learn more.
 
 ![smartphone with clock display](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. How Do I Put a Clock on My Android Lock Screen?
 
@@ -242,6 +228,10 @@ In Android 12, the process remains consistent.
 
 ![wallpaper settings on android 12](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Follow the provided instructions to transform your lock screen experience. Replace the oversized clock with dynamic, changing wallpapers.
 
 ### Method 2: Turn Off the Always-On Display
@@ -251,6 +241,10 @@ An alternative to avoid **the Android lock screen clock** is disabling the Alway
 - **Step 1**: Access the **Settings** menu on your Android device. Scroll down and choose **Lock** **screen** > **Always On Display**.
 
 ![android always on display setting](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Toggle off to deactivate the **Always On Display**.
 
@@ -265,6 +259,10 @@ Originally, there was no provision to **change the lock screen clock in Android 
 - **Step 1:** Go to **Settings** > **Display**. Next, choose **Lock screen**.
 
 ![double line clock android settings](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Toggle the **Double-line clock** off.
 
@@ -294,6 +292,10 @@ For users who prefer not to have a lock screen clock, follow these steps:
 
 - **Step 1**: Open **Settings** > **Lock screen** or **Security & lock screen**.
 - **Step 2**: Look for **Clock and FaceWidgets** or a similar option. Disable or toggle off the **Clock** or **Show clock** setting. Save changes, and your lock screen should no longer display the clock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. An Exception: Change the Lock Screen Clock on Samsung Phones
 
@@ -354,10 +356,7 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 ![dr.fone done android screen unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Else Can Dr.Fone Do for Android Owners?
@@ -394,5 +393,24 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-expert-strategies-for-effective-instagram-video-interactions-for-2024/"><u>[New] Expert Strategies for Effective Instagram Video Interactions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-computing-at-a-desktop-level/"><u>[Updated] Top-Tier Computing at a Desktop Level</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevate-designs-essential-secrets-for-canva-mastery/"><u>2024 Approved Elevate Designs Essential Secrets for Canva Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-driver-installation-guide-for-samsung-960-evo-on-windows-computers/"><u>Compatible Driver Installation Guide for Samsung 960 EVO on Windows Computers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-for-enhanced-online-visitor-tracking-insights/"><u>Cookiebot Integration for Enhanced Online Visitor Tracking Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965767376-d-link-driver-installation-and-update-tutorial-for-windows-users-solved/"><u>D-Link Driver Installation & Update Tutorial for Windows Users - SOLVED</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-motorola-moto-g24-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G24</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .svd file free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a78-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A78 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-reno-10-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Reno 10 5G Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11x-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme 11X 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oneplus-nord-3-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Nord 3 5G Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-c12-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia C12 Phone Now with These Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-c02-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia C02</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-virtual-frontiers-five-incredible-upcoming-psvr-games/"><u>In 2024, Virtual Frontiers Five Incredible Upcoming PSVR Games</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c33-2023-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C33 2023 Device</u></a></li>
+</ul></div>
 

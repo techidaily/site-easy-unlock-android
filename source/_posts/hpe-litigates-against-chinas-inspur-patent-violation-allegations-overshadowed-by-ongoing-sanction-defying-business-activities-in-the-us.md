@@ -1,7 +1,7 @@
 ---
 title: "HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S"
-date: 2024-12-08T22:45:31.027Z
-updated: 2024-12-13T20:45:41.829Z
+date: 2024-12-15T18:37:18.041Z
+updated: 2024-12-22T22:22:13.752Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,24 +67,21 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-creating-seamless-ps4-streams-using-obs-studio-tools/"><u>[New] 2024 Approved Creating Seamless PS4 Streams Using OBS Studio Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-experts-choice-11-premium-video-extractors/"><u>[Updated] 2024 Approved Expert's Choice 11 Premium Video Extractors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>[Updated] In 2024, Masterclass The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-calm-in-chaos-how-to-reduce-shake-on-action-cam-videos/"><u>2024 Approved Calm in Chaos How to Reduce Shake on Action Cam Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-narzo-60-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme Narzo 60 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-c32-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia C32 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-motorola-moto-g24-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Moto G24 Phone that is Locked?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-narzo-n53-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme Narzo N53 Phone that is Locked?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11x-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 11X 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-your-sound-today-seamless-nahimic-driver-installation-guide/"><u>Improve Your Sound Today - Seamless Nahimic Driver Installation Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-z50s-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Z50S Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 4G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/losungsansatze-fur-verschlusselte-dateien-auf-huch-systemen-ein-umfassender-leitfaden/"><u>Lösungsansätze Für Verschlüsselte Dateien Auf Huch-Systemen: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-19-labor-day-sales-on-home-appliances-exclusive-offers-from-zdnet/"><u>Top 19 Labor Day Sales on Home Appliances - Exclusive Offers From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-v27-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo V27 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-10113/"><u>Windows 10/11で動画の回転方法【3つ択】 - 簡単な手順</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-seamless-obs-broadcast-setup-on-fb/"><u>[New] 2024 Approved Seamless OBS Broadcast Setup on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-storytelling-revolution-free-cross-platform-social-sensations/"><u>[New] In 2024, Storytelling Revolution FREE, Cross-Platform Social Sensations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-reno-10-proplus-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/determining-your-printers-active-state-a-guide-by-yl-computing/"><u>Determining Your Printer's Active State: A Guide by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-and-fast-dvd-ripper-from-winx-convert-your-movies-to-mp4-on-windows-natively-complimentary-tool-with-efficient-dvd-backups/"><u>Easy and Fast DVD Ripper From WinX: Convert Your Movies to MP4 on Windows Natively, Complimentary Tool with Efficient DVD Backups</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-motorola-g24-power-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola G24 Power Phone that is Locked?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-htc-u23-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from HTC U23</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-v30t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme V30T</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-c67-4g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme C67 4G</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-essential-steps-for-starting-a-channel-on-discord/"><u>In 2024, Essential Steps for Starting a Channel on Discord</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g34-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G34 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco C65 Phone without Google Account?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-slow-motion-shooting-tools-iphoneandroid-devices/"><u>In 2024, Optimal Slow Motion Shooting Tools iPhone/Android Devices</u></a></li>
+<li><a href="https://win-best.techidaily.com/strategie-efficaci-per-il-recupero-dei-dati-da-un-iphone-non-funzionante-unanalisi-di-quattro-metodi-distintivi/"><u>Strategie Efficaci per Il Recupero Dei Dati Da Un iPhone Non Funzionante: Un'Analisi Di Quattro Metodi Distintivi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-11windows-7/"><u>Windows 11への移行：Windows 7からのデータ転送ガイドを簡単に完了しよう</u></a></li>
 </ul></div>
 

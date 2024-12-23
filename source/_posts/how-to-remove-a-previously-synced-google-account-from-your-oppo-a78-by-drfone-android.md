@@ -1,7 +1,7 @@
 ---
 title: How to Remove a Previously Synced Google Account from Your Oppo A78
-date: 2024-09-16T16:29:13.383Z
-updated: 2024-09-22T23:10:17.102Z
+date: 2024-12-20T22:23:51.880Z
+updated: 2024-12-22T18:24:12.964Z
 tags: 
   - unlock
   - remove screen lock
@@ -92,18 +92,15 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** After the Oppo A78 device is connected, the Oppo A78 device information will appear on the software for you to confirm and the notification for the same will be sent to your Android phone.
 
 **Step 5:** Now follow the notifications for removing the FRP lock and in the browser enter drfonetoolkit.com.
 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_android10_1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** Next, click on the Android 6/9/10 button, choose Open Settings and select the PIN option to set a PIN to be used in the further steps.
 
@@ -114,6 +111,10 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 ![bypass google lock completed](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
 The above given are the brief steps for the FRP bypass process. To learn about the entire process in detail, check [Dr.Fone-Screen Unlock (Android) guide](https://drfone.wondershare.com/guide/google-frp-bypass.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Hire a Remote FRP Removal Service to Bypass ZTE/Motorola After Factory Reset
 
@@ -162,6 +163,14 @@ If you are also facing the same issue, then you have come to the right place. Th
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Phones within Minutes
@@ -178,13 +187,6 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 - **Step 1.** Go to the official website of Dr.Fone - Screen Unlock (Android) and download the tool on your computer. After installing it, launch the interface and click on the option of “Screen Unlock” from the home screen.
 
 ![get into a locked phone with Dr.Fone-](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Connect your Android device to the computer. Click "Android" > "Unlock Android Screen" and select the Oppo A78 device brand on the list. If your device is listed in the [supported list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html), you can unlock locked phone without data loss.
 
@@ -211,6 +213,10 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 - **Step 2.** Once the interface is loaded, you can select your phone. It will locate the Oppo A78 device automatically and provide various options.
 
 ![get into a locked phone-locate the Oppo A78 device](https://images.wondershare.com/drfone/article/2017/10/15081758684058.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Choose the “Lock” option to proceed.
 - **Step 4.** This will display a new prompt. From here, you can get the new password for your device and confirm it.
@@ -244,6 +250,10 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 - **Step 2.** This will display the “Forgot Pattern” button on the bottom of the screen. Just tap on it to continue.
 
 ![get into a locked phone-Forgot Pattern](https://images.wondershare.com/drfone/article/2017/10/15081760134210.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** On the next screen, you can unlock your device by providing the backup PIN of your device or sign in using the Google credentials of the account linked to the Oppo A78 device.
 
@@ -280,6 +290,10 @@ If you are using a third-party application to lock your device, you can easily d
 - **Step 3.** It will provide the following prompt regarding Safe Mode. Just tap on the “Ok” button to confirm your choice.
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
@@ -323,6 +337,10 @@ According to you, the most typical or initial option must be factory reset. Howe
 
 Follow these methods to bypass the fingerprint lock without resetting the phone. It will save you from losing your data. All our methods are very easy and safe.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Useful Methods to Bypass Fingerprint Lock
 
 ### 1\. Restart your Phone
@@ -330,13 +348,6 @@ Follow these methods to bypass the fingerprint lock without resetting the phone.
 If your fingerprint is not working or the Oppo A78 device prompts you with an error in the fingerprint functioning, possibly the fingerprint reader is not responding, and the Oppo A78 device needs to restart to get rid of this error.
 
 ![phone restart ui](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When a device restarts, the fingerprint functionality is restored after entering the Oppo A78 device pattern, password, or PIN. This is the simplest method to reset your fingerprint hardware.
 
@@ -355,13 +366,6 @@ On Android handsets, you can attempt Dr.Fone to remove the fingerprint without p
 Open Dr.Fone on your PC, then among all the tools, choose "Screen Unlock."
 
 ![user interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2: Select a device type.**
 
@@ -389,6 +393,10 @@ _(Get into Recovery Mode in Samsung phone with the Home button)_
 
 ![mode with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Instructions to Wipe Cache Partition**
 
 In this part, it is the final but crucial step to unlock your device; if you click any wrong button, your phone may not work anymore.
@@ -396,10 +404,7 @@ In this part, it is the final but crucial step to unlock your device; if you cli
 ![wipe data to unlock](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 OK, you already passed the unlock process; locks like pattern, password, or fingerprint disappear!
@@ -471,5 +476,24 @@ Any method can solve the problems of using your device with your Android handset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>[New] Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-animating-elegance-self-designed-tricks-and-effects/"><u>[Updated] 2024 Approved Animating Elegance Self-Designed Tricks & Effects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-identify-8-proven-video-promotion-tactics-for-success/"><u>2024 Approved Identify 8 Proven Video Promotion Tactics for Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/id-melody-manual-best-free-youtube-downloader-tools/"><u>Android Melody Manual Best Free YouTube Downloader Tools</u></a></li>
+<li><a href="https://win-data.techidaily.com/comparing-digital-assets-how-cryptocurrencies-vary-from-traditional-fiat-money-insights-by-yl-computing/"><u>Comparing Digital Assets: How Cryptocurrencies Vary From Traditional Fiat Money - Insights by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtl8188cu-wireless-network-adapter-driver-supporting-windows-710/"><u>Get the Latest RTL8188CU Wireless Network Adapter Driver Supporting Windows 7/10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-g310-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia G310 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-reno-8t-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Reno 8T 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nokia-c12-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nokia C12 Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 5G Bootloader Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-realme-c53-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Realme C53</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nubia-z50s-pro-by-drfone-android/"><u>Universal Unlock Pattern for Nubia Z50S Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-more-potential-with-chatgpt-desktop-a-look-at-its-enhanced-capabilities-compared-to-web-version/"><u>Unlocking More Potential with ChatGPT Desktop: A Look at Its Enhanced Capabilities Compared to Web Version</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/bes-trophy-chain-for-engaged-audiences-for-2024/"><u>YouTube's Trophy Chain for Engaged Audiences for 2024</u></a></li>
+</ul></div>
 

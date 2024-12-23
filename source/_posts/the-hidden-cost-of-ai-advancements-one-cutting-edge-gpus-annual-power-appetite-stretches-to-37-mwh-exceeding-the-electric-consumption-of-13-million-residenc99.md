@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2024-12-06T23:01:34.908Z
-updated: 2024-12-13T17:05:06.738Z
+date: 2024-12-15T17:52:36.327Z
+updated: 2024-12-22T20:36:01.601Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,20 +76,20 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>[New] Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-techniques-recording-playstation-4-games/"><u>[Updated] 2024 Approved Essential Techniques Recording PlayStation 4 Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>[Updated] Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-compelling-pitch-products-sponsoring-youtubers-for-2024/"><u>Crafting a Compelling Pitch Products Sponsoring Youtubers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/cut-screen-claims-is-splitcam-supreme-for-2024/"><u>Cut Screen Claims Is SplitCam Supreme for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c02-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C02 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oppo-a1-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A1 5G Unlock Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-narzo-n53-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme Narzo N53</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 Pro 5G Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-v30t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme V30T</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/instantpodstreams-a-step-by-step-approach-to-live-broadcasting/"><u>InstantPodStreams A Step-by-Step Approach to Live Broadcasting</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/maximize-conversions-and-revenue-with-procookies-the-cutting-edge-alternative-to-cookiebot/"><u>Maximize Conversions and Revenue with ProCookies: The Cutting-Edge Alternative to Cookiebot</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-x6-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco X6 Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-motorola-g24-power-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Motorola G24 Power</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-elite-server-racks-and-enclosures-of-2024-industry-experts-weigh-in/"><u>Unveiling the Elite Server Racks and Enclosures of 2024 – Industry Experts Weigh In</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-no-pay-necessary-the-art-of-unpaid-football-editing/"><u>[New] 2024 Approved No Pay Necessary The Art of Unpaid Football Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creative-teaching-incorporating-youtube-into-your-curriculum-for-2024/"><u>[New] Creative Teaching Incorporating YouTube Into Your Curriculum for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-extensive-review-the-hero4-black-journey/"><u>[New] In 2024, Extensive Review The Hero4 Black Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-video-marketing-on-youtube/"><u>[New] Maximizing Impact Video Marketing on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminating-excessive-magnification-of-images-in-whatsapp-conversations/"><u>Eliminating Excessive Magnification of Images in WhatsApp Conversations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-c55-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme C55 Pattern Lock Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-v30t-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme V30T Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-poco-m6-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Poco M6 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-windows-simulators-unmatched-nintendo-switch-games/"><u>Leading Windows Simulators: Unmatched Nintendo Switch Games</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g04-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G04</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-android-moba-game-series-countdown-10-for-2024/"><u>The Ultimate Android MOBA Game Series Countdown (#10) for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-ultimate-guide-solving-oculus-link-blackout-issues-in-minutes/"><u>Troubleshooting the Ultimate Guide: Solving Oculus Link Blackout Issues in Minutes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-x6-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Poco X6 Pro Users</u></a></li>
 </ul></div>
 

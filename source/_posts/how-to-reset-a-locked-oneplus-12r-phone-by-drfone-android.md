@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked OnePlus 12R Phone
-date: 2024-09-10T18:15:08.338Z
-updated: 2024-09-18T05:44:25.772Z
+date: 2024-12-16T18:34:30.922Z
+updated: 2024-12-22T16:41:56.578Z
 tags: 
   - unlock
   - remove screen lock
@@ -82,6 +82,10 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 ![how to reset a locked phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Select the OnePlus 12R device from the list.**
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -97,6 +101,14 @@ Once the previous step is complete, you will see the lock screen removal process
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -122,6 +134,10 @@ This can enable the installation of apps and software that require more permissi
 
 ![android oem unlocking settings](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros and Cons of OEM Unlocking
 
 Here are some great things you can get when you **allow OEM unlock.**
@@ -135,6 +151,10 @@ On the other hand, here are some cons that you must consider before performing t
 - **Security risks.** Root access can make your device more vulnerable to malware and hacking.
 - **Void warranty.** OEM unlocking often voids the manufacturer’s warranty.
 - **Potential for bricking.** Incorrect procedures can render the OnePlus 12R device unusable, known as ‘bricking’.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Understanding the Risks
 
@@ -222,13 +242,6 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Select **Android** on this page.
 
 ![dr.fone screen unlock home](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -267,6 +280,10 @@ Diving into OEM
 
 Uh oh – you’ve forgotten your Android Unlock code, and you can’t get it online to unlock using Google. Nothing could be more frustrating than gazing at your phone, knowing that it is essentially a paperweight at this point. Unless you can get it unlocked, your phone is useless, and all of your important photos, text messages, and content are all locked out of your reach. While right now, nothing can do without a Google account. But you can try to reset your Google account first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Bypass Lock Screen on Android device with Google Account (Android Device Manager)
 
 Even if you have a Google account, if your phone isn’t connected to the internet, you cannot access it to unlock your phone. If this sounds familiar, you can always try this method.
@@ -303,6 +320,10 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 8\. Now, simply enter the new passcode on your device, and voila! It will open, and you can get back to your daily routine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Reset Your Google Account on your Android Phone
 
 If you have forgotten your Google Account password, it is still possible to unlock your account and access the information within. Here is how you can unlock your Google account on your Android phone.
@@ -315,26 +336,20 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Goodle log in](https://images.wondershare.com/drfone/others/14637535763672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Choose the “forgot password” option. You will be prompted to enter your email address to proceed.
 
 ![android Google trouble signing in](https://images.wondershare.com/drfone/others/14637535788151.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Two options will then appear: the first is your phone number, and the other asks you for your backup email.
 
 ![android Google forgot password](https://images.wondershare.com/drfone/others/14637535828239.jpg)![android Google forgot pssword enter email](https://images.wondershare.com/drfone/others/14637535857339.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. Enter either one of these options, and you will receive a verification code via email, SMS, or a telephone call from an operator. If you have chosen to enter your backup email, at this point, you will receive detailed instructions on how to access the ‘reset password’ page.
@@ -348,19 +363,6 @@ If you have forgotten your Google Account password, it is still possible to unlo
 7\. Finally, you can unlock your Google account on your Android! Confirm this by clicking the “Change Password” button. Success!
 
 ![android Google reset password input new password](https://images.wondershare.com/drfone/others/14637552534874.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. How to Remove Locked Screen on Android using Dr.Fone
 
@@ -376,13 +378,6 @@ Remove Android Screen Lock In One Click
 - It will complete the unlocking process in minutes.
 
 **3,981,454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to use Dr.Fone to unlock
 
@@ -402,6 +397,10 @@ Now connect your Android phone connected with the PC, and select the OnePlus 12R
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We know that losing or forgetting your Android lock code can be a real pain, and so these solutions are sure to put the smile back on your face and get you using your phone again as usual. As you can see, the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a simple and reliable way to unlock your Android phone, but you can always try the Google option if you assess that it better suits your needs. No matter which solution you choose, your locked Android phone will be up and running again in no time at all.
@@ -418,5 +417,24 @@ We know that losing or forgetting your Android lock code can be a real pain, and
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>[Updated] Twitch Vs. YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/astro-a50-and-command-center-how-to-ensure-they-work-together-seamlessly/"><u>Astro A50 and Command Center: How to Ensure They Work Together Seamlessly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-12-proplus-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>In 2024, A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c32-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C32</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme Narzo 60 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-note-50-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme Note 50 to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-character-voice-modification-techniques-in-free-fire-no-cost/"><u>In 2024, Mastering Character Voice Modification Techniques in Free Fire (No Cost!)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-6-platforms-for-video-localization/"><u>In 2024, Premier 6 Platforms for Video Localization</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-invisible-monitor-mishaps/"><u>Overcoming Invisible Monitor Mishaps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-m6-pro-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco M6 Pro 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-ideal-steam-deck/"><u>Selecting the Ideal Steam Deck</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-g22-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia G22? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-v30t-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme V30T</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-logitech-clicker-heres-how-you-can-make-it-work-again/"><u>Trouble with Your Logitech Clicker? Here's How You Can Make It Work Again!</u></a></li>
+</ul></div>
 

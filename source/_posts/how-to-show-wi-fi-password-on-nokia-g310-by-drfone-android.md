@@ -1,7 +1,7 @@
 ---
 title: How to Show Wi-Fi Password on Nokia G310
-date: 2024-09-10T19:21:08.474Z
-updated: 2024-09-17T21:05:02.112Z
+date: 2024-12-22T00:46:32.869Z
+updated: 2024-12-22T20:17:42.971Z
 tags: 
   - unlock
   - remove screen lock
@@ -87,6 +87,10 @@ Tap on this "build number" 5 to 6 times until a message pops up, saying, "You ar
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556303263992.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Enable the debugging.
 
 Go back to Settings. Scroll down for developer options. Turn on the button for "Android/USB debugging".
@@ -98,6 +102,10 @@ Step 3: Install ADB drivers.
 Now, open your Windows desktop. Download and install ADB drivers. (Use this download link [adbdriver.com](http://adbdriver.com/)). You need to download and install platform tools (minimal ADB and fastboot) from [http://forum.xda-developers.com/...](http://forum.xda-developers.com/showthread.php?t=2317790) Now open the folder where you've installed the above tools. By default, it is in the Local disc _C\\windows\\system32\\platform\_tools_ location. However, you might want to locate them by searching on the windows search engine. You have to hold the Shift key and right-click inside the folder to click on"Open Command Window Here."
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Test the ADB
 
@@ -134,6 +142,10 @@ Once you decide on the **phone lock** type, you can enable or disable them from 
 Here you will see how to set up a screen lock on your Android device:
 
 ![screen lock](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Quickly Unlock Your Screen By Dr.Fone
 
@@ -192,25 +204,11 @@ Get into Recovery Mode in Samsung phone with Home Button:
 
 ![home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5. Instructions to Wipe Cache Partition**
 
 During the steps in Recovery Mode, please don't pick the wrong choices!
 
 ![instructions to wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You're now able to access your Android device again when the whole process is over. And you no longer need a password or pattern!
 
@@ -239,13 +237,6 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 ![wipe data](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-3.jpg)
 
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Use ADB
 
@@ -282,16 +273,13 @@ This strategy to sidestep a locked screen is only a crisis workaround for the ph
 
 ![ten asterisks](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Copy and paste asterisks on the dialer until the "Paste" choice no longer appears.
 - Get back to the lock screen and tap on the camera symbol.
 - Go to the settings on your Android after pulling down the notifications bar. Now you will have the chance to enter the password, and you must continue the same thing here. Continue to paste until the Android lock screen crashes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -321,6 +309,10 @@ For the first method, we will discuss **how to delete a Google account** with yo
 - **Step 1.** Access the website [https://myaccount.google.com/](https://myaccount.google.com/) on your desktop browser and log in with your credentials. Proceed to the “Data & privacy” section from the left panel.
 
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
 
@@ -352,6 +344,10 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
@@ -361,19 +357,6 @@ If you use a smartphone device and want to delete your Gmail account from that p
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
@@ -401,9 +384,17 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![recovery mode iphone x or later](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
@@ -413,9 +404,17 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -476,5 +475,24 @@ This article has specifically provided you with some important details on **how 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-hangout-history-capture-and-keep/"><u>[Updated] 2024 Approved Hangout History Capture & Keep</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-peering-into-tseries-earnings-processes-on-youtube-networks/"><u>[Updated] 2024 Approved Peering Into TSeries' Earnings Processes on YouTube Networks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-becoming-a-vlogger-voice-confident-content-creation-strategies/"><u>[Updated] Becoming a Vlogger Voice Confident Content Creation Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-bring-your-beat-to-facebook-ios-and-android-edition/"><u>2024 Approved Bring Your Beat to Facebook - iOS & Android Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-m6-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco M6 Pro 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12plus-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 12+ 5G Phone without PIN</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hulus-errorrununk13-bug-easy-fixes-and-workarounds/"><u>Hulu's ERROR_RUNUNK13 Bug: Easy Fixes and Workarounds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n53-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N53 Phone without PIN</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-iphone-screen-recording-with-minimal-fuss/"><u>In 2024, Mastering iPhone Screen Recording with Minimal Fuss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nubia-red-magic-9-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nubia Red Magic 9 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-trending-topics-to-endings/"><u>Tailoring Trending Topics to Endings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-12-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme 12 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-ratio-reference-for-youtube-videos-and-ads-for-2024/"><u>The Ultimate Ratio Reference for YouTube Videos & Ads for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-c67-4g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme C67 4G Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-technological-devices-for-savvy-travellers-in-2e24/"><u>Top-Rated Technological Devices for Savvy Travellers in 2E24</u></a></li>
+</ul></div>
 

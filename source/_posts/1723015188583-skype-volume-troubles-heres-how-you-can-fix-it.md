@@ -1,7 +1,7 @@
 ---
 title: Skype Volume Troubles? Here's How You Can Fix It
-date: 2024-12-09T23:54:35.846Z
-updated: 2024-12-13T17:42:57.183Z
+date: 2024-12-19T22:14:50.522Z
+updated: 2024-12-22T21:42:26.190Z
 tags:
   - win11
   - win10
@@ -29,21 +29,17 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 4. [Update available drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Modify the audio settings in your Skype](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot the hardware issue
 
  When you find that the sound is not working or there’s no sound in your Skype, the first thing to do is to troubleshoot the hardware issue, such as your microphone or your headset.  1) Make sure that your microphone or headset are plugged properly and firmly into the correct jacks.  2) Make sure that your microphone or your headset works properly. You can try your microphone or headset on another device to see if it works or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update Skype in your device
 
  The developer keeps releasing the latest patch for Skype to fix some bug issues and improve your experience, so there may be some problem, including the sound problem in the older version of Skype, and you can install the latest update for Skype and keep it up to date. Then check if it fixes the no sound issue in Skype.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check the audio settings in your computer
 
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4053a7b464e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left, and make sure your microphone is**turned on** , and**allow Skype to access microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4053ec702ab.jpg)
@@ -73,20 +73,20 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40545141ea1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Recording** tab, and right click on the empty area in the window and check**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4054a4d8e69.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check if your microphone is listed on the window.  4) Right click on your microphone device, and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4054d5b96ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select your microphone to highlight it, and click**Set Default** . Then click **OK** to save the changes.
@@ -97,10 +97,14 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
  The Windows Audio service manages audio for Windows-based programs. If this service is stopped, audio devices and effects won’t function properly, and so you won’t find any sound on your Skype. To check the Windows Audio service:  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time.  2) Type**services.msc** and click**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405531c0809.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down and double click**Windows Audio** .
@@ -111,6 +115,10 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4055746b393.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Restart your computer and try to Skype call again to see if the sound is working.
 
 ### Fix 4: Update available drivers
@@ -119,17 +127,9 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40569a29987.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40582b6d503.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer to take effect, and check if there’s any sound in your Skype.
 
@@ -155,24 +155,22 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-master-classic-ps2-games-on-android-with-our-top-picks/"><u>[Updated] 2024 Approved Master Classic PS2 Games on Android with Our Top Picks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-vidgrabmaster-mobilepc-app-downloads/"><u>[Updated] 2024 Approved VidGrabMaster Mobile/PC App Downloads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gaming-hub-clashes-with-content-creation-empire-a-detailed-twitchyoutube-comparison/"><u>[Updated] Gaming Hub Clashes with Content Creation Empire A Detailed Twitch/YouTube Comparison</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[Updated] In 2024, Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-f5-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco F5 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-open-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Open Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-a78-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo A78 Through Google Earth?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-30i-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Hot 30i Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-v30-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme V30 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-m6-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Poco M6 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-c110-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia C110</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-a78-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo A78 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-find-x7-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Find X7 Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n53-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N53 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-c50-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco C50</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-tools-for-visual-storytelling-from-photographic-sources/"><u>Prime Tools for Visual Storytelling From Photographic Sources</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96261035-9781788172752-tarot-made-easy/"><u>Tarot Made Easy | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-5-innovative-vr-drones-collaborations/"><u>Top 5 Innovative VR Drones Collaborations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion-for-2024/"><u>[New] Fading Sounds Gently A Guide to Softening Audibility in Lumafusion for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premier-ios-video-player-apps-for-optimal-entertainment/"><u>[Updated] Premier iOS Video Player Apps for Optimal Entertainment</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-reno-8t-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-c02-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia C02 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oneplus-ace-3-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on OnePlus Ace 3 to Protect Your Individual Information</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oppo-a1-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A1 5G Phone that is Locked?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/implications-of-chatgpts-ability-to-harness-current-data-what-it-signifies-for-all/"><u>Implications of ChatGPT's Ability to Harness Current Data: What It Signifies for All</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A56s 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-nord-3-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Nord 3 5G Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-definitive-guide-to-classic-anime-themes/"><u>In 2024, The Definitive Guide to Classic Anime Themes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-c50-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco C50</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/macx-pro-dvd-ripping-tool-securely-copy-dvd-content-to-mp4-format-for-apple-devices-download-advanced-dvd-converter-for-macos/"><u>MacX Pro DVD Ripping Tool - Securely Copy DVD Content to MP4 Format for Apple Devices, Download Advanced DVD Converter for macOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-your-online-presence-via-creator-studio/"><u>Propel Your Online Presence via Creator Studio</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-x5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco X5</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spark-your-spirit-a-collection-of-10-uplifting-movies/"><u>Spark Your Spirit A Collection of 10 Uplifting Movies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-complexity-of-wireless-protocols-the-journey-from-80211b-to-ax/"><u>Unraveling the Complexity of Wireless Protocols: The Journey From 802.11B to Ax</u></a></li>
 </ul></div>
 

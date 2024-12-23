@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on OnePlus Nord 3 5G
-date: 2024-12-07T21:18:38.858Z
-updated: 2024-12-13T17:25:24.508Z
+date: 2024-12-17T19:35:36.488Z
+updated: 2024-12-22T19:12:34.121Z
 tags: 
   - unlock
   - remove screen lock
@@ -52,10 +52,6 @@ To certain customers, the lock screen can do more harm than good, and they would
 · Step 3: Once you have done the previous step, a brand new screen will appear and then you will be asked to fill in your PIN code. This is a step that helps guarantee that you are the true owner of the Android device.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555322112292.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: As soon as you have confirmed the right PIN code in the bar provided, you will then be presented to the next drop-down menu. A similar screen will appear which shows you plenty of choices. Tap on the top of that list, which is a bar called None.
 
@@ -118,6 +114,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![disable lock screen android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Connect your Android device to the computer via USB cable. The program will recognize the phone directly. Select the phone model or "I can't find my device model from the list above" to continue.
 
 ![disable android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -126,9 +126,17 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** After you set the phone to Download mode, it will begin to download the recovery package. When the recovery package is downloaded successfully, the lock screen on your OnePlus Nord 3 5G devicewill be removed. You won't lose any data during the whole process.
 
 ![remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Forgot Pattern Lock? Here's How You Can Unlock OnePlus Nord 3 5G Pattern Lock Screen
 
@@ -148,6 +156,10 @@ One of the easiest and fastest ways to fix the forgot pattern lock issue on a de
 
 ![forgot pattern](https://images.wondershare.com/drfone/article/2017/09/15059289368742.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** This will open a new screen, which can be used to bypass the forgotten pattern of Android. Select the option for entering the Google Account details and proceed.
 
 **Step 4.** To reset the forgot pattern lock, you need to provide the correct Google credentials of the account already linked to the OnePlus Nord 3 5G device.
@@ -160,19 +172,11 @@ One of the easiest and fastest ways to fix the forgot pattern lock issue on a de
 
 **Step 6.** Confirm your choice and set a new pattern lock on your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to get past forgot pattern lock using Dr.Fone - Screen Unlock (Android)?
 
 One of the major drawbacks of the “Forgot pattern” feature is that it doesn’t work on new Android devices. Since most of the OnePlus Nord 3 5G devices out there have been updated, the technique has been outdated. Therefore, you can simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to bypass the forgot pattern lock on your device. Without causing any harm to your device or erasing its data, your device’s password or pattern would be removed.
 
 It is a part of the Dr.Fone toolkit and is compatible with all the leading Android devices out there. It can be used to remove passwords, patterns, pins, and more. It has an easy-to-use interface and provides a simple click-through process to resolve the forgot pattern Android lock on your device. However, this tool merely retains all the data after unlocking Samsung and LG screens. Other Android locked screens can also be unlocked, and the only thing is that it will wipe all the data after unlocking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -196,10 +200,6 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 **Step 3.** Select the correct phone brand. It is important to ensure phone brand correctness to prevent bricking.
 
 ![forgot pattern lock - select model details](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** Then, enter "confirm" in the box to tell the tool that you agree to proceed.
 
@@ -246,10 +246,6 @@ All of this can be done by following these steps:
 **Step 8.** Save your changes and sign out of your account from Android Device Manager.
 
 This will automatically reset the old pattern on your device to the new password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to bypass forgot Samsung pattern lock using Samsung Find My Mobile
 
@@ -312,15 +308,19 @@ You need to log into the Google account that is associated with the OnePlus Nord
 
 ![unlock with security question](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - You must enter the Gmail account that is associated with the OnePlus Nord 3 5G device here before selecting "Next."
 
 ![answer the security question](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - That's it; from this point forward, you may enter any new PIN or pattern that you can recall to unlock your smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
 
@@ -343,18 +343,10 @@ After that, use Find My Device to unlock your Android phone without losing any d
 
 ![unlock samsung without data loss](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Sign in with your Samsung account at findmymobile.samsung.com.
 - Choose "Lock my screen" from the menu on the left, type a new PIN in the box given, and then click "LOCK."
 
 ![generating new pin using lock my screen](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Your smartphone will be unlocked, and the password will be changed to the new one after a brief delay.
 
@@ -366,10 +358,6 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 - Launch the installer after that to begin downloading crucial software for your machine.
 
 ![launch the adb installer to unlock android](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Here, you must use a USB cable to connect your OnePlus Nord 3 5G to the computer
 - This will activate the developer option on your smartphone if you navigate to Settings > About Phone > and choose the "Build Number" option seven times.
@@ -383,6 +371,10 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 ![go to system and enter command line](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-8.jpg)
 
 - Finally, just restart your smartphone and use it as normal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Hard reset (data loss)
 
@@ -398,6 +390,10 @@ When your phone is locked, you may access the recovery menu of your phone using 
 
 ![reboot the system and follow factory reset](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Unlock from Forgot Pattern (android 4.4 or lower)
 
 This is another choice that might assist you in unlocking your phone without a factory reset or password. You may have observed that when pattern lock was enabled on your device, a security PIN question was also prompted at that time.
@@ -411,6 +407,10 @@ Therefore, you have the choice to Backup PIN, which might assist you in unlockin
 - The "Backup PIN" option will be there; choose it.
 - Put the backup PIN and OK here.
 - At last, you may unlock your cellphone by entering the backup PIN.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Boot into safe mode
 
@@ -456,6 +456,10 @@ If you then adhere to the instructions on the software, the phone will enter Dow
 
 ![switch to download mode and follow instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Offset your phone.
 - Hold down the Power, Home, and Volume Down keys all at once.
 - Use the Volume Up button to start Download Mode.
@@ -491,10 +495,6 @@ Next, join your Android phone to the computer with a USB cable. The phone must b
 
 ![approve usb debugging to connect device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click Backup to start backing up the data on your Android device.
 
 If you have previously used this programme to back up your device, you may review your backup history by clicking on "View backup history."
@@ -527,19 +527,20 @@ It would be best if you had been able to answer the question, "How to unlock an 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-maximize-reach-with-effective-igtv-video-posts/"><u>[New] 2024 Approved Maximize Reach with Effective IGTV Video Posts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-inside-the-worlds-most-successful-business-youtube-sites/"><u>[New] Inside the World's Most Successful Business YouTube Sites</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-10-youtube-storytelling-techniques-that-work/"><u>[Updated] In 2024, 10 YouTube Storytelling Techniques That Work</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-attracting-and-managing-brands-as-affiliates-on-youtube/"><u>[Updated] Mastering the Art of Attracting and Managing Brands as Affiliates on YouTube</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-xs-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone XS After Forgetting the Passcode?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/como-convertir-archivos-mp2-sin-costo-mediante-movavi-guia-paso-a-paso/"><u>Cómo Convertir Archivos MP2 Sin Costo Mediante Movavi: Guía Paso a Paso</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/developing-persuasive-podcast-hooklines-for-2024/"><u>Developing Persuasive Podcast Hooklines for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-phone-without-password-by-drfone-android/"><u>How To Unlock Nubia Phone Without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-c51-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco C51 Face Lock?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-masterful-multimedia-publishing-videos-on-the-worlds-most-popular-social-network/"><u>In 2024, Masterful Multimedia Publishing Videos on the World's Most Popular Social Network</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-f5-pro-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco F5 Pro 5G Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/leveraging-lenovos-bt-capabilities-in-windows-11/"><u>Leveraging Lenovo's BT Capabilities in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c65s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco C65s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-allinone-vmix-companion/"><u>[New] 2024 Approved AllInOne VMix Companion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-10-camera-lenses-to-use/"><u>[Updated] Best 10 Camera Lenses to Use</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-10t-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme 10T 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-c67-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme C67 5G</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-rotation-made-easy-top-free-software-for-2024/"><u>AVI Video Rotation Made Easy Top Free Software for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-a1-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo A1 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-convert-ogg-to-webm-with-moveavee/"><u>Free Online Converter: Convert OGG to WebM with Moveavee</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/future-developers-meet-your-ideal-programming-classes-of-the-year-2024/"><u>Future Developers, Meet Your Ideal Programming Classes of the Year 202^4!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-destiny-warzone-memory-glitch-error-code-0-1766-on-your-console-and-pc/"><u>How to Fix the Destiny Warzone Memory Glitch (Error Code 0-1766) on Your Console & PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-130-music-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia 130 Music</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-a1-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A1 5G Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-content-marketing-for-more-views-and-subscribers/"><u>In 2024, Leveraging Content Marketing for More Views and Subscribers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-magic-6-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor Magic 6 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-distance-remote-podcast-broadcast-for-2024/"><u>Mastering Distance Remote Podcast Broadcast for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset Gmail Password on OnePlus 12 Devices
-date: 2024-09-11T04:56:07.200Z
-updated: 2024-09-18T02:38:20.336Z
+date: 2024-12-20T17:09:45.168Z
+updated: 2024-12-22T19:08:17.018Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,6 +35,10 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** In this step, you may be asked to fill in a CAPCHA form. Just simply do it and move to the next page. There you had better type in the last password that you are still able to recall if possible, then click on the Continue button to move. Or else, you can skip this step by clicking on I don't know button.
 
 ![reset Gmail password on Android-fill in a CAPCHA form](https://images.wondershare.com/drfone/others/14546022088819.jpg)
@@ -62,6 +66,10 @@ Step 1: Make sure your Android device is connected with the Internet. Then get a
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tips
 
@@ -110,6 +118,10 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -137,6 +149,10 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 You can then go about backing up the contents of your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Using your Samsung Account
 
 This method is a reliable way to unlock a Samsung device that has a broken screen or is not working correctly. While it is highly effective you will need to have a Samsung account registered with your device. The problem is that not many Samsung device users have registered their devices with the service. If you are among the lucky few who have, here’s how to use your account to unlock your device.
@@ -151,6 +167,10 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
@@ -161,6 +181,10 @@ Have you been locked out of your Android device and can’t seem to recall its p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Unlock the Android Phone Pattern with Lock Screen Removal Tool
 
 If you are locked out of the phone because forgot pattern lock, and fail to enter the phone after many times try with the word "phone has been locked". No need to worry, there are many solutions to fix the issue. And [Dr.Fone –Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can be your first saver in the dilemma. It is a highly efficient pattern lock removal tool for over 2000+ mainstream android phones, like Samsung, Oneplus, Huawei, Xiaomi, Pixel, etc.
@@ -170,10 +194,7 @@ Except for pattern locks unlocking, it works for the PIN, fingerprints, Face ID,
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
@@ -190,13 +211,6 @@ Get into Locked Phones within Minutes
 Step 1. [Download Dr.Fone –Screen Unlock](https://download.wondershare.com/drfone_unlock_full3372.exe) on your PC or Mac.
 
 ![run the program to remove android lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2. Connect your Android phone to the computer using a USB cable. Next, click the "**Unlock Android Screen**" from the interface.
 
@@ -218,6 +232,10 @@ Once the whole progress is over, you can access your Android device without ente
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to unlock the Android phone pattern lock without resetting using a Google account?
 
 If you have an older Android device, then you can simply move past its lock by taking the assistance of your Google account. All you need is access to the same Google account that is linked to your device. Though, this technique will only work on devices running on Android 4.4 and earlier versions. To learn how to remove pattern lock on Android without a factory reset, follow these steps:
@@ -232,6 +250,10 @@ Step 3. This will provide different ways to access your phone. Select the Google
 
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057364067715.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4. Sign in using the credentials of the Google account that is linked to your device.
 
 ![sign in google account-how to unlock android pattern lock without factory reset](https://images.wondershare.com/drfone/article/2017/09/15057364235603.jpg)
@@ -239,13 +261,6 @@ Step 4. Sign in using the credentials of the Google account that is linked to yo
 Step 5. Great! Now you can simply provide (and confirm) the new pattern for your device.
 
 After following these instructions, you would be able to learn how to unlock an Android phone pattern lock without factory reset or causing any harm to your device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to unlock Android phone password without factory reset - Android Device Manager
 
@@ -287,13 +302,6 @@ Step 5. Go to Settings > Developer Options and turn on the feature of USB debugg
 
 ![usb debugging](https://images.wondershare.com/drfone/article/2017/09/15057365186961.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6. After connecting your device to the system, launch the command prompt in the installation directory on your respective ADB.
 
 Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and press enter.
@@ -303,10 +311,7 @@ Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and pre
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -325,5 +330,21 @@ Now when you know how to unlock the Android phone pattern lock without a factory
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-in-dialogue-maker-land/"><u>[New] Excellence in Dialogue Maker Land</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-secrets-of-the-pros-efficient-snapchat-pinning-techniques/"><u>[Updated] Secrets of the Pros Efficient Snapchat Pinning Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminate-secondary-monitor-latency-during-gaming-sessions-in-windows-1011-with-these-expert-tips/"><u>Eliminate Secondary Monitor Latency During Gaming Sessions in Windows 10/11 with These Expert Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-open-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Open</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nubia Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 5G Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 9 Pro+ Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-13c-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi 13C 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pazeras-audio-extraction-mastery-in-the-2024-landscape/"><u>Pazera's Audio Extraction Mastery in the 2024 Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proficient-techniques-securely-embedding-a-url-in-tiktok-profiles/"><u>Proficient Techniques Securely Embedding a URL in TikTok Profiles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pic-creators-colloquium/"><u>The Epic Creator's Colloquium</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-tecnicas-innovadoras-para-mejorar-la-calidad-de-las-imagenes-en-2024/"><u>Top 5 Técnicas Innovadoras Para Mejorar La Calidad De Las Imágenes en 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
+</ul></div>
 

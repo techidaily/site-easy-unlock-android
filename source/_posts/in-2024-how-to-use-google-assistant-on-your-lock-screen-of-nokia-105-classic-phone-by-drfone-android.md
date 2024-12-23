@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of Nokia 105 Classic Phone
-date: 2024-12-12T18:51:59.783Z
-updated: 2024-12-13T19:22:57.632Z
+date: 2024-12-19T20:39:28.763Z
+updated: 2024-12-22T22:28:35.114Z
 tags: 
   - unlock
   - remove screen lock
@@ -127,7 +127,7 @@ Fortunately, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondersha
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -172,15 +172,15 @@ Type "000000" continue by clicking Confirm.
 
 ![Confirm to unlock your Android phone screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Put Android in Download Mode
 
 Dr.Fone will then guide you to put your Android device into Download Mode according to the model you have identified. After you have followed the instructions, Dr.Fone will automatically lead to the next screen to proceed the unlocking process.
 
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
 
@@ -207,7 +207,7 @@ You can always stay in touch with friends, family, and coworkers thanks to voice
 ![voicemail](https://images.wondershare.com/drfone/article/2022/10/how-to-reset-voicemail-password-on-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Contact your carrier
@@ -220,6 +220,10 @@ The actions following should be followed when your carrier certifies that the vo
 
 - Take your SIM card out.
 - Put the new SIM card in. Your gadget will turn on, and you will be able to generate a new voicemail password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use your code to reset password
 
@@ -259,10 +263,6 @@ YouMail is an Android app that helps you to control visual voicemail. Additional
 **Carrier**: US Cellular, AT&T, MetroPCS, T-Mobile, Verizon, Alltel.
 
 ![youmail](https://images.wondershare.com/drfone/article/2022/10/how-to-reset-voicemail-password-on-android-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. **Visual voicemail from AT&T**
 
@@ -321,6 +321,10 @@ Besides a part of Samsung and LG models, "100% Remove Screen Lock" includes most
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here is the brand list; you can check it and find your phone brand.
 
 ![check the brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -335,13 +339,13 @@ Note: Different brands have different steps to enter the Recovery Mode.
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Go to the Recovery Mode on Samsung phone without Bixby**
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Go to Recovery Mode on Samsung phone with Home Button**
 
@@ -353,17 +357,9 @@ Good! You’re now in the final step, be careful to choose the correct options s
 
 ![instructions to wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now no pattern or password is on your phone screen to bother you!
 
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This is how you can easily get rid of phone lock issues.
 
@@ -430,10 +426,6 @@ After your phone boot in download mode, click on Remove to start to remove the l
 
 ![unlock lg phone - remove lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For more detailed steps, please go to our guide on [unlocking Android phones with/without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
 ## Solution 2: Unlock the Nokia Phone Using Android Device Manager (Need a Google account)
@@ -444,6 +436,10 @@ This is probably the most convenient solution to set up a new lock for your Noki
 
 ![unlock lg forgot password - login android device manager](https://images.wondershare.com/drfone/article/2017/03/14892201986480.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Select your device's icon to get access to various features like ring, lock, erase, and more. Out of all the provided options, click on “**lock**” to change the security lock of your device.
 
 ![unlock lg forgot password - select device](https://images.wondershare.com/drfone/article/2017/03/14892202439511.jpg)
@@ -453,10 +449,6 @@ This is probably the most convenient solution to set up a new lock for your Noki
 ![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
 
 That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Nokia phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Unlock the Nokia Phone Using Google Login (only Android 4.4 and below)
 
@@ -496,6 +488,10 @@ If none of the above-mentioned alternatives work, then you can also try to facto
 
 ![unlock lg forgot password - enter in recovery mode](https://images.wondershare.com/drfone/article/2017/03/14892204518630.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Select the “Reboot system now” option to restart it. Your phone will be restarted without any lock screen.
 
 ![unlock lg forgot password - reboot system](https://images.wondershare.com/drfone/article/2017/03/14892204671940.jpg)
@@ -523,12 +519,16 @@ After making your device ready and downloading all the essential software on you
 
 ![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
 
 ![unlock lg forgot password - code](https://images.wondershare.com/drfone/article/2017/03/14892205424871.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4.** After restarting your device, if you still get a lock screen, then give a random password to bypass it.
@@ -551,18 +551,22 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g24-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G24 Fingerprint Lock</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/cmd-windows-1187/"><u>CMDでバックアップを作成する - Windows 11/8/7のガイド</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-x6-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco X6 Pro Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-g22-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia G22? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-s17-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo S17 Phone?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/kostenlos-konvertieren-von-fotonachrichten-arw-in-jpeg-format-durch-movavi-online-dienst/"><u>Kostenlos Konvertieren Von Fotonachrichten (ARW) in JPEG Format Durch Movavi Online-Dienst</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-with-llama-2-a-comprehensive-guide/"><u>Maximizing Efficiency with Llama 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/reliable-cloud-storage-solutions-beyond-onedrive-safeguarding-your-data/"><u>Reliable Cloud Storage Solutions Beyond OneDrive: Safeguarding Your Data</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-why-your-wd-my-passport-ultra-may-not-appear-on-windows/"><u>Resolving the Issue: Why Your WD My Passport Ultra May Not Appear on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/revival-strategies-for-net-on-your-pc-max-156/"><u>Revival Strategies for .NET on Your PC (Max 156)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-motorola-edge-2023-by-drfone-android/"><u>Universal Unlock Pattern for Motorola Edge 2023</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-12-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme 12 5G Device</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-copyright-woes-instant-video-ban/"><u>[Updated] 2024 Approved Copyright Woes Instant Video Ban</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/35718387-2024-approved-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>2024 Approved How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-gt-5-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme GT 5 Pro?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-nord-n30-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Nord N30 5G Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c67-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme C67 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-edge-2023-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Edge 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 4G Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-motorola-g24-powers-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Motorola G24 Powers Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-edge-2023-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Edge 2023</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-14-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi 14 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/slash-price-boost-performance-with-quality-monitors/"><u>Slash Price, Boost Performance with Quality Monitors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-text-editing-software-emeditor-your-perfect-digital-wordsmith-companion/"><u>Ultimate Text Editing Software: EmEditor, Your Perfect Digital Wordsmith Companion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-hidden-gems-that-challenge-vlc-for-2024/"><u>Unveiling the Hidden Gems That Challenge VLC for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210731751-9781098093792-will-the-real-woman-of-god-please-stand/"><u>Will the Real Woman of God Please Stand? | Free Book</u></a></li>
 </ul></div>
 
