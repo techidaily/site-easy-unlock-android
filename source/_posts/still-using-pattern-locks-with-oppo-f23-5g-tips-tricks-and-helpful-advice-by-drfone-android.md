@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo F23 5G? Tips, Tricks and Helpful Advice
-date: 2024-12-16T01:50:09.717Z
-updated: 2024-12-22T22:46:13.424Z
+date: 2024-12-27T16:04:44.183Z
+updated: 2024-12-28T16:10:12.850Z
 tags: 
   - unlock
   - remove screen lock
@@ -123,10 +123,6 @@ Step 3: You will see a list of supported manufacturers on the next screen. Selec
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
@@ -139,17 +135,9 @@ Your device will be successfully unlocked.
 
 Note that this method wipes all data on the Oppo F23 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Unlock Any Oppo F23 5G Phone Password Using Emergency Call
 
@@ -160,6 +148,10 @@ But you have to face it: sometimes, people forget the codes they set to protect 
 That’s where emergency call bypass is a nifty little trick that can be a lifesaver. In this article, you’ll learn **how to unlock any phone password using the emergency call** technique. The article will also explore other methods for when your memory fails you. So, read through and never go through this trouble again.
 
 ![android emergency call screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-01.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is the Emergency Call Bypass Method?
 
@@ -182,6 +174,10 @@ Unlocking your Android phone without a password using the Emergency Call Bypass 
 - **Step 1:** Start by tapping the **Emergency Call** button on your lock screen. This will bring up the emergency dialer screen.
 
 ![android tap to add emergency contacts](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Type a series of special symbols on the dialer screen, such as asterisks (\*). Do this several times in a row.
 - **Step 3:** Double-tap the string of symbols to highlight them, then copy the string. Now, tap on the screen to paste the copied string. Repeat this process 10 to 11 times until you can no longer highlight the series.
@@ -222,6 +218,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 - **Step 2:** On the next page, choose **Android.**
 
 ![dr.fone screen unlock home](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Unlock Android Screen**, as this is specifically for bypassing the lock screen
 
@@ -282,7 +282,7 @@ The [vnROM Bypass](https://vnrom.net/bypass/) tool is crafted to bypass Google a
 The tool provides a straightforward and user-friendly interface. This makes it relatively easy for users to navigate and perform the necessary steps for [bypassing the FRP lock](https://drfone.wondershare.com/guide/google-frp-bypass.html). Moreover, it offers compatibility with a range of Android devices. The app specifically targets those running on Android OS versions 5.0 to 8.1.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How To Download vnROM Bypass
@@ -306,7 +306,7 @@ Downloading **vnROM FRP Bypass** involves obtaining the tool from reputable sour
 ![factory reset your device](https://images.wondershare.com/drfone/article/2024/01/bypassing-google-account-with-vnrom-bypass-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps To Use vnROM Bypass
@@ -328,10 +328,6 @@ vnROM Bypass primarily supports Android versions 5.0 to 8.1 (Lollipop to Oreo). 
 
 Using bypass tools like vnROM Bypass can potentially expose devices to security risks. One significant factor contributing to this situation is the absence of an official website for the tool. Furthermore, it has not received updates for quite a while. This makes it a potential security risk for newer Android models.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Functional Restrictions
 
 This tool has not received updates for some time, so its proper functionality cannot be guaranteed. It seems primarily compatible with older Android devices running on versions 5 through 8.1. Moreover, serious concerns exist about the tool's effectiveness, even for older devices.
@@ -339,10 +335,6 @@ This tool has not received updates for some time, so its proper functionality ca
 ### 4\. Complexity and Reliability Issues
 
 The bypass process using vnROM Bypass can be complex. For users unfamiliar with such tools, it could lead to potential errors. The reliability of the tool's effectiveness varies across different devices and firmware versions. This results in inconsistent outcomes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Listing Some Quick APK Alternatives of vnROM Bypass
 
@@ -366,10 +358,6 @@ Realterm FRP Bypass APK offers an alternative method to bypass Google account ve
 
 ![realterm frp bypass apk](https://images.wondershare.com/drfone/article/2024/01/bypassing-google-account-with-vnrom-bypass-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. [Wondershare Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Wondershare Dr.Fone distinguishes itself as an extensive and easily navigable utility. Crafted to bypass Google account verification and unlock Android devices, it excels as a user-friendly tool. With its intuitive interface, this software assists users in bypassing various screen locks. These include PIN, pattern, password, and Google account locks. Dr.Fone's effectiveness lies in its compatibility with various Android devices and OS versions.
@@ -379,10 +367,6 @@ This guarantees an increased likelihood of bypassing Google account verification
 ![dr fone for frp bypass](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. \[Effective Alternative\] Wondershare Dr.Fone Making Google Account Bypass Easy
 
@@ -401,12 +385,16 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 - Everyone can handle the lock screen without any tech knowledge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Provide specific removal solutions to promise good success rate.
 
 **4,008,669** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide To Bypass Google FRP Account in Dr.Fone
 
@@ -424,11 +412,19 @@ Choose the Android OS version on your Samsung device. If you want to use the qui
 
 ![bypass latest android os](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3. Authorization and FRP Lock Removal Confirmation**
 
 Next, an activation prompt for USB debugging will appear on your Android screen. Upon allowing this on your Samsung device, click "Authorized." Subsequently, the following screen on your computer will indicate the removal of the FRP lock from your Android device. A prompt window will confirm completion once the FRP lock removal is successful. Click “Done” to conclude the process.
 
 ![authorize usb debugging](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
@@ -448,6 +444,10 @@ Upon selecting your device brand, Dr.Fone initiates the download of the necessar
 
 ![follow instructions to commence frp bypass](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In summary, this article explored bypassing Google account verification on Android devices. We explored **vnROM Bypass**, highlighting its functionalities and limitations. Additionally, we presented various APK alternatives, emphasizing the need for a more effective solution. Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) emerged as a standout option for its support for all Android versions and user-friendly interface.
@@ -466,16 +466,24 @@ In summary, this article explored bypassing Google account verification on Andro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-from-blurry-snaps-to-stunning-shots-learn-lunapic-editing/"><u>[New] From Blurry Snaps to Stunning Shots Learn LunaPic Editing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-engineering-captivating-video-teasers-for-online-presence/"><u>[Updated] Engineering Captivating Video Teasers for Online Presence</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-revenue-the-15-premier-fb-insight-gadgets/"><u>[Updated] In 2024, Enhancing Revenue The 15 Premier FB Insight Gadgets</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-reno-8t-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo Reno 8T 5G Unlock Without Password</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-of-the-best-8-cameras-for-top-streaming-experience/"><u>Best of the Best 8 Cameras for Top Streaming Experience</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/download-high-quality-zapiks-sports-footage-in-various-formats-mp4-avi-mov/"><u>Download High-Quality Zapiks Sports Footage in Various Formats - MP4, AVI, MOV</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oneplus-nord-ce-3-lite-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any OnePlus Nord CE 3 Lite 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-narzo-60-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme Narzo 60 5G Unlock Without Password</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-flip-to-impress-the-instagram-video-guide/"><u>In 2024, Flip to Impress The Instagram Video Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-c55-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco C55</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ar-glasses-trends-a-comprehensive-review-by-zdnet/"><u>Top AR Glasses Trends : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-tech-voice-changing-apps-reviewed-for-2024/"><u>[New] Innovative Tech Voice-Changing Apps Reviewed for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-vmiospluswindows-harmony-hub/"><u>[New] VMiOS+Windows Harmony Hub</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pioneering-the-way-with-innovative-approaches-to-youtube-banners-for-2024/"><u>[Updated] Pioneering the Way with Innovative Approaches to YouTube Banners for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-browser-issues-eliminate-video-blackouts-in-facebook-chats/"><u>2024 Approved Breaking Down Browser Issues Eliminate Video Blackouts in Facebook Chats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-a54-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy A54 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/gratuit-online-omzettingen-van-gsm-archieven-movavi-het-beste-toolen/"><u>Gratuit Online Omzettingen Van GSM Archieven - Movavi Het Beste Toolen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a78-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A78 5G Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-c300-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia C300</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-12r-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus 12R Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-105-classic-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia 105 Classic PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-130-music-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia 130 Music Phone without Google Account?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c210-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C210 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11r-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11R PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overwatch-stuttering-heres-the-fix/"><u>Overwatch Stuttering? Here's the Fix</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-art-of-respectful-addresses-in-japan/"><u>The Art of Respectful Addresses in Japan</u></a></li>
 </ul></div>
 

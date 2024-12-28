@@ -1,7 +1,7 @@
 ---
 title: How To Change Oppo A78 5G Lock Screen Clock in Seconds
-date: 2024-09-16T01:00:01.357Z
-updated: 2024-09-22T18:11:16.938Z
+date: 2024-12-26T16:39:31.274Z
+updated: 2024-12-28T16:04:11.752Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ The larger clock style appears when there’s no notification. It will only swit
 
 ![smartphone with clock display](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. How Do I Put a Clock on My Android Lock Screen?
 
 Android devices running version 12 or later come with the clock feature activated by default. Take note that its appearance may change under specific circumstances. It can change when there are unread notifications visible on the lock screen.
@@ -36,6 +40,10 @@ For devices running Android 11, **changing the lock screen clock** is still avai
 **Note**
 
 The exact names of settings may change depending on the manufacturer and version of Android. But the navigation should be similar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Change Lock Screen Clock on Android \[5 Methods\]
 
@@ -66,16 +74,7 @@ An alternative to avoid **the Android lock screen clock** is disabling the Alway
 ![android always on display setting](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-05.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2:** Toggle off to deactivate the **Always On Display**.
@@ -84,6 +83,10 @@ An alternative to avoid **the Android lock screen clock** is disabling the Alway
 
 **While this won’t alter the lock screen clock itself, it will turn off the display. It will prevent the constant presence of the lock screen clock. Instead, the clock will only become visible when you press the power button.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Disable the Double-Line Clock
 
 Originally, there was no provision to **change the lock screen clock in Android 12**. With the release of a new update, Google introduced an option to deactivate the clock, bringing relief to users. Follow the steps below to disable the double-line clock on your Android.
@@ -91,13 +94,6 @@ Originally, there was no provision to **change the lock screen clock in Android 
 - **Step 1:** Go to **Settings** > **Display**. Next, choose **Lock screen**.
 
 ![double line clock android settings](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** Toggle the **Double-line clock** off.
 
@@ -114,6 +110,10 @@ An alternative method to modify the **Android lock screen clock** involves activ
 ![screensaver and new lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-07.jpg)
 
 - **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Keep Unread Notifications
 
@@ -178,6 +178,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![dr.fone unlock android option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose your device brand and click **Remove** **without Data Loss**. Select the **Brand**, **Device** **Name**, and **Device** **Model** of your smartphone. Once done, toggle the checkmark on **I agree with the warning, and I am ready to proceed** button.
 
 ![dr.fone setting android device details](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
@@ -185,6 +189,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 - **Step 4:** Follow the on-screen instructions. Once they’re done, Dr.Fone will automatically proceed with the unlocking process. There will be a new screen showing the completion if done correctly. If it fails, click on **Try** **again**. Otherwise, click **Done** to finish.
 
 ![dr.fone done android screen unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Else Can Dr.Fone Do for Android Owners?
 
@@ -219,13 +227,6 @@ It depends on your phone and the type of lock code you have set up. Note that th
 ## Part 1: How To Remove Screen Lock PIN On Oppo A78 5G? 5 Simple Ways
 
 If you've forgotten your screen lock pin, there's no need to worry. Here are quick and easy ways to remove the screen lock PIN on your Android device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Change or Remove in Settings
 
@@ -272,19 +273,6 @@ If you've forgotten your lock PIN on your Android device, don't worry - there ar
 **Step 2**: When prompted, enter your current lock screen code.
 
 **Step 3**: Select None from the list.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Disable Android Device Manager
 
@@ -333,6 +321,10 @@ Steps to get rid of forgotten phone PIN via factory reset:
 ## Part 2: Is There Any Universal Unlock PIN For Android?
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -385,6 +377,10 @@ Note: The specific processes are various according to different brands.
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5. Instructions to Wipe Cache Partition**
 
 Steps in Recovery Mode are really important. Find the correct options and your locked screen will be removed.
@@ -394,13 +390,6 @@ Steps in Recovery Mode are really important. Find the correct options and your l
 Now it's a phone everyone can access without a password or pattern.
 
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: In What Cases Should We Remove PIN On Our Android Phone?
 
@@ -596,6 +585,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
 Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool uses hashes to crack passwords, with extra features of Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack).
@@ -671,5 +664,23 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-optimal-tactics-for-saving-android-interactions-for-2024/"><u>[New] Optimal Tactics for Saving Android Interactions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-forging-a-future-in-artistic-expression-and-commerce/"><u>[Updated] Forging a Future in Artistic Expression and Commerce</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-guide-to-essential-asmr-video-facts/"><u>[Updated] In 2024, A Guide to Essential ASMR Video Facts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-post-production-excellence-with-these-11-top-tutorials/"><u>[Updated] Pioneering Post-Production Excellence with These 11 Top Tutorials</u></a></li>
+<li><a href="https://discover-best.techidaily.com/comment-piratage-sans-frais-copier-un-dvd-de-la-region-pal-ou-de-la-region-2-avec-les-formats-de-video-contemporains/"><u>Comment Piratage Sans Frais : Copier Un DVD De La Région PAL Ou De La Région 2 Avec Les Formats De Vidéo Contemporains</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-ce-3-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change OnePlus Nord CE 3 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-c65-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco C65 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-c51-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Poco C51 Lock Screen Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 13 Pro?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-c65-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco C65 Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-magic-6-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Magic 6 Pro Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-nokia-c12-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Nokia C12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225245269-movavi/"><u>Movavi 뷰벳 리제이빙 시스템 - 얼굴과 모습에 미학을 부여하는 프로그램</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-quick-cure-for-common-pcl-xl-discrepancies/"><u>The Quick Cure for Common PCL XL Discrepancies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-common-issues-with-apple-airplay/"><u>Troubleshooting Guide: Solving Common Issues with Apple AirPlay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c12-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia C12 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2024-12-15T17:52:36.327Z
-updated: 2024-12-22T20:36:01.601Z
+date: 2024-12-23T17:02:35.737Z
+updated: 2024-12-28T16:01:57.650Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,20 +76,17 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-no-pay-necessary-the-art-of-unpaid-football-editing/"><u>[New] 2024 Approved No Pay Necessary The Art of Unpaid Football Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-creative-teaching-incorporating-youtube-into-your-curriculum-for-2024/"><u>[New] Creative Teaching Incorporating YouTube Into Your Curriculum for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-extensive-review-the-hero4-black-journey/"><u>[New] In 2024, Extensive Review The Hero4 Black Journey</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-video-marketing-on-youtube/"><u>[New] Maximizing Impact Video Marketing on YouTube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminating-excessive-magnification-of-images-in-whatsapp-conversations/"><u>Eliminating Excessive Magnification of Images in WhatsApp Conversations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-c55-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme C55 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-v30t-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme V30T Unlock Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-poco-m6-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Poco M6 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-windows-simulators-unmatched-nintendo-switch-games/"><u>Leading Windows Simulators: Unmatched Nintendo Switch Games</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g04-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G04</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-android-moba-game-series-countdown-10-for-2024/"><u>The Ultimate Android MOBA Game Series Countdown (#10) for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-the-ultimate-guide-solving-oculus-link-blackout-issues-in-minutes/"><u>Troubleshooting the Ultimate Guide: Solving Oculus Link Blackout Issues in Minutes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G34 5G Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-x6-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Poco X6 Pro Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-incandescent-ideas-innovations-for-stellar-cinematography/"><u>[New] In 2024, Incandescent Ideas Innovations for Stellar Cinematography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-redefine-your-digital-world-with-latest-windows-10-gaming-and-apps/"><u>[Updated] Redefine Your Digital World with Latest Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-sets-stage-with-microsoft-office-suite-at-launch-a-closer-look-experts/"><u>Apple Vision Pro Sets Stage with Microsoft Office Suite at Launch - A Closer Look Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-steps-to-download-and-install-microsoft-drivers-in-windows-7810/"><u>Easy-to-Follow Steps to Download and Install Microsoft Drivers in Windows 7/8/10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-picture-preservation-gratis-space-plus-charged-cloud-sanctuaries-await-for-2024/"><u>Flawless Picture Preservation Gratis Space + Charged Cloud Sanctuaries Await for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-80-pro-straight-screen-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor 80 Pro Straight Screen Edition Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-a78-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo A78</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-c210-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia C210 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-poco-x6-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Poco X6</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-rtx-ebtix-3070-ti-graphics-card-drivers-for-win-10-8-and-7-free-download/"><u>Latest NVIDIA RTX Ebtix 3070 Ti Graphics Card Drivers for Win 10, 8 & 7 - Free Download</u></a></li>
 </ul></div>
 
