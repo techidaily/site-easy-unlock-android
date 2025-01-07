@@ -1,7 +1,7 @@
 ---
 title: Delete Gmail Account With/Without Password On OnePlus 11R
-date: 2024-07-15T22:13:20.186Z
-updated: 2024-07-16T22:13:20.186Z
+date: 2024-12-30T23:14:20.863Z
+updated: 2025-01-07T05:06:42.614Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,9 +19,6 @@ Email accounts have proven their worth in digital devices beyond sending emails.
 
 To this day, it is known that Gmail accounts can be removed with or without a password. However, one should know that if they consider deleting their Gmail account, they won't be able to send or receive emails. With that, let's proceed to reveal all essential methods that can be used to **delete a Gmail account permanently**. This article will also focus on a perfect tool that assists in making the process easier.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
 
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
@@ -43,23 +40,14 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![proceed to delete a google service](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-3.jpg)
 
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
 
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
@@ -67,15 +55,13 @@ For the first method, we will discuss **how to delete a Google account** with yo
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Android Devices
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
@@ -84,26 +70,25 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open signed in accounts apple](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-9.jpg)
 
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
@@ -113,10 +98,11 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 1.** Those owning an Android device need to put it in Recovery Mode first. For that, use the combination of the "Power" and "Volume" keys to put the OnePlus 11R device in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![put android in recovery mode](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
 
@@ -133,6 +119,10 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **For iPhone X or Later Models:** Press and release the “Volume Up” button, followed by the “Volume Down" button. Hold the “Side” button until the Recovery Mode screen appears.
 
 ![recovery mode iphone x or later](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
@@ -152,10 +142,11 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 
 ### Key Features of Wondershare Dr.Fone
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -174,9 +165,6 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -187,14 +175,10 @@ To start with the process, launch Dr.Fone on your computer and navigate to the "
 
 ![select to unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-
 - **Step 2.Select Device Brand and Unlock Mechanism**
 
 As you direct into the next window, select the brand of your Android device. Continue to select “100% Remove Screen Lock” from the following window.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform advanced screen lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
 - **Step 3. Follow the Instructions and Successfully Remove the Screen Lock**
@@ -207,18 +191,14 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the OnePlus 11R device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Unlocking the Power of Smart Lock: A Beginner's Guide for OnePlus 11R Users
 
 Google constantly comes up with features to simplify the way users interact and complete tasks on the Android platform. One of the most important features that techies loved to debate about was the Smart Lock Android, a secure password manager functioning in sync with a Google account on the Android phone.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Android Smart Lock?
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162221345.jpg)
@@ -227,14 +207,8 @@ Android Lollipop added a feature called Smart Lock, and the feature was devised 
 
 If you're at home, it's likely your android phone is locked out if you haven't accessed at for some time. Smart Locks solves the problem in many ways. It allows you to allocate trusted places. Once you within range of the trusted places, your phone won't lock. Trusted devices come next. Smart Lock is assigned to Bluetooth and Android NFC unlock devices.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162911081.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555165271526.jpg)
 
 Finally, trusted face unlocking is the ultimate face recognition system that unlocks your Android device as soon as you look at it across the front-facing camera. A face unlock first introduced with Android Jelly Bean and has been significantly improved in later versions.
@@ -245,9 +219,6 @@ The feature is enabled by first accessing settings. For example, in a Samsung Ga
 
 Tap on Settings, which is the gear symbol.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555171833750.jpg)
 
 - • Click on Personal and tap on Security.
@@ -262,9 +233,6 @@ Tap on Settings, which is the gear symbol.
 
 Within Smart Lock, there are three options for setting the system. You can set up trusted devices, trusted face, and trusted places individually, combining two or all three at the same time. You can choose just one trusted face, but you have the option to set up as many trusted devices and trusted places as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
 
 ## Part 2: Turn On Smart Lock For Android with Trusted Devices
@@ -308,17 +276,15 @@ You can also add locations or addresses to Smart Lock Trusted Locations, and the
 
 Check current settings first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555198742115.jpg)
 
 On a new Android phone, visit Settings>Personal.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199012102.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then Lock Screen and Security.
 
@@ -371,17 +337,19 @@ Tap on Add Trusted Places
 
 ## Part 4: Turn On Smart Lock For Android With Trusted Face
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555207782388.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The feature recognizes your face and then unlocks the OnePlus 11R device. Once you set up the OnePlus 11R device to recognize your face as a trusted face, it will unlock the OnePlus 11R device as soon as it recognizes you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555208588486.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 PRECAUTION:  At best, this can be the first level of security, as one who resembles you to some extent can unlock the OnePlus 11R device. Photographs are not stored in the system. The device does hold necessary data to recognize your face, and the security level is determined by how good the OnePlus 11R device is configured. The data is not accessed by any app or loaded onto a Google server for backup.
 
@@ -390,9 +358,6 @@ _Setting Up Trusted Face_
 - • Go to Smart Lock and tap Trusted Face.
 - • Tap on Setup. Follow on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555210728317.jpg)
 
 The device begins to gather data about your face. The trusted face icon appears. As a backup, in case Smart Lock does not recognize your face, use the manual system by applying the PIN or password to unlock the OnePlus 11R device.
@@ -433,18 +398,6 @@ Like most people, you probably lock your OnePlus phone as soon as you turn it on
 
 There are a few different ways to unlock your OnePlus phone. We'll show you how to do it.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
 If you're like me, you've probably tried a million different ways to unlock your OnePlus phone, only to be frustrated by the results. Luckily, there's an easy way to unlock your OnePlus phone using Google's Find My Device feature.
@@ -455,9 +408,6 @@ Follow these steps to unlock the OnePlus lock screen password without losing dat
 
 - **Step 1**: Sign into your Google account and navigate the Find My Device website.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-2.jpg)
 
 - **Step 2**: Sign in with your Google account, which you used on your locked OnePlus phone.
@@ -482,9 +432,6 @@ You can use it to unlock your OnePlus if you have activated the Android Device M
 - You must be connected to WiFi on your device to log into your Google account.
 - Your phone needs to be set to location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2. Unlock OnePlus Lock Screen With Hard Reset
 
 If you perform a hard reset on your OnePlus lock screen, all data, and user information will be erased, including your screen lock, password, pattern lock, and PIN.
@@ -530,15 +477,11 @@ You could reset your OnePlus lock screen phone using the default security code, 
 
 `o 12345.`
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you have a classic-style keypad phone or an Android device, unlocking a locked OnePlus phone keypad is not easy. However, we believe that every problem has a solution. You can unlock OnePlus Android phones using any of the methods listed above.
 
 _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your OnePlus phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important OnePlus data!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -552,9 +495,18 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-hours-of-videography-expected-gb-usage/"><u>[New] Hours of Videography Expected GB Usage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevate-your-unboxing-game-to-next-level-for-2024/"><u>[Updated] Elevate Your Unboxing Game to Next Level for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/crafting-flawless-transcriptions-googles-speech-magic-for-2024/"><u>Crafting Flawless Transcriptions Google’s Speech Magic for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-effortless-video-integration-into-blog-posts-and-essays/"><u>In 2024, Effortless Video Integration Into Blog Posts & Essays</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-nord-n30-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Nord N30 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-streamlining-workflow-efficient-tools-for-screencast-creation/"><u>In 2024, Streamlining Workflow Efficient Tools for Screencast Creation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-c210-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia C210 Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-nord-n30-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your OnePlus Nord N30 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-search.techidaily.com/next-level-mixing-expert-djs-share-top-tips-on-song-selection-and-harmonic-pairing-with-the-ultimate-crate-hack-guide/"><u>Next-Level Mixing: Expert DJs Share Top Tips on Song Selection and Harmonic Pairing with the Ultimate Crate Hack Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-nord-3-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your OnePlus Nord 3 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
 

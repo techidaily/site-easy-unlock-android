@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia G310 Device
-date: 2024-12-23T16:38:04.064Z
-updated: 2024-12-28T16:57:11.572Z
+date: 2025-01-04T23:50:02.166Z
+updated: 2025-01-06T19:46:52.579Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,6 +34,10 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 **Step 3:** It will prompt the tab as “Screen security,” You will be listed with three choices, namely, Screen lock, Lock screen options, and Owner Information.
 
 ![android phone screen security](https://images.wondershare.com/drfone/article/2017/10/15090619794806.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Select the option called “Screen lock,” The next step is to enter your PIN code for security purposes. This step is carried out in Android phones to ensure you are the original owner of the Android device.
 
@@ -74,19 +78,11 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![boot in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** You will see the result right in front of you as Dr.Fone - Screen Unlock, recovery will bypass swipe lock Android without hampering your data. Foremost, you can now access your device without swipe up to unlock the screen.
 
 ![android phone unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Pretty simple, right? Dr.Fone - Screen Unlock to the rescue for the issue of swipe screen to unlock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to turn off the swipe to unlock when the pattern is enabled?
 
@@ -99,10 +95,6 @@ The steps below imply turning off of swiping screen instantly:
 **Step 2:** There will be multiple interfaces. Now choose the option “Security.”
 
 ![android phone security settings](https://images.wondershare.com/drfone/article/2017/10/15090622395204.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** To turn off the swipe screen, when the pattern is enabled then, choose “Screen lock” and then click on “NONE.”
 
@@ -130,6 +122,10 @@ For those looking to truly unleash the full potential of their Android device, a
 
 This process allows you to gain deeper access to the Nokia G310 device’s software. Thus, OEM unlocking is often required for customizing or modifying the system at a more advanced level.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why Enable OEM Unlock?
 
 The primary reason to enable **OEM unlocking** is to gain the ability to root your device or install custom firmware, also known as ROMs. Rooting is the Android equivalent of jailbreaking. It allows users to access and modify the Nokia G310 device’s software at the deepest level.
@@ -139,7 +135,7 @@ This can enable the installation of apps and software that require more permissi
 ![android oem unlocking settings](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pros and Cons of OEM Unlocking
@@ -155,10 +151,6 @@ On the other hand, here are some cons that you must consider before performing t
 - **Security risks.** Root access can make your device more vulnerable to malware and hacking.
 - **Void warranty.** OEM unlocking often voids the manufacturer’s warranty.
 - **Potential for bricking.** Incorrect procedures can render the Nokia G310 device unusable, known as ‘bricking’.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Understanding the Risks
 
@@ -193,10 +185,6 @@ Unlocking your phone’s OEM opens up a world of possibilities. It allows you to
 
 ![android custom roms](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Root Your Device
 
 Rooting is akin to having the master key to your device’s software. It allows you to gain superuser access, enabling modifications and access to system files that were previously restricted. With rooting, you can:
@@ -213,6 +201,10 @@ A custom ROM is a new operating system you can install on your device. This is o
 - New features and customization options that aren’t available in the stock ROM.
 - Potential performance improvements and unique user interfaces.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Enjoy High Customization
 
 With an OEM unlocked device, the sky’s the limit regarding customization. You can:
@@ -223,10 +215,6 @@ With an OEM unlocked device, the sky’s the limit regarding customization. You 
 
 However, it’s crucial to proceed with caution. Rooting and installing custom ROMs can void your warranty and, if not done correctly, can turn your device into an expensive paperweight (a state often referred to as “bricking”). Always use reliable sources for your custom ROMs and root-access apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus: How To Unlock Your Android Screen When You Forgot Password
 
 [<u>Forgetting the password </u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html) to your Android phone can be a stressful experience. It locks you out of your device. It cuts your access to personal data, contacts, and essential apps. However, aside from OEM unlocking, learning the skill of screen unlocking is incredibly useful in such situations. It’s not just about regaining access. It’s about harnessing control over your device during forgetfulness or emergency.
@@ -234,6 +222,10 @@ However, it’s crucial to proceed with caution. Rooting and installing custom R
 [<u>Wondershare Dr. Fone’s</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) Screen Unlock (Android) will save you in these situations. It’s designed to unlock your phone without requiring a factory reset. It saves your data from being erased. This feature supports [<u>unlocking patterns</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), PINs, passwords, and [<u>fingerprints</u>](https://drfone.wondershare.com/unlock/9-ways-to-bypass-samsung-lock-screen-pattern-pin-password-fingerprint.html), offering a comprehensive solution for regaining access to your device.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -282,6 +274,10 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In wrapping up, you’ve explored the ins and outs of “**what is OEM unlock”** in the Android world. It’s a key to opening up a trove of customizability on your Android device. It lets you tweak and tailor your phone to your heart’s content. But remember, with great power comes great responsibility.
@@ -295,10 +291,6 @@ When protecting personal information on your phone, setting up a lock screen is 
 It depends on your phone and the type of lock code you have set up. Note that this will erase all your data from the phone, so be sure to back it up first. This post will teach you how to remove the screen lock PIN on Android devices using several methods. So if you cannot use your device, keep reading for the steps!
 
 ![remove forgotten screen lock pin](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How To Remove Screen Lock PIN On Nokia G310? 5 Simple Ways
 
@@ -357,7 +349,7 @@ It is not possible to remove the PIN from some Android devices. The Android devi
 ![device administrators](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1**: From the "Settings" option, select the "Security" option and click on it to begin.
@@ -419,6 +411,10 @@ While there is no "universal unlock pin" for Android devices, Dr.Fone - Screen U
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Select Unlock Android Screen**
 
 We provide 2 options for you, and to unlock screen, you should select "Unlock Android Screen".
@@ -453,6 +449,10 @@ Note: The specific processes are various according to different brands.
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5. Instructions to Wipe Cache Partition**
 
 Steps in Recovery Mode are really important. Find the correct options and your locked screen will be removed.
@@ -462,10 +462,6 @@ Steps in Recovery Mode are really important. Find the correct options and your l
 Now it's a phone everyone can access without a password or pattern.
 
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: In What Cases Should We Remove PIN On Our Android Phone?
 
@@ -478,6 +474,10 @@ If you've tried to unlock your phone with a pin too many times and failed, your 
 ### 2\. Buy a Used Android phone
 
 When you buy a second-hand Android phone, it's best to remove the previous owner's pin for security reasons. You can enter the phone's settings and remove the PIN under the security section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -499,22 +499,15 @@ Luckily, Wondershare Dr.Fone - Screen Unlock is a powerful and easy-to-use lock 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>[Updated] In 2024, Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-your-ringtone-rescue-the-best-4-websites-listed-here/"><u>[Updated] In 2024, Your Ringtone Rescue The Best 4 Websites Listed Here</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-processes-inshot-for-pc-and-laptop-video-creation/"><u>2024 Approved Simplified Processes Inshot for PC and Laptop Video Creation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-nokia-g22-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nokia G22 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/gaming-recorded-the-complete-breakdown/"><u>Gaming Recorded The Complete Breakdown</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-5-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme GT 5 Pro Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-5-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 5</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nubia-z50s-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nubia Z50S Pro Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-v30-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme V30 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 4G Bootloader Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme C67 5G Phone Without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nubia-z50s-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nubia Z50S Pro</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/seamless-steps-cloning-your-hdd-onto-a-new-crucial-ssd-a-simple-guide/"><u>Seamless Steps: Cloning Your HDD Onto a New Crucial SSD - A Simple Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-essential-study-apps-every-student-and-parent-should-know-about/"><u>Top 6 Essential Study Apps Every Student and Parent Should Know About</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-listings-for-3d-type-creation-for-2024/"><u>Ultimate Listings for 3D Type Creation for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-dont-miss-these-youtube-seo-tools-to-boost-your-video-for-2024/"><u>[Updated] Don't Miss These YouTube SEO Tools to Boost Your Video for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-master-your-path-to-success-with-youtubes-keywords-guide/"><u>[Updated] In 2024, Master Your Path to Success with YouTube's Keywords Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/best-seo-software-solutions-for-online-retailers-unveiling-the-top-picks-from-seo-powersuite/"><u>Best SEO Software Solutions for Online Retailers: Unveiling the Top Picks From SEO PowerSuite</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-deep-into-system-building-with-toms-hardware-guides/"><u>Dive Deep Into System Building with Tom's Hardware Guides</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c12-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C12 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-c55-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco C55 Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-c210-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C210 Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-microscope-mode-in-roblox-games/"><u>In 2024, Mastering Microscope Mode in Roblox Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-c55-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme C55 FRP Bypass</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco Device</u></a></li>
 </ul></div>
 

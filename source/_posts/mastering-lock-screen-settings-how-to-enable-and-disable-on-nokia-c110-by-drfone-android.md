@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Nokia C110
-date: 2024-12-25T16:39:54.389Z
-updated: 2024-12-28T17:02:21.739Z
+date: 2025-01-04T01:23:36.614Z
+updated: 2025-01-07T06:22:35.136Z
 tags: 
   - unlock
   - remove screen lock
@@ -77,21 +77,25 @@ Step 1: Open the Settings menu from the main screen. Then tap on the Credential 
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14556834486843.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Continue to tap on the Clear Credentials (Remove all certificates) option. Then next click on the OK button. Wait for some seconds until your Android device has finished the process.
 
 Step 3: To make sure that the previous step has been performed successfully, try looking at the bottom of the drop-down menu. If the Clear Credentials (Remove all certificates) are grey out and can not be selected, then you have managed to do it.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14556833184389.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Now that the problem is solved, you can feel free to turn back to your Screen lock option in the beginning and disable the feature of locking screen Android as usual.
 
 2\. You have mistakenly encrypted your SD card. You want to disable the encryption, only to realize that it requires you to set a new screen lock code. But when you come to the Screen lock menu, all the options but Password have been greyed out.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555323367933.jpg)![disable lock screen android](https://images.wondershare.com/drfone/others/14555323405268.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This is pretty weird, but actually, it is one of the most common troubles that many users have complained about. But to your surprise, the solution is very simple and easy. All you have to do is to reset your password, but with a little change. Your password MUST include at least ONE NUMBER in it. Confirm your new password then you will be able to disable the lock screen Android as usual.
 
@@ -100,6 +104,10 @@ This is pretty weird, but actually, it is one of the most common troubles that m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 As much as the lock screen can protect the personal information on the phone, it can also cause much trouble if you forget the lock screen password or enter the wrong password too many times. So here comes the need for [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html). One of the best is Dr.Fone - Screen Unlock (Android), which can help us [bypass forgotten Android screen locks](https://drfone.wondershare.com/unlock/9-ways-to-bypass-samsung-lock-screen-pattern-pin-password-fingerprint.html) without any data loss（limited to Samsung and LG series phones）. Other Android brand phones will be wiped out all the data once starting to unlock with Dr.Fone
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -130,15 +138,15 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Solutions to Unlock Nokia Phones If You Forgot Password, PIN, Pattern
 
 Too many times, we forget the passcode of our smartphones, only to regret it later. Don't worry if you are facing the same issue. It happens to all of us at times. Fortunately, there are many ways to unlock an Android device even when you have **forgotten its password/pin/pattern lock**. This guide will teach you how to unlock Nokia phones if you forgot the password in five different ways. Read on and choose your preferred option if you forgot the password on your Nokia phone and move past every setback you face.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 1: Unlock Nokia Phone using Dr.Fone - Screen Unlock (5 mins solution)
 
@@ -164,6 +172,10 @@ Step 1. Launch Dr.Fone.
 Download Dr.Fone from the download buttons above. Install and launch it on your computer. Then select the "**Screen Unlock**" function.
 
 ![unlock lg phone - launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Connect your phone.
 
@@ -209,10 +221,6 @@ This is probably the most convenient solution to set up a new lock for your Noki
 
 ![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Nokia phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
 
 ## Solution 3: Unlock the Nokia Phone Using Google Login (only Android 4.4 and below)
@@ -222,6 +230,10 @@ If your Nokia device runs on Android 4.4 and previous versions, then you can eas
 - **Step 1.** Try bypassing the pattern lock at least 5 times. After all the failed attempts, you will get the option to either make an emergency call or choose the option of “**Forget pattern**”.
 
 ![unlock lg forgot password - forgot pattern](https://images.wondershare.com/drfone/article/2017/03/14892203178747.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
 
@@ -244,7 +256,7 @@ Also, since you can't move anything to your device when it is locked, you need t
 - **Step 3.** Install the above-mentioned application and wait for a few minutes. Afterward, restart your Nokia phone. Ideally, your phone will be restarted without any lock screen. If you get a lock screen, you can bypass it by entering any random digits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 5: Factory Reset Nokia Phone in Recovery Mode (erases all phone data)
@@ -262,10 +274,6 @@ If none of the above-mentioned alternatives work, then you can also try to facto
 ![unlock lg forgot password - reboot system](https://images.wondershare.com/drfone/article/2017/03/14892204671940.jpg)
 
 After following these steps, you can easily overcome how to unlock the Nokia phone forgot password issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 6: Unlock Nokia Phone Using ADB Command (need USB debugging enabled)
 
@@ -287,6 +295,10 @@ After making your device ready and downloading all the essential software on you
 - _.quit_
 
 ![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
 
@@ -329,7 +341,7 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
@@ -358,23 +370,11 @@ Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish t
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. 6 Private Apps that you should lock on your Android
 
 There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Messaging App
 
@@ -387,6 +387,10 @@ This is the application that allows you to send and receive messages. You may wa
 Most people use individual email applications such as Yahoo Mail App or Gmail. This is another critical one if you are going to protect your work emails. You may want to lock the email app if your work emails are sensitive in nature and contain information that is not for all individuals.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Google Play Services
 
@@ -412,10 +416,6 @@ This is the App that displays all of the files that are saved on your device. It
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Having the ability to lock your Apps is an easy way to keep information out of the limelight. It also allows you to take full control of your device. Try it, it might just be freeing as opposed to locking your entire device.
 
 <ins class="adsbygoogle"
@@ -432,17 +432,20 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-copyright-quest-for-content-creators-tiktok-edition-for-2024/"><u>[New] Copyright Quest for Content Creators (TikTok Edition) for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-building-business-via-beauty-vlogs/"><u>[New] In 2024, Building Business via Beauty Vlogs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-instagrams-secure-livestream-your-silent-journey/"><u>[Updated] In 2024, Instagram's Secure Livestream Your Silent Journey</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>[Updated] Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-10-heavy-lift-drones-you-should-know/"><u>2024 Approved Top 10 Heavy Lift Drones You Should Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-note-50-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme Note 50</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo Phone without Any Data Loss</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hulu-plus-disneyplus-unified-streaming-experience-launches-for-eligible-bundle-plan-members-now/"><u>Hulu + Disney+ Unified Streaming Experience Launches for Eligible Bundle Plan Members Now!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-12-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme 12 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/picking-a-phone-powerhouse-should-you-go-with-an-iphone-or-android-device/"><u>Picking a Phone Powerhouse: Should You Go with an iPhone or Android Device?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco Phone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-leapfrog-content-management-from-youtube-to-dailymotion-effortlessly/"><u>[Updated] 2024 Approved Leapfrog Content Management From YouTube to Dailymotion Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-memory-device-for-sony-a7s-cameras/"><u>[Updated] Premium Memory Device for Sony A7S Cameras</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-narzo-60x-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme Narzo 60x 5G Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-a58-4g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo A58 4G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-note-30-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Note 30 5G Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-c12-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia C12 Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nubia Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-12-proplus-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme 12 Pro+ 5G Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-12-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 12 Pro 5G Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-score-a-bargain-on-final-cut-pro-with-our-education-bundle-guide-for-2024/"><u>New Score a Bargain on Final Cut Pro with Our Education Bundle Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picture-perfect-how-to-accurately-date-your-photos/"><u>Picture Perfect How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-12plus-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme 12+ 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reviewing-the-gopro-hero5-session-series/"><u>Reviewing the GoPro Hero5 Session Series</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ight-on-10-high-speed-growth-titles-to-inspire-you-for-2024/"><u>Spotlight on 10 High-Speed Growth Titles to Inspire You for 2024</u></a></li>
 </ul></div>
 

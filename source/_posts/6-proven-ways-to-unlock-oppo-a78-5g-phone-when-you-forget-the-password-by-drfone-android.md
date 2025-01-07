@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Oppo A78 5G Phone When You Forget the Password
-date: 2024-07-15T22:06:04.000Z
-updated: 2024-07-16T22:06:04.000Z
+date: 2025-01-04T21:28:37.752Z
+updated: 2025-01-07T06:41:03.970Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,19 +23,17 @@ Unfortunately, this usually ends up **forgetting the Android lock password**. Yo
 
 You can watch the video above about how to unlock your Android Phone!
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1. Try Face or Fingerprint to Unlock Oppo A78 5G Phone
 
 How to unlock your phone when you forget the password? If you've forgotten your Android phone's password, the best way to unlock it is to use your device's built-in biometric authentication features, such as face unlock or fingerprint unlock.
 
 Face unlock uses your device's front-facing camera to recognize your face and unlock your phone. And fingerprint unlock uses your device's fingerprint scanner to recognize your fingerprint and unlock your phone. Both of these methods are very secure. And they can quickly and easily unlock your phone without having to remember your password.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![face and fingerprint unlock](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 However, you must use the face or fingerprint unlock correctly on your Android phone. The tips below can prove helpful:
 
@@ -60,9 +58,6 @@ Dr.Fone is an all-in-one tool that allows you to completely recover lost files f
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Unlock Android Phone Forgot Password Without Any Hassle!
@@ -82,10 +77,11 @@ Well, in a few minutes, you will unlock your Android phone's forgotten password 
 
 Once you have opened the program, select the "Screen Unlock" option directly. Next, connect your Android-locked phone and click on the "Unlock Android screen" button on the program window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2. Select Your Device Brand**
 
@@ -103,14 +99,12 @@ You will need to put your device into Download Mode for unlocking. Depending on 
 
 The screen displays the progress of unlocking, downloading drivers and configuration files. Once the entire process is complete, you will be able to access yours **forgot password Android** device without having to enter any passwords.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove android unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 3. Use Google Find My Device to Remotely Unlock Your Android Phone
 
 You can use Google Find My Device to unlock your Android phone remotely with another Android phone. All you need is the Google account and its password bound to unlock Android phone forgotten password.
@@ -124,11 +118,12 @@ You can use Google Find My Device to unlock your Android phone remotely with ano
 
 ![google find my device](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please remember that this feature is only available for Android 5 and above in case **Android forgot password**.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 4. Reset Your Android and Remove the Password Using "Forgot Pattern" (Android 4.0)
 
 There are several ways that you can reset Android after you forgot your password. You can reset using a google account or perform a factory reset.
@@ -137,23 +132,16 @@ This feature is available on Android 4.0 and older versions. So if you are using
 
 - **Step 1.** Enter the wrong pin on your android phone five times.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click forgot password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-2.jpg)
 
 - **Step 2.** Next, tap on "Forgot Password." If it is a pattern, you will see "Forgot Pattern."
 - **Step 3.** It will then prompt you to add your Google account username and password.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Bravo! You can now reset your password.
 
@@ -183,15 +171,16 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 - **Step 2:** Once logged in, you can locate your device, select the "Unlock" option;
 - **Step 3:** Enter your new password. Once unlocked, you can access your device with your new password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs About Android Unlock
 
 ### 1\. Is there any universal code to unlock the Android phone?
 
 No, there is no universal code for unlocking Android phones. They are different from stable SIM pins. Due to mobile device security, only users themselves can set up a unique password on their Android phone. So, it’s impossible to unlock an Android phone with a so-called universal code.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to reset your Android phone password after the unlock?
 
 - **Step 1:** Open your Samsung phone and go to the Settings menu.
@@ -231,6 +220,10 @@ In this article, we are going to look at a few simple ways you can unlock an And
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/KaWEiQhxBTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Using Android Debug Bridge (ADB)
 
 For this method, you will need your device and access to a PC. It is the most powerful method to unlock a broken Android device. It will however only work if you have enabled USB debugging on your android phone. If you haven’t, skip this method and see if method 2 or 3 might be of help.
@@ -252,9 +245,6 @@ _Shell input key event 66_
 
 **Step 6:** Your phone will now be unlocked and you can proceed to back up its contents.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - Screen Unlock (Android)
@@ -292,18 +282,16 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
@@ -318,6 +306,10 @@ Gmail being used directly by an Android tool is a great advantage, but it still 
 
 Luckily for you, this performance is possible. In this article, a very informative and detailed description will be delivered to you to help you solve the problem of resetting your Gmail password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Reset Gmail Password When you Forget it
 
 There will be times when you come into the situation of not knowing what your Gmail password is, or you just simply forget it. You want to change your password but you don't have access to a computer or laptop to perform this task. Now with the help of Android, you can do it through your own Android devices.
@@ -330,6 +322,10 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** In this step, you may be asked to fill in a CAPCHA form. Just simply do it and move to the next page. There you had better type in the last password that you are still able to recall if possible, then click on the Continue button to move. Or else, you can skip this step by clicking on I don't know button.
 
 ![reset Gmail password on Android-fill in a CAPCHA form](https://images.wondershare.com/drfone/others/14546022088819.jpg)
@@ -340,9 +336,6 @@ There will be times when you come into the situation of not knowing what your Gm
 
 **Step 5:** In this step, a blank bar will appear and it will demand you to type in your verification code. Just do it carefully to make sure there is no error. Once you have done it, a new screen will appear to tell you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
 
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
@@ -355,16 +348,10 @@ Besides not knowing your password, there are still circumstances when you wish t
 
 Step 1: Make sure your Android device is connected with the Internet. Then get access to the link myaccount.google.com. After logging into your account (or maybe you have already done this), scroll down, find the Sign-in and security option and choose it.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![reset Gmail password on Android-find the Sign-in and security option](https://images.wondershare.com/drfone/others/14546023162049.jpg)
 
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
 
 ## Part 3: Bonus Tips
@@ -377,15 +364,9 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 4. Gmail app provided you with the ability to have conversations online, and whenever a message comes, there will be a sound. In case you are in a vital conference, or you don't want to be disturbed by the noise, you can mute it. All you have to do is to tap into the conversation, choose the three dots icon then click on the Mute option in the menu.
 5. Enhance the speed and the accuracy of your search with the use of certain phrases. Let's take an instance to see what Gmail can do for you in this case. If you want to search for the mails which have been sent by a certain person, typefrom:(name of the person on Gmail) in the searching bar. And in case you would love to look for a private message from that person, please type is:chat:(name of the person on Gmail) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Video on How to Reset Gmail Password on Android Devices
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KvCMAn5bwx8" id="video-iframe-t"></iframe>
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -399,9 +380,18 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-a-closer-look-at-high-end-vr-walking-machines/"><u>[Updated] 2024 Approved A Closer Look at High-End VR Walking Machines</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728483037695-aomei-backupper/"><u>AOMEI Backupper功能细分介绍 - 深入了解数据备份工具</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-feedbacks-on-items-monetized-in-videos-in-2024/"><u>Are Feedbacks on Items Monetized in Videos, In 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-x5-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco X5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-enhance-bluetooth-performance-in-windows-os/"><u>Effortlessly Enhance Bluetooth Performance in Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-tool-convert-images-from-png-to-tiff-format-by-movavi/"><u>Free Online Tool: Convert Images From PNG to TIFF Format by Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11r-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 11R Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-a78-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo A78</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c55-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme C55 Bootloader Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-current-drivers-for-gigabytes-z370-pcie-atx-board-do-it-now/"><u>Install Current Drivers for Gigabyte's Z370 PCIe ATX Board - Do It Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-past-masterful-techniques-for-retrieving-discarded-emails-from-your-gmail-inbox/"><u>Unlock the Past: Masterful Techniques for Retrieving Discarded Emails From Your Gmail Inbox</u></a></li>
+</ul></div>
 

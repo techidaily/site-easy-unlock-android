@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo F23 5G Phone
-date: 2024-12-27T16:17:22.748Z
-updated: 2024-12-28T17:01:45.434Z
+date: 2025-01-01T07:00:53.673Z
+updated: 2025-01-07T06:53:01.069Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 In the last few years, we have seen the launch of numerous Android phones with an inbuilt fingerprint scanner. This provides added security to the Oppo F23 5G device and should definitely be utilized by the user. To make the most of this amazing feature, you can find many fingerprint lock app options listed on Google Play Store. Since there are so many options for a fingerprint app, it might become tedious to pick the best finger lock app for your device. Don’t worry – we are here to help you. This guide will make you familiar with the ten best fingerprint screen lock app options out there.
 
 Let’s start our listicle by exploring some of the best fingerprint scanner lock app options available on the Google Play Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Fingerprint Pattern App Lock
 
@@ -52,10 +56,6 @@ Rating: 4.0
 
 Download Link: [AppLock: Fingerprint & PIN](https://play.google.com/store/apps/details?id=com.gamemalt.applocker&hl=en)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. FingerSecurity
 
 As the name suggests, this fingerprint screen lock app can help you attain complete security on your device with your fingerprint. Besides all the popular apps, you can even lock widgets and settings with it. It can also capture the picture of the intruder, letting you know if your device has been tampered with.
@@ -78,10 +78,6 @@ If you are looking for a lightweight and secure fingerprint lock app, you can gi
 
 ![Real Fingerprint Protection](https://images.wondershare.com/drfone/article/2017/10/15075532915833.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - It can include PIN and password protection with your fingerprint
 - The app sends immediate alerts with an intruder selfie support
 - It can also lock system apps, settings, browser, gallery, and more
@@ -91,10 +87,6 @@ If you are looking for a lightweight and secure fingerprint lock app, you can gi
 Rating: 4.2
 
 Download Link: [App Lock - Real Fingerprint Protection](https://play.google.com/store/apps/details?id=fingerprint.applock)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. SpSoft Fingerprint AppLocker
 
@@ -113,7 +105,7 @@ Rating: 4.4
 Download Link: [SpSoft Fingerprint AppLocker](https://play.google.com/store/apps/details?id=com.sp.protector.free&hl=en)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. AppLock by DoMobile Lab
@@ -140,7 +132,7 @@ LOCKit is a complete security app that can help you protect your photos, apps, n
 ![LOCKit](https://images.wondershare.com/drfone/article/2017/10/15075533804457.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Full customization of fingerprint lock with PIN and password
@@ -152,6 +144,10 @@ LOCKit is a complete security app that can help you protect your photos, apps, n
 Rating: 4.6
 
 Download Link: [LOCKit](https://play.google.com/store/apps/details?id=com.ushareit.lockit)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Fingerprint Locker
 
@@ -173,10 +169,6 @@ Download Link: [Fingerprint Locker](https://play.google.com/store/apps/details?i
 Setting a fingerprint lock or PIN, password, pattern, or even FRP lock on an Android phone is a common way to prevent our important data or private info from being prying eyes. However, if you forgot the fingerprint, or get your Android phone broken with a screen cracked, and enter the wrong password several times, you will be stuck on the problem and won’t be able to access your phone and all the apps on the Oppo F23 5G device. Don't be too worried. Dr.Fone - Screen Unlock (Android) provides you with an Android phone unlocking feature to unlock any phone fingerprint and any screen locks, including numeric password, pattern, 4-digit/6-digit/custom PIN, fingerprint ID, face recognition, etc.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -211,10 +203,6 @@ The actions following should be followed when your carrier certifies that the vo
 
 - Take your SIM card out.
 - Put the new SIM card in. Your gadget will turn on, and you will be able to generate a new voicemail password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use your code to reset password
 
@@ -255,15 +243,15 @@ YouMail is an Android app that helps you to control visual voicemail. Additional
 
 ![youmail](https://images.wondershare.com/drfone/article/2022/10/how-to-reset-voicemail-password-on-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. **Visual voicemail from AT&T**
 
 You can view the caller's name and phone number before listening to their message, which makes monitoring your voicemail incredibly simple.
 
 **Carrier**: US Cellular, AT&T, MetroPCS, T-Mobile, Verizon, Alltel, Cricket
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: FAQs
 
@@ -320,6 +308,10 @@ Here is the brand list; you can check it and find your phone brand.
 
 ![check the brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Enter into Recovery Mode**
 
 Then follow the instructions on the program to get the Android phone into Recovery Mode. Here we take 3 different models of Samsung phones as examples.
@@ -337,10 +329,6 @@ Note: Different brands have different steps to enter the Recovery Mode.
 **Go to Recovery Mode on Samsung phone with Home Button**
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5. Instructions to Wipe Cache Partition**
 
@@ -371,7 +359,7 @@ If you encounter the **OEM unlock missing** on your Android phone despite wantin
 ![using a phone at work](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Is OEM Unlock Missing on Your Device?
@@ -436,6 +424,10 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![dr.fone homepage interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Specify the Oppo F23 5G device type for screen lock removal.
 
 ![select device type interface](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -443,6 +435,10 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 - **Step 3:** Select **Unlock Android Screen** to proceed.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Choose the brand of your phone from the supported brands.
 
@@ -493,6 +489,10 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 ![turn off automatic date and time](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Tap on **Set date** and choose the desired older date from the calendar.
 - **Step 6:** Tap on **Set time** and choose the desired time from the clock.
 - **Step 7:** Tap on **Done** to save the changes.
@@ -541,20 +541,24 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-a-comprehensive-manual-on-motion-detection-systems/"><u>[New] A Comprehensive Manual on Motion Detection Systems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-insiders-guide-to-on-screen-text-in-youtube-media/"><u>[Updated] In 2024, The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streamlining-the-production-process-of-your-short-videos/"><u>[Updated] Streamlining the Production Process of Your Short Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gigabyte-ethernet-drivers-get-your-most-recent-software-update-for-free/"><u>Gigabyte Ethernet Drivers: Get Your Most Recent Software Update for Free</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-12plus-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 12+ 5G Lock Screen Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x7b-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor X7b Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-c32-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia C32 Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Moto G84 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco F5 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G24</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nubia-z50s-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nubia Z50S Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/izing-video-impact-selecting-the-best-rank-trackers-for-youtubers-for-2024/"><u>Maximizing Video Impact Selecting the Best Rank Trackers for YouTubers for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/windowssd/"><u>Windows上最理想的克隆SD卡(活动)工具分析</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-discover-unlimited-stories-free-extensions-and-mobile-marvels-for-2024/"><u>[New] Discover Unlimited Stories – FREE Extensions & Mobile Marvels for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-integrating-comfort-with-efficiency-modern-approaches-to-office-design-for-2024/"><u>[Updated] Integrating Comfort with Efficiency Modern Approaches to Office Design for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-audio-imports-with-the-inshot-app/"><u>[Updated] Navigating Audio Imports with the InShot App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-11r-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus 11R</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unmatched-smartphone-camera-apps-on-ios-and-android-devices/"><u>2024 Approved Unmatched Smartphone Camera Apps on iOS & Android Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-to-vr-gaming-swift-solutions-for-steamvr-malfunctions/"><u>Get Back to VR Gaming: Swift Solutions for SteamVR Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-excessive-processing-on-baldurs-gate-iii-ultimate-guide-for-2hemware-gamers/"><u>How to Fix Excessive Processing on Baldur's Gate III: Ultimate Guide for 2Hemware Gamers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-reno-9a-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Reno 9A</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-8t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 8T Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-reno-10-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Reno 10 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-narzo-n53-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme Narzo N53</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Nokia C12 Pro?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-3-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 3 Phone without Google Account?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-specialized-blurring-methods-for-social-media-uploads/"><u>In 2024, Specialized Blurring Methods for Social Media Uploads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-plot-development-with-chatgpts-nine-insights/"><u>Innovative Plot Development with ChatGPT's Nine Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-performance-reduce-windows-11-boot-duration-with-simple-tricks/"><u>Maximize Performance: Reduce Windows 11 Boot Duration with Simple Tricks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-m6-pro-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco M6 Pro 5G Device</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-dvd-creation-on-windows-and-mac-a-step-by-step-tutorial/"><u>Updated 2024 Approved DVD Creation on Windows and Mac A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

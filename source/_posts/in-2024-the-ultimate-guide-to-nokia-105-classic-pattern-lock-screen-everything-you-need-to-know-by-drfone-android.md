@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Nokia 105 Classic Pattern Lock Screen Everything You Need to Know
-date: 2024-12-22T16:34:57.939Z
-updated: 2024-12-28T16:02:28.192Z
+date: 2025-01-05T21:57:48.887Z
+updated: 2025-01-06T20:55:06.388Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,6 +32,10 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 6\. We recommend setting up a lock screen pattern instead. To do this, tap on the “Pattern” option.
 
 ![setup android pattern lock screen-tap on the “Screen lock type” feature](https://images.wondershare.com/drfone/article/2017/09/15057379466607.jpg) ![setup android pattern lock screen- provide the respective pattern](https://images.wondershare.com/drfone/2020/15057379692063.jpg) ![setup android pattern lock screen-tap on the “Pattern” option](https://images.wondershare.com/drfone/article/2017/09/15057379835226.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - 7\. From the next screen, you can simply draw any kind of pattern of your choice. Ideally, it should join at least 4 dots on the screen. We recommend using a strong screen lock pattern to provide unmatched security to your device.
 - 8\. Furthermore, you need to confirm your choice and provide the same pattern once again. Make sure that you draw the same pattern here.
@@ -89,6 +93,10 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 4](https://images.wondershare.com/drfone/article/2017/09/15057385588612.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 # 4
 
 7 > 4 > 2 > 3 > 1 > 5 > 9
@@ -96,7 +104,7 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 ![android pattern lock idear 5](https://images.wondershare.com/drfone/article/2017/09/15057385873434.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 # 5
@@ -117,19 +125,11 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 7](https://images.wondershare.com/drfone/article/2017/09/15057386366638.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 # 8
 
 5 > 7 > 2 > 9 > 1 > 4 > 8 > 6 > 3
 
 ![android pattern lock idear 8](https://images.wondershare.com/drfone/article/2017/09/15057386529029.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 # 9
 
@@ -156,6 +156,10 @@ In addition to this, the Android Device Manager also unlocks your password/pin-e
 ![how to use android device manager](https://images.wondershare.com/drfone/article/2017/10/15077981108622.jpg)
 
 _Using the Android Device Manager to track a lost phone_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Android Device Manager lock?
 
@@ -225,6 +229,10 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![Dr.Fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Now, connect your Android device to the computer and select phone model in the list on the program.
 
 ![select model in the list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -241,13 +249,13 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5\. When the recovery package download is completed, Dr.Fone toolkit will begin removing the screen lock. This process will not cause any data loss on your Android device, so do not worry. Once the whole procedure is over, you can easily access your Android phone without entering any kind of password. Hurrah!
 
 ![unlock android phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Dr.Fone software is currently compatible with Samsung Galaxy S/Note/Tab series, and LG G2/G3/G4 series. For windows, it is compatible with 10/8.1/8/7/XP/Vista.
 
@@ -256,10 +264,6 @@ The Android Device Manager is an excellent initiative taken by Google to give pe
 So, make use of this guide and get back command over your Android phone.
 
 ## Top 10 Password Cracking Tools For Nokia 105 Classic
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What is password cracking?**
 
@@ -296,6 +300,10 @@ We can easily access CUDA through libraries, directives and with the help of dif
 **Password Cracking Tools**
 
 Given below is the list of Top10 Password cracking tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Cain and Abel : Top password cracking tool for Windows
 
@@ -344,10 +352,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Aircrack**
 
 - Supportive with both Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) cracking techniques
@@ -357,6 +361,10 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 **Site for Download:**
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
@@ -376,10 +384,6 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 **Site for Download:**
 
 [https://www.thc.org/thc-hydra/](https://www.thc.org/thc-hydra/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. RainbowCrack : New Innovation in Password Hash Cracker
 
@@ -430,6 +434,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Brutus**
 
 - Available for Windows
@@ -451,10 +459,6 @@ It normally gains access to these hashes from directories, network servers, or d
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of L0phtCrack**
 
 - Available for Windows XP, NT, 2000, Server 2003,and Server 2008
@@ -465,10 +469,6 @@ It normally gains access to these hashes from directories, network servers, or d
 **Site for Download:**
 
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Pwdump : Password recovery tool for Windows
 
@@ -494,7 +494,7 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Medusa : Speedy network password cracking tool
@@ -532,18 +532,24 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-2017-data-overload-infographics-and-surprising-yt-stats/"><u>[Updated] In 2024, 2017 Data Overload Infographics & Surprising YT Stats</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-instagram-live-anonymously-a-step-by-step-approach/"><u>[Updated] Navigating Instagram Live Anonymously A Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-uncovering-old-social-media-narratives-on-laptops-and-mobile-devices-for-2024/"><u>[Updated] Uncovering Old Social Media Narratives on Laptops and Mobile Devices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exemplary-cloud-services-for-biz-needs-for-2024/"><u>Exemplary Cloud Services for Biz Needs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-smoothly-add-apods-episodes-on-devices-for-2024/"><u>How to Smoothly Add APods Episodes on Devices for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus 12R Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-g22-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia G22</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50-ultra-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50 Ultra Phone without PIN</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 mini Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-12-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme 12 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-11-proplus-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme 11 Pro+</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c50s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco C50s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unzipping-subtitles-turning-zip-archives-into-srt-files/"><u>[New] In 2024, Unzipping Subtitles Turning Zip Archives Into .SRT Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hot-tunes-essential-background-scores-for-viral-yt-shorts-for-2024/"><u>[Updated] Hot Tunes Essential Background Scores For Viral YT Shorts for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-hulu-plus-enhances-your-viewing-experience-over-basic-hulu/"><u>Discover How Hulu Plus Enhances Your Viewing Experience Over Basic Hulu</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-contacts-from-android-by-fonelab-android-recover-contacts/"><u>Easy steps to recover deleted contacts from Android.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-m6-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco M6 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-a1x-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo A1x 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nokia-c12-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nokia C12?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-c32-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia C32</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-f23-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo F23 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-v30t-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme V30T Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-7-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 7 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-c65-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco C65</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y02t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y02T Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-studio.techidaily.com/overcoming-online-hurdles-decoding-common-internet-error-messages-and-fixes-from-yl-computing/"><u>Overcoming Online Hurdles: Decoding Common Internet Error Messages and Fixes From YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c67-4g-by-drfone-android/"><u>Universal Unlock Pattern for Realme C67 4G</u></a></li>
 </ul></div>
 

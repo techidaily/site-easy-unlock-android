@@ -1,7 +1,7 @@
 ---
 title: Skype Volume Troubles? Here's How You Can Fix It
-date: 2024-12-24T16:04:45.246Z
-updated: 2024-12-28T16:27:45.840Z
+date: 2025-01-03T19:33:53.239Z
+updated: 2025-01-06T23:36:14.282Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
  Suddenly**there’s no sound in your Skype** when you’re going to have a video call or voice call with your friend? This is so frustrating.  There are usually two situations for this sound issue: you can’t hear the sound from the other people, and you can’t be heard by the other people, or there’s no sound when playing videos. But don’t worry. Many people have resolved the**Skype no sound issues** with the solutions in this article.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix no sound on Skype
 
  Here are the solutions you can try. You don’t need to try them all; just work your way down the list until the sound in Skype works again.
@@ -33,21 +29,17 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 4. [Update available drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Modify the audio settings in your Skype](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot the hardware issue
 
  When you find that the sound is not working or there’s no sound in your Skype, the first thing to do is to troubleshoot the hardware issue, such as your microphone or your headset.  1) Make sure that your microphone or headset are plugged properly and firmly into the correct jacks.  2) Make sure that your microphone or your headset works properly. You can try your microphone or headset on another device to see if it works or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update Skype in your device
 
  The developer keeps releasing the latest patch for Skype to fix some bug issues and improve your experience, so there may be some problem, including the sound problem in the older version of Skype, and you can install the latest update for Skype and keep it up to date. Then check if it fixes the no sound issue in Skype.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check the audio settings in your computer
 
@@ -59,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405d7695a89.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Make sure microphone is on
 
  If the microphone is turned off in your Windows computer, there’ll be no sound on your computer or from your Skype, so you should check and make sure the microphone is turned on.  If you’re using Windows 10, 8.1 and 8:  1) On your keyboard, press the **Windows log key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**I** at the same time.  2) Click**Privacy** in Settings.
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  3) Click**Microphone** on the left, and make sure your microphone is**turned on** , and**allow Skype to access microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4053ec702ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Also click on**Camera** (or**Webcam** ), and make sure that it’s**turned on** and**allow Skype to access camera** .
 
@@ -89,9 +89,17 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405de7c2014.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3: Make sure the Windows Audio service is running
 
  The Windows Audio service manages audio for Windows-based programs. If this service is stopped, audio devices and effects won’t function properly, and so you won’t find any sound on your Skype. To check the Windows Audio service:  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time.  2) Type**services.msc** and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405531c0809.png)
 
@@ -100,22 +108,14 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b405558127a4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Make sure the**Startup** **type** is**Automatic** , and the**Service status** is**Running** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4055746b393.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Restart your computer and try to Skype call again to see if the sound is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -128,7 +128,7 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40582b6d503.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer to take effect, and check if there’s any sound in your Skype.
@@ -155,24 +155,15 @@ If you’re using Windows 7:  1) Open**Control Panel** , and click**Sound** .
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform/"><u>[New] In 2024, A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aster-11-key-seo-steps-to-promote-your-videos-for-2024/"><u>[New] Master 11 Key SEO Steps to Promote Your Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-10-kids-friendly-drones-for-new-flyers-for-2024/"><u>[New] Top 10 Kids' Friendly Drones - For New Flyers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-seamless-screen-record-for-windows-11/"><u>[Updated] Seamless Screen Record for Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-luts-premiere-pro-essentials/"><u>2024 Approved Mastering LUTs Premiere Pro Essentials</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-scenes-integrating-fade-inout-effects/"><u>2024 Approved Seamless Scenes Integrating Fade In/Out Effects</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/dive-into-hardware-with-toms-expert-reviews-and-guides/"><u>Dive Into Hardware with Tom’s Expert Reviews and Guides</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-m6-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco M6 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-f23-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo F23 5G Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x6-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X6 Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-note-50-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme Note 50 Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco Phone Pattern Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-60-pro-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo 60 Pro 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme 12 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-savings-exclusive-pre-prime-day-deals-unveiled-for-2er-2024-zdnets-shoppers-handbook/"><u>Maximize Savings: Exclusive Pre-Prime Day Deals Unveiled for 2Er 2024 | ZDNET's Shopper's Handbook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components/"><u>Tom's Tech Reviews: Expert Insights on Computer Components</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-enhances-enterprise-device-control-what-you-need-to-know-business-technology-today/"><u>Apple Vision Pro Enhances Enterprise Device Control: What You Need to Know - Business Technology Today</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-m6-pro-4g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco M6 Pro 4G</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-an-sd-card-on-your-steam-deck/"><u>How to Install an SD Card on Your Steam Deck</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n53-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme Narzo N53 Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c53-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme C53 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-video-converter-th/"><u>Movavi Video Converter - เข็มแพาใส่วิดยุth: ไล่ได้วัว</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-dji-phantom-3-pro-drone-for-2024/"><u>The Ultimate Guide to DJI Phantom 3 Pro Drone for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-n53-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme Narzo N53 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 
