@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of Realme 12+ 5G Phone
-date: 2024-07-15T22:00:47.201Z
-updated: 2024-07-16T22:00:47.201Z
+date: 2025-01-08T19:08:19.551Z
+updated: 2025-01-13T18:29:04.122Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,9 +36,6 @@ Although you can no longer use the **Google Assistant unlock** feature, you can 
 - Making a call
 - Asking Google for information, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Enable Google Assistant on Lock Screen: A Step-by-Step Guide
 
 Now that you're eager to try the potential of Google Assistant on your lock screen, let's walk through the simple steps on how to enable this tool.
@@ -58,8 +55,9 @@ Locate the “Lock Screen” settings and make sure to switch on “Assistant re
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. How To Use Google Assistant on Lock Screen
 
 After you've successfully enabled Google Assistant on your lock screen, let's see how to use Google Assistant to do certain tasks more efficiently and hands-free.
@@ -84,9 +82,6 @@ When you can still **unlock with Google Assistant**, you can ask it to “unlock
 
 Google Assistant will then provide spoken responses and display relevant information on the lock screen. For instance, if you ask for the weather, it might verbally provide the current conditions and display a brief summary on your lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Using Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-3.jpg)
 
 ## Part 3. Common Problems When Using Google Assistant
@@ -106,6 +101,10 @@ While Google Assistant is adept at understanding individual commands, it may str
 Google Assistant's capabilities are extensive, but there are instances where it may struggle to execute specific tasks. For example, it can’t execute tasks that involve interacting with certain third-party applications or services. You can't also **unlock phone with voice Google Assistant.**
 
 ![Giving command to Google Asisstant on lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips to Make Voice Google Assistant Recognize Your Commands
 
@@ -152,11 +151,7 @@ If you are wondering how to unlock your Android phone screen without a passcode 
 
 Open the latest version of Wondershare Dr.Fone on your computer and connect your phone device using a USB cable. Once connected, navigate to the Toolbox > Screen Unlock to access Dr.Fone – Screen Unlock tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open the Dr.Fone Screen Unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** Select Android for your device type.
 
@@ -179,27 +174,12 @@ Next, make sure to check and confirm the Brand, Device Name, and Device Model to
 
 Type "000000" continue by clicking Confirm.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Confirm to unlock your Android phone screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
 - **Step 6:** Put Android in Download Mode
 
 Dr.Fone will then guide you to put your Android device into Download Mode according to the model you have identified. After you have followed the instructions, Dr.Fone will automatically lead to the next screen to proceed the unlocking process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
@@ -212,16 +192,11 @@ You May Also Interested:
 
 [<u>Complete Guide to Unlock Mi Account Without Password In 2024</u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Google Assistant is a versatile virtual assistant that is designed to help you with a wide range of tasks and make your daily life more convenient. Accessible on most modern Android devices, it enables users to perform several tasks through voice commands.
 
 However, if you are looking for ways to **unlock phone with Google Assistant**, this function is no longer available. **Google Assistant unlock** feature has been discontinued since 2021. But in case you've forgotten the screen lock passcode, you can use Wondershare Dr.Fone Screen Unlock tool to regain access to your Android phone. This tool facilitates the unlocking process without data loss, featuring a user-friendly learning curve.
-
-
 
 ## Delete Gmail Account With/Without Password On Realme 12+ 5G
 
@@ -252,15 +227,16 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![proceed to delete a google service](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
 
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
 
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
@@ -271,9 +247,6 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Android Devices
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
@@ -282,18 +255,12 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open signed in accounts apple](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-9.jpg)
 
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
@@ -301,8 +268,9 @@ If you use a smartphone device and want to delete your Gmail account from that p
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
 What if you've [forgotten the password](https://drfone.wondershare.com/app-password/find-gmail-password.html) to your smartphone device, and you have to **delete your Gmail account permanently?** In such cases, you are left with the option of accessing the Realme 12+ 5G device’s Recovery Mode and factory resetting the Realme 12+ 5G device, where possible. To know how it is done flawlessly, look through the steps provided next:
@@ -315,16 +283,10 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select factory reset option](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-12.jpg)
 
 - **Step 3.** Select "Factory data reset" on the next screen and confirm that factory reset your Android device successfully. The device automatically gets out of Recovery Mode and starts normally after resetting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
 ### iOS Devices
@@ -333,10 +295,11 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **For iPhone X or Later Models:** Press and release the “Volume Up” button, followed by the “Volume Down" button. Hold the “Side” button until the Recovery Mode screen appears.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![recovery mode iphone x or later](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
@@ -354,16 +317,18 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -381,9 +346,6 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -392,11 +354,7 @@ The following steps highlight the way to remove screen lock from your Android de
 
 To start with the process, launch Dr.Fone on your computer and navigate to the "Toolbox" section. Proceed to the "Screen Unlock" feature, which opens a new window. After selecting "Android" as your device type, select "Unlock Android Screen" from the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select to unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
 
 - **Step 2.Select Device Brand and Unlock Mechanism**
 
@@ -410,16 +368,10 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 
 ![successfully unlock device](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Realme 12+ 5G device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can I Bypass a Forgotten Phone Password Of Realme 12+ 5G?
 
 Screen locks on smartphones are crucial for keeping the data in your phone hidden. **Password for phone** becomes necessary when you have critical data on your phone. However, there is a downside to it.
@@ -438,6 +390,10 @@ Here we have mentioned solutions to let you bypass your **lock screen password.*
 - Select a Screen lock option, i.e., Swipe, Example, PIN, Password, etc.
 
 ![screen lock options](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - When you pick your choice, follow the guidelines on the screen to set it. Enter your screen lock straightaway.
 - Then redo your screen lock on the following screen, then, at that point, tap Confirm.
@@ -462,10 +418,11 @@ If you can't use the Find my device feature, you'll have to factory reset physic
 - Hold the power button and press the Volume up button to enter this mode.
 - Utilize the volume buttons to go to the Wipe data/Factory Reset choice. Continue with the steps to play out a factory reset.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe data](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use ADB
 
@@ -480,20 +437,17 @@ If your phone has USB debugging enabled, is connected to a PC, and is not encryp
 - That is not a permanent condition, so reset your PIN or password lock before you reboot your device once more. That's how you reset **password for phone.**
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4.Dr.Fone-Screen Unlock
 
 If you want to unlock your phone without losing any data, we suggest Dr.Fone-Screen Unlock. Dr.Fone is a professional unlocking tool that can remove all types of screen locks in minutes. Dr.Fone is an all-in-one solution for all your iOS and Android needs. So, if you need a quick solution for your phone, download it now.
-
 
 **Step 1. Connect your Android telephone**
 
 Open the tool on your PC and select the "Screen Unlock" tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 When the entire process is finished, you can access your Android device without entering any PIN and view all your data on the Realme 12+ 5G device.
@@ -528,33 +482,17 @@ Then follow the instructions on the program to get the Android phone into Recove
 
 **Recovery Mode in Samsung Phone with Home Button**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
 **Step 5. Instructions to Erase Cache Partition**
 
 Steps in Recovery Mode are really important, find the correct options and your locked screen will be removed.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
 Now it's a phone everyone can access without password or pattern.
 
 ![access without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ## Part 3: How to Back up My Realme 12+ 5G Easily?
 
@@ -564,14 +502,9 @@ As we all know, unlocking a **lock screen password** involves a hard reset, whic
 
 There are several tools available to back up your files. You can use Google or your phone manufacturer's cloud services to back up your file. However, none of them are secure enough. So, we suggest Dr.Fone-Phone Backup have a secure and reliable backup experience. Dr.Fone lets you choose the files you need and back them up. Moreover, you can restore those files to your phone once it gets unlocked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 Getting locked out of your phone can be frustrating, especially if you need an important file from it. However, there are solutions to get over this issue and unlock the **password for phone**. This article contains all you need to unlock your device and return it to be normal. Moreover, if you don't want to lose your data, give Dr.Fone a try. It is currently the best unlocking and backup tool in the market.
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -585,7 +518,24 @@ Getting locked out of your phone can be frustrating, especially if you need an i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-practices-for-sharing-desktopsmobile-screens-in-meet/"><u>[New] In 2024, Best Practices for Sharing Desktops/Mobile Screens in Meet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ad-free-pro-android-screenshot-suite/"><u>[Updated] Ad-Free Pro Android Screenshot Suite</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-bringing-your-vision-alive-transferring-vids-from-premiere-for-2024/"><u>[Updated] Bringing Your Vision Alive Transferring Vids From Premiere for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-canva-enthusiasts-reveal-their-top-10-editor-steps/"><u>[Updated] In 2024, Canva Enthusiasts Reveal Their Top 10 Editor Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-innovative-memes-with-kinemaster/"><u>2024 Approved Pushing Boundaries Innovative Memes with KineMaster</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-finest-8-platforms-for-sharing-3d-text-psd-files/"><u>2024 Approved The Finest 8 Platforms for Sharing 3D Text PSD Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-150-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from 150 (2023)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-narzo-60-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme Narzo 60 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-v30t-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme V30T Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-poco-c65-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Poco C65 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-leaders-engineering-digital-marvel-realms/"><u>In 2024, Leaders Engineering Digital Marvel Realms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-10t-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme 10T 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-quick-clip-quandary-youtube-shorts-advantage-over-tiktok-for-2024/"><u>The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-c51-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme C51 Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
 

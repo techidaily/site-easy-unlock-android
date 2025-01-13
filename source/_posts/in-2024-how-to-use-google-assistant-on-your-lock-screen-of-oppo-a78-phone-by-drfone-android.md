@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A78 Phone
-date: 2025-01-02T17:15:38.765Z
-updated: 2025-01-07T00:05:43.177Z
+date: 2025-01-07T16:49:22.851Z
+updated: 2025-01-13T19:23:08.952Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,10 +54,6 @@ Locate the “Lock Screen” settings and make sure to switch on “Assistant re
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. How To Use Google Assistant on Lock Screen
 
 After you've successfully enabled Google Assistant on your lock screen, let's see how to use Google Assistant to do certain tasks more efficiently and hands-free.
@@ -83,6 +79,10 @@ When you can still **unlock with Google Assistant**, you can ask it to “unlock
 Google Assistant will then provide spoken responses and display relevant information on the lock screen. For instance, if you ask for the weather, it might verbally provide the current conditions and display a brief summary on your lock screen.
 
 ![Using Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Common Problems When Using Google Assistant
 
@@ -149,6 +149,10 @@ Open the latest version of Wondershare Dr.Fone on your computer and connect your
 
 ![Open the Dr.Fone Screen Unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Select Android for your device type.
 
 As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need to indicate the specific device you are using. Opt for the Android option if you are unlocking an Android device. Then, continue to choose "Unlock Android Screen" on the next screen.
@@ -188,10 +192,6 @@ You May Also Interested:
 
 [<u>Complete Guide to Unlock Mi Account Without Password In 2024</u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Google Assistant is a versatile virtual assistant that is designed to help you with a wide range of tasks and make your daily life more convenient. Accessible on most modern Android devices, it enables users to perform several tasks through voice commands.
@@ -207,6 +207,10 @@ Unfortunately, this usually ends up **forgetting the Android lock password**. Yo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 You can watch the video above about how to unlock your Android Phone!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 1. Try Face or Fingerprint to Unlock Oppo A78 Phone
 
@@ -238,10 +242,6 @@ Dr.Fone is an all-in-one tool that allows you to completely recover lost files f
 - Work for Samsung Galaxy S/Note/Tab series, [LG G2/G3/G4](https://drfone.wondershare.com/unlock/unlock-lg-phone-forgot-password.html), Huawei, Xiaomi, Lenovo, etc.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -282,6 +282,10 @@ The screen displays the progress of unlocking, downloading drivers and configura
 
 ![remove android unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 3. Use Google Find My Device to Remotely Unlock Your Android Phone
 
 You can use Google Find My Device to unlock your Android phone remotely with another Android phone. All you need is the Google account and its password bound to unlock Android phone forgotten password.
@@ -295,15 +299,7 @@ You can use Google Find My Device to unlock your Android phone remotely with ano
 
 ![google find my device](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Please remember that this feature is only available for Android 5 and above in case **Android forgot password**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 4. Reset Your Android and Remove the Password Using "Forgot Pattern" (Android 4.0)
 
@@ -320,10 +316,6 @@ This feature is available on Android 4.0 and older versions. So if you are using
 
 ![add password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Bravo! You can now reset your password.
 
 ## Way 5. Factory Reset Your Android and Remove Password
@@ -333,6 +325,10 @@ If you are not successful with the above method, you can opt to perform a factor
 You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory resetting it with these steps:
 
 ![wipe data](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Turn off your Android phone.
 - **Step 2.** Hold the Volume (-) and Power/Side buttons simultaneously.
@@ -348,10 +344,6 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 
 ![samsung find my mobile](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 1:** To use this service, you must first log into your Samsung account on a computer or mobile device;
 - **Step 2:** Once logged in, you can locate your device, select the "Unlock" option;
 - **Step 3:** Enter your new password. Once unlocked, you can access your device with your new password.
@@ -363,7 +355,7 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 No, there is no universal code for unlocking Android phones. They are different from stable SIM pins. Due to mobile device security, only users themselves can set up a unique password on their Android phone. So, it’s impossible to unlock an Android phone with a so-called universal code.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to reset your Android phone password after the unlock?
@@ -391,6 +383,10 @@ There are several ways how to [unlock Android phones without data loss](https://
 
 The methods discussed above in Way 1 or [Way 2](https://drfone.wondershare.com/unlock/forgot-android-password.html#Part2) can guide you better into unlocking your device using this tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To conclude, when you have an Android Password forgot the phone at hand, this guide can offer you several useful perspectives. However, it is advisable to perform Android password recovery using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This software is fast, safe, and ensures that you have a better phone experience.
@@ -413,9 +409,17 @@ As one of the initial measures, backup the Oppo A78 device completely as bootloa
 
 ![unlock bootloader htc](https://images.wondershare.com/drfone/article/2016/12/14822577889251.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, ensure that HTC Sync Manager is installed on the PC.
 
@@ -429,17 +433,9 @@ Step 4: Now, you will be presented with four steps to put the Oppo A78 device in
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Use the volume keys of the Oppo A78 device to select Fastboot option along with pressing power button to confirm, after the Oppo A78 device is in bootloader mode. Now, connect the Oppo A78 device to the computer using a USB cable.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822588941681.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Go to Fastboot folder on the PC and holding down the shift key, click on any empty space followed by a click on “Open command window here”.
 
@@ -457,6 +453,10 @@ Step 10: On the Oppo A78 , one message will appear asking if you want to unlock 
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use volume keys to select and power button to confirm. Once this is done, the Oppo A78  device will restart once and it’s done. The device is now bootloader unlocked.
 
 <ins class="adsbygoogle"
@@ -473,20 +473,16 @@ Use volume keys to select and power button to confirm. Once this is done, the Op
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-soundcheck-evaluation/"><u>[New] SoundCheck Evaluation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-help-desk-for-winx-dvd-ripping-and-video-transcoding-app/"><u>Digital Help Desk for WinX DVD Ripping & Video Transcoding App</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/dribbble-artwork-aspect-ratio-guide-for-2024/"><u>Dribbble Artwork Aspect Ratio Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elite-multiplatform-recorder-for-pcs-for-2024/"><u>Elite Multiplatform Recorder for PCs for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oneplus-12-phone-screen-by-drfone-android/"><u>How Can We Unlock Our OnePlus 12 Phone Screen?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-poco-x5-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Poco X5 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C22 Bootloader Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-c02-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia C02 Unlock Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-ace-2-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus Ace 2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nubia-red-magic-9-proplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nubia Red Magic 9 Pro+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-gt-5-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme GT 5 Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-art-of-stable-gaming-fixing-frames-per-second-fluctuations-in-your-pc-games/"><u>Master the Art of Stable Gaming: Fixing Frames Per Second Fluctuations in Your PC Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-in-money-back-gaming-series-s-and-x-expertise/"><u>Mastery in Money-Back Gaming - Series S and X Expertise</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-8-best-wedding-videos-on-youtube-and-vimeo/"><u>[New] In 2024, 8 Best Wedding Videos on YouTube and Vimeo</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-outshine-the-ordinary-30-innovative-ideas-for-standout-tiktok-photos/"><u>[New] Outshine the Ordinary 30 Innovative Ideas for Standout TikTok Photos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-nubia-z50-ultra-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Nubia Z50 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highest-rated-10-apps-to-watch-golf-and-soccer-in-the-moment-for-2024/"><u>Highest Rated 10 Apps to Watch Golf & Soccer in the Moment for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-eyecatcher-studio-wx-series/"><u>In 2024, EyeCatcher Studio WX Series</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-c12-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia C12 Pro? Try These Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-virtual-meeting-platforms-zooming-onto-your-android-for-2024/"><u>Navigating Virtual Meeting Platforms Zooming Onto Your Android for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/regional-dialects-asias-top-3-prowess/"><u>Regional Dialects: Asia's Top 3 Prowess</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Blaze Curve 5G? | Dr.fone</u></a></li>
 </ul></div>
 

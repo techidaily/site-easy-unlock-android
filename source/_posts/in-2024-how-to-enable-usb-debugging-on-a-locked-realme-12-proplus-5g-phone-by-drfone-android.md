@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Enable USB Debugging on a Locked Realme 12 Pro+ 5G Phone
-date: 2024-07-15T21:56:33.168Z
-updated: 2024-07-16T21:56:33.168Z
+date: 2025-01-11T18:15:55.152Z
+updated: 2025-01-13T17:59:40.936Z
 tags: 
   - unlock
   - remove screen lock
@@ -56,24 +56,22 @@ This section outlines the traditional method of enabling USB debugging on an And
 
 ![android usb debugging](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, what if your phone remains locked, making these steps impossible? Such a case calls for an alternative solution. Fortunately, there is one tool that is fully reliable when it comes to unlocking locked mobile devices. [<u>Dr.Fone - Screen Unlock (Android)</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) can help bypass these challenges and enable USB debugging on a locked Android phone effortlessly. So, buckle up as the next section unravels the secrets to unlock your device’s potential!
 
 ## Part III. Seamlessly Unlock Your Android With a Professional Resolution
 
 Enabling USB debugging on a locked phone can feel like navigating a maze with no clear exit. Sometimes, despite your best efforts, the traditional method fails to grant access. Fret not! There’s a smoother path that unlocks your phone and eases the USB debugging hurdle.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ### Why Unlocking First Makes Sense
 
 Attempting to **enable USB debugging on locked phones** can hit roadblocks. That’s why unlocking your device first becomes a game-changer. Dr.Fone – Screen Unlock (Android) is the hero of this story, simplifying the process and ensuring a hassle-free experience.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features and Benefits
 
 Check out the amazing key features and benefits of Dr.Fone – Screen Unlock that fits Android devices:
@@ -87,12 +85,15 @@ Check out the amazing key features and benefits of Dr.Fone – Screen Unlock tha
 
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Guide To Unlock Your Realme 12 Pro+ 5G With Dr.Fone – Screen Unlock (Android)
 
 Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 1:** Get the most recent version of Wondershare Dr.Fone and connect your Android device to your computer via a USB cord. After connecting, access the unlock screen tool by going to the **Toolbox** and then selecting **Screen Unlock**.
-
 
 - **Step 2:** Once prompted, choose **Android** to unlock your Android screen lock. On the following screen, you’ll see two options; choose **Unlock Android Screen**.
 
@@ -100,9 +101,6 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 3:** After that, you’ll be taken to a new screen where you can choose the brand of your mobile device.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone screen unlock select device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 4:** Once done, click the **Remove without Data Loss** button from the two options presented on the screen.
@@ -111,16 +109,14 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 5:** Unlocking the Android screen requires choosing the **Brand**, **Device Name**, and **Device Model** next. Enable the option that says **I agree with the warning, and I am ready to proceed** by clicking the corresponding checkbox. To proceed with unlocking the screen, click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone choose device model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Type **000000** when asked to confirm the process. After entering the code, click **Confirm** to run the program.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![drfone screen unlock confirm](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
 - **Step 7:** Once you’ve recognized your Android device’s model, Dr. Fone will walk you through entering **Download Mode**. Following the on-screen prompts will take you directly to the next screen. It then depicts the progress of the screen unlocking procedure, in which the platform’s required drivers and configuration files are downloaded.
@@ -145,8 +141,6 @@ In face of locked screens, USB debugging is a beacon of access and troubleshooti
 
 Then, it’s time to consider Dr.Fone - Screen Unlock (Android). It effortlessly paves the way to **enable USB debugging on locked phones.** By ensuring your device’s security and accessibility, even in locked states, Dr.Fone empowers you to navigate through obstacles, safeguarding your data while unlocking endless possibilities.
 
-
-
 ## How To Track IMEI Number Of Realme 12 Pro+ 5G Through Google Earth?
 
 When losing your phone, having a reliable tool at your fingertips can make all the difference. That tool is IMEI tracking, your secret weapon for locating your lost or stolen device. IMEI is a unique number that every mobile device possesses. It's like a fingerprint for your phone.
@@ -156,8 +150,9 @@ Now, the question is, is it possible **to track an IMEI number through Google Ea
 ![google earth imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How To Track Your Realme 12 Pro+ 5G on Google Earth
 
 This **Google Maps IMEI number tracking** issue has caused quite a buzz and controversy on the internet. It has raised many concerns regarding the safety and privacy of every smartphone user. To tell you the truth, Google Earth lacks IMEI location data and does not provide such capabilities. Thus, there is no truth in **tracking IMEI numbers through Google Earth**.
@@ -174,18 +169,16 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 - **Step 2:** Google Earth can be downloaded and installed on your computer or mobile device. It works with Windows, macOS, Android, and iOS. Download it from your device's **Google Earth** website or the app store.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install google earth android](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-03.jpg)
 
 - **Step 3:** Sign in to Google Earth using the Google Account linked to the phone you want to track. This step is required to acquire location data and [monitor IMEI numbers](https://drfone.wondershare.com/android-unlock/check-imei-number-location.html) using Google Earth.
 - **Step 4:** Launch Google Earth on your computer or mobile device, then select **Your timeline** from the Google Maps menu. The operation will take you to the Google Maps Timeline page.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![your timeline on google maps](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Select the day you wish to see the phone's location history. Choose the Realme 12 Pro+ 5G device you want to track from the dropdown menu if you have numerous devices linked to the same account. The timeline displays the selected device's location history for the set date. Examine the locations visited, the routes taken, and the time spent at each spot. For further information, select a certain location or time.
 
@@ -193,12 +186,13 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 **Note:** Google Earth does not support real-time location tracking by default. You can use the **Find My Device** function on Android or **Find My** on iOS instead if you want to track your phone's real-time location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Google Earth Alternatives: Track Phone Using IMEI Number
 
 Now that you know the truth behind **tracking an IMEI number through Google Earth**, let's talk about other ways to track your phone using your IMEI number. This section will discuss some of your other options when it comes to IMEI number location tracking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Using a Third-Party App
 
@@ -206,14 +200,15 @@ If you have the IMEI number of the stolen device, you can track the phone [using
 
 - **Step 1:** In the app store, search for "IMEI tracker" and download the IMEI tracking app you wish to install on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![app store imei tracking](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-06.jpg)
 
 - **Step 2:** Open the app and follow the in-app guide on how to use it.
 
 **Note:** Most of the apps require authorization access to your phone. Some also provide a feature where you may send an SMS or a command to get the lost phone's location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Online IMEI Tracking
 
@@ -225,9 +220,6 @@ The online IMEI TRACKER is simple to use. After searching an IMEI tracker in Goo
 
 ![online imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pros and Cons of IMEI Trackers: Apps and Online Platforms
 
 Now that you know there are still methods to track a phone using an IMEI number, it's also important to weigh their pros and cons. See the list presented below:
@@ -260,6 +252,10 @@ There are numerous scenarios where one may forget the passcode on their iOS devi
 
 ![drfone v13 interface](https://images.wondershare.com/drfone/product-2021/screen/screen_hero.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why Dr.Fone - Screen Unlock Is Your Go-To Solution
 
 Let's discuss why Dr.Fone - Screen Unlock is a game-changer in unlocking phone, especially when using your IMEI number.
@@ -276,29 +272,19 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2:** On the next screen, select **Start** to begin the unlocking procedure for the iOS device. Make sure that your device's battery levels are enough.
 - **Step 3:** After that, you should set your iDevice into **Recovery Mode**. Follow the on-screen instructions to put your iDevice into the appropriate mode for your model. If **Recovery Mode** does not work, click the **Try DFU Mode** button at the bottom to access the instructions for entering the iDevice into **DFU mode**.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 4:** After the user successfully enters their iDevice into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone device model system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 5:** The following screen reveals the status of the iOS firmware download on the platform. If you want to stop the procedure, click the **Stop** button. In cases when the iOS firmware is downloading slowly on the platform, utilize the **Copy** button to copy the URL for manually downloading the iOS firmware.
 - **Step 6:** After successfully downloading the iOS firmware, it is confirmed and displayed on the next screen. Continue by clicking the **Unlock Now** button to begin the unlocking procedure.
 - **Step 7:** A prompt window displays on the screen, asking for procedure confirmation. Enter the indicated code and tap **Unlock** to proceed with the final result.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone firmware complete](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
 - **Step 8:** The next screen displays the unlocking iOS device's progress bar. Keep in mind that the Realme 12 Pro+ 5G device must be connected at all times; otherwise, it will brick.
@@ -306,6 +292,9 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 
 ![drfone ios lock screen removed completely](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -313,9 +302,6 @@ This article explored the incredible world of IMEI tracking, a powerful tool for
 
 But that's not all. This article also introduced and divulged an amazing and reliable tool for unlocking an iPhone. So, the next time you're in a tight spot with a locked screen, remember that [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the best software you should get your hands on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unlock Realme 12 Pro+ 5G Phone without Google Account?
 
 Uh oh – you’ve forgotten your Android Unlock code, and you can’t get it online to unlock using Google. Nothing could be more frustrating than gazing at your phone, knowing that it is essentially a paperweight at this point. Unless you can get it unlocked, your phone is useless, and all of your important photos, text messages, and content are all locked out of your reach. While right now, nothing can do without a Google account. But you can try to reset your Google account first.
@@ -328,30 +314,19 @@ Even if you have a Google account, if your phone isn’t connected to the intern
 
 Android Device Manager link: <http://www.google.com/android/devicemanager>
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android Device Manager log in](https://images.wondershare.com/drfone/others/14637942446007.jpg)
 
 2\. Once you have logged in, you will automatically be redirected to the Android Device Manager page. If this is your first time, click the “Accept” button.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android Device Manager start](https://images.wondershare.com/drfone/others/14637942473262.jpg)
 
 3\. A list of all of the Realme 12 Pro+ 5G devices registered to this Android account will pop up. Select the Realme 12 Pro+ 5G device in question from this list.
 
 ![android Device Manager list of devices](https://images.wondershare.com/drfone/others/14637942503282.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. The Android Device Manager will then locate your device. Make sure it is turned on!
 
@@ -363,25 +338,10 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 6\. A notification will pop up on your device; confirm it.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android Device Manager Erase & Lock](https://images.wondershare.com/drfone/others/14637942582896.jpg)
 
 7\. At this point, you will be asked to create a new lock screen password. Once you have chosen one, press “Lock.”
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android Device Manager New Lock Screen](https://images.wondershare.com/drfone/others/14637943377629.jpg)
 
 8\. Now, simply enter the new passcode on your device, and voila! It will open, and you can get back to your daily routine.
@@ -392,9 +352,6 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 1\. On your browser, go to the Google home page and try to sign in. You will fail, but that is good! It will lead you to the next step.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![android Google web page](https://images.wondershare.com/drfone/others/14637535742329.jpg)
 
 2\. Since you cannot sign in on the sign-in page, you can now select the ‘Help’ link.
@@ -407,9 +364,6 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 4\. Two options will then appear: the first is your phone number, and the other asks you for your backup email.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![android Google forgot password](https://images.wondershare.com/drfone/others/14637535828239.jpg)![android Google forgot pssword enter email](https://images.wondershare.com/drfone/others/14637535857339.jpg)
 
 5\. Enter either one of these options, and you will receive a verification code via email, SMS, or a telephone call from an operator. If you have chosen to enter your backup email, at this point, you will receive detailed instructions on how to access the ‘reset password’ page.
@@ -422,20 +376,12 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 7\. Finally, you can unlock your Google account on your Android! Confirm this by clicking the “Change Password” button. Success!
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android Google reset password input new password](https://images.wondershare.com/drfone/others/14637552534874.jpg)
 
 ## Part 3. How to Remove Locked Screen on Android using Dr.Fone
 
 It supports removing screen lock from mainstream models, such as Samsung, LG, Lenovo, Xiaomi, etc. For some older version Samsung models, you can remove the lock without data loss. It will erase data after unlocking for other models.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Android Lock Screen Removal
 
 Remove Android Screen Lock In One Click
@@ -447,9 +393,6 @@ Remove Android Screen Lock In One Click
 
 **3,981,454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to use Dr.Fone to unlock
 
 **Step 1:** Install Dr.Fone toolkit and select Screen Unlock > Android > Unlock Android Screen.
@@ -458,9 +401,6 @@ Remove Android Screen Lock In One Click
 
 Now connect your Android phone connected with the PC, and select the Realme 12 Pro+ 5G device brand from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 2:** Follow the on-screen instructions to put your Android device into the specific mode. Once the download is complete, Dr.Fone will start the unlocking process.
@@ -475,7 +415,6 @@ Now connect your Android phone connected with the PC, and select the Realme 12 P
 
 We know that losing or forgetting your Android lock code can be a real pain, and so these solutions are sure to put the smile back on your face and get you using your phone again as usual. As you can see, the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a simple and reliable way to unlock your Android phone, but you can always try the Google option if you assess that it better suits your needs. No matter which solution you choose, your locked Android phone will be up and running again in no time at all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -488,7 +427,19 @@ We know that losing or forgetting your Android lock code can be a real pain, and
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-m1-mastery-seamless-editing-with-video-tools/"><u>[New] M1 Mastery Seamless Editing with Video Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ghostly-movie-editing-hacks/"><u>[Updated] Ghostly Movie Editing Hacks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-ace-2v-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Ace 2V Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-c53-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme C53</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-m6-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco M6 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/googles-palm-2-clashes-with-openais-gpt-4/"><u>Google's PaLM 2 Clashes with OpenAI's GPT-4</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-samsung-galaxy-xcover-7-by-fonelab-android-recover-music/"><u>How to restore wiped music on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y55s-5g-2023-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y55s 5G (2023) Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-jokester-visualizer/"><u>Premium Jokester Visualizer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/premium-top-11-list-best-audio-tech-showcase-for-2024/"><u>Premium Top 11 List - Best Audio Tech Showcase for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepwise-approach-to-exceptional-gopro-footage-for-2024/"><u>Stepwise Approach to Exceptional GoPro Footage for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-60x-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo 60x 5G Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Change Realme 12 5G Lock Screen Clock in Seconds
-date: 2024-07-15T22:01:06.011Z
-updated: 2024-07-16T22:01:06.011Z
+date: 2025-01-06T16:24:42.007Z
+updated: 2025-01-13T19:14:42.122Z
 tags: 
   - unlock
   - remove screen lock
@@ -37,9 +37,6 @@ For devices running Android 11, **changing the lock screen clock** is still avai
 
 The exact names of settings may change depending on the manufacturer and version of Android. But the navigation should be similar.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How To Change Lock Screen Clock on Android \[5 Methods\]
 
 Currently, there isn’t an official method to **change the lock screen clock on Android** 12. However, there are several workarounds you can do. Let’s explore these techniques and see which works best for you.
@@ -88,9 +85,6 @@ Originally, there was no provision to **change the lock screen clock in Android 
 
 **If you want to display a digital or analog clock, open the** **_**_Clock_**_** **app. Tap the** **_**_three dots_**_** **>** **_**_Settings_**_** **>** **_**_Style_**_****.**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Turn On Screensaver
 
 An alternative method to modify the **Android lock screen clock** involves activating Android’s screen saver. There are options where it’s more pleasing than the default lock screen clock. If you want to **change the lock screen clock**, follow the steps.
@@ -99,11 +93,12 @@ An alternative method to modify the **Android lock screen clock** involves activ
 
 ![screensaver and new lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 5: Keep Unread Notifications
 
 To avoid adjusting your Android device settings, you can make the lock screen clock smaller by maintaining unread notifications. The clock occupies less space when there are unread notifications. It shifts back to the top-left corner when you receive a new notification. Simply leave notifications unread to keep the clock smaller.
@@ -117,9 +112,6 @@ For users who prefer not to have a lock screen clock, follow these steps:
 - **Step 1**: Open **Settings** > **Lock screen** or **Security & lock screen**.
 - **Step 2**: Look for **Clock and FaceWidgets** or a similar option. Disable or toggle off the **Clock** or **Show clock** setting. Save changes, and your lock screen should no longer display the clock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. An Exception: Change the Lock Screen Clock on Samsung Phones
 
 Changing the lock screen clock on Samsung phones is similar to the general Android process. However, the steps are quite different, offering Samsung users a unique customization experience. If you wish to personalize your lock screen clock, here’s how:
@@ -145,14 +137,15 @@ If you ever find yourself locked out of your Android device due to a mishap whil
 
 [<u>How to Change Lock Screen Wallpaper on Android</u>](https://drfone.wondershare.com/unlock/lock-screen-wallpaper-on-android.html)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4. How To Unlock Accidentally Locked Android Screen
 
 Accidentally locking yourself out of your Android device can be a stressful experience. Dr.Fone provides a hassle-free solution to unlock your Android screen without losing any data. Whether you’ve locked yourself out or forgot your PIN, Dr.Fone ensures a straightforward and secure unlocking process. Here’s a step-by-step guide to using the tool:
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -167,11 +160,7 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 1**: Download and install Dr.Fone on your computer. Launch the program after installation and go to **Toolbox** > **Screen** **Unlock**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2**: Choose **Android** in the next window and click on **Unlock** **Android** **Screen**.
 
@@ -183,14 +172,8 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 4:** Follow the on-screen instructions. Once they’re done, Dr.Fone will automatically proceed with the unlocking process. There will be a new screen showing the completion if done correctly. If it fails, click on **Try** **again**. Otherwise, click **Done** to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone done android screen unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Else Can Dr.Fone Do for Android Owners?
 
 Dr.Fone Screen Unlock for Android is a comprehensive tool that goes beyond unlocking screens. It also provides a range of features to address various Android device-related issues, such as:
@@ -207,9 +190,6 @@ Whether you own a Samsung or LG device, Dr.Fone allows you to unlock your phone 
 
 Dr.Fone is compatible with a vast array of Android models. It supports over 2000 devices, making it a versatile solution for Android users.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Knowing **how to change the lock screen clocks** on your Android offers a personalized touch. Android 12 users can effortlessly adjust settings, while Android 11 and older versions require a manual setup. Samsung owners, meanwhile, enjoy a similar but unique customization process. Follow the steps outlined above for those seeking to remove the lock screen entirely.
@@ -232,9 +212,6 @@ So, if you have set a **pattern lock** as a screen lock for your device, you wil
 
 ## Part 2: Best Tool to Unlock Your Pattern
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 The most effective and quick tool to unlock a **pattern lock** is Dr.Fone - Screen Unlock by Wondershare. Dr.Fone is an all-in-one tool for all your Android needs and has been in the business for a long time. We suggest you use Dr.Fone. The following steps will help you unlock your device:
@@ -247,18 +224,12 @@ The most effective and quick tool to unlock a **pattern lock** is Dr.Fone - Scre
 
 To unlock the pattern lock on your device, the “Unlock Android Screen” will guide you to finish the whole process.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3. Select unlock mode**
 
 If you click “Remove without Data Loss,” only some limited Samsung or LG phone models can be unlocked without losing data. To unlock most phone brands' screens, “100% Remove Screen Lock” is a better choice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 You can find the brand compatible with your phone in the following list.
@@ -279,6 +250,10 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **How to get into recovery mode with Home button**
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
@@ -293,10 +268,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
 ### 1\. Google Find My Device (For Android7.1.1 or later)
@@ -309,9 +280,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 4.** You will get three choices here, i.e., lock, erase, and ring.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-1.jpg)
 
 **Step 5.** Click on the "Lock" button to reset its pattern.
@@ -322,9 +290,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 8.** Complete the process and sign out of your account on the browser.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Forgot Pattern (For Android 4.4 or earlier)
 
 **Step 1.** First and foremost, give some wrong patterns to your phone. It will tell you that you attempted the incorrect **pattern lock**.
@@ -333,25 +298,20 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 3.** That will open another screen, which you can use to sidestep the forgotten pattern of Android. Select the choice for entering the Google Account credentials and continue.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google account](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-2.jpg)
 
 **Step 4.** To reset the **lock screen pattern**, you must give the correct details of the Google ID previously logged into the Realme 12 5G device.
 
 **Step 5.** After giving the correct details, you can provide another pattern lock to the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Emergency Call Trick (For Android 5 or 5.1.1)
 
 **Step 1:** Tap the Emergency Call button and enter ten asterisks (\*).
@@ -362,9 +322,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 4:** Press the settings choice on your Android gadget after pulling down the notification tray. Now you will have the chance to enter the PIN/password, and you ought to continue unlocking your Android phone. Continue to paste until the lock screen UI crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Safe Mode Boot (For Android 4.1 or later)
 
 **Step 1:** You can bring up the power menu and hold the "Power Off" button for most phones, especially Android phones. A warning will spring up, asking whether you might want to Reboot to Safe Mode. Here, it would help if you had to press Ok.
@@ -409,16 +366,10 @@ adb reboot
 
 - Your phone will reboot. After it reboots and requests a security pattern, you can utilize any pattern, and it will unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Reset a Realme 12 5G Phone that is Locked?
 
 We all have been there when put a tough to crack the lock on the smartphone and forget the password all along. Such circumstances can be tedious at times, but there is a way around it. If you have spent countless hours on **how to reset a Realme 12 5G  phone that is locked**, or how to get into a locked Realme 12 5G  phone quickly with or without Factory Reset. This is the right article for you. Here we will describe all the different ways in which you can reset your phone with the convenience of software to even reset it manually. So, without making further due, let’s jump right into it.
@@ -432,8 +383,9 @@ Before you go to reset your locked Realme 12 5G  phone, it's crucial to learn ab
 Resetting your locked Realme 12 5G  phone typically involves performing a factory reset. The process erases all data and settings on the Realme 12 5G device. This includes your files, apps, contacts, and other information stored on the phone. You can easily restore these data if you have backed up data before. It's crucial to [back up essential data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) regularly to avoid data loss.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Factory Reset Protection (FRP)
 
 Realme 12 5G , like many other Android manufacturers, implements Factory Reset Protection. It acts as a preemptive safeguard against unauthorized access to a device after a reset. If your phone is linked to a Google account, you will need to input the accurate login credentials after a reset.
@@ -487,9 +439,6 @@ Now, you need to connect your Realme 12 5G  phone to the computer via a USB cabl
 
 Here you need to select the exact brand of your phone. In your case, you can just tap "Realme 12 5G ." The program then will start the process for the lock screen removal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone advanced unlock 1](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4: Unlock Screen**
@@ -500,10 +449,10 @@ Go along with the instructions on the screen and remove all the settings of the 
 
 After the entire process is completed, you can easily access your Realme 12 5G  Phone without the need to enter your password. All the restrictions that were set properly to unlock will be removed so that you can use your phone as intended.
 
-
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to reset a Realme 12 5G  phone that is locked with a hard reset
 
 **Disclaimer:** Only perform this step if you are well accustomed to the Android recovery system or at least know your way around your Realme 12 5G  phone.
@@ -518,10 +467,11 @@ Charge your Realme 12 5G  Phone so that it has a batter of at least 30% or highe
 
 Now, you need to press the Volume Down + Power button simultaneously until the Realme 12 5G device logo shows up on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 1](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![reset a motorola phone that is locked 2](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-2.jpg)
 
@@ -535,9 +485,6 @@ Now, press the Volume Down button to navigate to the Recovery Mode.
 
 Use the buttons to navigate to the “Wipe data/factory reset” option and select it by pressing the Power button. Now, choose the option ”Factory data Reset” and wait for a few seconds till it is completed.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 4](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-4.jpg)
 
 **Step 5: Reboot Now**
@@ -546,7 +493,15 @@ Again use the Volume buttons and select the “Reboot system now.”
 
 ![reset a motorola phone that is locked 5](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you have successfully reset your Realme 12 5G  phone, it would take a few minutes to boot up. Once that is done, you are left with a clean slate, just like a completely new smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Unlock locked Realme 12 5G  phone with Gmail ID and password
 
@@ -570,19 +525,17 @@ Once you get everything right, this will bypass any password or pattern you once
 
 Want to prevent future lockouts and ensure a smoother smartphone experience? Consider implementing the following preventive measures:
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Setting Up Alternative Lock Methods
 
 One way to avoid getting locked out of your Realme 12 5G  phone is to set up alternative lock methods. In addition to PINs, passwords, and patterns, you can use biometric methods. These include fingerprint recognition or facial recognition if your device supports them. Such options provide convenient and secure ways to unlock your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Regularly Backing Up Your Data
 
 Regular data backups are crucial to safeguarding your essential files and information. Utilize cloud backup services or local backup solutions to routinely save your data. In case of a lockout or a factory reset, you can quickly restore your data without loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Using Secure and Memorable Passwords
 
@@ -593,9 +546,6 @@ When setting up lock methods, opt for strong, unique, and memorable passwords. A
 There is no point in arguing that looking through how to reset a Realme 12 5G  phone that is locked after you have forgotten the password is indeed a hectic process. But, there is a way around it too. By going through all the steps mentioned above, you can always get an unlocked phone with ease.
 
 To our recommendation, we would suggest going through [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) so that you can make the entire process as seamless as possible. It is by far the easiest and most convenient process to work around. Neither less to say, there are a ton of video tutorials that can assist you in case you get stuck in the middle of the process.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -609,7 +559,22 @@ To our recommendation, we would suggest going through [Dr.Fone - Screen Unlock (
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-no-money-no-problem-guide-to-flying-solo-in-google-meet/"><u>[New] 2024 Approved No Money? No Problem! Guide to Flying Solo in Google Meet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-a-selection-of-high-quality-tiktok-backdrops-for-2024/"><u>[New] A Selection of High-Quality TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-steps-for-sharing-your-xbox-playtime-for-2024/"><u>[New] Easy Steps for Sharing Your Xbox Playtime for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unpacking-apps-the-az-screenshotter-approach/"><u>[Updated] In 2024, Unpacking Apps - The AZ Screenshotter Approach</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-essential-compilation-top-10-budget-friendly-lut-sources-for-2024/"><u>[Updated] The Essential Compilation Top 10 Budget-Friendly LUT Sources for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-v30t-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme V30T</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-components-in-desktops/"><u>Cutting-Edge Components in Desktops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-language-your-gateway-to-cultural-understanding-and-effective-expression/"><u>Exploring Language: Your Gateway to Cultural Understanding and Effective Expression</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oneplus-ace-2v-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your OnePlus Ace 2V Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia C22 Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-without-pin-by-drfone-android/"><u>How to Unlock Nokia C22 Phone without PIN</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-c22-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia C22 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-60x-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo 60x 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/topo-guia-definitivo-como-copiar-com-sucesso-seus-dvds-na-area-de-trabalho-do-computador-usando-o-windows-ou-o-macos-atualizado-para-2-message/"><u>Topo: Guia Definitivo: Como Copiar Com Sucesso Seus DVDs Na Área De Trabalho Do Computador Usando O Windows Ou O macOS, Atualizado Para 2 # Message</u></a></li>
+</ul></div>
 

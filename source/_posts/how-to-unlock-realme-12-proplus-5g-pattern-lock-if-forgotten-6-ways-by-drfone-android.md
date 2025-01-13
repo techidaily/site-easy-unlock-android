@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Realme 12 Pro+ 5G Pattern Lock if Forgotten? 6 Ways
-date: 2024-07-15T21:55:38.011Z
-updated: 2024-07-16T21:55:38.011Z
+date: 2025-01-12T16:44:26.809Z
+updated: 2025-01-13T17:00:08.711Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,11 +25,6 @@ Lately, we have got lots of feedback and queries like this from our readers who 
 
 If you want to unlock the pin, pattern, password, fingerprint, or any other kind of lock on an Android device, then simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is a highly useful and advanced application that can let you move past the lock screen on your Android phone without losing data (if your phone model is not [Samsung or LG devices in this list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html), it will erase the data after unlocking the screen).
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Remove Pattern Locks on Android Screen at Ease
@@ -45,9 +40,6 @@ Remove Pattern Locks on Android Screen at Ease
 
 - **Step 1.** Install Dr.Fone and launch it to perform pattern unlock. From the home screen, select the “**Screen Unlock**” option.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![how to unlock pattern lock using Dr.Fone - Screen Unlock (Android)](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2.** Connect your device to the system. Once it is detected, click on the “**Unlock Android Screen**” button.
@@ -56,9 +48,6 @@ Remove Pattern Locks on Android Screen at Ease
 
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your Realme 12 Pro+ 5G and access it without any pattern lock.
@@ -73,15 +62,20 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 - **Step 2.** A list of all the connected devices to your Google account will be provided.
 - **Step 3.** As you would select your device, you will get various options: erase, lock, and ring.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![how to unlock pattern](https://images.wondershare.com/drfone/2020/lock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Click on the “**Lock**” option to change the lock pattern on your device.
 - **Step 5.** Provide the new password for your device and write an optional recovery message.
 
 ![set new lock screen](https://images.wondershare.com/drfone/article/2017/09/15057371966761.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
 
@@ -92,16 +86,10 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 - **Step 1.** Simply provide any incorrect pattern on your device to get the following screen.
 - **Step 2.** From the bottom of the screen, you can tap on the “Forgot Pattern” feature.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![forgot pattern](https://images.wondershare.com/drfone/article/2017/09/15057372111138.jpg)
 
 - **Step 3.** Select the option to unlock your device with your Google credentials.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057372279692.jpg)
 
 - **Step 4.** Provide the correct Google credentials of the account that is linked to your device.
@@ -117,20 +105,18 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 - **Step 2.** You can select your device from the left panel. By default, it will provide its location on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the Realme 12 Pro+ 5G device](https://images.wondershare.com/drfone/article/2017/09/15057372918464.jpg)
 
 - **Step 3.** Additionally, you can access various other services from here as well. Click on the “Unlock My Device” option to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to Unlock Android Pattern Lock in Safe Mode?
 
@@ -145,6 +131,10 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 - **Step 4.** Once the Realme 12 Pro+ 5G device would be restarted in Safe Mode, the third-party lock screen would be disabled automatically.
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5.** Later, you can go to the Realme 12 Pro+ 5G device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
 
@@ -172,9 +162,6 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Proven Ways to Unlock Realme 12 Pro+ 5G Phone When You Forget the Password
 
 Smartphones are mushrooming in today's world, and it is like everybody is using these kinds of phones. Android phones are the most popular phone used by millions of users across the globe. As an Android user, I am sure you are keen to protect the data on your phone or prevent an unauthorized person from using it. One method to protect your phone data is to lock your phone screen. This is a good feeling since you will be the only one accessing your phone since you may not share the password with your child or even your spouse.
@@ -185,9 +172,6 @@ Unfortunately, this usually ends up **forgetting the Android lock password**. Yo
 
 You can watch the video above about how to unlock your Android Phone!
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1. Try Face or Fingerprint to Unlock Realme 12 Pro+ 5G Phone
 
 How to unlock your phone when you forget the password? If you've forgotten your Android phone's password, the best way to unlock it is to use your device's built-in biometric authentication features, such as face unlock or fingerprint unlock.
@@ -195,6 +179,10 @@ How to unlock your phone when you forget the password? If you've forgotten your 
 Face unlock uses your device's front-facing camera to recognize your face and unlock your phone. And fingerprint unlock uses your device's fingerprint scanner to recognize your fingerprint and unlock your phone. Both of these methods are very secure. And they can quickly and easily unlock your phone without having to remember your password.
 
 ![face and fingerprint unlock](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 However, you must use the face or fingerprint unlock correctly on your Android phone. The tips below can prove helpful:
 
@@ -217,9 +205,6 @@ Dr.Fone is an all-in-one tool that allows you to completely recover lost files f
 - No tech knowledge asked everybody can handle it.
 - Work for Samsung Galaxy S/Note/Tab series, [LG G2/G3/G4](https://drfone.wondershare.com/unlock/unlock-lg-phone-forgot-password.html), Huawei, Xiaomi, Lenovo, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - Screen Unlock (Android)
@@ -253,9 +238,6 @@ After this step, you will be guided to another screen where you need to choose t
 
 You will need to put your device into Download Mode for unlocking. Depending on your device's brand and model, the instructions for doing so may vary.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 4. Observe the Unlock Process**
@@ -264,9 +246,6 @@ The screen displays the progress of unlocking, downloading drivers and configura
 
 ![remove android unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 3. Use Google Find My Device to Remotely Unlock Your Android Phone
 
 You can use Google Find My Device to unlock your Android phone remotely with another Android phone. All you need is the Google account and its password bound to unlock Android phone forgotten password.
@@ -278,9 +257,6 @@ You can use Google Find My Device to unlock your Android phone remotely with ano
 - **Step 3:** You can select the Realme 12 Pro+ 5G device you want to unlock and tap on the "Unlock" button.
 - **Step 4:** Your device will then be unlocked.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![google find my device](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-4.jpg)
 
 Please remember that this feature is only available for Android 5 and above in case **Android forgot password**.
@@ -294,6 +270,10 @@ This feature is available on Android 4.0 and older versions. So if you are using
 - **Step 1.** Enter the wrong pin on your android phone five times.
 
 ![click forgot password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Next, tap on "Forgot Password." If it is a pattern, you will see "Forgot Pattern."
 - **Step 3.** It will then prompt you to add your Google account username and password.
@@ -309,6 +289,10 @@ If you are not successful with the above method, you can opt to perform a factor
 You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory resetting it with these steps:
 
 ![wipe data](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Turn off your Android phone.
 - **Step 2.** Hold the Volume (-) and Power/Side buttons simultaneously.
@@ -330,9 +314,6 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 
 ## FAQs About Android Unlock
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Is there any universal code to unlock the Android phone?
 
 No, there is no universal code for unlocking Android phones. They are different from stable SIM pins. Due to mobile device security, only users themselves can set up a unique password on their Android phone. So, it’s impossible to unlock an Android phone with a so-called universal code.
@@ -366,9 +347,6 @@ The methods discussed above in Way 1 or [Way 2](https://drfone.wondershare.com/u
 
 To conclude, when you have an Android Password forgot the phone at hand, this guide can offer you several useful perspectives. However, it is advisable to perform Android password recovery using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This software is fast, safe, and ensures that you have a better phone experience.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Universal Unlock Pattern for Realme 12 Pro+ 5G
 
 Why do you use a mobile password or pattern to lock your phone? Of course, you want to keep your personal information private from prying eyes. Have you ever been in a position where you recently changed your pattern lock or password code but then forgot it? We'll talk about how to unlock your Android phone's **universal pattern lock.**
@@ -377,9 +355,6 @@ We've recently received many feedback and questions from users who want to use a
 
 ## Part 1: Common universal unlock pattern for Realme 12 Pro+ 5G
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![universal unlock pattern](https://images.wondershare.com/drfone/article/2021/12/universal-unlock-patterns.jpg)
 
 Today, many mobile phone users present a simple lock pattern that isn't particularly strong or difficult to detect. That is something that many of us are guilty of. Lock patterns were intended to take the place of traditional passwords, however, we frequently forgo security in favor of easier lock patterns. Let's look at some of the most frequent pattern locks in use today.
@@ -394,8 +369,6 @@ Today, many mobile phone users present a simple lock pattern that isn't particul
 If you want the easiest method to unlock an Android phone, then [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is an amazing choice. It is a tool that allows you to unlock your phone without much hassle. You can use it for **universal pattern lock for MI**, or other phones.
 
 If you need to unlock a pin, pattern, password, fingerprint, or any other type of lock on an Android smartphone, Dr.Fone - Screen Unlock is the tool to use. It is a highly useful and sophisticated tool that allows you to bypass your device's lock screen without harming it or erasing its contents (if your phone is not a Samsung or LG, the data will be erased after unlocking the screen).
-
-
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -419,9 +392,6 @@ Remove Android lock screen in 5 minutes
 
 **Step 3**: On the next screen, choose the correct model and other information of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen 3](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4**: Now, turn your phone into download mode. Turn it off and simultaneously hit the Home, Power, and Volume Down keys. Then, on your device, hit the Volume Up key to enter Download Mode.
@@ -438,16 +408,10 @@ Remove Android lock screen in 5 minutes
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Other ways to Unlock Pattern for Android
 
 There are other ways to unlock the **universal unlock patterns** for Android. We have mentioned some of them below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 1: Remove Gesture File Using ADB
 
 The first method is ADB, which stands for Android Debug Bridge. With the help of this, you can unlock your Android's **[universal unlock pattern](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html)** without the need of a factory reset. However, the process may seem a bit time-consuming to you. Here is how you can do it.
@@ -456,16 +420,14 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 **Step 2**: Launch it now and install the packages on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen 8](https://images.wondershare.com/drfone/article/2021/12/adb-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Connect your Android to PC now. Before that, make sure to enable USB Debugging. If you don't know-how, simply head to the "Settings"> “About Phone” and tap on “Build Number” 7 times. This will enable the Developer's Options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen 9](https://images.wondershare.com/drfone/article/2021/12/adb-2.jpg)
 
 **Step 4**: Now go to the Developer Options menu and turn on the USB Debugging.
@@ -474,16 +436,10 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 **Step 6**: Run the following command and press Enter key: `adb shell rm /data/system/gesture.key`
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen 10](https://images.wondershare.com/drfone/article/2021/12/adb-3.jpg)
 
 In regular mode, restart the phone. The pattern will be requested. However, any pattern will unlock the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2: Boot into Safe Mode to Bypass Third-Party App Screen Lock
 
 It's one of the most straightforward ways to get past the lock screen. One thing to note is that this method is effective only if the lock screen is a third-party app rather than the standard one.
@@ -492,23 +448,18 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 **Step 2**: Now, long tap the "Power Off" button and click "OK" when shown the pop-up.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![unlock android screen 11](https://images.wondershare.com/drfone/article/2021/12/safe-mode-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: This will restart your device in safe mode.
 
 **Step 4**: This will turn off the third-party lock screen for the time being. Clear the lock screen app's data, uninstall it, and then reboot to exit safe mode.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 3: Unlock Pattern Lock via Factory Reset
 
 This should only be a last option because it will completely delete your device's data and saved settings. Your device will be reset to factory settings, meaning your device's settings will get back to the same as when you first bought it. If you want to learn how to [unlock a pattern](https://drfone.wondershare.com/unlock/samsung-unlock-codes.html) by doing a factory reset, follow these steps:
@@ -523,9 +474,6 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 **Step 3**: Now, again, confirm the process using the same keys.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen 14](https://images.wondershare.com/drfone/article/2021/12/factory-reset-2.jpg)
 
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
@@ -544,6 +492,10 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Realme 12 Pro+ 5G device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
 
 If you use an older Android version, you can get rid of the **universal unlock pattern** by forgot pattern feature. On earlier Android devices, this feature is enabled by default. After a few failed attempts, the warning "Try again in 30 seconds" appears and here is where the steps begin. Let us get to know in detail.
@@ -558,24 +510,9 @@ Enter the primary Gmail account and password you used to set up your Android sma
 
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 **Universal unlock patterns allow** you to unlock your phone easily when you think you have forgotten. Well, numerous patterns allow you to unlock the Android. You can choose either of the above to unlock your android phone. If you have failed to use any pattern, you can easily unlock your Android by [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It will let you access yours by unlocking it hassle-free.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -589,7 +526,22 @@ Enter the primary Gmail account and password you used to set up your Android sma
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-the-best-10-spotify-recorders-for-2024/"><u>[Updated] The Ultimate Guide to the Best 10 Spotify Recorders for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-business-top-8-strategies-with-chatgpt/"><u>Boost Your Business: Top 8 Strategies with ChatGPT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g24-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola Moto G24</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oneplus-ace-2-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock OnePlus Ace 2 Pattern Lock Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-poco-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Poco Face Lock?</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v30-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo V30</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Reno 10 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-red-magic-9-proplus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nubia Red Magic 9 Pro+ Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/integrating-igtv-videos-with-your-facebook-network-for-2024/"><u>Integrating IGTV Videos with Your Facebook Network for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-power-of-the-podium-mastering-audio-in-videography-for-2024/"><u>The Power of the Podium Mastering Audio in Videography for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-htc-u23-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On HTC U23 for Parents | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tutorial-steps-for-transferring-retrieved-edb-mailboxes-from-pstedb-to-active-exchange-servers/"><u>Tutorial: Steps for Transferring Retrieved EDB Mailboxes From PST/EDB to Active Exchange Servers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-z50s-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Z50S Pro Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Remove the Lock Screen Fingerprint Of Your OnePlus 12
-date: 2025-01-01T20:47:08.713Z
-updated: 2025-01-07T03:34:35.263Z
+date: 2025-01-06T16:27:54.077Z
+updated: 2025-01-13T19:03:37.062Z
 tags: 
   - unlock
   - remove screen lock
@@ -33,6 +33,10 @@ According to you, the most typical or initial option must be factory reset. Howe
 
 Follow these methods to bypass the fingerprint lock without resetting the phone. It will save you from losing your data. All our methods are very easy and safe.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Useful Methods to Bypass Fingerprint Lock
 
 ### 1\. Restart your Phone
@@ -48,6 +52,10 @@ When a device restarts, the fingerprint functionality is restored after entering
 Old android phones have removable batteries. If you can remove your phone battery, remove it and then put it back. Now turn on your phone. Doing so can help solve the fingerprint lock issue if there are bugs or system errors.
 
 ![removable battery](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Dr.Fone - Screen Unlock
 
@@ -68,10 +76,6 @@ We are in this part to provide you with two ways to unlock practically any Andro
 Here you will have some brands to choose from, don't make it wrong.
 
 ![brands](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Put your device into Recovery Mode.**
 
@@ -95,23 +99,19 @@ In this part, it is the final but crucial step to unlock your device; if you cli
 
 ![wipe data to unlock](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 OK, you already passed the unlock process; locks like pattern, password, or fingerprint disappear!
 
 ![done](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Hard Reset your Device
 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. For example, it might be helpful if you discover that your device is functioning strangely. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
 
 ![recovery mode options](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 However, users can also use it to reset the android password if it is forgotten. This password also includes fingerprint locks. The instructions for resetting android devices through recovery mode differ for every android device.
 
@@ -156,13 +156,13 @@ If you have a device with under-display fingerprint scanner, you might need to c
 
 ![phone screen clean](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Any method can solve the problems of using your device with your Android handset. The best thing about these solutions is that you don't need difficult professional skills to complete the tasks. Dr.Fone-Screen Unlock is the easiest way to help your device if you have a password or fingerprint problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock OnePlus 12 Phone Pattern Lock without Factory Reset
 
@@ -177,10 +177,6 @@ If you are locked out of the phone because forgot pattern lock, and fail to ente
 Except for pattern locks unlocking, it works for the PIN, fingerprints, Face ID, and Google FRP bypassing as well. It's helpful even if you don't know the OS version of your devices. So, now follow the below steps to unlock the pattern and regain access to your locked phone in minutes.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -209,6 +205,10 @@ Step 4. Enter and download the recovery package as the instructions show on the 
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5. It will be finished when the recovery package downloading is completed. Then, click "**Remove Now**".
 
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -216,6 +216,10 @@ Step 5. It will be finished when the recovery package downloading is completed. 
 Once the whole progress is over, you can access your Android device without entering any password and view all your data on the OnePlus 12 device with no limits.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to unlock the Android phone pattern lock without resetting using a Google account?
 
@@ -251,6 +255,10 @@ Step 2. From the interface, you can select the Android device that is linked to 
 
 ![lock android device](https://images.wondershare.com/drfone/article/2017/09/15057364556808.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. You will get options to ring it, lock it, or erase it. Select the “Lock” option to proceed.
 
 Step 4. This will launch a new pop-up window. From here, you can provide a new lock screen password, confirm it, and also set an optional recovery message or phone number (in case your device has been lost).
@@ -285,15 +293,15 @@ Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and pre
 
 ![adb shell rm](https://images.wondershare.com/drfone/article/2017/09/15057365341304.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
 
 ## Conclusion
 
 Now when you know how to unlock the Android phone pattern lock without a factory reset, you can easily access your device in a trouble-free way. Out of all the provided options, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is the best alternative. It provides a fast, secure, and reliable way to unlock your device without causing any harm or removing its content. Go ahead and give it a try and share these solutions with your friends and family as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Remove Screen Lock PIN On OnePlus 12 Like A Pro: 5 Easy Ways
 
@@ -382,7 +390,7 @@ Here's the guide to universal unlock PIN for Android:
 ![unlock any phone password](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Factory Reset Your OnePlus 12 (Data Loss)
@@ -404,10 +412,6 @@ Steps to get rid of forgotten phone PIN via factory reset:
 ## Part 2: Is There Any Universal Unlock PIN For Android?
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -438,10 +442,6 @@ There are still 2 buttons to choose, "100% Remove Screen Lock" is for most Andro
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check the brands' list and make sure your unlock process keeps.
 
 ![check the brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -470,6 +470,10 @@ Steps in Recovery Mode are really important. Find the correct options and your l
 
 ![instructions to wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now it's a phone everyone can access without a password or pattern.
 
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -481,10 +485,6 @@ There are a few reasons why you might want to remove the phone PIN from your And
 ### 1\. Failed Attempts
 
 If you've tried to unlock your phone with a pin too many times and failed, your phone will become locked. In this case, you'll need to remove the PIN to unlock it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Buy a Used Android phone
 
@@ -510,18 +510,21 @@ Luckily, Wondershare Dr.Fone - Screen Unlock is a powerful and easy-to-use lock 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-find-x6-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo Find X6 Pro Unlock Without Password</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c300-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C300 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor 90 Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-note-50-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme Note 50 Phone without PIN</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-c53-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme C53 Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-c50-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco C50 Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/lightning-foldout-sculpting-rapidly-produced-google-collage-pics-for-2024/"><u>Lightning Foldout Sculpting Rapidly Produced Google Collage Pics for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-bokeh-experience-top-apps-for-iphone-and-android-users/"><u>New 2024 Approved The Ultimate Bokeh Experience Top Apps for iPhone and Android Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-the-art-of-valorant-thumbnail-creation-on-youtube-for-2024/"><u>Unveiling the Art of Valorant Thumbnail Creation on YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-thriving-in-zoom-chats-key-techniques-for-engaging-online-conversations-for-2024/"><u>[New] Thriving in Zoom Chats Key Techniques for Engaging Online Conversations for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-designing-impactful-social-media-fb-ads-for-2024/"><u>[Updated] Designing Impactful Social Media FB Ads for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-dissecting-the-digital-language-meanings-of-fb-messengers-blue-emoji/"><u>[Updated] Dissecting the Digital Language Meanings of FB Messenger’s Blue Emoji</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-premiere-guardians-for-the-google-pixel-6-device-a-curated-list-of-exceptional-cases/"><u>2024'S Premiere Guardians for the Google Pixel 6 Device: A Curated List of Exceptional Cases</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/embracing-the-hybrid-workplace-microsoft-launches-innovative-accessories-for-modern-workflows-insights-from-zdnet/"><u>Embracing the Hybrid Workplace: Microsoft Launches Innovative Accessories for Modern Workflows - Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-11-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme 11 Pro? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-motorola-edge-2023-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Edge 2023 Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 Lite 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-f23-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo F23 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-over-miscues-a-complete-handbook-for-sticker-deletion-on-tiktok/"><u>In 2024, Mastery Over Miscues A Complete Handbook for Sticker Deletion on TikTok</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c02s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nokia C02s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g24frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G24FRP Lock</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-hits-of-the-airwaves-the-best-radio-sounds-for-2024/"><u>New Hits of the Airwaves The Best Radio Sounds for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g34-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G34 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streaming-gameplay-with-various-screen-recorder-tools-for-2024/"><u>Streaming Gameplay with Various Screen Recorder Tools for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-red-magic-8s-proplus-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nubia Red Magic 8S Pro+ Users</u></a></li>
 </ul></div>
 

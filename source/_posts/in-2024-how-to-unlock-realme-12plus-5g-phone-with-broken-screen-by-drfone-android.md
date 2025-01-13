@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Realme 12+ 5G Phone with Broken Screen
-date: 2024-07-15T22:00:39.515Z
-updated: 2024-07-16T22:00:39.515Z
+date: 2025-01-08T18:48:30.472Z
+updated: 2025-01-13T17:12:34.008Z
 tags: 
   - unlock
   - remove screen lock
@@ -44,14 +44,16 @@ _Shell input key event 66_
 
 **Step 6:** Your phone will now be unlocked and you can proceed to back up its contents.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -63,9 +65,6 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Realme 12+ 5G device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -82,18 +81,6 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 You can then go about backing up the contents of your device.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Using your Samsung Account
 
 This method is a reliable way to unlock a Samsung device that has a broken screen or is not working correctly. While it is highly effective you will need to have a Samsung account registered with your device. The problem is that not many Samsung device users have registered their devices with the service. If you are among the lucky few who have, here’s how to use your account to unlock your device.
@@ -109,8 +96,9 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
@@ -125,6 +113,10 @@ Read the information below, but first, let's talk about Android phone passwords 
 
 ![forgot pin](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Importance of the Android Lock System
 
 In general, phone passwords are used to secure your device against unauthorized access and shield your files and data from it. You can try using a pattern, password, PIN, or another method to unlock your device. Although it has many benefits, there are also hazards. Risk in the sense that if you lose your device's password or pattern, you will be unable to access it and will be stuck somewhere.
@@ -133,14 +125,8 @@ Several firms are making Android phones, so why shouldn't more? Because Android 
 
 This is an important issue that needs to be resolved right away. Therefore, some methods can assist you in getting out of it, one of which is doing a factory reset. They believe this is the most effective and secure way; thus, many try it. What about the information you have on the Realme 12+ 5G device, though? What should you do next because a factory reset will destroy your data?
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Methods to Recover Forgotten Password or PIN
 
 ### 1\. Google Smart Lock
@@ -156,9 +142,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 3. To wipe the Realme 12+ 5G device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
 4. Once more, select "Erase." This will reset the Realme 12+ 5G device and get rid of the forgot pattern lock.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
 
 ### 3\. Recovery Mode
@@ -167,14 +150,8 @@ Users of Android smartphones and tablets can troubleshoot various issues with th
 
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode differ for every android device.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Dr.Fone - Screen Unlock
 
 On most Android handsets, it is wise to give it a try on Dr.Fone to unlock the screen lock easily. It allows you to remove the password, PIN, pattern, and fingerprint from an Android phone.
@@ -211,6 +188,9 @@ Congratulations! Now you can access your phone again, and there're no obstacles 
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -232,7 +212,6 @@ Android phones are extremely popular, but many feel that the otherwise great ope
 
 There are a lot of apps like that these days, and choosing between them is not always an easy task. Let's take a look at the best 10 unlock apps for android.
 
-
 ### Dr.Fone - Screen Unlock (Android)
 
 Remove Android lock screen in 5 minutes
@@ -250,9 +229,6 @@ Hi Locker offers a similar style to CyanogeMod's lock screen both from an aesthe
 
 Hi Locker allows password and pattern unlocking.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apps for android-Hi Locker](https://images.wondershare.com/drfone/article/2016/05/14631657268767.jpg)
 
 ## 2.Lok Lok
@@ -261,9 +237,6 @@ Lok Lok has a unique take on the locking screen application niche, allowing you 
 
 This Android unlock app doesn't allow pin lock screen at the moment, it can be unlocked with the home button
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock apps for android-Lok Lok](https://images.wondershare.com/drfone/article/2016/05/14631658028688.jpg)
 
 ## 3.Next News Lock Screen
@@ -273,26 +246,21 @@ When you are looking for unlock apps for android, you don't necessarily think ab
 ![unlock apps for android-Next News Lock Screen](https://images.wondershare.com/drfone/article/2016/05/14631658526635.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4.CM Locker
 
 A very interesting application with a slide-to-unlock feature that's eerily similar to iPhone devices. The app allows you to control several main phone functions including but not limited to brightness, WiFi, sound or Bluetooth. One of the most versatile unlock apps for Android.
 
 This android unlock app allows pin and pattern unlock, and it also has an intruder alert (the phone locks and takes a photo when somebody unsuccessfully tries to unlock it).
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apps for android-CM Locker](https://images.wondershare.com/drfone/article/2016/05/14631659122551.jpg)
 
 ## 5.Slidelock Locker
 
 Another app that takes advantage of Apple's popularity by bringing in the "slide-to-unlock" mechanics and the general aesthetic qualities of the iOS home screen. In addition to possessing the basic functions, this Android unlock screen app also highlights messages.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apps for android-Slidelock Locker](https://images.wondershare.com/drfone/article/2016/05/14631659338843.jpg)
 
 ## 6.Semper
@@ -311,14 +279,12 @@ Next Lock Screen is a cross platform unlock app that's compatible with the compl
 
 How to unlock : Pin,swipe or pattern.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock apps for android-Next Lock Screen](https://images.wondershare.com/drfone/others/next-lock-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8.AcDisplay
 
 AcDisplay comes with a rather minimalistic look similar to some of the most popular web site creator services like Squarespace or Wix. The home screen will highlight notifications for which it will offer two options, either you swipe down in which case you will ignore the notification, or swipe anywhere else and the lock screen will unlock. What's really great about this Android unlock app is the fact that it can use your device's sensors, allowing it to detect its placement therefore whether or not it should be on or off.
@@ -329,6 +295,14 @@ How to unlock : You can swipe anywhere on the screen.
 
 ![unlock apps for android-AcDisplay](https://images.wondershare.com/drfone/article/2016/05/14631660873877.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9.C Locker Pro
 
 It would be unjust to call it an Android unlock app, this application is actually a carefully selected package that allows you to do a lot of cools stuff with your new and improved home screen. Not only it supports the usually methods of unlocking like swipe or patterns, but you can actually set double or even triple tap options which is quite unique and a very good idea. The app has every other usual options including setting your favorite apps or showing the lock, as well as the date and the temperature of course.
@@ -337,9 +311,6 @@ Google Play link: [https://play.google.com/store/apps/details?id=com.ccs.lockscr
 
 How to unlock : This Android unlock screen app allows you to unlock the screen with swiping, patterns or even specific number of taps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock apps for android-C Locker Pro](https://images.wondershare.com/drfone/others/c-locker-pro.jpg)
 
 ## 10\. Echo Notificaiton Lockscreen
@@ -350,10 +321,11 @@ How to unlock : Slide right like you would with an iOS device.
 
 ![unlock apps for android-Echo Notificaiton Lockscreen](https://images.wondershare.com/drfone/others/echo-notificaiton-lockscreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Bonus Tips:** Easily bypass Android Lock Screen/Google FRP on Android with [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It effortlessly resolves issues like lost Google accounts, forgotten PIN codes, and unlocking used phones. Supported mainstream Android brands like Samsung, Xiaomi, Vivo, etc._
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -367,7 +339,16 @@ _**Bonus Tips:** Easily bypass Android Lock Screen/Google FRP on Android with [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-innovative-strategies-for-hosting-zero-cost-online-courses/"><u>[New] 2024 Approved Innovative Strategies for Hosting Zero-Cost Online Courses</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-essential-tutorial-for-creating-a-biz-focused-instagram/"><u>[New] In 2024, The Essential Tutorial for Creating a Biz-Focused Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-utilizing-chatgpt-for-personal-automotive-modification-assistance/"><u>Effective Strategies: Utilizing ChatGPT for Personal Automotive Modification Assistance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-narzo-60-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme Narzo 60 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-asus-by-fonelab-android-recover-music/"><u>How to restore wiped music on Asus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor X9b Phone without Google Account?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-12-pro-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 12 Pro 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-red-magic-8s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nubia Red Magic 8S Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

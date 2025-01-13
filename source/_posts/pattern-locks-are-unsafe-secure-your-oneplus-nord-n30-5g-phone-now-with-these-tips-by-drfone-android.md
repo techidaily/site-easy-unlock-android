@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your OnePlus Nord N30 5G Phone Now with These Tips
-date: 2025-01-02T06:37:49.825Z
-updated: 2025-01-06T23:00:37.437Z
+date: 2025-01-09T16:23:20.093Z
+updated: 2025-01-13T17:04:34.655Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,6 +46,10 @@ There are two advantages to using pattern locks. One, they are better than nothi
 Security, or rather, the lack of it, is the lone disadvantage of using a pattern lock. What good is a pattern lock that can be easily deciphered? Sure, they are easy to use, and they are better than not having anything, but would you really want to protect your life’s data with something that could be, as researchers found out, breached in under 5 attempts? We don’t think you do!
 
 The research found that 64% of test subjects who were shown videos of people unlocking their phones could correctly guess a 6-point pattern lock, that too after viewing the video only once! That number shot up to 80% if they were allowed to see the video again. That is simply astounding and a nightmare for security. When it comes to PINs, only 11% could guess a 6-digit PIN after viewing the unlocking video once, and that number shot up to 27% when they could see the video two times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Create a Hard Pattern Lock (Including Remembering Complex Patterns)
 
@@ -129,13 +133,13 @@ Step 3: Select your device manufacturer.
 
 ![drfone screen unlock manufacturer selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Prepare your device to unlock the screen.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When the greyed Next button becomes available, click it and wait for your device to be unlocked.
 
@@ -154,6 +158,10 @@ Since the invention of Android OS in 2008 by Andy Rubin, our world has faced a d
 Most of the time, we use Android phones, we get faced with the need to access the internet. The Wi-Fi capability of these Android gadgets makes it super easy for us to surf the web. Throughout using Wi-Fi, we connect to a number of them. This could be at school, a sub-way café, the gym, buses, hospitals, hotels, towns, and the list is endless. A password secures most of this. Needless to say, our brain is weak to store all these passwords for future use, especially if you would want to connect with a different gadget you have recently bought or even your laptop. In this article, we will introduce you to how to find wifi password on rooted and also unrooted Android devices.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/78mNMIr_wpI"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Show Wifi Password on Rooted Android Device
 
@@ -192,7 +200,7 @@ Go back to ES file explorer, and this time, find the folder named **data**.
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293412707.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When this folder opens, find another one named **misc**. Open it and find another one named **wifi**. Here, find a file named **wpa\_supplicant.conf**.
@@ -211,10 +219,6 @@ As you can see above, we have found the Wi-Fi passwords on the android device. O
 
 What if I don't have root access to my Android, can I still see Android Wi-Fi password? The short answer is yes. However, this is a bit involving but simple. You don't need to be a computer guru to do it, but you need to have a computer and some internet access of course. The key thing is to find a way through which we can fetch the password file from the phone without using a root access protocol in the Android. This is made possible by some little programming insight using the Windows Command prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps to show Wi-Fi password on Android without root
 
 Step 1: Access the Developer authority
@@ -224,6 +228,10 @@ To access the files that Android uses to run passwords, you must first become a 
 Get your Android phone and go to settings. Scroll down and find "About phone." Tap on it and scroll down again to find Build number.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556302638925.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap on this "build number" 5 to 6 times until a message pops up, saying, "You are now a developer".
 
@@ -247,6 +255,10 @@ Here, we would like to test whether the ABD is working properly. To do this, con
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329984622.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Find the Android wifi password.
 
 Now, it is time to type the given command in the command prompt and type: _adb pull /data/misc/wifi/wpa\_supplicant.conf c:/wpa\_supplicant.conf_. This will fetch the file from your phone to the local disc C drive of the PC.
@@ -259,10 +271,6 @@ Lastly, open the file with a notepad, and there you go.
 
 Now you learned how to show the wifi password on your Android device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Unlock OnePlus Nord N30 5G Phone Without Password?
 
 Has your Android smartphone been locked, and are you having trouble unlocking it now because you have forgotten phone password? Looking for methods to remove the password from your Android phone without doing a factory reset?
@@ -272,6 +280,10 @@ If the answer is "YES," you've come to the correct spot.
 Many people, including you, have had similar issues and wish to know how to unlock an Android phone without a password.
 
 As a result, we have created some of the greatest guidelines or, you might say, top ways that may assist you in unlocking Android phones today, simply for you and countless other Android users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Unlock Your Locked Screen Without Password By 6 Efficient Ways
 
@@ -291,10 +303,6 @@ You need to log into the Google account that is associated with the OnePlus Nord
 ![answer the security question](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-2.jpg)
 
 - That's it; from this point forward, you may enter any new PIN or pattern that you can recall to unlock your smartphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
 
@@ -322,10 +330,6 @@ After that, use Find My Device to unlock your Android phone without losing any d
 
 ![generating new pin using lock my screen](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Your smartphone will be unlocked, and the password will be changed to the new one after a brief delay.
 
 ### 3\. Use ADB (Android Debug Bridge)
@@ -342,10 +346,6 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 - After that, activate USB debugging by going to Settings > Developer Options.
 
 ![activate USB debugging from settings](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Launch the command prompt in the ADB installation directory after your device is connected to the system.
 - Press enter after typing "ADB shell rm /data/system/gesture.key" into the command line.
@@ -367,6 +367,10 @@ When your phone is locked, you may access the recovery menu of your phone using 
 - Allow a few seconds for the factory reset procedure to finish after selecting Yes, or Factory data reset. The phone will reboot once you pick the Reboot system. Now you may configure it as if it were a brand-new gadget.
 
 ![reboot the system and follow factory reset](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Unlock from Forgot Pattern (android 4.4 or lower)
 
@@ -426,10 +430,6 @@ If you then adhere to the instructions on the software, the phone will enter Dow
 
 ![switch to download mode and follow instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Offset your phone.
 - Hold down the Power, Home, and Volume Down keys all at once.
 - Use the Volume Up button to start Download Mode.
@@ -449,6 +449,10 @@ When everything is done, you won't need to enter a password to access your Andro
 
 ![wait until the password removal process completes](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: How To Keep Our Data Safe?
 
 Dr.Fone - Phone Backup is an excellent solution to keeping data safe and secure and baking it up before resetting your device, even if you have forgotten your password. You may quickly and conveniently back up practically all forms of Android phone data with Dr.Fone - Phone Backup (Android). Additionally, you may examine and export only certain types of data.
@@ -465,10 +469,6 @@ Next, join your Android phone to the computer with a USB cable. The phone must b
 
 ![approve usb debugging to connect device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click Backup to start backing up the data on your Android device.
 
 If you have previously used this programme to back up your device, you may review your backup history by clicking on "View backup history."
@@ -482,7 +482,7 @@ It will cost some time for the backup. Do not disconnect your Android phone from
 ![backup your android data to pc](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When the backup is complete, you may click the View the backup button to see what's in the backup file.
@@ -505,22 +505,17 @@ It would be best if you had been able to answer the question, "How to unlock an 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-global-leaders-in-digital-education-beyond-udemy/"><u>[Updated] Global Leaders in Digital Education Beyond Udemy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-logitechs-elite-4k-webcam-exhaustive-features-and-usability-for-2024/"><u>[Updated] Logitech’s Elite 4K Webcam Exhaustive Features & Usability for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-free-memes-unlock-humor-in-everyday-life/"><u>Best FREE Memes Unlock Humor in Everyday Life</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-a58-4g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo A58 4G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nokia-g42-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nokia G42 5G Phone Screen?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-your-google-pixel-8-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Google Pixel 8 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-easily-unlock-oneplus-screen-by-drfone-android/"><u>How To Easily Unlock OnePlus Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-reno-8t-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Reno 8T to Protect Your Individual Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-motorola-moto-g04-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Moto G04 Unlock Without Password</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-bridge-ppt-content-with-video-channeling/"><u>In 2024, Bridge PPT Content with Video Channeling</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-future-of-interactive-headsets/"><u>In 2024, Exploring the Future of Interactive Headsets</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-6-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic 6 Pro Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-x5-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco X5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavimovogv-100/"><u>Movaviが提供するMOVファイルをOGVに自動変換: 100%無料で利用可能!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-reverse-a-tiktok-video-an-ultimate-guide-2023-update/"><u>New In 2024, How to Reverse A TikTok Video An Ultimate Guide 2023 Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/ret-proto-oncogene-rearrangements-play-a-significant-role-in-the-development-of-medullary-thyroid-cancer-and-have-therapeutic-implications/"><u>RET Proto-Oncogene Rearrangements Play a Significant Role in the Development of Medullary Thyroid Cancer and Have Therapeutic Implications</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-motorola-moto-g04-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola Moto G04</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leveraging-videos-to-skyrocket-your-fb-audience/"><u>[New] In 2024, Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unleash-potential-ps5-writable-and-readable-extras/"><u>[New] In 2024, Unleash Potential PS5' Writable & Readable Extras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-professional-insights-for-perfecting-your-instagram-aesthetics-for-2024/"><u>[Updated] Professional Insights for Perfecting Your Instagram Aesthetics for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expediting-educational-video-content/"><u>2024 Approved Expediting Educational Video Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-a1x-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo A1x 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962818878-get-the-latest-hp-officejet-3830-printer-drivers-for-windows-systems-now/"><u>Get the Latest HP Officejet 3830 Printer Drivers for Windows Systems Now</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-conjure-imagination-in-ai-art-forms-using-paint-cocreator-and-windows-11/"><u>How to Conjure Imagination in AI Art Forms Using Paint Cocreator and Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g34-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G34 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 9 Pro+ Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-narzo-n53-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme Narzo N53</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-gt-neo-5-se-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme GT Neo 5 SE Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-itel-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Itel Phone</u></a></li>
 </ul></div>
 

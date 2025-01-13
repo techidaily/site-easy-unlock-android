@@ -1,7 +1,7 @@
 ---
 title: Critical Fixes for City Skylines 2'S PC Crashing Problems - Play Smoothly Now
-date: 2024-12-27T16:04:31.976Z
-updated: 2024-12-28T16:37:59.722Z
+date: 2025-01-10T17:24:10.634Z
+updated: 2025-01-13T16:17:48.211Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -58,7 +62,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
@@ -106,6 +110,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -115,7 +123,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -125,10 +133,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  See if updating your video driver fixes your Minecraft not responding issue. If not, you can try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Minecraft as administrator
 
@@ -140,9 +144,17 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
 
@@ -157,10 +169,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Donâ€™t forget to restart your computer before you play the game again.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your Minecraft
 
@@ -178,17 +186,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,16 +218,18 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-harnessing-the-power-of-ps4-capture-for-gamers-everywhere/"><u>[New] 2024 Approved Harnessing the Power of PS4 Capture for Gamers Everywhere</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-rank-your-download-preferences-with-our-top-5-list/"><u>[New] In 2024, Rank Your Download Preferences with Our Top 5 List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieving-expertise-in-pc-searches-mastering-the-art-of-effective-browsing-using-copernic/"><u>Achieving Expertise in PC Searches: Mastering the Art of Effective Browsing Using Copernic</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-8-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 8 without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a1-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A1 5G Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oppo-reno-8t-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo Reno 8T Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-12r-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 12R Phone without PIN</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 5G Bootloader Easily</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/no-fuss-video-snipping-for-w10-users-for-2024/"><u>No-Fuss Video Snipping for W10 Users for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-roadmap-to-superior-click-through-rates-youtube-advertising-mastery-for-2024/"><u>The Roadmap to Superior Click-Through Rates YouTube Advertising Mastery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-timer-power-with-zero-cost/"><u>[New] Unlocking Timer Power with Zero Cost</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-youtube-free-conversion-hack-turn-hd-fb-videos-into-high-res-mp4-for-free/"><u>[Updated] In 2024, YouTube-Free Conversion Hack Turn HD FB Videos Into High-Res MP4 For Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-pitfalls-in-submitting-to-apple/"><u>2024 Approved Avoiding Pitfalls in Submitting to Apple</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oneplus-nord-ce-3-lite-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock OnePlus Nord CE 3 Lite 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a78-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A78 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y78t-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y78t</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco C51 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-11-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme 11 Pro? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-12-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme 12 5G Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-nord-3-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-productivity-how-to-utilize-chatgpt-as-a-remote-professional/"><u>Maximize Productivity: How to Utilize ChatGPT as a Remote Professional</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ranked-the-best-5-iphone-compatible-podcasting-apps-for-2024/"><u>Ranked The Best 5 iPhone-Compatible Podcasting Apps for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-using-aeiusnys-pure-sine-wave-solar-generator-with-life-saving-equipment/"><u>The Ultimate Guide to Using Aeiusny's Pure Sine Wave Solar Generator with Life-Saving Equipment</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Lock Apps on Realme 12+ 5G to Protect Your Individual Information
-date: 2024-07-15T21:59:54.576Z
-updated: 2024-07-16T21:59:54.576Z
+date: 2025-01-12T17:19:39.146Z
+updated: 2025-01-13T17:26:37.298Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,9 +19,6 @@ If you are not a fan of having to go through the process of getting through a [p
 
 Well, in light of helping you out, this article will address just how you can lock Apps on your device and not have to type in a code every time you want to use the Realme 12+ 5G device.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why you need to Lock Apps on Android?
 
 Before we get down to the business of locking some of your Apps, let’s look at some of the reasons why you would want to lock certain apps.
@@ -36,6 +33,10 @@ Before we get down to the business of locking some of your Apps, let’s look at
 
 There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method One: Using Smart App Protector
 
 Smart App Protector is a freeware that allows you to lock specified applications.
@@ -48,9 +49,6 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
 
 Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
@@ -59,32 +57,20 @@ Step 3: Next, select the apps you would like to protect from the pop up list. Ta
 
 Step 4: Now close the app and the Apps chosen will now be password protected.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
 
 ### Method 2: Using Hexlock
 
 Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
 
 Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
 
 Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
 
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
@@ -93,9 +79,6 @@ You can then Swipe to the left to move to other lists such as “Home” and pro
 
 There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. The Messaging App
 
 This is the application that allows you to send and receive messages. You may want to lock this app if you use your device to send messages of a sensitive nature that you would rather keep private. You may also want to lock this app if your device is used by more than one person and you don’t want other users reading your messages.
@@ -108,27 +91,22 @@ Most people use individual email applications such as Yahoo Mail App or Gmail. T
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Google Play Services
 
 This is the application that allows you to download and install applications to your device. You may want to lock this one if you are trying to prevent other users from downloading and installing further apps to your device. This is especially valuable if your device is utilized by children.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Gallery App
 
 The Gallery app displays all the images on your device. The main reason you may want to lock the Gallery app may be because you have sensitive images that are not suitable for all viewers. Again this is ideal if children make use of your device and you have images that you would rather they didn’t see.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Music Pla\_x\_yer App
 
 This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
@@ -143,19 +121,17 @@ This is the App that displays all of the files that are saved on your device. It
 
 Having the ability to lock your Apps is an easy way to keep information out of the limelight. It also allows you to take full control of your device. Try it, it might just be freeing as opposed to locking your entire device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Change Realme 12+ 5G Lock Screen Clock in Seconds
 
 The initial glimpse of your phone often involves the lock screen. This essential feature is customizable based on your Android device. With the advent of Android 12, a double-line clock has stirred some controversy among users. It’s because the **Android lock screen clock** veered from the one-line design of the previous version.
 
 The larger clock style appears when there’s no notification. It will only switch to the old one-line format when a notification pops up. Discover how to **change the lock screen clock on your Android** and tweak its appearance. Explore the article to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![smartphone with clock display](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How Do I Put a Clock on My Android Lock Screen?
 
@@ -177,18 +153,12 @@ The exact names of settings may change depending on the manufacturer and version
 
 Currently, there isn’t an official method to **change the lock screen clock on Android** 12. However, there are several workarounds you can do. Let’s explore these techniques and see which works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Change Your Wallpaper
 
 In Android 11, adjusting your wallpaper is accessible through the Android Settings menu.
 
 - **Step 1A:** Navigate to the “All Apps” screen and select **Settings**. For Samsung Galaxy devices on Android 11, access the **Wallpaper** option within the settings menu.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wallpaper settings on android 11](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-03.jpg)
 
 In Android 12, the process remains consistent.
@@ -200,22 +170,15 @@ In Android 12, the process remains consistent.
 - **Step 2**: Follow the provided instructions to transform your lock screen experience. Replace the oversized clock with dynamic, changing wallpapers.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Turn Off the Always-On Display
 
 An alternative to avoid **the Android lock screen clock** is disabling the Always-on Display (AOD).
 
 - **Step 1**: Access the **Settings** menu on your Android device. Scroll down and choose **Lock** **screen** > **Always On Display**.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android always on display setting](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-05.jpg)
 
 - **Step 2:** Toggle off to deactivate the **Always On Display**.
@@ -290,9 +253,6 @@ If you ever find yourself locked out of your Android device due to a mishap whil
 
 Accidentally locking yourself out of your Android device can be a stressful experience. Dr.Fone provides a hassle-free solution to unlock your Android screen without losing any data. Whether you’ve locked yourself out or forgot your PIN, Dr.Fone ensures a straightforward and secure unlocking process. Here’s a step-by-step guide to using the tool:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - Screen Unlock (Android)
@@ -310,12 +270,8 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2**: Choose **Android** in the next window and click on **Unlock** **Android** **Screen**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone unlock android option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3:** Choose your device brand and click **Remove** **without Data Loss**. Select the **Brand**, **Device** **Name**, and **Device** **Model** of your smartphone. Once done, toggle the checkmark on **I agree with the warning, and I am ready to proceed** button.
@@ -324,9 +280,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 4:** Follow the on-screen instructions. Once they’re done, Dr.Fone will automatically proceed with the unlocking process. There will be a new screen showing the completion if done correctly. If it fails, click on **Try** **again**. Otherwise, click **Done** to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone done android screen unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ### What Else Can Dr.Fone Do for Android Owners?
@@ -345,9 +298,6 @@ Whether you own a Samsung or LG device, Dr.Fone allows you to unlock your phone 
 
 Dr.Fone is compatible with a vast array of Android models. It supports over 2000 devices, making it a versatile solution for Android users.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Knowing **how to change the lock screen clocks** on your Android offers a personalized touch. Android 12 users can effortlessly adjust settings, while Android 11 and older versions require a manual setup. Samsung owners, meanwhile, enjoy a similar but unique customization process. Follow the steps outlined above for those seeking to remove the lock screen entirely.
@@ -360,19 +310,12 @@ Too many times, we forget the passcode of our smartphones, only to regret it lat
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## Solution 1: Unlock Realme Phone using Dr.Fone - Screen Unlock (5 mins solution)
 
 Among all the solutions we are going to introduce in this article, this is the easiest one. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can help you remove the lock screen of [some Realme and Samsung devices](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) without any data loss. After the lock screen is removed, the phone will work like it's never been locked before, and all your data are there. Besides, you can use this tool to bypass the passcode on other Android phones, such as Huawei, Lenovo, Oneplus, etc. The only defect of Dr.Fone is that it will erase all the data beyond Samsung and Realme after unlocking.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into the Locked Realme Phone within Minutes
@@ -396,9 +339,6 @@ Step 2. Connect your phone.
 
 Connect your Realme phone to the computer using a USB cable. Click on **Unlock Android Screen** on Dr.Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock lg phone - connect phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 Step 3. Select the phone model.
@@ -415,17 +355,22 @@ Step 4. Boot the phone in download mode.
 
 ![unlock lg phone - boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5. Remove the lock screen.
 
 After your phone boot in download mode, click on Remove to start to remove the lock screen. This process only takes a few minutes. Then your phone will restart in normal mode without any lock screen.
 
 ![unlock lg phone - remove lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For more detailed steps, please go to our guide on [unlocking Android phones with/without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 2: Unlock the Realme Phone Using Android Device Manager (Need a Google account)
 
 This is probably the most convenient solution to set up a new lock for your Realme device. With Android Device Manager, you can locate your device, ring it, erase its data, and even change its lock remotely. All you got to do is log in to the Realme 12+ 5G device Manager account using the credentials of your Google Account. Needless to say, your Realme phone should be linked to your Google Account. Learn how to unlock the Realme phone if forgot your password using Android Device Manager.
@@ -440,9 +385,6 @@ This is probably the most convenient solution to set up a new lock for your Real
 
 - **Step 3.** Now, a new pop-up window will open. Here, provide the new password for your device, confirm it, and click on the “lock” button again to save these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
 
 That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Realme phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
@@ -455,13 +397,22 @@ If your Realme device runs on Android 4.4 and previous versions, then you can ea
 
 ![unlock lg forgot password - forgot pattern](https://images.wondershare.com/drfone/article/2017/03/14892203178747.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
 
 ![unlock lg forgot password - log in google account](https://images.wondershare.com/drfone/article/2017/03/14892203377058.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 4: Unlock the Realme Phone Using Custom Recovery (SD card needed)
 
 If your phone has a removable SD card, you can also try this technique to disable the pattern/password on your device. Though, you need to have some custom recovery installed on your device for this method. You can always go for TWRP (Team Win Recovery Project) and flash it on your device.
@@ -490,10 +441,11 @@ If none of the above-mentioned alternatives work, then you can also try to facto
 
 - **Step 3.** Select the “Reboot system now” option to restart it. Your phone will be restarted without any lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock lg forgot password - reboot system](https://images.wondershare.com/drfone/article/2017/03/14892204671940.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After following these steps, you can easily overcome how to unlock the Realme phone forgot password issue.
 
@@ -516,9 +468,6 @@ After making your device ready and downloading all the essential software on you
 - _update system set value=0 where name='lockscreen__.lockedoutpermanently';_
 - _.quit_
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
 
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
@@ -530,9 +479,6 @@ After making your device ready and downloading all the essential software on you
 ## Conclusion
 
 You can choose a preferred option and rectify the issue whenever you [forgot the password on the Realme phone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). Make sure that you meet all the requirements and go through the respective tutorial to attain fruitful results.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -546,7 +492,24 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-active-recorder-assessment-industry-standards-met-in-2024/"><u>[New] Active Recorder Assessment Industry Standards Met, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sculpt-visual-jokes-adobe-memes-guide/"><u>[New] Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-webcam-mastery-choosing-the-best-video-tools-for-2024/"><u>[New] Webcam Mastery Choosing the Best Video Tools for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-common-issues-with-youtube-shorts-thumbnails/"><u>[Updated] 2024 Approved Common Issues with YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-gt-neo-5-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme GT Neo 5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-content-duplication-in-language-bots/"><u>Avoiding Content Duplication in Language Bots</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-f14-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy F14 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-c02-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia C02 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-c53-phone-by-drfone-android/"><u>How to Reset a Locked Realme C53 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nokia-c210-lock-screen-password-by-drfone-android/"><u>How to Reset your Nokia C210 Lock Screen Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-zero-30-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Zero 30 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-11-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 11 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oneplus-ace-2v-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your OnePlus Ace 2V Face Lock?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-logic-x-lore-guides-to-creating-crossfading-audio/"><u>In 2024, Logic X Lore Guides to Creating Crossfading Audio</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme 12 Pro 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-v30t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme V30T Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overwatch-graphic-drivers-issues-lead-to-game-malfunction/"><u>Resolved: Overwatch Graphic Drivers Issues Lead to Game Malfunction</u></a></li>
+</ul></div>
 
