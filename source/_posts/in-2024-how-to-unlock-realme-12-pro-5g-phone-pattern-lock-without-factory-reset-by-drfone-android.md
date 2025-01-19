@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Realme 12 Pro 5G Phone Pattern Lock without Factory Reset
-date: 2024-07-15T21:54:28.812Z
-updated: 2024-07-16T21:54:28.812Z
+date: 2025-01-17T22:10:59.516Z
+updated: 2025-01-19T21:47:25.000Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,21 +19,14 @@ Have you been locked out of your Android device and can’t seem to recall its p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## Part 1: Unlock the Android Phone Pattern with Lock Screen Removal Tool
 
 If you are locked out of the phone because forgot pattern lock, and fail to enter the phone after many times try with the word "phone has been locked". No need to worry, there are many solutions to fix the issue. And [Dr.Fone –Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can be your first saver in the dilemma. It is a highly efficient pattern lock removal tool for over 2000+ mainstream android phones, like Samsung, Oneplus, Huawei, Xiaomi, Pixel, etc.
 
 Except for pattern locks unlocking, it works for the PIN, fingerprints, Face ID, and Google FRP bypassing as well. It's helpful even if you don't know the OS version of your devices. So, now follow the below steps to unlock the pattern and regain access to your locked phone in minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Phones within Minutes
@@ -57,22 +50,20 @@ Step 3. Choose the model version according to your android phone. For people who
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4. Enter and download the recovery package as the instructions show on the PC or Mac.
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 Step 5. It will be finished when the recovery package downloading is completed. Then, click "**Remove Now**".
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Once the whole progress is over, you can access your Android device without entering any password and view all your data on the Realme 12 Pro 5G device with no limits.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: How to unlock the Android phone pattern lock without resetting using a Google account?
@@ -97,9 +88,6 @@ Step 5. Great! Now you can simply provide (and confirm) the new pattern for your
 
 After following these instructions, you would be able to learn how to unlock an Android phone pattern lock without factory reset or causing any harm to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to unlock Android phone password without factory reset - Android Device Manager
 
 The Android Device Manager, which is now known as “Find My Device” is one of the best ways to locate your Android device remotely. Besides that, you can also use the interface to ring your device or change its lock from anywhere. All you need to do is access its interface from any other device and log-in with your Google credentials. You can follow these steps to learn how to unlock the Android pattern lock without factory reset.
@@ -110,9 +98,6 @@ Android Device Manager website: <https://www.google.com/android/find>.
 
 Step 2. From the interface, you can select the Android device that is linked to your Google account.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![lock android device](https://images.wondershare.com/drfone/article/2017/09/15057364556808.jpg)
 
 Step 3. You will get options to ring it, lock it, or erase it. Select the “Lock” option to proceed.
@@ -133,9 +118,6 @@ Step 1. To start with, you need to download ADB on your system. This can be done
 
 Step 2. Afterward, launch the installer and download all the essential packages on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android sdk manager](https://images.wondershare.com/drfone/article/2017/09/15057364963646.jpg)
 
 Step 3. Now, connect your phone to the system. Make sure that its USB debugging feature is on.
@@ -144,18 +126,12 @@ Step 4. To do this, go to Settings > About Phone and tap the “**Build Number**
 
 Step 5. Go to Settings > Developer Options and turn on the feature of USB debugging.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![usb debugging](https://images.wondershare.com/drfone/article/2017/09/15057365186961.jpg)
 
 Step 6. After connecting your device to the system, launch the command prompt in the installation directory on your respective ADB.
 
 Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and press enter.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![adb shell rm](https://images.wondershare.com/drfone/article/2017/09/15057365341304.jpg)
 
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
@@ -199,7 +175,9 @@ A little pricey, but worth it.
 
 You can easily download it from Dr.Fone's official website within one minute and use it with our detailed instructions. Even if you don't know the specific model of your Samsung device, Dr.Fone - Screen Unlock will provide you with quality service and assistance. Check [the bypass FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail to help you disable your Google account on your Android smartphone.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -218,9 +196,6 @@ Bypass Android FRP Lock without Google Account or a PIN Code.
 
 ![frp bypass tools-samsung-frp-lock-removal](https://images.wondershare.com/drfone/article/2018/03/samsung-frp-lock-removal.jpg "Tool 2")
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Features
 
 - Unlock most Samsung FRP locks, not limited to the version of Android.
@@ -243,14 +218,8 @@ Bypass Android FRP Lock without Google Account or a PIN Code.
 
 One of the best tools that cover almost all the latest versions of Android phones. This tool is quite easy to use.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![frp bypass tools-Tool 4](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-4.jpg "Tool 4")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Features
 
 - Works for Samsung, HTC, MTK, MI, QUALCOMM, SPD, and many more devices.
@@ -289,10 +258,11 @@ FRP Bypass Solutions is tested and updated for the process of bypassing Google v
 
 D&G unlocker tool assists you in step by step and comprehensive way to unlock your Android phones. It can help Android users to remove FRP restrictions from their mobiles and tablets in a few seconds. The program will work for major brands including Samsung, Lenovo, Motorola, Xiaomi, Huawei, HTC, and Yuphoria.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![frp bypass tools-Tool 6](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-6.jpg "Tool 6")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Features
 
@@ -311,14 +281,8 @@ D&G unlocker tool assists you in step by step and comprehensive way to unlock yo
 
 The processing time is just about 10 minutes. This facility is for the Authorized Google account owner. With this tool, the FRP lock will get removed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![frp bypass tools-Tool 7](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-7.jpg "Tool 7")
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Features
 
 - This tool works for All Samsung, Motorola, Micromax, Lenovo, MTK, and SPD devices.
@@ -336,9 +300,6 @@ The processing time is just about 10 minutes. This facility is for the Authorize
 
 This is a kind of software program that is innovative and through this unlocker tool, additional protection for the Android devices can get bypassed.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![frp bypass tools-Tool 8](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-8.jpg "Tool 8")
 
 ### Features
@@ -363,6 +324,10 @@ Samsung FRP tool uses the ADB feature to Bypass the FRP verification process.
 
 ![frp bypass tools-Tool 9](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-9.jpg "Tool 9")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Features
 
 - This tool has an easy and interactive GUI.
@@ -379,21 +344,12 @@ Samsung FRP tool uses the ADB feature to Bypass the FRP verification process.
 - It does not work with other models besides Samsung.
 - Combination firmware is required to run this software.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tool 9: GSM Flasher ADB Bypass FRP Tool
 
 GSM flasher uses an easy and accessible way to bypass an Android device's lock through a USB cable. The downloading, as well as the complete setup, takes a few minutes. Also, ADB (Android debug bridge) helps you to have to communicate with your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![frp bypass tools-Tool 10](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-10.jpg "Tool 10")
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Features
 
 - a. GSM flasher software setup is easy to use.
@@ -413,9 +369,6 @@ GSM flasher uses an easy and accessible way to bypass an Android device's lock t
 
 FRP Bypass helps to overcome the security feature of the Realme 12 Pro 5G device so that you can easily bypass the Google Account verification process. As per user ratings, FRP Bypass APK has 4.1 Stars.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![frp bypass tools-Tool 3](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-3.jpg "Tool 3")
 
 ### Features
@@ -466,15 +419,15 @@ Here is the complete guide with five methods to unlock an Realme  device that wo
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/PNC9VCRYu18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## Part 1: Lock System About Realme 12 Pro 5G  
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1: Lock Types
 
 Before we move towards the **Realme 12 Pro 5G  pattern unlock**, let's talk about its lock types and security system. Realme 12 Pro 5G  is one of the older versions of Realme  android phones that was released in 2016. At that time, only flagship phones from each brand came with features like fingerprint sensors and facial unlock. Realme 12 Pro 5G  doesn't offer these lock types. You can only set up a screen lock as a password, pattern, and PIN. You can also lock apps on Realme 12 Pro 5G  with its privacy password settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2: How to Set Them up?
 
@@ -484,6 +437,10 @@ Follow these steps to set up any type of lock on your Realme 12 Pro 5G  .
 - The lock system menu would appear if your device had no screen locks. If your device has a screen lock, you will have to enter the password to enter the settings.
 - Select the "Lockscreen Password" option at the top and tap on the "Enable Lock Screen" button.
 - Select the type of lock you want to set and create a password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3: How to Remove Them with Password or Pattern?
 
@@ -495,14 +452,15 @@ You can easily remove the lock screen of your Realme 12 Pro 5G  if you remember 
 
 ## Part 2: 5 Solutions to Unlock Realme 12 Pro 5G  Without Password or Pattern
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1: Google Find My Device
 
 You can use the Google Find My Device for your **Realme 12 Pro 5G  pattern unlock**. It is a simple privacy and security Google feature that enables users to reset their android phones. Most people use it to factory reset their phones when someone steals their phones. Although Google Find My Device works every time, it is not the ideal solution if you don't want to lose your data. With a hard reset, you lose all your data and settings. It is not worth it if all you want to do is unlock your screen. Here are the steps to unlock Realme 12 Pro 5G  with Find My Device.
 
 ![google find my device web home page](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Open any browser on your PC and visit "Google Find My Device."
 - Make sure your phone is connected to the internet.
@@ -510,9 +468,6 @@ You can use the Google Find My Device for your **Realme 12 Pro 5G  pattern unloc
 - After verification, click on "Ok" and wait for the system to factory reset.
 - Power on your device and enter it without any pattern or password.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2: Google Account
 
 Here is how you can do an **Realme 12 Pro 5G  pattern unlock without PC**. You don't need any third-party software or device for this method. Every step is easy to follow, and it only takes a few minutes for you to unlock your phone. This method requires your Google account and password. Don't use this method if you don't know your Google password. If you are a beginner, it is better to use other methods because this method involves the risk of blocking your device. Follow these steps to unlock your Realme  device using your Google Account.
@@ -546,11 +501,12 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Press and hold the Volume down + Power buttons together for a few seconds. Hold the keys until you see the Realme  logo on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![volume down and power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-05.jpg)
 
 - Select the Language using the volume keys to navigate and the power key to select.
@@ -561,12 +517,17 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - For confirmation, select the “OK” option and wait for the system to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![hard reset confirmation](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5: Dr.Fone - Screen Unlock
 
@@ -593,9 +554,6 @@ Open Dr.Fone on the PC with a USB cable connected to your phone > click “Scree
 
 With the button “Unlock Android Screen”, you can unlock your Realme 12 Pro 5G  via this part.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
@@ -608,28 +566,15 @@ When you’re on this page, “100% Remove Screen Lock” can unlock most phone 
 
 Follow the guide step by step to complete all steps, these steps are important to unlock your Realme 12 Pro 5G  .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![oppo logo](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 Now, no password or pattern to stop you from using your Realme 12 Pro 5G  !
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you know your Google account password, then you can easily unlock your phone after verification. If you don't know the password, you can use a hard reset to erase all data and settings from your device. Use the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) if you don't want to lose your data. Dr.Fone allows you to unlock your Realme 12 Pro 5G  within minutes with easy-to-follow steps. It works for all old and new Realme  models, and the procedure is the same for every device. You can also use Dr.Fone to recover data, repair android software problems, and fix other issues.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -643,7 +588,18 @@ If you know your Google account password, then you can easily unlock your phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-maximize-your-experience-with-windows-11-tricks/"><u>[New] In 2024, Maximize Your Experience with Windows 11 Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-ranking-the-best-non-sportful-activities-at-first-row/"><u>2024 Approved Ranking the Best Non-Sportful Activities at First Row</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-11-proplus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 11 Pro+ Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-c12-pro-lock-screen-password-by-drfone-android/"><u>How To Change Nokia C12 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-c67-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme C67 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-c33-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme C33 2023 Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola Moto G34 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-to-unjam-your-google-drive-sync-in-window-os/"><u>Top Tips to Unjam Your Google Drive Sync in Window OS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-rated-avi-editor-for-windows-8-advanced-video-editing-features/"><u>Updated 2024 Approved Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-how-ecoflows-battery-powered-up-an-entire-home-during-outages-your-ultimate-guide-to-portable-solutions/"><u>ZDNet Explores How EcoFlow's Battery Powered Up an Entire Home During Outages: Your Ultimate Guide to Portable Solutions</u></a></li>
+</ul></div>
 

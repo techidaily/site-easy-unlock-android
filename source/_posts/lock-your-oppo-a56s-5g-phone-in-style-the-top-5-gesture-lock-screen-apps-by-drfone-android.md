@@ -1,7 +1,7 @@
 ---
 title: Lock Your Oppo A56s 5G Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2025-01-09T18:26:00.364Z
-updated: 2025-01-13T17:22:58.625Z
+date: 2025-01-13T18:36:44.123Z
+updated: 2025-01-19T17:02:15.254Z
 tags: 
   - unlock
   - remove screen lock
@@ -68,6 +68,10 @@ Another app that uses gesture to lock/unlock the screen is the Gesture Magic app
 
 ![guesture magic](https://images.wondershare.com/drfone/article/2017/10/15074554938841.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The app already suggests you with predetermined gestures to unlock the screen and open the specific apps. How convenient!
 
 Features – Don’t we all love apps that do not just stick to their main purpose but also come with extra features? This app allows you to launch apps, make calls, send text messages, and quickly access all applications with ease, everything with the help of gestures!  This app needs to use the Oppo A56s 5G device Administrator permission in order to work.
@@ -95,10 +99,6 @@ Gesture Lock Screen is designed to allow you to launch any personal application 
 With a 4.4/5-star rating in the Play Store, and with 5,000-10,000 downloads in a span of 2 months of its launch. The app works on Android 4.1 and above.
 
 Download it from - <https://play.google.com/store/apps/details?id=com.vasu.gesturescreenlock&hl=en>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5) Gestos – Gestures
 
@@ -141,6 +141,10 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
 
 ![proceed to delete a google service](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-3.jpg)
@@ -161,19 +165,23 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Android Devices
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
 
 ![access accounts in android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
 
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### iOS Devices
 
@@ -203,6 +211,10 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### iOS Devices
 
 - **Step 1.** You need to turn on Finder if you own a macOS Catalina or later device. Conversely, use iTunes if you have a macOS Mojave or earlier version or if you are using Windows. Connect your iPhone to the computer using the lightning cable and put it in Recovery Mode.
@@ -214,10 +226,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
@@ -234,14 +242,6 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -260,6 +260,10 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -269,10 +273,6 @@ The following steps highlight the way to remove screen lock from your Android de
 To start with the process, launch Dr.Fone on your computer and navigate to the "Toolbox" section. Proceed to the "Screen Unlock" feature, which opens a new window. After selecting "Android" as your device type, select "Unlock Android Screen" from the available options.
 
 ![select to unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.Select Device Brand and Unlock Mechanism**
 
@@ -285,10 +285,6 @@ As you direct into the next window, select the brand of your Android device. Con
 According to your selected device brand, Dr.Fone provides guidelines for entering the specific mode. Follow the on-screen instructions to start unlocking the screen of your device. If the process is successful, click "Done" to conclude using Dr.Fone – Screen Unlock.
 
 ![successfully unlock device](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -316,6 +312,10 @@ Here we have mentioned solutions to let you bypass your **lock screen password.*
 - When you pick your choice, follow the guidelines on the screen to set it. Enter your screen lock straightaway.
 - Then redo your screen lock on the following screen, then, at that point, tap Confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 4 Simple Ways to Bypass Your Oppo A56s 5G Phone Password
 
 ### 1\. Google Find My Device
@@ -325,10 +325,6 @@ Our first approach to unlocking your device is to do a factory reset. That erase
 Since you're locked out, you will have to utilize a technique to do the reset. The most straightforward way is to utilize Google's Find My Device site. So, if the Find my Device option feature is enabled on your phone, you can tap the **Erase device** choice on this page to reset it.
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Enter Recovery Mode to Hard Reset
 
@@ -343,7 +339,7 @@ If you can't use the Find my device feature, you'll have to factory reset physic
 ![wipe data](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use ADB
@@ -386,6 +382,10 @@ Check the brands list and make sure your unlock process keeps.
 
 ![brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Enter into Recovery Mode**
 
 Then follow the instructions on the program to get the Android phone into Recovery Mode. Here we take 3 different models of Samsung phones as example. (Note: Processes are different according to different brands).
@@ -408,15 +408,15 @@ Steps in Recovery Mode are really important, find the correct options and your l
 
 ![erase cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now it's a phone everyone can access without password or pattern.
 
 ![access without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## Part 3: How to Back up My Oppo A56s 5G Easily?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone-Phone Backup
 
@@ -442,18 +442,24 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-extensive-movement-review-2023/"><u>[New] 2024 Approved Extensive Movement Review 2023</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/coustic-mastery-secrets-for-exceptional-audio-capture/"><u>[New] Acoustic Mastery Secrets for Exceptional Audio Capture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-visual-velocity-time-lapse-photography-with-samsung-gear/"><u>[New] Visual Velocity Time-Lapse Photography with Samsung Gear</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-realme-gt-neo-5-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme GT Neo 5 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oneplus-ace-3-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For OnePlus Ace 3</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-unreal-engine-process-halt-in-outriders-tips-and-solutions/"><u>Fixing the Unreal Engine Process Halt in Outriders - Tips & Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-c02-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia C02</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a1-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A1 5G Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-poco-x5-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Poco X5 Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nubia Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-best-3d-software-for-youtube-intro-creators/"><u>In 2024, The Best 3D Software for YouTube Intro Creators</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-component-analysis/"><u>Tom's Tech Reviews: Comprehensive Computer Component Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004210310-troubleshooting-steps-for-star-wars-battlefront-2-error-code-327-get-back-in-the-game/"><u>Troubleshooting Steps for Star Wars Battlefront 2 Error Code 327 – Get Back in the Game</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-premium-text-tricks-for-videos/"><u>[New] 10 Premium Text Tricks for Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716183955546-new-how-to-reverse-image-search-instagram-for-2024/"><u>[New] How to Reverse Image Search Instagram for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[New] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tech-marvels-top-picks-for-everyone/"><u>2024 Approved Ultimate Tech Marvels Top Picks for Everyone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-x5-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco X5 Pro Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-itel-a70-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Itel A70 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-drivers-for-your-eveo-bluetooth-adapter-today/"><u>Download Updated Drivers for Your Eveo Bluetooth Adapter Today!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-gt-neo-5-se-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme GT Neo 5 SE to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nubia-z50s-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nubia Z50S Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-xr21-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia XR21 Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-motorola-moto-g34-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Moto G34 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-v30t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme V30T Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-ace-3-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Ace 3? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-v30t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme V30T Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-f5-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco F5 Pro 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-to-resolve-ds4-windows-connection-errors-and-driver-failures/"><u>Quick Guide to Resolve DS4 Windows Connection Errors and Driver Failures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sifting-through-cloud-costs-for-maximum-savings-for-2024/"><u>Sifting Through Cloud Costs for Maximum Savings for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-huawei-nova-y71-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Huawei Nova Y71? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-e-waste-into-riches-the-story-of-a-uk-coin-producer/"><u>Transforming E-Waste Into Riches: The Story of a UK Coin Producer</u></a></li>
 </ul></div>
 

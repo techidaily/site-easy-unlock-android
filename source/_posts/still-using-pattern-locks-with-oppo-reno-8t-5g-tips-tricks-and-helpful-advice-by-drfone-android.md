@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo Reno 8T 5G? Tips, Tricks and Helpful Advice
-date: 2025-01-07T16:22:54.142Z
-updated: 2025-01-13T16:42:10.750Z
+date: 2025-01-16T21:43:36.993Z
+updated: 2025-01-19T21:11:11.981Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,10 +22,6 @@ They have been along for a long, long time now – pattern locks – the easiest
 ## Part I: Things To Know About Pattern Locks
 
 The first cellphone locks were 4-digit number locks. Then came 6-digit codes, and even alphanumeric ones. Pattern locks were all the rage a while ago. Though pattern locks continue to be used, they are not considered safe to use any longer. What is all that about? Here’s what you need to know about pattern locks, whether you are a seasoned pattern lock user or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### I.I: What Are Pattern Locks?
 
@@ -54,6 +50,10 @@ There is no denying that using an **easy pattern lock** to lock their smartphone
 While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
 
 What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part II: How People Use Pattern Locks
 
@@ -100,6 +100,14 @@ Supercharged with the information above, you went ahead and changed your easy pa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Unlock Your Oppo Reno 8T 5G without Pattern Locks!
@@ -119,17 +127,21 @@ Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: You will see a list of supported manufacturers on the next screen. Select yours.
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
@@ -141,15 +153,15 @@ Your device will be successfully unlocked.
 
 ![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note that this method wipes all data on the Oppo Reno 8T 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Unlock Oppo Reno 8T 5G Pattern Lock if Forgotten? 6 Ways
 
@@ -202,10 +214,6 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 
 ![how to unlock pattern](https://images.wondershare.com/drfone/2020/lock.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Click on the “**Lock**” option to change the lock pattern on your device.
 - **Step 5.** Provide the new password for your device and write an optional recovery message.
 
@@ -226,6 +234,10 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057372279692.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Provide the correct Google credentials of the account that is linked to your device.
 - **Step 5.** Later, you can set a new pattern for your device and confirm it. This will let you access your Android device with the new pattern lock.
 
@@ -245,6 +257,10 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
 
@@ -256,10 +272,6 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 - **Step 2.** Now, tap and hold the “Power off” option.
 
 ![power off android phone](https://images.wondershare.com/drfone/article/2017/09/15057373454386.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3.** This will display the following pop-up message. Agree to it and restart your phone in Safe Mode.
 - **Step 4.** Once the Oppo Reno 8T 5G device would be restarted in Safe Mode, the third-party lock screen would be disabled automatically.
@@ -286,15 +298,15 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
 - **Step 7.** Later, you can choose to reboot your phone and access it without any lock screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 By following this guide, you would certainly be able to learn how to unlock the pattern lock on your device without much trouble. We recommend using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to perform pattern unlock with no data loss. It has a user-friendly interface and is sure to yield the desired results. Now when you know how to unlock patterns on an Android device, you can share this information with others as well to help them!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delete Gmail Account With/Without Password On Oppo Reno 8T 5G
 
@@ -303,10 +315,6 @@ Email accounts have proven their worth in digital devices beyond sending emails.
 To this day, it is known that Gmail accounts can be removed with or without a password. However, one should know that if they consider deleting their Gmail account, they won't be able to send or receive emails. With that, let's proceed to reveal all essential methods that can be used to **delete a Gmail account permanently**. This article will also focus on a perfect tool that assists in making the process easier.
 
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
@@ -337,10 +345,6 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
@@ -360,7 +364,7 @@ If you use a smartphone device and want to delete your Gmail account from that p
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### iOS Devices
@@ -446,10 +450,6 @@ To start with the process, launch Dr.Fone on your computer and navigate to the "
 
 ![select to unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.Select Device Brand and Unlock Mechanism**
 
 As you direct into the next window, select the brand of your Android device. Continue to select “100% Remove Screen Lock” from the following window.
@@ -480,14 +480,24 @@ This article has specifically provided you with some important details on **how 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-advanced-strategies-for-youtube-video-capture/"><u>[New] 2024 Approved Advanced Strategies for YouTube Video Capture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-list-best-ios-friendly-free-video-editors-for-2024/"><u>[Updated] Ultimate List Best iOS-Friendly, Free Video Editors for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-m6-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco M6 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-f5-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco F5 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo A56s 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/quality-overload-top-10-hd-video-apps-for-your-android/"><u>Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-audio-change-tools-enhancing-virtual-presence-for-2024/"><u>Top 10 Audio Change Tools Enhancing Virtual Presence for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nubia-red-magic-8s-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Red Magic 8S Pro Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enriching-youtube-content-with-improved-sound-quality/"><u>[New] 2024 Approved Enriching YouTube Content with Improved Sound Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cinematic-brilliance-uncovered-top-filmmaking-secrets/"><u>[New] Cinematic Brilliance Uncovered Top Filmmaking Secrets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exploring-advanced-options-with-gopro-burst-features/"><u>[New] In 2024, Exploring Advanced Options with GoPro Burst Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-editing-essentials-your-go-to-guide-for-beginner-vloggers/"><u>[Updated] In 2024, Editing Essentials Your Go-To Guide for Beginner Vloggers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-full-review-exploring-hero4-black-functions/"><u>[Updated] In 2024, Full Review Exploring Hero4 Black Functions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-flawless-webp-to-jpg-image-conversion/"><u>[Updated] Secrets to Flawless WebP-to-JPG Image Conversion</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-12plus-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme 12+ 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-a58-4g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo A58 4G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effizientes-kopieren-von-dvd-filmen-auf-ihren-computer-schritt-fur-schritt-anleitung-fur-windows-10-and-macos/"><u>Effizientes Kopieren Von DVD-Filmen Auf Ihren Computer: Schritt-Für-Schritt-Anleitung Für Windows 10 & macOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-m6-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco M6 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-narzo-n53-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme Narzo N53 Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-12-proplus-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme 12 Pro+ 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-a-3-step-writing-system-for-social-media-success-with-fb-ads-for-2024/"><u>Leveraging a 3-Step Writing System for Social Media Success with FB Ads for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-12-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 12 5G Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-f5-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco F5 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-and-buyers-guide-techadvisor/"><u>Top-Rated Apple Watch Models : Comprehensive Reviews & Buyer's Guide | TechAdvisor</u></a></li>
 </ul></div>
 

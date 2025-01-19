@@ -1,7 +1,7 @@
 ---
 title: In 2024, Still Using Pattern Locks with OnePlus? Tips, Tricks and Helpful Advice
-date: 2025-01-10T17:10:38.956Z
-updated: 2025-01-13T17:35:10.685Z
+date: 2025-01-13T18:05:56.917Z
+updated: 2025-01-19T22:06:00.171Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,10 +23,6 @@ They have been along for a long, long time now – pattern locks – the easiest
 
 The first cellphone locks were 4-digit number locks. Then came 6-digit codes, and even alphanumeric ones. Pattern locks were all the rage a while ago. Though pattern locks continue to be used, they are not considered safe to use any longer. What is all that about? Here’s what you need to know about pattern locks, whether you are a seasoned pattern lock user or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### I.I: What Are Pattern Locks?
 
 Believe it or not, technology has advanced at such a rapid pace in the last two decades that you’d be forgiven if you don’t know what a pattern lock is, especially if you have only ever used iPhones, or Android phones in just the last few years.
@@ -40,6 +36,10 @@ Pattern locks have only ever been offered on Android devices and were commonplac
 Pattern lock is a feature unique to Android and has been so since the start. Naturally, it is one of the preferred ways users have come to unlock their Android devices over the years. Even though modern Android smartphones come with fingerprint recognition and face recognition technologies, there exists a large subset of users still addicted to and acclimatized with the pattern lock feature, opting over fingerprint and face recognition.
 
 There has been, however, research conducted into the safety and security offered by pattern lock in Android.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I.III: Advantages and Drawbacks
 
@@ -80,6 +80,10 @@ To further help you see how easy it might be for anyone to guess your pattern, M
 
 The above data makes it amply clear how using an **easy pattern lock** is actually worse than using a 4-digit PIN, simply because how people are usually using the pattern lock feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III: Tips For Using More Secure Pattern Locks
 
 Now, we know how hard it is to break habits cemented over years of use, so in case you must at all costs use a pattern lock only, the least you can do is try and change your easy pattern lock to a better, more secure hard pattern lock.
@@ -119,6 +123,10 @@ Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -126,10 +134,6 @@ Step 2: Click Unlock Android Screen.
 Step 3: You will see a list of supported manufacturers on the next screen. Select yours.
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
@@ -164,11 +168,11 @@ If you are also facing the same issue, then you have come to the right place. Th
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -187,10 +191,6 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 - **Step 1.** Go to the official website of Dr.Fone - Screen Unlock (Android) and download the tool on your computer. After installing it, launch the interface and click on the option of “Screen Unlock” from the home screen.
 
 ![get into a locked phone with Dr.Fone-](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Connect your Android device to the computer. Click "Android" > "Unlock Android Screen" and select the OnePlus Nord N30 SE device brand on the list. If your device is listed in the [supported list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html), you can unlock locked phone without data loss.
 
@@ -255,7 +255,15 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 
 ![get into a locked phone-unlock your device](https://images.wondershare.com/drfone/article/2017/10/15081760404056.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** After bypassing this feature, you can unlock your device and set up a new PIN or pattern.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to get into a locked phone by factory reset?
 
@@ -287,10 +295,6 @@ If you are using a third-party application to lock your device, you can easily d
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
 Since custom recovery provides a third-party recovery environment, it can learn how to get into a locked Android device. Additionally, you need to flash it via an SD card since you won’t access the phone storage on a locked device.
@@ -301,10 +305,6 @@ Since custom recovery provides a third-party recovery environment, it can learn 
 - **Step 4.** Confirm your selection and let your phone be restarted with no lock screen.
 
 ![get into a locked phone-restart the phone](https://images.wondershare.com/drfone/article/2017/10/15081761542231.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: General tips for unlocking phone successfully
 
@@ -389,10 +389,6 @@ It is not possible to remove the PIN from some Android devices. The Android devi
 
 **Step 4**: Click on "Disable."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Remove PIN from Google Find My Device
 
 Even if you don't remember your Android lock PIN, you can use Find My Device to eliminate your Android lock PIN. Sign in to Google Play, turn on Find My Device and Location, and connect your locked phone to the internet.
@@ -428,7 +424,7 @@ Steps to get rid of forgotten phone PIN via factory reset:
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -464,6 +460,10 @@ Check the brands' list and make sure your unlock process keeps.
 
 ![check the brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Enter into Recovery Mode**
 
 With examples of Samsung phones, it’ll be clearer to understand how to unlock your Android phone via Recovery Mode.
@@ -492,6 +492,10 @@ Now it's a phone everyone can access without a password or pattern.
 
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: In What Cases Should We Remove PIN On Our Android Phone?
 
 There are a few reasons why you might want to remove the phone PIN from your Android:
@@ -499,10 +503,6 @@ There are a few reasons why you might want to remove the phone PIN from your And
 ### 1\. Failed Attempts
 
 If you've tried to unlock your phone with a pin too many times and failed, your phone will become locked. In this case, you'll need to remove the PIN to unlock it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Buy a Used Android phone
 
@@ -528,24 +528,20 @@ Luckily, Wondershare Dr.Fone - Screen Unlock is a powerful and easy-to-use lock 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-creating-hilarious-vr-world-meme-magic-for-2024/"><u>[Updated] Creating Hilarious VR World Meme Magic for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ecosystems-of-uav-innovations/"><u>[Updated] Ecosystems of UAV Innovations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[Updated] In 2024, Bright Beginnings on YouTube Launching and Revenue Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-streaming-audio-logging/"><u>[Updated] In 2024, The Ultimate Guide to Online Streaming Audio Logging</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-platforms-modeling-animating-unite/"><u>[Updated] Leading Platforms Modeling, Animating Unite</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sharpen-the-right-way-selective-blurring-insights/"><u>[Updated] Sharpen the Right Way Selective Blurring Insights</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/adventure-with-hindi-study-8-amazing-reasons-mondly-offers/"><u>Adventure with Hindi Study - 8 Amazing Reasons Mondly Offers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-nubia-red-magic-9-proplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nubia Red Magic 9 Pro+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-amd-graphics-efficiency-windows-11-updates-guide/"><u>Boosting AMD Graphics Efficiency: Windows 11 Updates Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-guide-to-recording-films-on-windowsmac-and-phones/"><u>Essential Guide to Recording Films on Windows/Mac & Phones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-11-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme 11 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-reno-8t-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo Reno 8T 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-c51-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme C51</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-delve-into-youtube-metrics-using-the-power-of-social-blade/"><u>In 2024, Delve Into YouTube Metrics Using the Power of Social Blade</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Magic 6 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-narzo-n55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme Narzo N55 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-narzo-n53-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme Narzo N53 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-11-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 11 5G Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crucial-top-5-smallest-action-recorders-review/"><u>[New] Crucial Top 5 Smallest Action Recorders Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlock-srt-mastery-a-detailed-manual-and-tips/"><u>[New] In 2024, Unlock SRT Mastery A Detailed Manual and Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-iphones-leading-selfie-aids-8-edition/"><u>[New] Iphone's Leading Selfie Aids - #8 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-top-8-premium-marriage-videos-on-video-platforms/"><u>[New] Unveiling Top 8 Premium Marriage Videos on Video Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-nokia-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nokia Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a78-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A78 Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-legion-5-pro-essential-driver-updates-and-software-tips/"><u>Get the Most Out of Your Legion 5 Pro: Essential Driver Updates & Software Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-c50-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco C50 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-gt-5-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme GT 5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-nord-ce-3-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus Nord CE 3 5G Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-c51-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme C51</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-x6-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco X6?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-complete-guide-to-zooms-top-free-and-paid-transcribers-for-virtual-meetings-for-2024/"><u>The Complete Guide to Zoom's Top Free & Paid Transcribers for Virtual Meetings for 2024</u></a></li>
 </ul></div>
 

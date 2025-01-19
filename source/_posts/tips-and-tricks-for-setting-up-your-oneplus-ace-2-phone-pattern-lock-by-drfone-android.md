@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your OnePlus Ace 2 Phone Pattern Lock
-date: 2025-01-12T16:39:03.191Z
-updated: 2025-01-13T18:39:58.563Z
+date: 2025-01-14T18:32:26.804Z
+updated: 2025-01-19T20:50:20.560Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ You can attempt the methods below or an expert tool if you have forgotten the **
 
 So, keep following us to unlock the **lock screen pattern** and use your phone again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Is Android Pattern?
 
 A **pattern lock** is used to identify the actual user by your Android phone. It is a widely used phone locking system and a secured one. Simply put, a pattern lock includes a line pattern you choose that you can draw to unlock a lock screen. You can enable this lock screen feature from the security menu in the settings application.
@@ -28,10 +32,6 @@ A **pattern lock** is used to identify the actual user by your Android phone. It
 So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
 
 ## Part 2: Best Tool to Unlock Your Pattern
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
 
@@ -81,6 +81,10 @@ Now you’re in recovery mode, pick these options in the image below.
 
 ![description of erase the cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the “Unlocked successfully” appears on the screen, you can access your device without a pattern lock or other locks!
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -107,10 +111,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 8.** Complete the process and sign out of your account on the browser.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Forgot Pattern (For Android 4.4 or earlier)
 
 **Step 1.** First and foremost, give some wrong patterns to your phone. It will tell you that you attempted the incorrect **pattern lock**.
@@ -120,10 +120,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 3.** That will open another screen, which you can use to sidestep the forgotten pattern of Android. Select the choice for entering the Google Account credentials and continue.
 
 ![google account](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** To reset the **lock screen pattern**, you must give the correct details of the Google ID previously logged into the OnePlus Ace 2 device.
 
@@ -152,6 +148,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 2:** Clear your lock screen application's data.
 
 Clean data off your lock screen app, uninstall it, and then reboot your device to escape safe mode. When you do so, your phone or Android device will unlock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Use ADB (USB required for Android 10 and lower)
 
@@ -263,10 +263,6 @@ It is not possible to remove the PIN from some Android devices. The Android devi
 
 **Step 4**: Click on "Disable."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Remove PIN from Google Find My Device
 
 Even if you don't remember your Android lock PIN, you can use Find My Device to eliminate your Android lock PIN. Sign in to Google Play, turn on Find My Device and Location, and connect your locked phone to the internet.
@@ -296,10 +292,6 @@ Steps to get rid of forgotten phone PIN via factory reset:
 **Step 4**: Select Wipe data/factory reset using the Volume buttons. Press Yes to confirm the operation.
 
 **Step 5**: Once your device has been factory reset, you need to restart it by selecting the Reboot system now option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Is There Any Universal Unlock PIN For Android?
 
@@ -362,10 +354,6 @@ Steps in Recovery Mode are really important. Find the correct options and your l
 
 ![instructions to wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now it's a phone everyone can access without a password or pattern.
 
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -425,23 +413,31 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Android Devices
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
 
 ![access accounts in android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
 
@@ -458,7 +454,11 @@ If you use a smartphone device and want to delete your Gmail account from that p
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
@@ -471,6 +471,10 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![put android in recovery mode](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
 
 ![select factory reset option](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-12.jpg)
@@ -478,10 +482,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **Step 3.** Select "Factory data reset" on the next screen and confirm that factory reset your Android device successfully. The device automatically gets out of Recovery Mode and starts normally after resetting.
 
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### iOS Devices
 
@@ -511,10 +511,6 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -531,6 +527,10 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 1. It removes all major types of screen locks from your Android devices.
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Remove Google Account While Removing Screen Lock
 
@@ -572,20 +572,21 @@ This article has specifically provided you with some important details on **how 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-seamless-screen-capture-software-w10-edition-for-2024/"><u>[New] Seamless Screen Capture Software, W10 Edition for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-craft-engaging-youtube-stays-strategies-to-shine-without-thousand-supporters/"><u>[Updated] In 2024, Craft Engaging YouTube Stays Strategies to Shine without Thousand Supporters</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/cut-to-the-chase-top-5-chrome-plugins-for-snagging-facebook-videos-fast-for-2024/"><u>Cut to the Chase Top 5 Chrome Plugins for Snagging Facebook Videos Fast for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/finding-icons-a-targeted-approach-to-instas-powerful-voices-for-2024/"><u>Finding Icons A Targeted Approach to Insta's Powerful Voices for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-3-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme GT 3 Phone without PIN</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia C12 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-k11x-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo K11x Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-c12-plus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia C12 Plus Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nubia-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nubia Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-quest-for-memory-lanes-first-facebook-step/"><u>The Quest for Memory Lane's First Facebook Step</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-science-behind-how-electric-bikes-function/"><u>The Science Behind How Electric Bikes Function</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722127265058-waiting-for-chatgpt-on-your-pc-heres-a-top-notch-open-source-chat-ai-to-get-you-started/"><u>Waiting for ChatGPT on Your PC? Here's a Top-Notch Open Source Chat AI to Get You Started</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harmony-hunters-dive-into-free-online-beat-tracker/"><u>[New] In 2024, Harmony Hunters Dive Into Free, Online Beat Tracker</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-diving-into-video-quality-dslr-vs-mirrorless-cameras-for-2024/"><u>[Updated] Diving Into Video Quality DSLR vs Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-n30-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Nord N30 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nubia-z50-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nubia Z50 Ultra</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-c110-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia C110</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-narzo-n55-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme Narzo N55</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-c65-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco C65 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-infinix-zero-5g-2023-turbo-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Infinix Zero 5G 2023 Turbo Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-m4a-file-editor-top-5-free-tools/"><u>In 2024, M4A File Editor Top 5 Free Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-honor-x9b-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor X9b Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-tag-organize-and-enjoy-best-video-tag-editors-for-windows-and-macos/"><u>New Tag, Organize, and Enjoy Best Video Tag Editors for Windows and macOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-x5-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco X5 Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-essentials-a-comprehensive-look-at-the-nintendo-switch-lites-handheld-experience/"><u>Unveiling the Essentials: A Comprehensive Look at the Nintendo Switch Lite's Handheld Experience</u></a></li>
 </ul></div>
 

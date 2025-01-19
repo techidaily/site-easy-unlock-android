@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2025-01-06T18:19:58.981Z
-updated: 2025-01-13T16:28:29.363Z
+date: 2025-01-16T18:28:04.062Z
+updated: 2025-01-19T21:54:05.307Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,22 +76,18 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-on-the-spot-screen-savers-facebook-edition/"><u>[New] In 2024, On-the-Spot Screen Savers - Facebook Edition</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-snapsizesecrets-perfecting-photo-and-video-sizes-in-instagram/"><u>[New] In 2024, SnapSizeSecrets Perfecting Photo and Video Sizes in Instagram</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>[Updated] The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bridging-the-gap-intels-ai-leader-wei-li-on-democratizing-advanced-ai-supercomputing-for-everyday-use-insights-from-zdnet/"><u>Bridging the Gap: Intel's AI Leader Wei Li on Democratizing Advanced AI Supercomputing for Everyday Use - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-does-t-series-generate-revenue/"><u>How Does T-Series Generate Revenue?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-11r-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus 11R</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12plus-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme 12+ 5G Phone without Google Account?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-gt-5-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme GT 5 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g04-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G04</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-105-classic-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia 105 Classic Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 5G Phone without Google Account?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x9b-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X9b</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-gear-lab-unveiling-the-newest-trends-in-pc-and-electronics-hardware/"><u>Inside Tom's Gear Lab: Unveiling the Newest Trends in PC & Electronics Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-your-computers-core-features-the-windows-key/"><u>Mastery Over Your Computer's Core Features: The Windows Key</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-basics-of-inbuilt-ai-technology-on-devices-working-principles-revealed/"><u>Understanding the Basics of Inbuilt AI Technology on Devices - Working Principles Revealed</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-fade-music-and-audio-in-imovie-on-mac/"><u>Updated 2024 Approved How to Fade Music and Audio in iMovie on Mac?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-artisans-approach-to-crafting-channel-identities/"><u>[New] 2024 Approved The Artisan's Approach to Crafting Channel Identities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-enhancing-obs-with-free-lut-downloads/"><u>[Updated] A Guide to Enhancing OBS with Free LUT Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-raw-renders-to-rich-realities-grading-in-post-production/"><u>[Updated] From Raw Renders to Rich Realities Grading in Post-Production</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-4k-videography-with-prime-optics-for-2024/"><u>[Updated] Mastering the Art of 4K Videography with Prime Optics for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-c33-2023-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme C33 2023?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-printer-driver-downloads-model-mf8200c-supported-on-win7win10win81-platforms/"><u>Canon Printer Driver Downloads: Model MF8200C Supported on Win7/Win10/Win8.1 Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-laptops-touchpad-when-it-fails-to-respond/"><u>Expert Tips for Restoring Your Laptop's Touchpad When It Fails to Respond</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nubia-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nubia Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo A56s 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oneplus-open-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a OnePlus Open Phone that is Locked?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-desk-space-and-save-money-with-our-top-picks-for-the-best-value-docking-stations-at-a-44-discounted-rate-exclusive-insights-from-zdnet/"><u>Maximize Your Desk Space and Save Money with Our Top Picks for the Best Value Docking Stations at a 44% Discounted Rate | Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-gamers-free-screen-capture-tools-selection-list/"><u>Pro Gamers' Free Screen Capture Tools Selection List</u></a></li>
 </ul></div>
 
