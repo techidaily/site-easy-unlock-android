@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia G42 5G
-date: 2025-01-16T19:44:40.643Z
-updated: 2025-01-19T19:15:58.201Z
+date: 2025-01-24T20:45:46.162Z
+updated: 2025-01-25T16:37:46.332Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 In addition to passwords and patterns, the fingerprint scanner is one of the hottest features on leading phones of today to lock apps with fingerprint Android. The Fingerprint scanner is the latest fashion in smartphones. You would have observed that with fingerprint scanner going middle-of-the-road, many of the new low-priced phones have also been furnished with this new feature. Although the foremost purpose of the fingerprint scanner is to lock or unlock Your Nokia G42 5G, it can also be utilized to lock and unlock your mobile applications. But not all phones are equipped with this feature. The aforesaid feature is easy to use, quick and smart.
 
 However, if your phone has an inbuilt fingerprint scanner but it does not countenance you to lock the individual apps in your mobile with the fingerprint scanner, you do not need to worry at all! There are some apps that can add this option on your phone. And we are here to suggest you the 5 best options to lock apps with the fingerprint on your Android phones out of the many apps available in the app store! Here we go:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. AppLock
 
@@ -59,6 +55,10 @@ The subsequent name on the list of best app locks using lock apps with the finge
 
 ![lock apps with fingerprint android-Fingerprint & Pin](https://images.wondershare.com/drfone/article/2017/10/15090399098286.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. FingerSecurity
 
 The next on the list is FingerSecurity - one of the feature-rich lock apps with fingerprint Android available for free download for your Android phones. You can lock practically any application with the help of FingerSecurity. In addition, it also has the knack to unlock multiple apps on a single go. If you are among those few people who have many locked apps, you are going to like this a lot! But one thing that you cannot negate is that despite the app being locked, the intruders may get a chance to view what is inside through the notifications. But Fingersecurity has an answer to this also – it has added a new notification locking feature!
@@ -92,6 +92,10 @@ Whenever we have heard the word anti-virus, the first name that comes to our min
 **Google Rating:** 4.6
 
 ![lock apps with fingerprint android-Norton Applock](https://images.wondershare.com/drfone/article/2017/10/15090399468920.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perfect Applock
 
@@ -145,10 +149,6 @@ Hi Locker allows password and pattern unlocking.
 
 ![unlock apps for android-Hi Locker](https://images.wondershare.com/drfone/article/2016/05/14631657268767.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2.Lok Lok
 
 Lok Lok has a unique take on the locking screen application niche, allowing you to send drawings to people who use the same application. It has the basic functions of course but it really is only fan when others you know, use the same app as well. This fact kind of restricts this otherwise excellent application but the idea is genius. An Android unlock screen app that allows your creative side to shine through.
@@ -163,10 +163,6 @@ When you are looking for unlock apps for android, you don't necessarily think ab
 
 ![unlock apps for android-Next News Lock Screen](https://images.wondershare.com/drfone/article/2016/05/14631658526635.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4.CM Locker
 
 A very interesting application with a slide-to-unlock feature that's eerily similar to iPhone devices. The app allows you to control several main phone functions including but not limited to brightness, WiFi, sound or Bluetooth. One of the most versatile unlock apps for Android.
@@ -175,15 +171,15 @@ This android unlock app allows pin and pattern unlock, and it also has an intrud
 
 ![unlock apps for android-CM Locker](https://images.wondershare.com/drfone/article/2016/05/14631659122551.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5.Slidelock Locker
 
 Another app that takes advantage of Apple's popularity by bringing in the "slide-to-unlock" mechanics and the general aesthetic qualities of the iOS home screen. In addition to possessing the basic functions, this Android unlock screen app also highlights messages.
 
 ![unlock apps for android-Slidelock Locker](https://images.wondershare.com/drfone/article/2016/05/14631659338843.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6.Semper
 
@@ -196,7 +192,7 @@ How to unlock : Solve a problem or an equation to unlock the screen.
 ![unlock apps for android-semper](https://images.wondershare.com/drfone/article/2016/05/14631659402691.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7.Next Lock Screen
@@ -207,10 +203,6 @@ How to unlock : Pin,swipe or pattern.
 
 ![unlock apps for android-Next Lock Screen](https://images.wondershare.com/drfone/others/next-lock-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8.AcDisplay
 
 AcDisplay comes with a rather minimalistic look similar to some of the most popular web site creator services like Squarespace or Wix. The home screen will highlight notifications for which it will offer two options, either you swipe down in which case you will ignore the notification, or swipe anywhere else and the lock screen will unlock. What's really great about this Android unlock app is the fact that it can use your device's sensors, allowing it to detect its placement therefore whether or not it should be on or off.
@@ -220,6 +212,14 @@ Google Play link: [https://play.google.com/store/apps/details?id=com.achep.acdis
 How to unlock : You can swipe anywhere on the screen.
 
 ![unlock apps for android-AcDisplay](https://images.wondershare.com/drfone/article/2016/05/14631660873877.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9.C Locker Pro
 
@@ -239,6 +239,10 @@ How to unlock : Slide right like you would with an iOS device.
 
 ![unlock apps for android-Echo Notificaiton Lockscreen](https://images.wondershare.com/drfone/others/echo-notificaiton-lockscreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Bonus Tips:** Easily bypass Android Lock Screen/Google FRP on Android with [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It effortlessly resolves issues like lost Google accounts, forgotten PIN codes, and unlocking used phones. Supported mainstream Android brands like Samsung, Xiaomi, Vivo, etc._
 
 ## Full Tutorial to Bypass Your Nokia G42 5G Face Lock?
@@ -256,12 +260,16 @@ Follow the guide below to bypass the face unlock settings and choose the best on
 
 ![face lock](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Bypass Android Face Lock by Ourselves?
 
 If you want to bypass face lock by yourself, then different methods can help you. These are all tested and work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. A Picture Possibly Bypasses Face Lock
@@ -302,10 +310,6 @@ Google Find My Device is a service that lets you remotely lock, track, and wipe 
 
 Just like the hard reset, after using Google Find My Device, all your data and settings will be erased. Please make everything well prepared before you decide to unlock your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Easiest Way to Unlock Your Android Face Recognition Using Dr.Fone-Screen unlock
 
 The methods mentioned above may be hard for you, and you don't know any technical skills. If you are looking for an easy tool that can face unlocking for you, then [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is all you need.
@@ -320,10 +324,6 @@ The following guide explains how to use Dr.Fone-Screen unlock to bypass the Andr
 
 ![dr fone homescreen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Select Unlock Android Screen**
 
 Please select" Unlock Android Screen" for the rest process.
@@ -335,6 +335,10 @@ Please select" Unlock Android Screen" for the rest process.
 Please click the button fitting your phone.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When arriving at this page, we have a lot of options to unlock your device screen for most phone brands, like Samsung, Nokia, LG, OPPO, etc.
 
@@ -362,10 +366,6 @@ This step in Recovery Mode is the most important to unlock your screen. Please c
 
 ![wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can see your device is unlocked successfully
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -388,24 +388,16 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/1716069177433-new-2024-approved-android-without-a-wire-heres-your-free-games-list/"><u>[New] 2024 Approved Android Without A Wire? Here's Your Free Games List!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-investing-time-wisely-on-cover-art-creation/"><u>[New] 2024 Approved Investing Time Wisely on Cover Art Creation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-switch-to-the-future-capture-cards-guide/"><u>[New] 2024 Approved Switch to the Future Capture Cards Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-brilliant-barrage-essential-gadgets-for-clips/"><u>[New] In 2024, Brilliant Barrage Essential Gadgets for Clips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-best-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones/"><u>[Updated] Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-visual-verse-top-10-writing-apps-for-photo-lovers-iosandroid/"><u>[Updated] In 2024, Visual Verse Top 10 Writing Apps for Photo Lovers (iOS/Android)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-best-vocal-transformation-programs-for-video-makers/"><u>[Updated] The Best Vocal Transformation Programs for Video Makers</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-simple-strategies-for-adding-written-content-to-your-pdf-documents-updated-guide/"><u>1. Simple Strategies for Adding Written Content to Your PDF Documents - Updated Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-ace-3-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Ace 3 Unlock Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c22-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C22 FRP Bypass Instantly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-g42-5g-phone-by-drfone-android/"><u>How to Reset a Locked Nokia G42 5G Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50s-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nubia Z50S Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Motorola Moto G34 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-gt-neo-5-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme GT Neo 5</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-v30-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme V30</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme GT 5 Pro</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-logitech-g-pro-driver-on-any-pc-windows-11-to-win-7-support-included/"><u>Install Logitech G Pro Driver on Any PC - Windows 11 to Win 7 Support Included</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-dollar-first-steps-in-youtubers-revenue-for-2024/"><u>[New] Digital Dollar First Steps in YouTubers' Revenue for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oneplus-nord-n30-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/behind-the-scenes-manycams-recording-system-evolution-for-2024/"><u>Behind the Scenes ManyCam's Recording System Evolution for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/democracy-dive-top-5-political-gamified-experiences-for-2024/"><u>Democracy Dive Top 5 Political Gamified Experiences for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-12-pro-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme 12 Pro 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-x6-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco X6</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-poco-m6-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Poco M6 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quantum-quadrants-cinematic-frontiers/"><u>In 2024, Quantum Quadrants Cinematic Frontiers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/storytelling-methodologies-for-the-documentarian-for-2024/"><u>Storytelling Methodologies for the Documentarian for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-color-grading-utilizing-luts-in-ae-for-2024/"><u>The Art of Color Grading Utilizing LUTs in AE for 2024</u></a></li>
 </ul></div>
 

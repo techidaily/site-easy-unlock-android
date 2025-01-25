@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2025-01-16T18:28:04.062Z
-updated: 2025-01-19T21:54:05.307Z
+date: 2025-01-20T17:04:22.301Z
+updated: 2025-01-25T16:43:07.222Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,18 +76,20 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-artisans-approach-to-crafting-channel-identities/"><u>[New] 2024 Approved The Artisan's Approach to Crafting Channel Identities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-enhancing-obs-with-free-lut-downloads/"><u>[Updated] A Guide to Enhancing OBS with Free LUT Downloads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-raw-renders-to-rich-realities-grading-in-post-production/"><u>[Updated] From Raw Renders to Rich Realities Grading in Post-Production</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-4k-videography-with-prime-optics-for-2024/"><u>[Updated] Mastering the Art of 4K Videography with Prime Optics for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-c33-2023-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme C33 2023?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-printer-driver-downloads-model-mf8200c-supported-on-win7win10win81-platforms/"><u>Canon Printer Driver Downloads: Model MF8200C Supported on Win7/Win10/Win8.1 Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-laptops-touchpad-when-it-fails-to-respond/"><u>Expert Tips for Restoring Your Laptop's Touchpad When It Fails to Respond</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nubia-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nubia Face Lock?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo A56s 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oneplus-open-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a OnePlus Open Phone that is Locked?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-desk-space-and-save-money-with-our-top-picks-for-the-best-value-docking-stations-at-a-44-discounted-rate-exclusive-insights-from-zdnet/"><u>Maximize Your Desk Space and Save Money with Our Top Picks for the Best Value Docking Stations at a 44% Discounted Rate | Exclusive Insights From ZDNET</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pro-gamers-free-screen-capture-tools-selection-list/"><u>Pro Gamers' Free Screen Capture Tools Selection List</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments/"><u>[New] In 2024, Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windowsmaciosandroid/"><u>「安心で最強の動画保存手順集 - Windows、Mac、iOS、Android用無料ツールとアプリ」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-a-gotomeeting-session-on-pcs-and-smartphones/"><u>2024 Approved How to Record a GoToMeeting Session on PCs and Smartphones?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhance-your-visual-media-with-grau-gmbhs-premier-video-correction-technology-solutions/"><u>Enhance Your Visual Media with Grau GmbH's Premier Video Correction Technology Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-c67-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme C67 4G Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c300-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nokia C300 Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a78-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A78 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-c55-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme C55</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-narzo-60x-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme Narzo 60x 5G Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-sites-to-explore-glossy-golden-typography-designs/"><u>Prime Sites to Explore Glossy, Golden Typography Designs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-mss32dll-file-not-present-issue-a-step-by-step-guide/"><u>Resolving the 'mss32.dll' File Not Present Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-black-ops-cold-war-silent-mode-issues-on-windows-tips-and-tricks/"><u>Solving Black Ops: Cold War Silent Mode Issues on Windows - Tips & Tricks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G04? | Dr.fone</u></a></li>
 </ul></div>
 
