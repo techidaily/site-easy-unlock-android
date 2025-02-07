@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus 11R
-date: 2025-01-20T16:21:31.911Z
-updated: 2025-01-25T20:58:05.306Z
+date: 2025-02-04T16:24:56.458Z
+updated: 2025-02-07T16:00:19.407Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,10 +45,6 @@ To certain customers, the lock screen can do more harm than good, and they would
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320015997.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 · Step 2: Under the heading called Screen Security heading, you will be shown 3 choices. Tap on the first one, which is entitled Screen lock.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555321966246.jpg)
@@ -62,10 +58,6 @@ Step 4: As soon as you have confirmed the right PIN code in the bar provided, yo
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555322276060.jpg)
 
 Step 5: In the end, you have successfully disabled the screen lock on your Android devices. You are now capable of using it without any hesitation about the screen lock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Common Problems of Disabling Lock Screen
 
@@ -116,6 +108,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps on How to Unlock Forgotten Password in Android Phones
 
 **Step 1:** Launch Dr.Fone and click on Screen Unlock from the primary window.
@@ -125,6 +121,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 **Step 2:** Connect your Android device to the computer via USB cable. The program will recognize the phone directly. Select the phone model or "I can't find my device model from the list above" to continue.
 
 ![disable android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Follow the instruction on the program exactly to set the phone to Download Mode. First, you will need to Power off your Phone. Secondly, Press on Volume Down, Home button, and Power button simultaneously. Thirdly press the Volume up button to navigate until the phone enters Download mode.
 
@@ -167,6 +167,10 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -178,10 +182,6 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the OnePlus 11R device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -192,16 +192,12 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** As soon as the OnePlus 11R devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the OnePlus 11R device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can then go about backing up the contents of your device.
@@ -220,12 +216,16 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Unlock a OnePlus 11R  Easily?
@@ -235,6 +235,10 @@ The OnePlus series has made a significant splash in the smartphone market. It ca
 It will cover various ways toperform a **OnePlus 11R unlock**, no matter the context of what you need unlocking for. This ensures you can enjoy every aspect of your shiny new Pixel to the fullest. Whether you’re a tech enthusiast or a casual user, these tips and tricks will help you master your OnePlus device.
 
 ![OnePlus 11R series lineup](https://images.wondershare.com/drfone/article/2024/01/google-pixel-7-unlock-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Ways That OnePlus Lets You Unlock Your OnePlus 11R
 
@@ -246,10 +250,6 @@ OnePlus 11R  are more than just smartphones; they are gateways to a personalized
 
 ![woman holding a OnePlus 11R  ](https://images.wondershare.com/drfone/article/2024/01/google-pixel-7-unlock-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - [**<u><b>Fingerprint Unlock</b></u>**](https://drfone.wondershare.com/google-frp-unlock/google-pixel-frp-bypass.html)**.** This method uses your unique fingerprint as a key. It’s fast, secure, and convenient. The Pixel 6a, 6, and 7 fingerprint scanners are actually under the display. Register your fingerprint in the settings, then touch the sensor to gain access.
 - **Pattern**. If you prefer a more visual method, the [<u>pattern lock</u>](https://drfone.wondershare.com/unlock/mi-pattern-lock.html)lets you draw a specific shape or pattern on the screen to unlock your phone. It’s a fun and interactive way to secure your device. Create your pattern in the security settings, and unlock your phone by replicating it on the lock screen.
 
@@ -260,10 +260,6 @@ In essence, each unlocking method offered by the OnePlus 11R  provides a blend o
 Forgetting the screen unlock method on your OnePlus 11R , whether it’s a PIN, passcode, pattern, or encountering face or fingerprint recognition issues, can be a frustrating experience. Fortunately, there are methods to regain access to your device. This section will show you your options, from third-party tools to other methods like Safe Mode and force resetting.
 
 Learn different ways to **unlock a OnePlus 11R**, from forgotten screen locks here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Wondershare Dr.Fone
 
@@ -278,6 +274,10 @@ To do this, perform the steps below:
 **Step 2:** Go to **Toolbox** > **Screen Unlock.** Then, use a connector to connect your Pixel device to the PC.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Android** on this page.
 
@@ -306,7 +306,7 @@ To do this, perform the steps below:
 _**Tips:** Is your Pixel locked accidently? Are you searching for a powerful tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Entering Into Safe Mode
@@ -344,14 +344,14 @@ Here are the steps to SIM **unlock your OnePlus 11R**,These generally involve th
 
 ![sim and unlock](https://images.wondershare.com/drfone/article/2024/01/%20google-pixel-7-unlock-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1:** Open the Phone app and dial \*#06# on your OnePlus. This will display your phone’s IMEI number. Note this number down for future reference.
 - **Step 2:** Call your carrier and request a SIM unlock code. You’ll likely need to provide your OnePlus’s IMEI number.
 - **Step 3:** If you meet your carrier’s requirements, they will email you the SIM unlock code within 2-5 days.
 - **Step 4:** Once you receive the code, replace your current SIM with one from a different carrier. When prompted, enter the SIM unlock code you received via email.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Alternative Method: Android SIM Unlock
 
@@ -390,22 +390,19 @@ Wondershare Dr.Fone is a reliable tool for those challenging moments when you fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>2024 Approved Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/5-outstanding-power-inverters-dominating-the-market/"><u>5 Outstanding Power Inverters Dominating the Market</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/inners-guide-to-youtube-seo-keywords-for-2024/"><u>A Beginner's Guide to YouTube SEO Keywords for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nokia-105-classic-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nokia 105 Classic</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-ace-2v-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus Ace 2V?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-sound-functionality-in-windows-7-systems/"><u>How to Restore HDMI Sound Functionality in Windows 7 Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-12-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme 12 Pro 5G Phone?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c55-phone-without-google-account-by-drfone-android/"><u>How to Unlock Poco C55 Phone without Google Account?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-c55-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme C55 Unlock Without Password</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-podcast-visibility-with-seo-tactics/"><u>In 2024, Boost Your Podcast Visibility with SEO Tactics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-6-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic 6</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c300-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C300 Phone Screen?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20c-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20C Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-tricks-to-decrease-gpu-load-caused-by-the-desktop-window-manager-in-windows-1011/"><u>Ultimate Tricks to Decrease GPU Load Caused by the Desktop Window Manager in Windows 10/11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-m6-pro-4g-by-drfone-android/"><u>Universal Unlock Pattern for Poco M6 Pro 4G</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/battery-powered-google-wireless-nest-doorbell-a-comprehensive-review/"><u>Battery-Powered Google Wireless Nest Doorbell: A Comprehensive Review</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effizientes-ubertragen-ihrer-vms-und-daten-von-esxi-auf-eine-usb-festplatte-image-and-file-level/"><u>Effizientes Übertragen Ihrer VMs Und Daten Von ESXi Auf Eine USB-Festplatte - Image & File Level</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-150-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nokia 150 (2023) Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-poco-c55-easily-by-drfone-android/"><u>How To Unlock a Poco C55 Easily?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-p55plus-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel P55+ FRP Bypass Instantly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco Face Lock?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-pathway-to-popular-youtube-thumbnails-mac-edition/"><u>In 2024, The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-k11x-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo K11x without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-11-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme 11 5G Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/stream-like-a-pro-on-youtube-best-webcams-reviewed-for-2024/"><u>Stream Like a Pro on YouTube Best Webcams Reviewed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-v30-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme V30</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-honor-x9b-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor X9b Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c22-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia C22 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile/"><u>Updated 2024 Approved How to Add Emojis To Discord on Desktop Computer and Mobile</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your Oppo Reno 8T 5G Phone Now with These Tips
-date: 2025-01-23T18:45:36.066Z
-updated: 2025-01-25T19:06:31.393Z
+date: 2025-02-01T16:37:33.831Z
+updated: 2025-02-07T16:01:00.094Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 Pattern locks have been available for about as long as people can remember, and they have been hugely popular with people thanks to how easy it is to simply swipe your screen and unlock your smartphone, as against, say, keying in the 4-digit PIN/ 6-digit PIN. However, pattern locks are easy to crack, and today, we bring you all you want to know about pattern locks and how to create a **hard pattern lock**. Further to this, we also tell you how to move beyond pattern locks and what to do in case you forgot the hard pattern lock you just set and are unable to unlock your smartphone.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What You Need to Know About Pattern Locks
 
@@ -55,10 +59,6 @@ Now, if you must continue using a pattern lock, let’s help you know how to cre
 
 ![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Marte Loge, an M.Sc. Computer Science student, gave a presentation on pattern locks at DEFCON 23 and made a bold claim. She said, “Tell me who you are, and I will tell you your lock pattern.”
 
 She presented the following statistics to support her claim:
@@ -75,10 +75,6 @@ These are some of the most common pattern locks people create:
 
 To understand how this is a security nightmare, the possible combinations for a 4-point pattern are a measly 1624, whereas by adding just 1 more point to the pattern and creating a 5-point pattern, the number of possible combinations becomes 7152, an increase of 5528 combinations. In stark contrast, creating a 9-point pattern would give you over 140,000 possible combinations!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.2: How to Create a Hard Pattern Lock
 
 Knowing what most people do when creating a pattern lock, it becomes easy to avoid those mistakes and instead create a hard pattern lock for oneself.
@@ -87,10 +83,6 @@ Knowing what most people do when creating a pattern lock, it becomes easy to avo
 - \- Never use your first initial as your pattern lock.
 - \- Never use the shape of a numeral as your pattern lock.
 - \- Use all 9 points on the grid to create your pattern lock, and contrary to popular belief, you can go over the connecting lines several times, creating a hard pattern lock that would not be as easy for people to decipher!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Going Beyond Pattern Locks
 
@@ -137,13 +129,13 @@ Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Select your device manufacturer.
 
 ![drfone screen unlock manufacturer selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Prepare your device to unlock the screen.
 
@@ -164,6 +156,10 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 In the last few years, we have seen the launch of numerous Android phones with an inbuilt fingerprint scanner. This provides added security to the Oppo Reno 8T 5G device and should definitely be utilized by the user. To make the most of this amazing feature, you can find many fingerprint lock app options listed on Google Play Store. Since there are so many options for a fingerprint app, it might become tedious to pick the best finger lock app for your device. Don’t worry – we are here to help you. This guide will make you familiar with the ten best fingerprint screen lock app options out there.
 
 Let’s start our listicle by exploring some of the best fingerprint scanner lock app options available on the Google Play Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Fingerprint Pattern App Lock
 
@@ -214,10 +210,6 @@ Rating: 4.2
 
 Download Link: [FingerSecurity](https://play.google.com/store/apps/details?id=com.rickclephas.fingersecurity&hl=en)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. App Lock - Real Fingerprint Protection
 
 If you are looking for a lightweight and secure fingerprint lock app, you can give this option by Kohinoor Apps a try. It can lock any app of your choice and protect your settings as well.  In this way, you can keep intruders away and level up the security on your device.
@@ -256,10 +248,6 @@ One of the best fingerprint app lockers, it is already used by more than 100 mil
 
 ![DoMobile Lab Applock](https://images.wondershare.com/drfone/article/2017/10/15075533416865.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Random keyboard with an invisible pattern lock
 - It has an inbuilt power-saving mode
 - Users can customize profiles for each app
@@ -293,6 +281,10 @@ The fingerprint lock app is compatible with all the Oppo Reno 8T 5G devices runn
 
 ![Fingerprint Locker](https://images.wondershare.com/drfone/article/2017/10/15075534055610.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Can lock all the popular apps with your fingerprint
 - Lightweight and fast
 - Freely available with no ads
@@ -323,10 +315,6 @@ Get into Fingerprint Locked Android Phones within Minutes
 
 When you know about all the popular options for the fingerprint screen lock app, you can simply choose an ideal choice. Go ahead and download the fingerprint lock app of your choice and provide an added layer of security to your device. Out of all the listed options for the fingerprint app, which one is your favorite? Let us know about it in the comments.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Remove the Lock Screen Fingerprint Of Your Oppo Reno 8T 5G
 
 Users of Android phones can benefit from data and file protection tools like passwords, patterns, and PINs. But there are also some significant disadvantages, for example:
@@ -336,6 +324,10 @@ Users of Android phones can benefit from data and file protection tools like pas
 - The lock screen fingerprint can also malfunction if there are repeated tries from an unauthorized finger.
 
 ![fingerprint warning](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you use a wrong password or a fingerprint unlock, it can permanently lock your Android device.
 
@@ -355,6 +347,10 @@ If your fingerprint is not working or the Oppo Reno 8T 5G device prompts you wit
 
 ![phone restart ui](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When a device restarts, the fingerprint functionality is restored after entering the Oppo Reno 8T 5G device pattern, password, or PIN. This is the simplest method to reset your fingerprint hardware.
 
 ### 2\. Remove your phone battery
@@ -364,7 +360,7 @@ Old android phones have removable batteries. If you can remove your phone batter
 ![removable battery](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Dr.Fone - Screen Unlock
@@ -383,6 +379,10 @@ We are in this part to provide you with two ways to unlock practically any Andro
 
 ![remove screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here you will have some brands to choose from, don't make it wrong.
 
 ![brands](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
@@ -394,6 +394,10 @@ You will learn how to put your device into Recovery Mode; it's important to do a
 _(Get into Recovery Mode in Samsung phone with Bixby)_
 
 ![mode with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _(Get into Recovery Mode in Samsung phone without Bixby)_
 
@@ -440,15 +444,15 @@ It might be a complicated case if you cannot reset your lock screen fingerprint 
 
 ## Why does not Fingerprint Work
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Fingerprint Hardware Module Problems
 
 The fingerprint module should be clean, just like a clean finger is. Unfortunately, the module would collect liquid from your fingers, especially if you had used a moisturizer earlier, making it difficult for the sensor to read your fingers accurately.
 
 ![fingerprint lock issue](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Please inspect the fingerprint module for any fluids or debris and clean it with a dry cloth to resolve this. If the dirt is on the module, clean it with wipes or a moist cloth wet with water.
 
@@ -465,10 +469,6 @@ To install an update, open the Settings app, tap on 'System,' pick 'System Updat
 If you have a device with under-display fingerprint scanner, you might need to clean the screen properly before using the fingerprint. In some cases, screen protectors also interfere with fingerprint functioning.
 
 ![phone screen clean](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -488,20 +488,19 @@ Any method can solve the problems of using your device with your Android handset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-simplicity-in-recording-an-overwatch-perspective/"><u>[New] Simplicity in Recording An Overwatch Perspective</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-instant-best-picture-viewer-pro/"><u>2024 Approved Instant Best Picture Viewer Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nubia Red Magic 8S Pro+ Phone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/best-camera-stabilizers-for-youtuber/"><u>Best Camera Stabilizers for YouTuber</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/demons-souls-reborn-modern-graphics-elevating-a-legendary-rpg-masterpiece/"><u>Demon's Souls Reborn - Modern Graphics Elevating a Legendary RPG Masterpiece</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-self-triggered-command-prompt-issues/"><u>Fixing Self-Triggered Command Prompt Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-z50-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Z50 Ultra Phone?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-x5-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco X5 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nubia-z50s-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nubia Z50S Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-11x-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 11X 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco M6 Pro 5G</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-securing-your-online-sessions-pcmobile-recording/"><u>In 2024, Securing Your Online Sessions PC/Mobile Recording</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-20-adobe-premiere-intro-templates-free-download/"><u>New In 2024, Best 20 Adobe Premiere Intro Templates Free Download</u></a></li>
-<li><a href="https://fox-http.techidaily.com/snap-to-success-top-pixlr-editing-methods-unveiled-for-2024/"><u>Snap to Success Top Pixlr Editing Methods Unveiled for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-instagram-leadership-for-2024/"><u>Step-by-Step Guide to Instagram Leadership for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-next-gen-gloves-top-picks-to-immerse-in-vr-worlds/"><u>[Updated] 2024 Approved Next-Gen Gloves Top Picks to Immerse in VR Worlds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-jest-jar-your-best-free-meme-source/"><u>[Updated] Jest Jar Your Best Free Meme Source</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-for-competitive-edge-leveraging-chatgpt-in-commerce/"><u>AI for Competitive Edge: Leveraging ChatGPT in Commerce</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-dji-x4-fpv-helmet-functionality/"><u>Analyzing DJI X4 FPV Helmet Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-gt-3-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme GT 3 Lock Screen Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-healthcare-marketing-mastering-fb-ad-strategies/"><u>In 2024, Healthcare Marketing Mastering FB Ad Strategies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-narzo-n53-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme Narzo N53 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-narzo-n55-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme Narzo N55</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-x6-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco X6 Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-the-art-of-storytelling-top-youtubers-of-year-2023/"><u>In 2024, Pioneering the Art of Storytelling - Top YouTubers of Year 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nubia-red-magic-8s-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nubia Red Magic 8S Pro Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-polyphonic-world-of-african-tongues/"><u>The Polyphonic World of African Tongues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-toms-hardware-reviews/"><u>Unveiling the Latest in Tom's Hardware Reviews</u></a></li>
 </ul></div>
 
