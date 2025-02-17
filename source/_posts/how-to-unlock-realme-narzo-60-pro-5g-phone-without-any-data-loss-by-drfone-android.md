@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Realme Narzo 60 Pro 5G Phone without Any Data Loss
-date: 2024-07-15T21:24:48.500Z
-updated: 2024-07-16T21:24:48.500Z
+date: 2025-02-12T03:13:48.292Z
+updated: 2025-02-17T03:19:19.463Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,8 +27,6 @@ If you or someone accidentally forgot or mistyped/misentered your lock password 
 
 Note: This tool temporarily support unlocking part of Samsung and LG locked screen without losing data, but other Android phone will be wiped all data if you try to unlock the screen with Dr.Fone - Screen Unlock (Android).
 
-
-
 ### Dr.Fone - Screen Unlock (Android)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -50,10 +48,11 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 3.** Then choose "Remove without Data loss" to unlock part Samsung/LG devices without data loss and find your device model.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Dr.Fone android Lock Screen Removal](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Follow the instructions on the program to get the Android phone into "Download Mode."
 
@@ -65,24 +64,18 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 5.** The loading process will take you a few minutes because it is going to verify first your device's compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Dr.Fone removing lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** Wait until everything is done. You should then see your device already has no lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Dr.Fone lock screen removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
 If you weren't able to open your Wi-Fi or data connection or enable USB Debugging, this is the way for you to unlock your lock screen. This could be a bit complicated, but it should work.
@@ -91,20 +84,18 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 **Step 1.** Download [Aroma File Manager](https://code.google.com/archive/p/rom-cmexmini/downloads) on your PC. This is a tool that unlocks Android phones. Android users can use it for free.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Aroma File Manager download page](https://images.wondershare.com/drfone/article/2016/06/14647610652100.jpg)
 
 **Step 2.** Go to your Downloads folders and copy the downloaded zip file.
 
 ![Copy Aroma zip file](https://images.wondershare.com/drfone/article/2016/06/14647610755085.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Plug into your PC a memory card that you can insert into your phone later. Then, go to your list of connected devices and select the memory card.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open memory card on pc](https://images.wondershare.com/drfone/article/2016/06/14647610775226.jpg)
 
 **Step 4.** Paste the copied Aroma zip file. Once copied, eject it from your PC, then insert it into your Android device.
@@ -134,9 +125,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How to Unlock Android Phone Using Minimal ADB and Fastboot (with Data Loss)
 
 If you weren't able to connect to the Internet, but you, fortunately, enabled your USB Debugging option before your device was locked, the ARONSDB tool from the Android SDK package can help you unlock your Android phone.
@@ -153,14 +141,8 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
 
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
@@ -169,14 +151,8 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[primary drive\]> Program Files \[for 32-bit\] or Program Files (x86) \[for 64-bit\] > Minimal ADB and Fasboot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Local Disk](https://images.wondershare.com/drfone/article/2016/06/14648313589887.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Program Files (x86) folder](https://images.wondershare.com/drfone/article/2016/06/14648313591963.jpg)
 
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
@@ -187,9 +163,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Realme Narzo 60 Pro 5G and retype the command. If there are listed devices already, proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
 
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
@@ -215,16 +188,14 @@ Google Find My Device is another handy way to unlock your locked Android device.
 
 **Step 2:** After signing in, you will see a list of devices associated with your Google account on the left side of the screen. Select the locked Android device from the list and choose the "Erase Device" option from the menu on the left-hand side.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on erase device option](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-1.jpg)
 
 **Step 3:** You will now be asked to confirm your identity through a Google account password or using a pass-key. Afterward, follow the on-screen instructions to erase and unlock your Android device.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5: How to Unlock Android Phone without Losing Data in Safe Mode
 
 One way to unlock your Android phone without losing the data is by utilizing Safe Mode. This method works only if the screen lock you have been using is a third-party app. Since Safe Mode disables third-party apps, you can easily use it to uninstall the problematic app. Here is **how to unlock an Android phone without losing data**:
@@ -251,9 +222,6 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 **Step 3:** Input your Google Account details, username, and password. You are done.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Account unlock Google](https://images.wondershare.com/drfone/article/2016/06/14648495811338.jpg)
 
 You will be given the option to input a new password or pattern right after you enter your Google account details. But if not, Google must have emailed you your temporary password or pattern that you will input to unlock your lock screen.
@@ -281,35 +249,27 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 - **Step 1.** Access the website [https://myaccount.google.com/](https://myaccount.google.com/) on your desktop browser and log in with your credentials. Proceed to the “Data & privacy” section from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![proceed to delete a google service](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-3.jpg)
 
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
 
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
@@ -319,9 +279,6 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access accounts in android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-7.jpg)
 
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
@@ -329,8 +286,9 @@ If you use a smartphone device and want to delete your Gmail account from that p
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
@@ -341,9 +299,6 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
 What if you've [forgotten the password](https://drfone.wondershare.com/app-password/find-gmail-password.html) to your smartphone device, and you have to **delete your Gmail account permanently?** In such cases, you are left with the option of accessing the Realme Narzo 60 Pro 5G device’s Recovery Mode and factory resetting the Realme Narzo 60 Pro 5G device, where possible. To know how it is done flawlessly, look through the steps provided next:
@@ -352,9 +307,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 1.** Those owning an Android device need to put it in Recovery Mode first. For that, use the combination of the "Power" and "Volume" keys to put the Realme Narzo 60 Pro 5G device in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![put android in recovery mode](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-11.jpg)
 
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
@@ -365,30 +317,29 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### iOS Devices
 
 - **Step 1.** You need to turn on Finder if you own a macOS Catalina or later device. Conversely, use iTunes if you have a macOS Mojave or earlier version or if you are using Windows. Connect your iPhone to the computer using the lightning cable and put it in Recovery Mode.
 
 - **For iPhone X or Later Models:** Press and release the “Volume Up” button, followed by the “Volume Down" button. Hold the “Side” button until the Recovery Mode screen appears.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode iphone x or later](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-14.jpg)
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode iphone 6 or earlier](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
@@ -398,14 +349,8 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - Screen Unlock (Android)
@@ -435,7 +380,6 @@ To start with the process, launch Dr.Fone on your computer and navigate to the "
 
 ![select to unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-
 - **Step 2.Select Device Brand and Unlock Mechanism**
 
 As you direct into the next window, select the brand of your Android device. Continue to select “100% Remove Screen Lock” from the following window.
@@ -446,9 +390,6 @@ As you direct into the next window, select the brand of your Android device. Con
 
 According to your selected device brand, Dr.Fone provides guidelines for entering the specific mode. Follow the on-screen instructions to start unlocking the screen of your device. If the process is successful, click "Done" to conclude using Dr.Fone – Screen Unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![successfully unlock device](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ## Conclusion
@@ -493,14 +434,8 @@ The research found that 64% of test subjects who were shown videos of people unl
 
 Now, if you must continue using a pattern lock, let’s help you know how to create a hard pattern lock that would not be as easy to decipher as easy pattern locks. For that, you should know how people use pattern locks, the kind of pattern locks they create, and the ones that are the most commonly used pattern locks. That way, you can avoid those fallacies and create a hard pattern lock for your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1: The Pattern Locks People Use Most Commonly
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-2.jpg)
 
 Marte Loge, an M.Sc. Computer Science student, gave a presentation on pattern locks at DEFCON 23 and made a bold claim. She said, “Tell me who you are, and I will tell you your lock pattern.”
@@ -545,8 +480,9 @@ This way, your device is the most secure it can be today. In case your fingerpri
 While face recognition is available on both Android and Apple devices, it is truly secure only on Apple devices. This is why Apple iPhones released after the iPhone X in 2017 have come only with Face ID. They fall back on a minimum 6-digit PIN (called Passcode in Apple world) to unlock in case the face does not get recognized in the first attempt.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How To Unlock Phone If Hard Pattern Lock Forgotten
 
 Just in case you set a hard pattern lock and promptly forgot that abstruse pattern you just set, we have a tool for you to quickly unlock your phone in case of a forgotten hard pattern lock: Wondershare Dr.Fone - Screen Unlock.
@@ -576,20 +512,16 @@ Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Select your device manufacturer.
 
 ![drfone screen unlock manufacturer selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 Step 4: Prepare your device to unlock the screen.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 When the greyed Next button becomes available, click it and wait for your device to be unlocked.
@@ -598,13 +530,9 @@ When the greyed Next button becomes available, click it and wait for your device
 
 All data on the Realme Narzo 60 Pro 5G device is wiped under this method. Select Samsung phones may be unlocked without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for devices that may be unlocked without data loss.
 
-
 ## Closing Words
 
 Whether it is an easy pattern lock or a hard pattern lock, the fact is that pattern locks are antiquated and a security nightmare. A minimum 6-digit PIN must be used, and using fingerprint recognition is the preferred way to go for Android devices. Using fingerprint recognition will require that users create a 6-digit PIN. On Apple devices launched after 2017, there is Face ID, Apple’s marketing term for face recognition. If you did indeed still set a hard pattern lock, only to promptly forget it, use Wondershare Dr.Fone – Screen Unlock (Android) to seamlessly unlock your phone right now.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -618,7 +546,22 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-core-principles-of-crafting-convincing-video-endorsements/"><u>[New] 2024 Approved Core Principles of Crafting Convincing Video Endorsements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unleash-your-gameplays-social-impact-from-xbox-live-to-facebook/"><u>[Updated] 2024 Approved Unleash Your Gameplay's Social Impact From Xbox Live to Facebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-6-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco X5 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-11-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus 11 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-g24-power-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola G24 Power</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-2023-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 2023 Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco Phone with Broken Screen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-scaling-up-content-convert-youtube-to-igtv/"><u>In 2024, Scaling Up Content Convert YouTube to IGTV</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-x5-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco X5 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-lag-free-mastery-proven-fixes-for-smooth-gameplay/"><u>Minecraft Lag-Free Mastery: Proven Fixes for Smooth Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-pdhdll-errors-a-comprehensive-guide/"><u>Solving pdh.dll Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-art-of-transferring-tunes-between-platforms/"><u>The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+</ul></div>
 

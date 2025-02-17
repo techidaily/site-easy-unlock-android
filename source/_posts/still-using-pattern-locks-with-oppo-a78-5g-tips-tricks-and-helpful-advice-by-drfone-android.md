@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo A78 5G? Tips, Tricks and Helpful Advice
-date: 2025-01-31T16:41:42.457Z
-updated: 2025-02-07T16:46:33.190Z
+date: 2025-02-12T22:31:15.741Z
+updated: 2025-02-17T01:10:43.795Z
 tags: 
   - unlock
   - remove screen lock
@@ -37,6 +37,10 @@ Pattern lock is a feature unique to Android and has been so since the start. Nat
 
 There has been, however, research conducted into the safety and security offered by pattern lock in Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### I.III: Advantages and Drawbacks
 
 Modern smartphones very nearly contain the entirety of our lives; photo memories, video memories, important documents both financial and personal in nature, banking apps, ID and ATM/ credit cards in the “wallet” apps, and whatnot. A smartphone falling into the wrong hands could very nearly be used to devastate the rightful owner, both financially and otherwise. And this is not a claim out of thin air; spyware/ malware/ phishing attacks are on the rise around the world. Locking the smartphone, once considered optional and an unnecessary hassle, is now an absolute must.
@@ -50,10 +54,6 @@ There is no denying that using an **easy pattern lock** to lock their smartphone
 While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
 
 What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part II: How People Use Pattern Locks
 
@@ -115,10 +115,6 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -131,13 +127,13 @@ Step 3: You will see a list of supported manufacturers on the next screen. Selec
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After completing the process, when the Next button becomes available, click it.
 
@@ -145,11 +141,11 @@ Your device will be successfully unlocked.
 
 ![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note that this method wipes all data on the Oppo A78 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Closing Words
 
@@ -162,10 +158,6 @@ In today’s tech-driven world, safeguarding your devices is crucial. FRP, or [<
 Among these tools, **Techeligible FRP** stands out, known for its reliability and efficiency in bypassing FRP barriers. Let’s delve into the realm of [<u> FRP bypass</u>](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html), explore the significance of these tools, and uncover how **Techeligible FRP bypass** simplifies unlocking your device securely.
 
 ![frp bypass](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I. A Comprehensive Overview of Techeligible
 
@@ -191,6 +183,10 @@ To access Techeligible’s tools, you can download them from their [<u>official 
 - **Step 1:** Navigate to Techelegible’s official website and select **Download FRP Tools** from the main menu.
 
 ![techeligible download frp tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Choose the tool that you want to download. Techeligible offers varied sections for FRP bypass. They are as follows:
 
@@ -317,7 +313,7 @@ Using the appropriate Google Account Manager, you may effortlessly download the 
 ![techeligible google account manager](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FRP Bypass APK Tools
@@ -411,10 +407,6 @@ If you are not a fan of having to go through the process of getting through a [p
 
 Well, in light of helping you out, this article will address just how you can lock Apps on your device and not have to type in a code every time you want to use the Oppo A78 5G device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Why you need to Lock Apps on Android?
 
 Before we get down to the business of locking some of your Apps, let’s look at some of the reasons why you would want to lock certain apps.
@@ -439,6 +431,10 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
@@ -448,7 +444,7 @@ Step 3: Next, select the apps you would like to protect from the pop up list. Ta
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Now close the app and the Apps chosen will now be password protected.
@@ -461,9 +457,17 @@ Step 1: Download Hexlock from the Google Play Store. Once it is installed, open 
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
 
@@ -499,10 +503,6 @@ The Gallery app displays all the images on your device. The main reason you may 
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Music Pla\_x\_yer App
 
 This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
@@ -510,7 +510,7 @@ This is the Application that you use to play the music on your device. You may w
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. File Manager App
@@ -535,22 +535,19 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transform-your-igtv-videos-with-top-10-video-editors/"><u>[New] 2024 Approved Transform Your IGTV Videos with Top 10 Video Editors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-soft-transitions-in-garageband-audio/"><u>2024 Approved Mastering Soft Transitions in Garageband Audio</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-xr21-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia XR21 Unlock Without Password</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-driver-installation-for-lenovo-x1-carbon-windows-7-10-and-11-supported/"><u>Effortless Driver Installation for Lenovo X1 Carbon: Windows 7, 10, and 11 Supported</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/engaging-audiences-making-popular-youtube-shorts/"><u>Engaging Audiences Making Popular YouTube Shorts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-gt-5-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme GT 5 Pro? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-x6-pro-by-drfone-android/"><u>Full Guide to Unlock Your Poco X6 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme Phone with Broken Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-v30t-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme V30T</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y27-4g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y27 4G Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-z50s-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nubia Z50S Pro Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-ai-ethics-conduct/"><u>Mastering the Art of AI Ethics Conduct</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-p40plus-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel P40+</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-videoleap-for-macbook-a-beginners-guide-to-downloading-and-installing/"><u>Updated 2024 Approved Videoleap for MacBook A Beginners Guide to Downloading and Installing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-have-chatgpt-escapes-stopped-working-here-are-7-insights-explained/"><u>Why Have ChatGPT Escapes Stopped Working? Here Are 7 Insights Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sony-fdr-x1000-videography-complete-review-edition/"><u>[New] 2024 Approved Sony FDR-X1000 Videography - Complete Review Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-premium-video-guide-top-15-youtube-channels-for-ultimate-product-reviews-for-2024/"><u>[New] Premium Video Guide Top 15 YouTube Channels for Ultimate Product Reviews for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-finest-9-cross-platform-video-conferencing-apps-for-iphonestablets/"><u>[Updated] In 2024, The Finest 9 Cross-Platform Video Conferencing Apps for iPhones/Tablets</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>2024 Approved From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-note-50-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme Note 50</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-nord-n30-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus Nord N30 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f04-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy F04 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-3-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 3 Phone without PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-c67-4g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme C67 4G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-12-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme 12 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-narzo-60-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Narzo 60 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-authoritative-periscope-users-bible-for-2024/"><u>The Authoritative Periscope User's Bible for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-c53-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme C53 Phone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/winx-dvd-copy-pro-easy-steps-para-clonar-dvds-y-crear-backups-en-formato-iso/"><u>WinX DVD Copy Pro: Easy Steps Para Clonar DVDs Y Crear Backups en Formato ISO</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo A78? Tips, Tricks and Helpful Advice
-date: 2025-02-03T16:09:51.524Z
-updated: 2025-02-07T16:08:47.440Z
+date: 2025-02-11T23:17:50.846Z
+updated: 2025-02-16T16:34:33.102Z
 tags: 
   - unlock
   - remove screen lock
@@ -67,10 +67,6 @@ Marte Loge presented the image below, showing how people naturally gravitate tow
 
 ![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To further help you see how easy it might be for anyone to guess your pattern, Marte Loge also presented some statistics.
 
 - \- 77% of people started their patterns in one of the 4 corners.
@@ -101,7 +97,11 @@ Supercharged with the information above, you went ahead and changed your easy pa
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -153,6 +153,10 @@ Losing your smartphone can be distressing, given its importance in daily life. E
 
 Fortunately, many ways exist to retrieve a lost mobile phone by utilizing its IMEI number. This article will take you through the **anti-theft app & IMEI tracker of all phone location** methods. Additionally, we will discuss a unique tool designed to unlock locked devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: An Introduction to IMEI Numbers and Its Utility
 
 Every mobile device has a special identifier that is helpful in the **anti-theft app & IMEI tracker** activities. It is known as the International Mobile Equipment Identity or IMEI number. While often overlooked, it holds the key to many essential services and functions.
@@ -173,10 +177,6 @@ It is a dedicated Android app designed to harness the power of IMEI numbers for 
 ![antitheft app and imei tracker app](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-1.jpg)
 
 These functionalities encompass using secure commands with a designated secret code. Using these commands, you can have the smartphone ring audibly at its maximum volume. It can also get the GPS coordinates of the Oppo A78 device. You can also display a personalized message across the screen. Lastly, it can even capture photographs through the front-facing camera.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Online Solutions: Finding The Best Anti-Theft Online Tool Using IMEI Tracking
 
@@ -221,6 +221,10 @@ The **anti-theft app & IMEI tracker for all mobile location**s enables remote ac
 
 ![antitheft mobile tracker](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Part: Got Your Oppo A78 Locked? Unlock It Easily With the Best Third-Party Utility
 
 Losing access to our own devices due to a forgotten password or lock pattern can be exasperating. In such cases, a reliable third-party utility, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/), comes to the rescue. It offers a seamless method to regain access and control over your precious devices. It is designed to provide a straightforward way to unlock locked Android devices.
@@ -245,10 +249,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 1. When unlocking a locked Android Phone, like a Samsung or LG device, with Dr.Fone, you can [<u>do it without data loss</u>](https://drfone.wondershare.com/unlock/how-to-unlock-realme-phone-without-losing-data.html).
 2. It allows you to [<u>bypass Google FRP</u>](https://drfone.wondershare.com/guide/google-frp-bypass.html)lock on all major Android brands like Samsung, Mi, OPPO, etc.
 3. With Wondershare Dr.Fone, you can unlock screen locks such as PIN, password, pattern, and fingerprint.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Unlocking a Locked Smartphone Using Dr.Fone – Screen Unlock (Android)
 
@@ -292,10 +292,6 @@ The larger clock style appears when there’s no notification. It will only swit
 
 ![smartphone with clock display](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. How Do I Put a Clock on My Android Lock Screen?
 
 Android devices running version 12 or later come with the clock feature activated by default. Take note that its appearance may change under specific circumstances. It can change when there are unread notifications visible on the lock screen.
@@ -305,6 +301,10 @@ For devices running Android 11, **changing the lock screen clock** is still avai
 - **Step 1**: For users with Android 11 or older, go to **Settings** > **Lock screen & security**. Depending on your phone model, tap **Lock screen** or **Security**.
 
 ![customizing android lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2: G**o to **Customize Lock screen** > **Clock**. Next, customize or activate the lock screen clock.
 
@@ -317,7 +317,7 @@ The exact names of settings may change depending on the manufacturer and version
 Currently, there isn’t an official method to **change the lock screen clock on Android** 12. However, there are several workarounds you can do. Let’s explore these techniques and see which works best for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Change Your Wallpaper
@@ -336,10 +336,6 @@ In Android 12, the process remains consistent.
 
 - **Step 2**: Follow the provided instructions to transform your lock screen experience. Replace the oversized clock with dynamic, changing wallpapers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Turn Off the Always-On Display
 
 An alternative to avoid **the Android lock screen clock** is disabling the Always-on Display (AOD).
@@ -348,15 +344,15 @@ An alternative to avoid **the Android lock screen clock** is disabling the Alway
 
 ![android always on display setting](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Toggle off to deactivate the **Always On Display**.
 
 **_**_Note_**_**
 
 **While this won’t alter the lock screen clock itself, it will turn off the display. It will prevent the constant presence of the lock screen clock. Instead, the clock will only become visible when you press the power button.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Disable the Double-Line Clock
 
@@ -379,6 +375,10 @@ An alternative method to modify the **Android lock screen clock** involves activ
 - **Step 1:** Open the **Clock** app and tap the **three dots** in the upper-right corner. Select **Screensaver** and toggle it on.
 
 ![screensaver and new lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
 
@@ -403,6 +403,10 @@ Changing the lock screen clock on Samsung phones is similar to the general Andro
 
 ![customizing lock screen clock on samsung](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose between different styles, such as digital, analog, or others. Some Samsung models offer extra settings like color, size, and more to enhance your lock screen further. Select the one that suits your taste.
 
 If you’d rather remove the lock screen clock on your Samsung device, follow these steps:
@@ -420,19 +424,11 @@ If you ever find yourself locked out of your Android device due to a mishap whil
 
 [<u>How to Change Lock Screen Wallpaper on Android</u>](https://drfone.wondershare.com/unlock/lock-screen-wallpaper-on-android.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4. How To Unlock Accidentally Locked Android Screen
 
 Accidentally locking yourself out of your Android device can be a stressful experience. Dr.Fone provides a hassle-free solution to unlock your Android screen without losing any data. Whether you’ve locked yourself out or forgot your PIN, Dr.Fone ensures a straightforward and secure unlocking process. Here’s a step-by-step guide to using the tool:
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -452,6 +448,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 - **Step 2**: Choose **Android** in the next window and click on **Unlock** **Android** **Screen**.
 
 ![dr.fone unlock android option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Choose your device brand and click **Remove** **without Data Loss**. Select the **Brand**, **Device** **Name**, and **Device** **Model** of your smartphone. Once done, toggle the checkmark on **I agree with the warning, and I am ready to proceed** button.
 
@@ -497,21 +497,17 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-uncover-collective-media-on-messenger-networks/"><u>[New] In 2024, Uncover Collective Media on Messenger Networks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-updated-features-in-sony-blu-ray-player-s6700/"><u>[New] Updated Features in Sony Blu-Ray Player S6700</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>[Updated] 2024 Approved Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-universal-online-creation-the-top-10-easy-youtube-videos-for-beginners/"><u>[Updated] In 2024, Universal Online Creation The Top 10 Easy YouTube Videos For Beginners</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oneplus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock OnePlus Phone When You Forget the Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-find-x6-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Find X6?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-c12-plus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia C12 Plus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-g22-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia G22</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-note-12t-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 12T Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-2-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 2 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-v30t-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme V30T</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-turn-photos-inside-out-with-ease-using-photoshop/"><u>In 2024, Turn Photos Inside Out with Ease Using Photoshop</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-narzo-n55-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme Narzo N55 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-fun-with-your-friends-a-guide-to-the-switchs-local-wireless-play-feature-and-ideal-titles/"><u>Unlocking Fun with Your Friends: A Guide to the Switch's Local Wireless Play Feature and Ideal Titles</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-v-purse-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor V Purse? Here is How | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-music-for-imovie/"><u>[New] Music for iMovie</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-effortless-video-editing-on-windows-10-no-advanced-software-required/"><u>[Updated] 2024 Approved Effortless Video Editing on Windows 10 No Advanced Software Required</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-charting-the-course-a-graphic-designers-blueprint-to-progress/"><u>[Updated] Charting the Course A Graphic Designer's Blueprint to Progress</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-starting-off-with-vlogging-necessary-equipmentsoftware/"><u>[Updated] In 2024, Starting Off with Vlogging Necessary Equipment/Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-motorola-edge-40-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Motorola Edge 40 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/egg-citing-movie-marathon-ideas-for-the-perfect-easter/"><u>Egg-Citing Movie Marathon Ideas for the Perfect Easter!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-c50-phone-by-drfone-android/"><u>How to Reset a Locked Poco C50 Phone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210666525-9781623178741-i-ching-the-oracle/"><u>I Ching, the Oracle | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-motorola-edge-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Edge 2023 Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nubia-red-magic-9-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nubia Red Magic 9 Pro Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubias-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nubias Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-c55-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco C55 Device</u></a></li>
 </ul></div>
 

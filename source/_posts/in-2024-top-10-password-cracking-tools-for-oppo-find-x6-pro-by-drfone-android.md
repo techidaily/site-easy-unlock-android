@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Password Cracking Tools For Oppo Find X6 Pro
-date: 2025-02-03T16:41:49.805Z
-updated: 2025-02-07T16:29:05.882Z
+date: 2025-02-10T02:57:40.360Z
+updated: 2025-02-17T02:04:28.289Z
 tags: 
   - unlock
   - remove screen lock
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ---
 
 ## Top 10 Password Cracking Tools For Oppo Find X6 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What is password cracking?**
 
@@ -51,6 +55,10 @@ We can easily access CUDA through libraries, directives and with the help of dif
 
 Given below is the list of Top10 Password cracking tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Cain and Abel : Top password cracking tool for Windows
 
 Cain & Abel is one of the top cracking tool for password cracking and password recovery for Windows OS.
@@ -78,6 +86,10 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -107,10 +119,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 **Site for Download:**
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
@@ -193,6 +201,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
 Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool uses hashes to crack passwords, with extra features of Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack).
@@ -200,10 +212,6 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -227,10 +235,6 @@ Software is update with extra feature of password histories display if history i
 Recently software is updated to new version called Fgdump as Pwdump not work fine when any antivirus program is running.
 
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Pwdump**
 
@@ -278,6 +282,14 @@ USB debugging is a nifty tool that lets you peek behind the scenes of your Andro
 
 ![usb debugging android](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Challenges in Enabling USB Debugging on a Locked Phone
 
 Outlined below are some of the barriers, scenarios, and limitations, shedding light on the challenges that make USB debugging seemingly impossible.
@@ -315,13 +327,13 @@ Enabling USB debugging on a locked phone can feel like navigating a maze with no
 
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why Unlocking First Makes Sense
 
 Attempting to **enable USB debugging on locked phones** can hit roadblocks. That’s why unlocking your device first becomes a game-changer. Dr.Fone – Screen Unlock (Android) is the hero of this story, simplifying the process and ensuring a hassle-free experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features and Benefits
 
@@ -350,13 +362,13 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 ![drfone screen unlock select device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Once done, click the **Remove without Data Loss** button from the two options presented on the screen.
 
 ![drfone screen unlock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Unlocking the Android screen requires choosing the **Brand**, **Device Name**, and **Device Model** next. Enable the option that says **I agree with the warning, and I am ready to proceed** by clicking the corresponding checkbox. To proceed with unlocking the screen, click **Next**.
 
@@ -367,7 +379,7 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 ![drfone screen unlock confirm](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 7:** Once you’ve recognized your Android device’s model, Dr. Fone will walk you through entering **Download Mode**. Following the on-screen prompts will take you directly to the next screen. It then depicts the progress of the screen unlocking procedure, in which the platform’s required drivers and configuration files are downloaded.
@@ -385,10 +397,6 @@ Dr.Fone – Screen Unlock (Android) acts as your trusty guide, leading you throu
 [<u>Unlocking Your Realme Phone Made Easy: No Data Loss!</u>](https://drfone.wondershare.com/unlock/how-to-unlock-realme-phone-without-losing-data.html)
 
 [<u>The Best Android Unlock Software of 2024</u>](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -432,17 +440,9 @@ If you click “Remove without Data Loss,” only some limited Samsung or LG pho
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4. Go into Recovery Mode**
 
@@ -457,6 +457,10 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 **How to get into recovery mode without Bixby**
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **How to get into recovery mode with Home button**
 
@@ -509,10 +513,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 5.** After giving the correct details, you can provide another pattern lock to the phone.
 
 ![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
 
@@ -588,22 +588,21 @@ This guide provides insight into the most common Android issue. Here, we have di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harmonious-hits-free-download-zones-for-skype-tunes/"><u>[New] Harmonious Hits Free Download Zones for Skype Tunes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-faults-recovering-login-credentials-quickly/"><u>[New] In 2024, Facebook Faults? Recovering Login Credentials Quickly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-comprehensive-analysis-of-frozen-treat-screen-capture/"><u>[Updated] 2024 Approved Comprehensive Analysis of Frozen Treat Screen Capture</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-gt-5-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme GT 5 Pro</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/easy-guide-customizing-system-power-settings-via-windows-control-panel-tech-tips-by-yl/"><u>Easy Guide: Customizing System Power Settings via Windows Control Panel - Tech Tips by YL</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-scoop-on-apples-latest-rumored-touchscreen-macbook-price-estimates-and-speculated-specifications-inside/"><u>Get the Scoop on Apple's Latest Rumored Touchscreen MacBook - Price Estimates and Speculated Specifications Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-error-1603-critical-failure-in-software-setup-process/"><u>How to Resolve Error 1603: Critical Failure in Software Setup Process</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-f23-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo F23 5G Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C32 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-m6-pro-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco M6 Pro 4G? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-c22-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia C22 Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Red Magic 8S Pro Phone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/master-mac-gifs-top-10-recording-tools/"><u>Master Mac GIFs Top 10 Recording Tools</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-how-to-address-iphones-external-device-recognition-error/"><u>Resolved: How to Address iPhone's External Device Recognition Error</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-c50-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco C50</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/ultimate-guide-steps-to-retrieve-deleted-documents-from-an-external-hard-disk/"><u>Ultimate Guide: Steps to Retrieve Deleted Documents From an External Hard Disk</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-transformative-tech-review-magix-vpx-redefines-editing/"><u>[New] In 2024, Transformative Tech Review Magix VPX Redefines Editing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-thrills-with-the-holy-stone-predator-mini-a-detailed-rc-helicopter-drone-review/"><u>Budget-Friendly Thrills with the Holy Stone Predator Mini: A Detailed RC Helicopter Drone Review</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-gpos-on-single-user-accounts-using-the-latest-windows-oses/"><u>Configuring GPOs on Single-User Accounts Using the Latest Windows OSes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-drivers-for-your-amd-ati-radeon-hd-3450-quick-guide/"><u>Get the Latest Drivers for Your AMD ATI Radeon HD 3450 - Quick Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-accurate-news-from-google-feed-amidst-changes-and-maximizing-your-internet-experience-on-the-go/"><u>Getting Accurate News From Google Feed Amidst Changes and Maximizing Your Internet Experience on the Go</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-nord-3-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-reno-8t-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Reno 8T</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme Narzo 60 Pro 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-f5-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco F5 5G Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-webcam-selection-for-expert-recording/"><u>In 2024, Premium Webcam Selection for Expert Recording</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-g24-power-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola G24 Power Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/must-have-gear-for-luxury-sedan-sj4000-enthusiasts-for-2024/"><u>Must-Have Gear for Luxury Sedan SJ4000 Enthusiasts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-access-denials-8-tips/"><u>Troubleshooting Windows Access Denials: 8 Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-12plus-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme 12+ 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

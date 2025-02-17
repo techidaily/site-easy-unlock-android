@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia G310 Device
-date: 2025-02-02T16:37:25.807Z
-updated: 2025-02-07T16:56:57.853Z
+date: 2025-02-09T22:36:40.158Z
+updated: 2025-02-17T02:57:22.342Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,10 +20,6 @@ Nowadays, the security mode is enabled in almost all digital devices, which is t
 So, if you have ever been stuck due to a lock code, go through the article to resolve the issue and swipe up to unlock a password that somehow gets forgotten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to disable Swipe Screen to unlock when you can access the phone?
 
@@ -46,10 +42,6 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 **Step 5:** If you click the PIN code option again, the drop-down menu will be listed with more options. Now select the option “None.”
 
 ![disable swipe screen](https://images.wondershare.com/drfone/article/2017/10/15090620295520.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That's all. You have successfully run out of the disable commands for the swipe up to unlock the screen. You can now open and access your device without any security methods.
 
@@ -83,7 +75,7 @@ Remove 4 Types of Android Screen Lock without Data Loss
 ![boot in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** You will see the result right in front of you as Dr.Fone - Screen Unlock, recovery will bypass swipe lock Android without hampering your data. Foremost, you can now access your device without swipe up to unlock the screen.
@@ -104,6 +96,10 @@ The steps below imply turning off of swiping screen instantly:
 
 ![android phone security settings](https://images.wondershare.com/drfone/article/2017/10/15090622395204.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** To turn off the swipe screen, when the pattern is enabled then, choose “Screen lock” and then click on “NONE.”
 
 ![select none](https://images.wondershare.com/drfone/2020/enable-screen-lock.jpg)
@@ -117,10 +113,6 @@ The steps below imply turning off of swiping screen instantly:
 ## Conclusion
 
 Now, to sum up, we would say that in this article, we tried to bring out the best solutions for your Android device in such cases wherein you want to disable your screen security. The Dr.Fone - Screen Unlock is simply a proven mechanism that delivers what we need and that, too, without any data loss. We ensure that you can disable the swipe screen to unlock easily and effectively using the methods given above. Hence, you can access your phone by bypassing swipe lock Android even if you forget the screen lock code. So, don't just wait, but bring out the solution for the swipe screen to unlock the Android device with [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips and Tricks for Setting Up your Nokia G310 Phone Pattern Lock
 
@@ -137,10 +129,6 @@ A **pattern lock** is used to identify the actual user by your Android phone. It
 So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
 
 ## Part 2: Best Tool to Unlock Your Pattern
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
 
@@ -161,10 +149,6 @@ To unlock the pattern lock on your device, the “Unlock Android Screen” will 
 If you click “Remove without Data Loss,” only some limited Samsung or LG phone models can be unlocked without losing data. To unlock most phone brands' screens, “100% Remove Screen Lock” is a better choice.
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can find the brand compatible with your phone in the following list.
 
@@ -194,12 +178,20 @@ Now you’re in recovery mode, pick these options in the image below.
 
 ![description of erase the cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the “Unlocked successfully” appears on the screen, you can access your device without a pattern lock or other locks!
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
@@ -224,10 +216,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 8.** Complete the process and sign out of your account on the browser.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Forgot Pattern (For Android 4.4 or earlier)
 
 **Step 1.** First and foremost, give some wrong patterns to your phone. It will tell you that you attempted the incorrect **pattern lock**.
@@ -245,6 +233,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 ![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Emergency Call Trick (For Android 5 or 5.1.1)
 
@@ -342,7 +334,7 @@ Firstly, you need to download and install this awesome software on your computer
 ![android lock screen remover](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Select the Nokia G310 device brand that you want to unlock the screen.
@@ -397,10 +389,6 @@ So many options will open on the next screen now. Now use the volume down key an
 
 ![unlock android phone by hard reset](https://images.wondershare.com/drfone/article/2016/08/14718680099553.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3. Reboot system now**
 
 Once you have selected “Yes –delete all user data” it will reset all things and delete all of your data from your phone as well. Now select “reboot system now” on the next screen to start your phone. That's it, you have successfully unlocked your phone now but lost everything from your phone that you can't get back.
@@ -416,6 +404,10 @@ Users can unlock their lock screen with an android lock screen bypass app, this 
 Download and install a lock screen bypass app by running it on your laptop from the Google Play Store on your Nokia G310 devicewhich is locked. You need to install the application on your mobile remotely now. Once it is started installing the app once installing icon you will see it on mobile.
 
 ![lock screen bypass app](https://images.wondershare.com/drfone/article/2016/08/14725639549195.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2. Plug charge with your android phone**
 
@@ -437,6 +429,14 @@ Now it will remove the password from your phone and unlock it. You will see the 
 
 ![lock screen bypass app-see home screen of your device](https://images.wondershare.com/drfone/article/2016/08/14725644785297.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrap it up
 
 We have discussed 3 different ways above to unlock the locked screen of android mobiles all these three methods will work for you, but there are some differences in every method. If you follow the second method which is resetting your phone then you will lose everything on your phone and [the first method](https://drfone.wondershare.com/unlock/locked-out-of-android-phone.html#part_1) will help you to unlock your phone screen without losing a single file from your android phone, the third way is not reliable because it doesn’t work on all android devices. So finally we can say android lock screen removal software from Wondershare is the best choice for you to unlock your phone screen when the question comes to your mind locked out my phone and how I can unlock it without losing data now.
@@ -455,22 +455,22 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-promote-instagram-post-successfully/"><u>[New] 2024 Approved How to Promote Instagram Post Successfully</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-elite-tech-for-saving-your-on-camera-video-memories/"><u>[Updated] 2024 Approved Elite Tech for Saving Your On-Camera Video Memories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-efficiently-delete-unwanted-video-feedback/"><u>[Updated] In 2024, How to Efficiently Delete Unwanted Video Feedback</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphones-and-gifs-perfecting-your-visual-playlist/"><u>[Updated] IPhones & GIFs Perfecting Your Visual Playlist</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-navigating-the-world-of-speech-to-text-with-google-expertly-for-2024/"><u>[Updated] Navigating the World of Speech-to-Text with Google Expertly for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a1x-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A1x 5G</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-android-enables-seamless-screen-capturing/"><u>How Android Enables Seamless Screen Capturing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-note-50-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme Note 50 Phone without Google Account?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-poco-x6-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Poco X6</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-12-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme 12 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nubia-red-magic-8s-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nubia Red Magic 8S Pro Fingerprint Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c300-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia C300</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-understanding-and-utilizing-ez-grabber-like-a-pro/"><u>In 2024, Understanding and Utilizing EZ Grabber Like a Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-challenges-effective-ways-to-address-chatgpt-moderation-issues/"><u>Overcoming Challenges: Effective Ways to Address ChatGPT Moderation Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-m6-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco M6 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173817969-uncover-the-11-superb-free-word-puzzle-apps-today/"><u>Uncover the 11 Superb Free Word Puzzle Apps Today!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ollect-priceless-imagery-from-trusted-4-youtube-directories/"><u>[New] Collect Priceless Imagery From Trusted 4 YouTube Directories</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-dominate-facebook-traffic-with-innovative-video-strategies-for-2024/"><u>[New] Dominate Facebook Traffic with Innovative Video Strategies for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-exploring-snapchats-top-stories/"><u>[New] Exploring Snapchat's Top Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-collection-of-iphone-and-pcs-top-8-converters/"><u>[New] The Ultimate Collection of iPhone & PC's Top 8 Converters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leveraging-adobe-connect-for-exceptional-video-capture-and-editing-for-2024/"><u>[Updated] Leveraging Adobe Connect for Exceptional Video Capture & Editing for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-saving-youtube-videos-a-legal-overview-for-2024/"><u>[Updated] Saving YouTube Videos A Legal Overview for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-tool-list-beyond-sharex/"><u>2024 Approved The Ultimate Tool List Beyond ShareX</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-oppo-k11-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo K11 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-c67-4g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme C67 4G Fingerprint Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-google-pixel-8-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Google Pixel 8 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-narzo-n55-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme Narzo N55</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oneplus-12-phone-that-is-locked-by-drfone-android/"><u>How to Reset a OnePlus 12 Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oneplus-ace-2v-phone-that-is-locked-by-drfone-android/"><u>How to Reset a OnePlus Ace 2V Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme Bootloader Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-proplus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro+ Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nubia-red-magic-8s-proplus-by-drfone-android/"><u>Universal Unlock Pattern for Nubia Red Magic 8S Pro+</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Nokia 105 Classic Pattern Lock Screen Everything You Need to Know
-date: 2025-02-06T16:19:47.674Z
-updated: 2025-02-07T16:24:58.362Z
+date: 2025-02-13T22:15:53.691Z
+updated: 2025-02-16T20:30:09.539Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,10 +27,6 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 
 ![setup android pattern lock screen-unlock your device](https://images.wondershare.com/drfone/article/2017/09/15057378431872.jpg) ![setup android pattern lock screen-Under the personal or privacy section](https://images.wondershare.com/drfone/article/2017/09/15057378838236.jpg) ![setup android pattern lock screen-access Lock Screen and Security](https://images.wondershare.com/drfone/article/2017/09/15057379016188.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - 4\. To set up a pattern lock screen, tap on the “Screen lock type” feature.
 - 5\. This will provide a list of all the different kinds of locks that you can apply. Ideally, it would be password, pin, pattern, swipe, or none. In “Swipe”, you can unlock a device just by swiping the screen. Whereas, in pattern, pin, or password, you would be needed to provide the respective pattern/pin/password to unlock the Nokia 105 Classic device.
 - 6\. We recommend setting up a lock screen pattern instead. To do this, tap on the “Pattern” option.
@@ -47,6 +43,10 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 11\. That’s it! By completing these steps, a screen lock pattern will be implemented on your device.
 
 Later, you can follow the same drill to change your device’s lock screen pattern as well. Though, you would be needed to provide the existing pattern to access these features. Out of all the lock screen options, you should go with the pattern lock. Not only it is the most accessible option, it also provides fast results with an added security.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What to do if you forget Android pattern lock?
 
@@ -66,6 +66,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 **4,820,695** people have downloaded it
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Top 10 Hardest pattern lock ideas for Android
 
@@ -105,11 +109,19 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386032751.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 # 6
 
 8 > 4 > 1 > 5 > 9 > 6 > 2 > 3 > 7
 
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386209876.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 # 7
 
@@ -134,6 +146,10 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 7 > 5 > 3 > 4 > 2 > 6 > 1 > 9
 
 ![android pattern lock idear 10](https://images.wondershare.com/drfone/article/2017/09/15057386838919.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After selecting and setting up a new screen lock pattern on your device, make sure that you remember it. You can lock and unlock your phone a few times with your new pattern lock in order to memorize it. Nevertheless, if you forget your lock screen pattern, then you can take the assistance of Dr.Fone Android Pattern Lock Removal to get an instant solution.
 
@@ -163,7 +179,7 @@ Android Device Manager can unlock your phone under a specific set of circumstanc
 - • Lastly, Android Device Manager is not compatible for all Android versions. For now, it is only compatible with devices running Android 4.4 and above, so your phone must be in this category for ADM to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to unlock Android phone with Android Device Manager?
@@ -221,6 +237,10 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![Dr.Fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Now, connect your Android device to the computer and select phone model in the list on the program.
 
 ![select model in the list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -248,14 +268,10 @@ The Android Device Manager is an excellent initiative taken by Google to give pe
 So, make use of this guide and get back command over your Android phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top 10 Password Cracking Tools For Nokia 105 Classic
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What is password cracking?**
 
@@ -313,10 +329,6 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 [http://www.oxid.it](http://www.oxid.it/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
 
 John the Ripper is a free multi or cross platform password cracking software. Its called multi platform as it combines different password cracking features into one package.
@@ -336,10 +348,6 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 
 [http://www.openwall.com](http://www.openwall.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Aircrack : Fast and effective WEP/WPA cracking tool
 
 Aircrack is a combination different tools used for Wifi, WEP and WPA passwords cracking. With the help of these tools you can crack WEP/WPA passwords easily and effectively
@@ -358,10 +366,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
 THC Hydra is a supper fast network password cracking tool. It uses network to crack remote systems passwords.
@@ -369,6 +373,10 @@ THC Hydra is a supper fast network password cracking tool. It uses network to cr
 It can be used to crack passwords of different protocols including HTTPS, HTTP, FTP, SMTP, Cisco, CVS, SQL, SMTP etc. It will give you option that you may supply a dictionary file that contains list of possible passwords. It’s best when we use it in Linux environment.
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of THC Hydra**
 
@@ -391,10 +399,6 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -412,10 +416,6 @@ OphCrack used to crack Windows user passwords with the help of rainbow tables th
 Ophcrack is completely free to download, Windows based password cracker that uses rainbow tables to crack Windows user passwords. It normally cracks LM and NTLM hashes. Software has simple GUI and can runs on different platforms.
 
 ![ophcrack00](https://images.wondershare.com/images/utilities/ophcrack00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of OphCrack**
 
@@ -483,7 +483,7 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features of Pwdump**
@@ -532,18 +532,24 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-steps-to-achieve-flawless-nocturnal-photography/"><u>[Updated] 2024 Approved Essential Steps to Achieve Flawless Nocturnal Photography</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-gameplay-enhancement-with-simple-screen-recorders/"><u>[Updated] Effortless Gameplay Enhancement with Simple Screen Recorders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-embracing-the-world-of-no-cost-text-animation/"><u>[Updated] Embracing the World of No-Cost Text Animation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-30-webcams-built-for-windows-os-for-2024/"><u>[Updated] Top 30 Webcams Built for Windows OS for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-poco-c55-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Poco C55 Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G24?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-11-proplus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme 11 Pro+</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-moto-g04-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Moto G04 Through Google Earth?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-lightroom-guide-creating-and-merging-stunning-hdr-images/"><u>In 2024, Lightroom Guide Creating & Merging Stunning HDR Images</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-premium-panels-picked-the-top-10-4k-list/"><u>In 2024, Premium Panels Picked The #Top 10 4K List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-imagery-generation-how-to-craft-one-of-a-kind-graphics-using-microsofts-copilot/"><u>Innovative Imagery Generation: How to Craft One-of-a-Kind Graphics Using Microsoft's Copilot</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-narzo-n53-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme Narzo N53 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-experience-with-temus-off-brand-tech-gadgets-surprisingly-satisfactory/"><u>My Experience with Temu's Off-Brand Tech Gadgets - Surprisingly Satisfactory!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitterscape-in-focus-your-route-to-watching-hd-videos-for-2024/"><u>[New] Twitterscape in Focus Your Route to Watching HD Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger/"><u>[Updated] In 2024, Transforming Trips Into Tales The Roadmap to Becoming a Travel Blogger</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-savor-success-ideas-to-bolster-cookery-channel-brands/"><u>[Updated] Savor Success Ideas to Bolster Cookery Channel Brands</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nubia-red-magic-9-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nubia Red Magic 9 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analog-bliss-without-connections-at-lp60xbt-reviewed/"><u>Analog Bliss Without Connections: AT-LP60XBT Reviewed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-poco-m6-pro-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco M6 Pro 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-best-standing-workstations-expert-picks-by-zdnet/"><u>Discover the Best Standing Workstations - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-c53-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme C53 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-f23-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo F23 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo Reno 10 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-8s-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 8S Pro Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-poco-c51-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Poco C51</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n55-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N55 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-gt-neo-5-se-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme GT Neo 5 SE Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-bluetooth-mouse-stops-working-on-windows-computers/"><u>Quick Solutions for When Your Bluetooth Mouse Stops Working on Windows Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Lock Your Oppo A1x 5G Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2025-02-05T16:02:20.928Z
-updated: 2025-02-07T16:53:50.743Z
+date: 2025-02-12T17:23:20.764Z
+updated: 2025-02-16T22:02:58.002Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,6 +34,10 @@ These gestures gave Android developers an idea of creating apps, to make use of 
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Gesture Lock Screen
 
 A top-rated app in the Google Play Store, for gestures, the Gesture Lock Screen is a wonderful gesture app that locks and unlocks Android lock screens. Rated 4/5 stars in the Google Play Store, this app was developed by Q Locker.
@@ -62,10 +66,6 @@ The app was released early 2017, but Magic Unlock has already received 50,000-10
 
 Download the app from here - <https://play.google.com/store/apps/details?id=com.binarybuilding.magicunlock&hl=en>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Gesture Magic
 
 Another app that uses gesture to lock/unlock the screen is the Gesture Magic app, developed by Apps2all. Compatible with most Android devices, this app is very easy for you to use.
@@ -86,10 +86,6 @@ Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to se
 
 ![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555834839.jpg)![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555845748.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Gesture Lock Screen is designed to allow you to launch any personal application through your personalized gesture, so you do not have to worry about anyone meddling with the contents of your phone. The app comes with the following range of features:
 
 • Create any kind of password – letters, shapes, numbers, signatures, etc.
@@ -103,6 +99,10 @@ Gesture Lock Screen is designed to allow you to launch any personal application 
 With a 4.4/5-star rating in the Play Store, and with 5,000-10,000 downloads in a span of 2 months of its launch. The app works on Android 4.1 and above.
 
 Download it from - <https://play.google.com/store/apps/details?id=com.vasu.gesturescreenlock&hl=en>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5) Gestos – Gestures
 
@@ -138,6 +138,10 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android](https://images.wondershare.com/drfone/others/14546021103734.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After that, you will be moved to the Google Account Recovery page. There will be 3 main options which indicate 3 frequent problems. Select the first one, which is entitled "I don't know my password". Once you have chosen it, you will be required to fill in your Gmail address in the bar provided. Click on the Continue button as long as you have made sure to finish all these tasks.
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
@@ -146,23 +150,19 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-fill in a CAPCHA form](https://images.wondershare.com/drfone/others/14546022088819.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Finally, you will be shown a list of options on how to reset your Gmail password on Android devices. You can either use your alternative email address or your phone number to receive a verification code. Bear in mind to fill in any required information and put a check in the CAPCHA box to submit the process.
 
 ![reset Gmail password on Android-submit the process](https://images.wondershare.com/drfone/others/14546022423041.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** In this step, a blank bar will appear and it will demand you to type in your verification code. Just do it carefully to make sure there is no error. Once you have done it, a new screen will appear to tell you.
 
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
 
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6:** After you have done all the previous steps, you will know how to reset your Gmail password directly from your Android device.
 
@@ -188,10 +188,6 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 4. Gmail app provided you with the ability to have conversations online, and whenever a message comes, there will be a sound. In case you are in a vital conference, or you don't want to be disturbed by the noise, you can mute it. All you have to do is to tap into the conversation, choose the three dots icon then click on the Mute option in the menu.
 5. Enhance the speed and the accuracy of your search with the use of certain phrases. Let's take an instance to see what Gmail can do for you in this case. If you want to search for the mails which have been sent by a certain person, typefrom:(name of the person on Gmail) in the searching bar. And in case you would love to look for a private message from that person, please type is:chat:(name of the person on Gmail) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Video on How to Reset Gmail Password on Android Devices
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KvCMAn5bwx8" id="video-iframe-t"></iframe>
@@ -203,6 +199,10 @@ When protecting personal information on your phone, setting up a lock screen is 
 It depends on your phone and the type of lock code you have set up. Note that this will erase all your data from the phone, so be sure to back it up first. This post will teach you how to remove the screen lock PIN on Android devices using several methods. So if you cannot use your device, keep reading for the steps!
 
 ![remove forgotten screen lock pin](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How To Remove Screen Lock PIN On Oppo A1x 5G? 5 Simple Ways
 
@@ -246,6 +246,10 @@ Unlock your device with both facial and iris recognition.
 
 ![screen lock type](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you've forgotten your lock PIN on your Android device, don't worry - there are a few ways to reset it. Here's how:
 
 **Step 1**: Select Lock Screen > Screen lock type from the Settings menu.
@@ -260,6 +264,10 @@ It is not possible to remove the PIN from some Android devices. The Android devi
 
 ![device administrators](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1**: From the "Settings" option, select the "Security" option and click on it to begin.
 
 **Step 2**: Select "Device Administrators" from the menu, and you will see a list of apps that may restrict your ability to change the settings.
@@ -267,10 +275,6 @@ It is not possible to remove the PIN from some Android devices. The Android devi
 **Step 3**: Choose the Android device manager from the list.
 
 **Step 4**: Click on "Disable."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Remove PIN from Google Find My Device
 
@@ -302,6 +306,10 @@ Steps to get rid of forgotten phone PIN via factory reset:
 
 **Step 5**: Once your device has been factory reset, you need to restart it by selecting the Reboot system now option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Is There Any Universal Unlock PIN For Android?
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
@@ -329,10 +337,6 @@ We provide 2 options for you, and to unlock screen, you should select "Unlock An
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3. Select device model**
 
 There are still 2 buttons to choose, "100% Remove Screen Lock" is for most Android brands, but please back your device up before you pick it.
@@ -342,10 +346,6 @@ There are still 2 buttons to choose, "100% Remove Screen Lock" is for most Andro
 Check the brands' list and make sure your unlock process keeps.
 
 ![check the brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4. Enter into Recovery Mode**
 
@@ -357,13 +357,13 @@ Note: The specific processes are various according to different brands.
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Recovery Mode in Samsung phone without Bixby**
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Recovery Mode in Samsung phone with Home Button**
 
@@ -380,7 +380,7 @@ Now it's a phone everyone can access without a password or pattern.
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: In What Cases Should We Remove PIN On Our Android Phone?
@@ -415,18 +415,19 @@ Luckily, Wondershare Dr.Fone - Screen Unlock is a powerful and easy-to-use lock 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-humorhatchery-studio/"><u>[New] HumorHatchery Studio</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-circular-captures-iphone-filmmaking-tips-for-social-media/"><u>[New] In 2024, Circular Captures IPhone Filmmaking Tips for Social Media</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-nostalgia-edition-revisiting-goofy-film/"><u>[New] The Nostalgia Edition Revisiting Goofy Film</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[Updated] Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-fine-tuning-instagram-stories-tempo-with-ease/"><u>2024 Approved Fine-Tuning Instagram Stories Tempo with Ease</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-seamless-gift-discovery-journey-for-2024/"><u>Crafting a Seamless Gift Discovery Journey for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco F5 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo A56s 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-12-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme 12 Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-ethical-use-of-ai-chatbots-like-chatgpt-in-mental-health-counseling/"><u>Navigating the Ethical Use of AI Chatbots Like ChatGPT in Mental Health Counseling</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-employment-the-top-7-impacts-of-generative-ai-on-job-opportunities/"><u>Transforming Employment: The Top 7 Impacts of Generative AI on Job Opportunities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effective-webinar-logging-tips-avoiding-common-pitfalls-windows-macos/"><u>[New] 2024 Approved Effective Webinar Logging Tips Avoiding Common Pitfalls (Windows, macOS)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effective-strategies-for-podcast-on-insta-story-and-posts/"><u>[New] Effective Strategies for Podcast on Insta Story & Posts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-easy-to-understand-techniques-for-first-time-filmmakers-using-green-screens/"><u>[New] In 2024, Easy-to-Understand Techniques for First-Time Filmmakers Using Green Screens</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-navigating-the-world-of-digital-filters-for-optimal-video-quality/"><u>[Updated] In 2024, Navigating the World of Digital Filters for Optimal Video Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stable-shootings-top-brands-for-online-filmmaking/"><u>[Updated] Stable Shootings - Top Brands for Online Filmmaking</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-definitive-guide-ios-screenshots-and-recording-2inas-2023-for-2024/"><u>[Updated] The Definitive Guide IOS Screenshots & Recording (2Inas 2023) for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-plus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nokia C12 Plus Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-8t-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Reno 8T 5G Phone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-10-superior-choices-high-end-video-conferencing-software/"><u>In 2024, 10 Superior Choices High-End Video Conferencing Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-recording-gear-the-ultimate-voice-recorders-2023/"><u>In 2024, Cutting-Edge Recording Gear The Ultimate Voice Recorders 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-gt-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme GT 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-12-proplus-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-v30-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme V30 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-a-whopping-250-off-on-acers-powerhouse-laptop-for-gamers-exclusive-insights-inside-special/"><u>Unlock a Whopping $250 Off on Acer's Powerhouse Laptop for Gamers, Exclusive Insights Inside! Special</u></a></li>
 </ul></div>
 

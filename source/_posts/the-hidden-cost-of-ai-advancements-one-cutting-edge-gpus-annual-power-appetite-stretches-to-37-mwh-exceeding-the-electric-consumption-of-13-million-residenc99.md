@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of AI Advancements: One Cutting-Edge GPU's Annual Power Appetite Stretches to 3.7 MWh – Exceeding the Electric Consumption of 1.3 Million Residences"
-date: 2025-02-06T16:32:00.100Z
-updated: 2025-02-07T16:49:12.935Z
+date: 2025-02-15T03:39:08.209Z
+updated: 2025-02-17T03:04:17.901Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,21 +76,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-banishing-facebook-broadcasts-from-laptoptablet/"><u>[New] 2024 Approved Banishing Facebook Broadcasts From Laptop/Tablet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-securely-download-your-youtube-playlist-at-any-time/"><u>[Updated] 2024 Approved Securely Download Your YouTube Playlist at Any Time</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-seamless-integration-of-real-time-video-on-websites/"><u>[Updated] In 2024, Seamless Integration of Real-Time Video on Websites</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-windows-11-gamers-guide-to-stunning-game-recordings-for-2024/"><u>[Updated] Windows 11 Gamers' Guide to Stunning Game Recordings for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decoding-the-tech-behind-netgear-nighthawk-x6-wi-fi-repeater-an-exploration-of-its-functionality-and-characteristics/"><u>Decoding the Tech Behind Netgear Nighthawk X6 Wi-Fi Repeater: An Exploration of Its Functionality and Characteristics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-g42-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia G42 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c02-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C02?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-k11x-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo K11x</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme GT 5 Pro?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco C51 Phone with Broken Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme 11 Pro+ Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme 11 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-zoominnovatex7-advanced-imagery-enlargement/"><u>In 2024, ZoomInnovateX7 Advanced Imagery Enlargement</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-innovative-methods-for-achieving-professional-level-dubbing-with-filmora-software-for-2024/"><u>New Innovative Methods for Achieving Professional-Level Dubbing with Filmora Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-free-system-resources-addressing-shell-induced-cpu-overruns-on-windows/"><u>Unlocking Free System Resources: Addressing Shell-Induced CPU Overruns on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/afeguarding-your-listening-pleasure-with-3-steps/"><u>[New] Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-becoming-one-in-the-tiktok-living-room-your-steps/"><u>[Updated] Becoming One in the TikTok Living Room Your Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-c50-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco C50</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-18-breakthrough-metaverse-models-for-enhanced-perspective/"><u>2024 Approved 18 Breakthrough Metaverse Models for Enhanced Perspective</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728505471375-windows-106/"><u>容量不足によるWindows 10アップグレード困難を解消する6つのスマートな方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-own-blemishes-overlooked/"><u>AI's Own Blemishes Overlooked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c12-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C12</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/decoding-smart-speakers-a-comprehensive-review-of-google-nest-audio-vs-apple-homepod/"><u>Decoding Smart Speakers: A Comprehensive Review of Google Nest Audio Vs. Apple HomePod</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-f5-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco F5 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-c67-4g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme C67 4G Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia G42 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-11-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 11 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/multi-computer-os-setup-a-step-by-step-guide-to-concurrent-operating-system-installations/"><u>Multi-Computer OS Setup: A Step-by-Step Guide to Concurrent Operating System Installations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-software-to-reverse-audio-online-desktop-and-phone/"><u>New 2024 Approved 10 Best Software to Reverse Audio Online, Desktop, and Phone</u></a></li>
 </ul></div>
 

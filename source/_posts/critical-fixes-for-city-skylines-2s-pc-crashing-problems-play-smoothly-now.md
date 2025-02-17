@@ -1,7 +1,7 @@
 ---
 title: Critical Fixes for City Skylines 2'S PC Crashing Problems - Play Smoothly Now
-date: 2025-02-04T16:53:58.131Z
-updated: 2025-02-07T16:42:27.860Z
+date: 2025-02-12T16:55:23.004Z
+updated: 2025-02-17T03:16:35.159Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -56,10 +60,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
 
@@ -76,6 +76,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  If youâ€™ve removed all these conflicting applications but your Minecraft is still not responding, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -115,7 +119,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -127,7 +131,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Minecraft as administrator
@@ -140,20 +144,20 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
@@ -175,10 +179,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  2) Type**appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click**Minecraft** and select**Uninstall** .
 
@@ -218,19 +218,17 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-invest-in-quality-screen-capture-bandicam-or-camtasia/"><u>[New] In 2024, Invest in Quality Screen Capture Bandicam or Camtasia?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ncrease-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>[New] Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-monetary-milestones-a-look-at-pewdiepies-yearly-income/"><u>[New] Monetary Milestones A Look at PewDiePie's Yearly Income</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-upgrading-your-shoot-must-have-film-tech-for-creators/"><u>[Updated] 2024 Approved Upgrading Your Shoot Must-Have Film Tech for Creators</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-money-trail-exploring-mr-beasts-path-for-2024/"><u>[Updated] The Money Trail Exploring Mr. Beast's Path for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-x5-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco X5 Pro? Try These Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock OnePlus Open PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-digital-disruptions-a-comprehensive-collection-of-online-sound-effects/"><u>In 2024, Digital Disruptions A Comprehensive Collection of Online Sound Effects</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-c65-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco C65 Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-c02-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia C02 Phone?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-c65-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco C65 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nokia-c32-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nokia C32 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-stable-adobe-after-effects-performance-in-windows-1110-environments/"><u>Troubleshooting Tips for Stable Adobe After Effects Performance in Windows 11/10 Environments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-method-to-integrate-flv-content-on-youtube/"><u>[Updated] The Ultimate Method to Integrate FLV Content on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-resolved-imovie-audio-issues-post-mp4-export-troubleshooting-guide/"><u>1. Resolved: IMovie Audio Issues Post-MP4 Export - Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-line-up-the-best-9-free-youtube-logo-makers-reviewed/"><u>2024 Approved Prime Line-Up The Best 9 Free YouTube Logo Makers Reviewed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-ace-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Ace 2?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-the-latest-fingerprint-recognition-driver-for-your-pc/"><u>How to Download the Latest Fingerprint Recognition Driver for Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-motorola-moto-g34-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Moto G34 5G Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-bootloader-easily-by-drfone-android/"><u>How to Unlock Poco M6 Pro 4G Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-note-50-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme Note 50 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nubia-red-magic-9-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nubia Red Magic 9 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instantaneous-methods-for-video-to-mp3-on-instagram-for-2024/"><u>Instantaneous Methods for Video-to-MP3 on Instagram for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mystery-solved-accessing-the-missing-la-noire-pc-edition-explained/"><u>The Mystery Solved: Accessing the Missing L.A. Noire PC Edition Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gamers-insights-on-the-best-addictive-elements/"><u>Top Gamers' Insights on the Best Addictive Elements</u></a></li>
 </ul></div>
 

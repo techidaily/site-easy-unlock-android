@@ -1,7 +1,7 @@
 ---
 title: Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus Device
-date: 2025-02-05T16:51:17.179Z
-updated: 2025-02-07T16:39:42.092Z
+date: 2025-02-16T00:24:52.846Z
+updated: 2025-02-17T03:25:05.602Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,6 +30,10 @@ Remove Android lock screen in 5 minutes
 
 **3,981,454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1.Hi Locker
 
 Hi Locker offers a similar style to CyanogeMod's lock screen both from an aesthetics and functionality standpoint. It has all the looks of the most popular devices including Lollipop and iOS, as well as a second screen containing the calendar and many more goodness. If you are looking for unlock apps for Android, Hi Locker is clearly one of the best choices.
@@ -37,6 +41,10 @@ Hi Locker offers a similar style to CyanogeMod's lock screen both from an aesthe
 Hi Locker allows password and pattern unlocking.
 
 ![unlock apps for android-Hi Locker](https://images.wondershare.com/drfone/article/2016/05/14631657268767.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2.Lok Lok
 
@@ -60,10 +68,6 @@ This android unlock app allows pin and pattern unlock, and it also has an intrud
 
 ![unlock apps for android-CM Locker](https://images.wondershare.com/drfone/article/2016/05/14631659122551.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5.Slidelock Locker
 
 Another app that takes advantage of Apple's popularity by bringing in the "slide-to-unlock" mechanics and the general aesthetic qualities of the iOS home screen. In addition to possessing the basic functions, this Android unlock screen app also highlights messages.
@@ -71,7 +75,7 @@ Another app that takes advantage of Apple's popularity by bringing in the "slide
 ![unlock apps for android-Slidelock Locker](https://images.wondershare.com/drfone/article/2016/05/14631659338843.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6.Semper
@@ -84,10 +88,6 @@ How to unlock : Solve a problem or an equation to unlock the screen.
 
 ![unlock apps for android-semper](https://images.wondershare.com/drfone/article/2016/05/14631659402691.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7.Next Lock Screen
 
 Next Lock Screen is a cross platform unlock app that's compatible with the complete Android ecosystem, making it one of the most valuable unlock apps for Android on the market. As a Microsoft product, it likes to advertise some of their other applications but this feature can thankfully be turned off. The notifications are clearly Microsoft quality which is not necessarily something that can be said about your average Android unlock screen app.
@@ -95,6 +95,10 @@ Next Lock Screen is a cross platform unlock app that's compatible with the compl
 How to unlock : Pin,swipe or pattern.
 
 ![unlock apps for android-Next Lock Screen](https://images.wondershare.com/drfone/others/next-lock-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8.AcDisplay
 
@@ -106,10 +110,6 @@ How to unlock : You can swipe anywhere on the screen.
 
 ![unlock apps for android-AcDisplay](https://images.wondershare.com/drfone/article/2016/05/14631660873877.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9.C Locker Pro
 
 It would be unjust to call it an Android unlock app, this application is actually a carefully selected package that allows you to do a lot of cools stuff with your new and improved home screen. Not only it supports the usually methods of unlocking like swipe or patterns, but you can actually set double or even triple tap options which is quite unique and a very good idea. The app has every other usual options including setting your favorite apps or showing the lock, as well as the date and the temperature of course.
@@ -119,6 +119,10 @@ Google Play link: [https://play.google.com/store/apps/details?id=com.ccs.lockscr
 How to unlock : This Android unlock screen app allows you to unlock the screen with swiping, patterns or even specific number of taps.
 
 ![unlock apps for android-C Locker Pro](https://images.wondershare.com/drfone/others/c-locker-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Echo Notificaiton Lockscreen
 
@@ -131,10 +135,6 @@ How to unlock : Slide right like you would with an iOS device.
 _**Bonus Tips:** Easily bypass Android Lock Screen/Google FRP on Android with [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It effortlessly resolves issues like lost Google accounts, forgotten PIN codes, and unlocking used phones. Supported mainstream Android brands like Samsung, Xiaomi, Vivo, etc._
 
 ## Top 10 Password Cracking Tools For OnePlus Nord N30 SE
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What is password cracking?**
 
@@ -219,6 +219,10 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Aircrack**
 
 - Supportive with both Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) cracking techniques
@@ -237,6 +241,10 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of THC Hydra**
 
 - Fast cracking speed
@@ -248,6 +256,10 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 
 [https://www.thc.org/thc-hydra/](https://www.thc.org/thc-hydra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. RainbowCrack : New Innovation in Password Hash Cracker
 
 RainbowCrack software uses rainbow tables to crack hashes, in other words we can say it uses process of a large-scale time-memory trade for effective and fast password cracking.
@@ -257,10 +269,6 @@ Large-scale-time-memory-trade-off is a process of computing all hashes and plain
 Password cracking using rainbow table is faster than the normal brute force attack method. It’s available for Linux and Windows operating system.
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Rainbow Crack**
 
@@ -279,10 +287,6 @@ OphCrack used to crack Windows user passwords with the help of rainbow tables th
 Ophcrack is completely free to download, Windows based password cracker that uses rainbow tables to crack Windows user passwords. It normally cracks LM and NTLM hashes. Software has simple GUI and can runs on different platforms.
 
 ![ophcrack00](https://images.wondershare.com/images/utilities/ophcrack00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of OphCrack**
 
@@ -304,10 +308,6 @@ It can be used for different network protocols including HTTP, FTP, IMAP, NNTP a
 It is only available for windows operation systems. Tool has a limitation that it has not been updated since 2000.
 
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Brutus**
 
@@ -393,10 +393,6 @@ This article goes through the details of Google Smart Lock and its significance.
 
 ![disabling google smart lock feature](https://images.wondershare.com/drfone/article/2024/01/guide-to-remove-or-disable-google-smart-lock-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Understanding Google Smart Lock and How It Works?
 
 Want to know **what is Google Smart Lock**? [Google Smart Lock](https://get.google.com/smartlock/) serves as a multi-purpose tool within the Google ecosystem. It is designed to streamline security measures and password management access across platforms. At its core, Google Smart Lock operates as a feature that manages passwords. Google Smart Lock aims to enhance authentication processes. Primarily, it operates across Android devices and computers.
@@ -406,10 +402,6 @@ It offers a unified approach to security, ensuring you don’t have to remember 
 ## Part 2. Recognizing Some Top Features of Google Smart Lock
 
 Google Smart Lock’s password management has revolutionized how users handle and secure their login credentials. It remains a cornerstone when handling Android devices and computer systems. The following are several notable features that significantly enhance user convenience and security:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Password Autofill
 
@@ -440,6 +432,10 @@ Some users focus on privacy and feel uncomfortable with Google Smart Lock's acce
 ### 2\. Glitches and Technical Issues
 
 Technical glitches in the functioning of Google Smart Lock can be frustrating. This is especially prominent when managing passwords with similar usernames across different websites. The same can happen when using similar passwords for different websites or apps. Users experiencing such issues can seek to remove it to restore regular operations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. No Updates
 
@@ -521,6 +517,10 @@ Select your device brand and "100% Remove Screen Lock." Selecting the OnePlus No
 
 ![choose to remove screen lock fully](https://images.wondershare.com/drfone/article/2024/01/guide-to-remove-or-disable-google-smart-lock-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 ## Conclusion
@@ -541,21 +541,16 @@ This comprehensive guide describes the significance of **Google Smart Lock**. It
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[Updated] Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-chuckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>[Updated] In 2024, Chuckle Chronicles Top 10 Humoristic YouTube Video Plans</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-f23-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo F23 5G</u></a></li>
-<li><a href="https://article-posts.techidaily.com/conquering-the-creative-sector-with-savvy-strategies/"><u>Conquering the Creative Sector with Savvy Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-your-music-files-seamlessly-with-movavin-free-flac-to-mp4-tool-online/"><u>Convert Your Music Files Seamlessly with Movavi'n Free FLAC to MP4 Tool Online!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-these-fabul-challenging-game-options-within-chatgpt/"><u>Explore These Fabul Challenging Game Options Within ChatGPT</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-130-music-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia 130 Music</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-f5-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco F5 5G Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nubia-z50-ultra-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nubia Z50 Ultra</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-m6-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco M6 5G Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-your-premium-85-inch-tcl-television-at-an-unbeatable-price-of-1000-post-prime-day-exclusive-deal/"><u>Secure Your Premium 85-Inch TCL Television at an Unbeatable Price of $1,000 Post-Prime Day - Exclusive Deal!</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-y200e-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Y200e 5G</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-tips-for-running-flipbuilder-books-seamlessly-on-ios-devices-like-the-ipad/"><u>Troubleshooting Tips for Running FlipBuilder Books Seamlessly on iOS Devices Like the iPad</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-red-magic-8s-propluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nubia Red Magic 8S Pro+s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-the-art-of-photographic-posts-on-instagram/"><u>Unlocking the Art of Photographic Posts on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-launch-your-first-sporty-video-channel-on-apple-systems/"><u>[Updated] How to Launch Your First Sporty Video Channel on Apple Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>2024 Approved Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cultivating-self-awareness-via-gpt-assistance/"><u>Cultivating Self-Awareness via GPT Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-costs-in-your-college-years-with-lenovos-student-exclusive-deals/"><u>Cutting Costs in Your College Years with Lenovo's Student-Exclusive Deals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-motorola-g24-power-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Motorola G24 Power?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nokia-c300-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nokia C300 Face Lock?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-instant-recording-audio-enriched-screens/"><u>In 2024, Instant Recording Audio-Enriched Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-refine-iphone-image-capture-specialized-filming-tools/"><u>In 2024, Refine iPhone Image Capture Specialized Filming Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-figma-project-with-clean-backgrounds/"><u>In 2024, Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-x5-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Poco X5 Pro Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-c51-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme C51 Phone</u></a></li>
 </ul></div>
 

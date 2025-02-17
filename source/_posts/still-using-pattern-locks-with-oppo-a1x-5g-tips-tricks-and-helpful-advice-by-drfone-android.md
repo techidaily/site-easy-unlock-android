@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo A1x 5G? Tips, Tricks and Helpful Advice
-date: 2025-02-02T16:11:18.776Z
-updated: 2025-02-07T16:28:17.306Z
+date: 2025-02-10T02:50:22.525Z
+updated: 2025-02-17T02:22:50.629Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,6 +19,10 @@ They have been along for a long, long time now – pattern locks – the easiest
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I: Things To Know About Pattern Locks
 
 The first cellphone locks were 4-digit number locks. Then came 6-digit codes, and even alphanumeric ones. Pattern locks were all the rage a while ago. Though pattern locks continue to be used, they are not considered safe to use any longer. What is all that about? Here’s what you need to know about pattern locks, whether you are a seasoned pattern lock user or not.
@@ -30,10 +34,6 @@ Believe it or not, technology has advanced at such a rapid pace in the last two 
 Pattern locks are patterns you create on your smartphone and designate as a smartphone lock/ screen lock. There is a 9-point keypad of sorts, and you start swiping your finger from any point to any point for any which way you feel like. Android 13 allows a minimum of 4 points registered. They are easy to create, and easy to use, hence called easy pattern locks.
 
 Pattern locks have only ever been offered on Android devices and were commonplace a few years ago until they were deemed not secure enough for use by modern standards because they were _easy_ to figure out by malicious actors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### I.II: Popularity and Usage
 
@@ -115,10 +115,6 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -135,25 +131,25 @@ Step 4: Now, follow the onscreen guide to prepare your device for screen unlocki
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After completing the process, when the Next button becomes available, click it.
 
 Your device will be successfully unlocked.
 
 ![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note that this method wipes all data on the Oppo A1x 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Your Oppo A1x 5G  Phone with Ease: The 3 Best Lock Screen Removal Tools
 
@@ -187,17 +183,9 @@ With Dr.Fone, you can remove the lock screen of any Oppo A1x 5G  mobile in four 
 
 ![remove Oppo A1x 5G  lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tool 2: Oppo A1x 5G  Password Unlock
 
 ![Oppo A1x 5G  unlock tool home screen](https://images.wondershare.com/drfone/article/2022/10/oppo-password-unlock-tool-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Oppo A1x 5G  unlock tool is free software that enables users to unlock Oppo A1x 5G  devices without a password. The **Oppo A1x 5G  password unlock tool** can bypass screen lock, FRP, Google verification, DIAG, and ADB. It works for all Oppo A1x 5G  smartphones. It is the best tool for those who forgot their phone's screen lock password. With Oppo A1x 5G  unlock tool, you don't have to complete complex steps, and the method to unlock devices is simple. As an Oppo A1x 5G  user, you should be aware of the fact that Oppo A1x 5G  doesn't allow password changes with a factory reset.
 
@@ -223,10 +211,6 @@ iToolab - UnlockGo is a simple **Oppo A1x 5G  pattern remove tool** that enables
 
 _**Bonus Tips:** Have you ever found yourself locked out of your Oppo A1x 5G  phone due to the Google Factory Reset Protection (FRP) feature? If so, don't worry, as there is a solution that can help you bypass this security measure. Easily [bypass Google FRP on Oppo A1x 5G  Phone](https://drfone.wondershare.com/google-frp-unlock/bypass-oppo-frp.html) with Dr.Fone - Screen Unlock (Android). It effortlessly resolves issues like lost Google accounts, forgotten PIN codes, and unlocking used phones. Supported brands include [Samsung](https://drfone.wondershare.com/guide/google-frp-bypass.html), [Xiaomi, Redmi](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-lock-on-xiaomi-redmi-and-poco-phones.html), [Oppo](https://drfone.wondershare.com/guide/bypass-google-frp-on-android.html), [Realme](https://drfone.wondershare.com/google-frp-unlock/realme-frp-bypass.html), and [Vivo](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-vivo-frp-without-computer.html)._
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs: Is Dr.Fone - Screen Unlock Safe for Your Oppo A1x 5G  Phone?
 
 Dr.Fone - Screen Unlock is the safest and most efficient tool to unlock your Oppo A1x 5G  device without a password. It only removes the lock screen and doesn't affect your device's security. One of the advantages of using Dr.Fone is that it saves your phone's warranty. When you unlock Oppo A1x 5G  phones with Dr.Fone, you don't need your Google password or a factory reset. Dr.Fone also gives you the option to back up your data. You can also use it to repair software problems on your device, like screen stuck, volume problems, or device lag.
@@ -242,9 +226,17 @@ Unlock Your Oppo A1x 5G  Phone Hassle-Free
 
 **3,981,454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These are the three best tools to unlock your Oppo A1x 5G  smartphone. Each of these tools can unlock your phone without a password. If we want to pick the best **Oppo A1x 5G  password unlock tool**, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is better than the other two for various reasons. With Dr.Fone, you get a simple user interface and an easy-to-follow procedure to unlock your device. The tool guides you to complete every step, and you can unlock your Oppo A1x 5G  smartphone within five minutes. And you also don't have to worry about losing your phone's warranty. Dr.Fone is a one-stop solution for Android problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 10 Password Cracking Tools For Oppo A1x 5G
 
@@ -284,6 +276,10 @@ We can easily access CUDA through libraries, directives and with the help of dif
 
 Given below is the list of Top10 Password cracking tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Cain and Abel : Top password cracking tool for Windows
 
 Cain & Abel is one of the top cracking tool for password cracking and password recovery for Windows OS.
@@ -291,6 +287,10 @@ Cain & Abel is one of the top cracking tool for password cracking and password r
 Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalysis attacks to crack encrypted passwords. So it only uses the weakness of system to crack password. GUI Interface of software is very simple and easy to use. But have availability limitation, tool only available for window based systems .Cain & Abel tool have many good features some of the features of tool are discussed below:
 
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of Cain & Abel:**
 
@@ -370,6 +370,10 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -399,10 +403,6 @@ Ophcrack is completely free to download, Windows based password cracker that use
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
 Brutus is the fastest, most flexible, and most popular software used to crack remote system passwords. It guess password through applying different permutations or by using a dictionary.
@@ -414,7 +414,7 @@ It is only available for windows operation systems. Tool has a limitation that i
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features of Brutus**
@@ -450,7 +450,7 @@ It normally gains access to these hashes from directories, network servers, or d
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Pwdump : Password recovery tool for Windows
@@ -511,17 +511,20 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-leapfrogging-into-digital-marketing-establishing-a-yt-channel-on-mobile/"><u>[New] 2024 Approved Leapfrogging Into Digital Marketing Establishing a YT Channel on Mobile</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-adjusting-youtube-video-scale-effectively/"><u>[New] Adjusting YouTube Video Scale Effectively</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-rising-stars-in-digital-domain/"><u>[New] Rising Stars in Digital Domain</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nokia-c12-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nokia C12 Pro Devices</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-troubleshoot-and-correct-the-503-error-on-youtube-across-computers-and-smartphones/"><u>How to Troubleshoot and Correct the 503 Error on YouTube Across Computers and Smartphones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Red Magic 8S Pro Phone?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>In 2024, Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-9-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 9 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-x6-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco X6 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-c51-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco C51 Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-ios-recovery-mode-entry-and-exit-techniques/"><u>Unlocking the Secrets of iOS Recovery Mode Entry and Exit Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-making-online-gaming-more-intimate-via-xbox-zoom/"><u>[New] Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tagging-tactics-how-to-leverage-instagrams-top-25-hashtags-for-2024/"><u>[New] Tagging Tactics How to Leverage Instagram's Top 25 Hashtags for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-sauce-to-viral-instagram-movie-magic/"><u>2024 Approved The Secret Sauce to Viral Instagram Movie Magic</u></a></li>
+<li><a href="https://os-tips.techidaily.com/6-effective-strategies-to-resolve-non-functioning-iphone-reminders-in-no-time/"><u>6 Effective Strategies to Resolve Non-Functioning iPhone Reminders in No Time!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-narzo-n55-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Narzo N55 Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-gt-5-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme GT 5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c67-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme C67 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-nubia-z50-ultra-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Nubia Z50 Ultra Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nubia Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-a-new-look-free-online-face-generators-for-everyone/"><u>New In 2024, Get a New Look Free Online Face Generators for Everyone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-of-skyrims-sse-on-windows/"><u>Overcoming Obstacles of Skyrim's SSE on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-c53-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nubia-z50s-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nubia Z50S Pro Phone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
 </ul></div>
 

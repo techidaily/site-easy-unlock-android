@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your OnePlus Nord N30 5G Phone Now with These Tips
-date: 2025-02-02T16:47:30.869Z
-updated: 2025-02-07T16:55:52.671Z
+date: 2025-02-11T20:04:54.577Z
+updated: 2025-02-16T18:56:57.621Z
 tags: 
   - unlock
   - remove screen lock
@@ -26,10 +26,6 @@ Pattern lock is an Android-only feature that makes it easy for users to have a m
 There is a 9-point grid on which you swipe your finger from point to point, in any direction, and when you take your finger off, that pattern you swiped becomes the key to unlock your smartphone.
 
 Pattern locks were exceedingly common only a few years ago, and they are not recommended for use any longer due to concerns (mentioned later in the article).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.1: Popularity and Usage
 
@@ -59,6 +55,10 @@ Now, if you must continue using a pattern lock, let’s help you know how to cre
 
 ![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Marte Loge, an M.Sc. Computer Science student, gave a presentation on pattern locks at DEFCON 23 and made a bold claim. She said, “Tell me who you are, and I will tell you your lock pattern.”
 
 She presented the following statistics to support her claim:
@@ -74,10 +74,6 @@ These are some of the most common pattern locks people create:
 - \- patterns in any other simple shape, such as square, triangle, star, etc.
 
 To understand how this is a security nightmare, the possible combinations for a 4-point pattern are a measly 1624, whereas by adding just 1 more point to the pattern and creating a 5-point pattern, the number of possible combinations becomes 7152, an increase of 5528 combinations. In stark contrast, creating a 9-point pattern would give you over 140,000 possible combinations!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.2: How to Create a Hard Pattern Lock
 
@@ -138,7 +134,7 @@ Step 3: Select your device manufacturer.
 ![drfone screen unlock manufacturer selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Prepare your device to unlock the screen.
@@ -155,6 +151,10 @@ All data on the OnePlus Nord N30 5G device is wiped under this method. Select Sa
 
 Whether it is an easy pattern lock or a hard pattern lock, the fact is that pattern locks are antiquated and a security nightmare. A minimum 6-digit PIN must be used, and using fingerprint recognition is the preferred way to go for Android devices. Using fingerprint recognition will require that users create a 6-digit PIN. On Apple devices launched after 2017, there is Face ID, Apple’s marketing term for face recognition. If you did indeed still set a hard pattern lock, only to promptly forget it, use Wondershare Dr.Fone – Screen Unlock (Android) to seamlessly unlock your phone right now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Show Wi-Fi Password on OnePlus Nord N30 5G
 
 Since the invention of Android OS in 2008 by Andy Rubin, our world has faced a dramatic change. Android seems to be controlling a considerably high portion of our life. We have bought many gadgets that use this amazing OS and most of which are phones. But how much can you do with your Android phone? Developers are always making it more interesting to use this interface.
@@ -165,6 +165,10 @@ Most of the time, we use Android phones, we get faced with the need to access th
 
 ## Part 1: Show Wifi Password on Rooted Android Device
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is Rooting?
 
 First of all, what does rooting mean? You have probably used a Windows computer or even Linux. For the case of Windows, when installing a new program or software, it always prompts a dialog box saying, "Administrator permission required to run this program." If you don't have the administrator permission, you won't install the program. In Android, this is called rooting. In simple terms, it means having the root permission to your phone. Some Android apps will require you the root permission, e.g., flashing your ROM. In this part, we will explain how you can show the Wi-Fi password on your Android with root.
@@ -174,7 +178,7 @@ To find the Wi-Fi passwords on your Android phone, you need to have an app to ex
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556285763404.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps of getting Wi-Fi password on Android with root
@@ -187,6 +191,10 @@ Download the ES File Explorer from your play store, install it, and open it.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556286507084.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Enable Root Explorer
 
 The root explorer needs to be enabled so that you can reach the root folders of the Wi-Fi passwords you need. By default, the root feature in this ES explorer is not enabled. To enable it, just tap on the list menu on the top left corner.:
@@ -196,10 +204,6 @@ The root explorer needs to be enabled so that you can reach the root folders of 
 This will drop down a list of controls. Scroll down and find the **Root Explorer** option and enable it.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Get the passwords' file.
 
@@ -294,11 +298,11 @@ You need to log into the Google account that is associated with the OnePlus Nord
 
 ![answer the security question](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - That's it; from this point forward, you may enter any new PIN or pattern that you can recall to unlock your smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
 
@@ -315,10 +319,6 @@ To bypass the Android lock screen, all you need to do is sign into the OnePlus N
 
 ![enter new password using google find my device](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Many Samsung customers have this issue, which prevents them from using their devices. Try using the "Find My Mobile" feature on your mobile if you wish to unlock it if you're a Samsung user. It would be helpful if you had a Samsung or Android model account.
 
 After that, use Find My Device to unlock your Android phone without losing any data by following the instructions below:
@@ -326,13 +326,17 @@ After that, use Find My Device to unlock your Android phone without losing any d
 ![unlock samsung without data loss](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Sign in with your Samsung account at findmymobile.samsung.com.
 - Choose "Lock my screen" from the menu on the left, type a new PIN in the box given, and then click "LOCK."
 
 ![generating new pin using lock my screen](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your smartphone will be unlocked, and the password will be changed to the new one after a brief delay.
 
@@ -372,10 +376,6 @@ When your phone is locked, you may access the recovery menu of your phone using 
 
 ![reboot the system and follow factory reset](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Unlock from Forgot Pattern (android 4.4 or lower)
 
 This is another choice that might assist you in unlocking your phone without a factory reset or password. You may have observed that when pattern lock was enabled on your device, a security PIN question was also prompted at that time.
@@ -383,6 +383,10 @@ This is another choice that might assist you in unlocking your phone without a f
 Therefore, you have the choice to Backup PIN, which might assist you in unlocking your smartphone, if you are unable to unlock it. To do it, take the following actions:
 
 ![unlock pattern lock using backup pin](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Click on Android pattern lock.
 - You'll see a notification telling you to try again in 30 seconds after failing many times.
@@ -483,10 +487,6 @@ It will cost some time for the backup. Do not disconnect your Android phone from
 
 When the backup is complete, you may click the View the backup button to see what's in the backup file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Bottom Line
 
 It would be best if you had been able to answer the question, "How to unlock an Android phone without password," using the techniques we have demonstrated here. The most effective way for resetting an Android phone is Wondershare Dr.Fone - Screen Unlock for Android. You may quickly reset a locked Android phone without a password with only a few clicks.
@@ -505,18 +505,22 @@ It would be best if you had been able to answer the question, "How to unlock an 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-comprehensive-guide-to-creating-movies-not-just-youtube/"><u>[Updated] In 2024, The Comprehensive Guide to Creating Movies, Not Just YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-securing-group-discussions-on-hangouts/"><u>[Updated] Securing Group Discussions on Hangouts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-vanguard-of-virtual-storage-top-choices/"><u>[Updated] The Vanguard of Virtual Storage Top Choices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-c32-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia C32 Unlock Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-poco-c50-devices-by-drfone-android/"><u>How to Reset Gmail Password on Poco C50 Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-11x-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 11X 5G</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-best-subtitle-manipulators-the-top-10-list-online/"><u>In 2024, Best Subtitle Manipulators - The Top 10 List (Online)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-honor-x9b-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor X9b Lock Screen Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12-proplus-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 12 Pro+ 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/smartwatch-showdown-deciding-on-google-pixel-or-apple-watch-series-9-for-your-daily-tech-companion/"><u>Smartwatch Showdown: Deciding on Google Pixel or Apple Watch Series 9 for Your Daily Tech Companion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/start-with-smart-edits-10-tips-for-new-photoshop-users/"><u>Start with Smart Edits 10 Tips for New Photoshop Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-9-free-youtube-logo-makers-for-2024/"><u>Top 9 Free YouTube Logo Makers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-the-most-durable-smartwatches-of-2024-in-depth-reviews-and-rankings-zdnet/"><u>Ultimate Guide to the Most Durable Smartwatches of 2024: In-Depth Reviews & Rankings | ZDNET</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-seamless-selection-the-finest-10-online-vimeo-file-harvesters-for-2024/"><u>[New] Seamless Selection The Finest 10 Online Vimeo File Harvesters for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-spark-10-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Spark 10 5G</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-changer-un-repertoire-mbr-vers-gpt-sous-windows-11-simplifie/"><u>Comment Changer Un Répertoire MBR Vers GPT Sous Windows 11 Simplifié</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-narzo-n55-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme Narzo N55</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-m6-pro-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco M6 Pro 4G? Try These Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-12-mini-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 12 mini? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c53-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme C53?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-6s-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 6s</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c110-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C110 Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Motorola Edge 40 Neo?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-c67-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme C67 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-s23-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel S23 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-12-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme 12 5G Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-find-x6-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Find X6 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

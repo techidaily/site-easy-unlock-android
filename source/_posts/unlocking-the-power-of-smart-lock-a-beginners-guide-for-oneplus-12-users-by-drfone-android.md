@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Smart Lock A Beginners Guide for OnePlus 12 Users
-date: 2025-02-01T16:49:36.274Z
-updated: 2025-02-07T16:21:14.329Z
+date: 2025-02-15T03:39:26.612Z
+updated: 2025-02-16T21:42:46.975Z
 tags: 
   - unlock
   - remove screen lock
@@ -86,10 +86,6 @@ Since you have already paired Bluetooth, it will ask you to choose the OnePlus 1
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
 
 ## Part 3: Turn On Smart Lock For Android With Trusted Locations
@@ -99,6 +95,10 @@ You can also add locations or addresses to Smart Lock Trusted Locations, and the
 Check current settings first.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555198742115.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On a new Android phone, visit Settings>Personal.
 
@@ -112,13 +112,13 @@ Then Secure Lock Settings.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200321422.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tap Smart Lock.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200954549.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap on Trusted Places.
 
@@ -140,6 +140,10 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555204276666.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - • A successful addition is listed and can be edited under the Edit work address.
 - • Close the Google Maps app.
 - • The work address is automatically propagated and configured with Smart Lock settings.
@@ -147,6 +151,10 @@ Tap on Add Trusted Places
 - • The work address you added is now listed under Work.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555205535430.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - • However, it is not yet configured as a Smart Lock option. Tap the location once, and it is enabled.
 - • The switch along the address to the right turns blue, indicating it is enabled.
@@ -156,10 +164,6 @@ Tap on Add Trusted Places
 
 - • The phone is now configured for the work address and will unlock whenever you are at the location.
 - • Since it works on Google Maps, the feature works through an Internet connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Turn On Smart Lock For Android With Trusted Face
 
@@ -178,13 +182,13 @@ _Setting Up Trusted Face_
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555210728317.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The device begins to gather data about your face. The trusted face icon appears. As a backup, in case Smart Lock does not recognize your face, use the manual system by applying the PIN or password to unlock the OnePlus 12 device.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555211623749.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In case Trusted Face is not required, tap on reset Trusted Face appearing under the Trusted Face menu. Tap on Reset to reset the option.
 
@@ -260,6 +264,10 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Unlock Android Pattern Lock Using the 'Forgot Pattern' Feature?
 
 If your device is running on Android 4.4 or older versions, then you can also take the assistance of the “Forgot Pattern” option to perform the pattern unlock. You won’t need a third-party tool or any other device to perform the desired operation. To learn how to unlock pattern lock on your device, follow these steps:
@@ -284,24 +292,16 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![find my mobile](https://images.wondershare.com/drfone/article/2017/09/15057372744992.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** You can select your device from the left panel. By default, it will provide its location on the map.
 
 ![select the OnePlus 12 device](https://images.wondershare.com/drfone/article/2017/09/15057372918464.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3.** Additionally, you can access various other services from here as well. Click on the “Unlock My Device” option to proceed.
 
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
@@ -315,6 +315,10 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 - **Step 2.** Now, tap and hold the “Power off” option.
 
 ![power off android phone](https://images.wondershare.com/drfone/article/2017/09/15057373454386.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** This will display the following pop-up message. Agree to it and restart your phone in Safe Mode.
 - **Step 4.** Once the OnePlus 12 device would be restarted in Safe Mode, the third-party lock screen would be disabled automatically.
@@ -340,10 +344,6 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
 - **Step 7.** Later, you can choose to reboot your phone and access it without any lock screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -391,6 +391,10 @@ You can ask, "Hey Google, open the Google Assistant settings," and it will show 
 Locate the “Lock Screen” settings and make sure to switch on “Assistant responses on lock screen.”
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Use Google Assistant on Lock Screen
 
@@ -489,6 +493,10 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 
 ![Select Unlock Android Screen from the options](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Remove Screen Lock Without Data Loss
 - In this step, you will be directed to select your device brand. Choose the Android device brand you are using and opt for "Remove without Data Loss" if you don't want to lose your data.
 
@@ -499,10 +507,6 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 Next, make sure to check and confirm the Brand, Device Name, and Device Model to unlock your Android screen. Tick the checkmark that says you agree with the warning and are ready to proceed. Click "Next" to unlock your screen.
 
 ![Check and confirm your device’s details](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Confirm to Unlock Screen
 
@@ -526,10 +530,6 @@ You May Also Interested:
 
 [<u>Complete Guide to Unlock Mi Account Without Password In 2024</u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Google Assistant is a versatile virtual assistant that is designed to help you with a wide range of tasks and make your daily life more convenient. Accessible on most modern Android devices, it enables users to perform several tasks through voice commands.
@@ -550,17 +550,24 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-digital-realms-downloadable-alarm-melodies/"><u>[New] 2024 Approved Best Digital Realms Downloadable Alarm Melodies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-picks-for-car-compatible-dvd-systems/"><u>[New] In 2024, The Ultimate Picks for Car-Compatible DVD Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views/"><u>[Updated] Breaking Into the Livestream Scene on YouTube with Under a Thousand Views</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-starter-accessories-for-gopro-newbies/"><u>[Updated] Ideal Starter Accessories for GoPro Newbies</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-blueprint-for-captivating-and-professional-looking-live-video-thumbnails-for-2024/"><u>[Updated] The Ultimate Blueprint for Captivating and Professional-Looking Live Video Thumbnails for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tune-treasure-trove-save-and-study-sound-files/"><u>2024 Approved Tune Treasure Trove Save & Study Sound Files</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-narzo-60-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme Narzo 60 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro Bootloader Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Bootloader Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme GT Neo 5</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-v30t-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme V30T</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mbrace-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification/"><u>[New] Embrace the Pause Button 3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-strategy-for-efficient-use-of-mobizens-recording-features-for-2024/"><u>[New] The Ultimate Strategy for Efficient Use of Mobizen's Recording Features for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-gopro-quest-finding-the-perfect-model/"><u>[Updated] Gopro Quest Finding the Perfect Model</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-picarts-quick-shield-for-facial-features/"><u>[Updated] PicArt's Quick Shield for Facial Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722983115690-elden-ring-cooperative-mode-hitches-solutions-inside/"><u>Elden Ring Cooperative Mode Hitches - Solutions Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-v30-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme V30</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-claude-pro-a-comparison-with-microsofts-chatgpt-plus/"><u>Exploring Claude Pro: A Comparison with Microsoft's ChatGPT Plus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gratitude-gift-selecting-high-quality-otus-freepaid/"><u>Gratitude Gift Selecting High-Quality OTUs (Free/Paid)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-12-pro-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 12 Pro Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oppo-k11-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo K11 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g310-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia G310 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-6s-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 6s Plus for Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-11-proplus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 11 Pro+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-f5-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco F5 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-10-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 10 Pro 5G Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g22-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia G22 Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-5-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme GT 5 Pro Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-resolving-miracast-issues-with-unsupported-graphics-drivers/"><u>Solved: Resolving Miracast Issues with Unsupported Graphics Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Nord CE 3 Lite 5G
-date: 2025-02-06T16:47:06.031Z
-updated: 2025-02-07T16:23:23.858Z
+date: 2025-02-12T17:17:32.673Z
+updated: 2025-02-16T20:18:36.785Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,10 +55,6 @@ The subsequent name on the list of best app locks using lock apps with the finge
 
 ![lock apps with fingerprint android-Fingerprint & Pin](https://images.wondershare.com/drfone/article/2017/10/15090399098286.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. FingerSecurity
 
 The next on the list is FingerSecurity - one of the feature-rich lock apps with fingerprint Android available for free download for your Android phones. You can lock practically any application with the help of FingerSecurity. In addition, it also has the knack to unlock multiple apps on a single go. If you are among those few people who have many locked apps, you are going to like this a lot! But one thing that you cannot negate is that despite the app being locked, the intruders may get a chance to view what is inside through the notifications. But Fingersecurity has an answer to this also – it has added a new notification locking feature!
@@ -78,7 +74,7 @@ The next on the list is FingerSecurity - one of the feature-rich lock apps with 
 ![lock apps with fingerprint android-FingerSecurity](https://images.wondershare.com/drfone/article/2017/10/15090399282756.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Norton Applock
@@ -96,10 +92,6 @@ Whenever we have heard the word anti-virus, the first name that comes to our min
 **Google Rating:** 4.6
 
 ![lock apps with fingerprint android-Norton Applock](https://images.wondershare.com/drfone/article/2017/10/15090399468920.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Perfect Applock
 
@@ -128,10 +120,6 @@ Now since we have told you about the best lock app with a fingerprint for Androi
 
 Do not forget to share your experiences with the apps mentioned in our article. We are waiting for your response!!!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Show Wi-Fi Password on OnePlus Nord CE 3 Lite 5G
 
 Since the invention of Android OS in 2008 by Andy Rubin, our world has faced a dramatic change. Android seems to be controlling a considerably high portion of our life. We have bought many gadgets that use this amazing OS and most of which are phones. But how much can you do with your Android phone? Developers are always making it more interesting to use this interface.
@@ -139,6 +127,10 @@ Since the invention of Android OS in 2008 by Andy Rubin, our world has faced a d
 Most of the time, we use Android phones, we get faced with the need to access the internet. The Wi-Fi capability of these Android gadgets makes it super easy for us to surf the web. Throughout using Wi-Fi, we connect to a number of them. This could be at school, a sub-way café, the gym, buses, hospitals, hotels, towns, and the list is endless. A password secures most of this. Needless to say, our brain is weak to store all these passwords for future use, especially if you would want to connect with a different gadget you have recently bought or even your laptop. In this article, we will introduce you to how to find wifi password on rooted and also unrooted Android devices.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/78mNMIr_wpI"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Show Wifi Password on Rooted Android Device
 
@@ -149,6 +141,10 @@ First of all, what does rooting mean? You have probably used a Windows computer 
 To find the Wi-Fi passwords on your Android phone, you need to have an app to explore files which also supports a root user. In this case, ES FileExplorer or Root Explorer will come in handy. However, it turns out that the latter is offered at $3. Let's use the free ES File Explorer.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556285763404.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps of getting Wi-Fi password on Android with root
 
@@ -170,6 +166,10 @@ This will drop down a list of controls. Scroll down and find the **Root Explorer
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Get the passwords' file.
 
 Go back to ES file explorer, and this time, find the folder named **data**.
@@ -188,17 +188,9 @@ Make sure that you don't edit anything in the file. You might mess up with impor
 
 As you can see above, we have found the Wi-Fi passwords on the android device. On each network profile, we have the name of the network represented by _name (ssid="{the name}")_, the network's password represented by _psk_, the network's access point represented by _key\_mgmt=WPA-PSK_ and its priority represented by _priority_.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Show Wifi Password on Android without Root
 
 What if I don't have root access to my Android, can I still see Android Wi-Fi password? The short answer is yes. However, this is a bit involving but simple. You don't need to be a computer guru to do it, but you need to have a computer and some internet access of course. The key thing is to find a way through which we can fetch the password file from the phone without using a root access protocol in the Android. This is made possible by some little programming insight using the Windows Command prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to show Wi-Fi password on Android without root
 
@@ -225,10 +217,6 @@ Step 3: Install ADB drivers.
 Now, open your Windows desktop. Download and install ADB drivers. (Use this download link [adbdriver.com](http://adbdriver.com/)). You need to download and install platform tools (minimal ADB and fastboot) from [http://forum.xda-developers.com/...](http://forum.xda-developers.com/showthread.php?t=2317790) Now open the folder where you've installed the above tools. By default, it is in the Local disc _C\\windows\\system32\\platform\_tools_ location. However, you might want to locate them by searching on the windows search engine. You have to hold the Shift key and right-click inside the folder to click on"Open Command Window Here."
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Test the ADB
 
@@ -263,9 +251,17 @@ Follow the guide below to bypass the face unlock settings and choose the best on
 
 ![face lock](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Bypass Android Face Lock by Ourselves?
 
 If you want to bypass face lock by yourself, then different methods can help you. These are all tested and work well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. A Picture Possibly Bypasses Face Lock
 
@@ -275,11 +271,19 @@ If it still doesn't recognize your face, try a different photo or even change th
 
 Anyway, this method is still unstable because of many uncontrollable factors. If everything fails, consider the following methods to bypass the face lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Hard Reset your phone
 
 To get around the Android lock screen, perform a factory reset. While resetting your phone allows you to set a new password, it also erases all data from your device. This method works like a charm, but it also requires more technical knowledge. To bypass screen lock via factory reset, follow these steps.
 
 ![android hard reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1**: Turn off your phone and hold the Power and Volume-down buttons simultaneously until the recovery mode screen appears. There are minor variations depending on the brand and model.
 
@@ -289,19 +293,11 @@ To get around the Android lock screen, perform a factory reset. While resetting 
 
 So, before facing such awkward cases, like data loss, we suggest you have a backup habit of keeping your data safe.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Google Find My Device
 
 Google Find My Device is a service that lets you remotely lock, track, and wipe data from stolen or lost phones. With a Google account and the password, it won't be complicated to remove any locks on your phone. You can bypass the Android lock screen by following the steps below:
 
 ![google find my device data reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 1:** Navigate to Find My Device and sign in with your Google account.
 
@@ -312,6 +308,10 @@ Google Find My Device is a service that lets you remotely lock, track, and wipe 
 **Step 4:** The factory reset process on your phone begins. When it's finished, choose My Google Account instead of using your phone as if it were brand new.
 
 Just like the hard reset, after using Google Find My Device, all your data and settings will be erased. Please make everything well prepared before you decide to unlock your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easiest Way to Unlock Your Android Face Recognition Using Dr.Fone-Screen unlock
 
@@ -338,6 +338,10 @@ Please select" Unlock Android Screen" for the rest process.
 Please click the button fitting your phone.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When arriving at this page, we have a lot of options to unlock your device screen for most phone brands, like Samsung, Nokia, LG, OPPO, etc.
 
@@ -369,10 +373,6 @@ Now you can see your device is unlocked successfully
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock is the easiest and safest method. Dr.Fone offers Screen Unlock and many other handy tools to help you recover, remove and unlock your Android phone without geeky knowledge. Dr.Fone-Screen Unlock is a step-by-step process, and you do not need to do anything; Dr.Fone will do all you want to do on your phone!
@@ -391,17 +391,20 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-spark-interest-with-unique-channel-names/"><u>[New] In 2024, How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-excellence-professional-editing-techniques-revealed-for-2024/"><u>[New] Instagram Excellence Professional Editing Techniques Revealed for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-11-windows-11-secrets-unveiled/"><u>[Updated] 2024 Approved Top 11 Windows 11 Secrets Unveiled</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-underdeveloped-world-of-vr-experiences/"><u>[Updated] In 2024, The Underdeveloped World of VR Experiences</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>2024 Approved Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-smart-8-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Smart 8 Pro FRP Locks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A78 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-c22-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia C22</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-narzo-n55-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme Narzo N55 Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/network-neutralizer-overcoming-facebook-intrusion-for-2024/"><u>Network Neutralizer Overcoming Facebook Intrusion for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>[New] 2024 Approved M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-androids-new-frontier-the-impact-of-kinemaster-app/"><u>[New] Android's New Frontier The Impact of KineMaster App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-essentials-for-enhanced-uav-functionality/"><u>[New] Top Essentials for Enhanced UAV Functionality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-pinnacle-microphone-selections-for-4k-camera-excellence/"><u>[Updated] In 2024, Pinnacle Microphone Selections for 4K Camera Excellence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplifying-fast-forward-on-snapchat-a-first-timers-guide/"><u>[Updated] Simplifying Fast-Forward on Snapchat A First Timer's Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/depasser-la-lenteur-de-copie-des-fichiers-sous-windows-10-8-solutions-rapides-avec-resolu/"><u>Dépasser La Lenteur De Copie Des Fichiers Sous Windows 10 : 8 Solutions Rapides Avec Résolu</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-magix-media-pack-for-2024/"><u>Exploring MAGIX Media Pack for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-v30t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme V30T? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a78-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo A78?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-z50s-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nubia Z50S Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ensuring-compliance-for-apple-podcast-listing/"><u>In 2024, Ensuring Compliance for Apple Podcast Listing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-c67-4g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme C67 4G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win11.techidaily.com/saying-goodbye-to-windows-xp781-a-new-reality/"><u>Saying Goodbye to Windows XP/7/8.1: A New Reality</u></a></li>
 </ul></div>
 

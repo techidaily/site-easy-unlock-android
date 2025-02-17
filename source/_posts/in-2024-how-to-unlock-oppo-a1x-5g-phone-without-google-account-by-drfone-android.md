@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Oppo A1x 5G Phone without Google Account?
-date: 2025-02-02T16:54:39.131Z
-updated: 2025-02-07T16:36:30.859Z
+date: 2025-02-09T23:18:04.667Z
+updated: 2025-02-16T16:37:43.923Z
 tags: 
   - unlock
   - remove screen lock
@@ -43,10 +43,6 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 ![android Device Manager device located](https://images.wondershare.com/drfone/others/14637942568385.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6\. A notification will pop up on your device; confirm it.
 
 ![android Device Manager Erase & Lock](https://images.wondershare.com/drfone/others/14637942582896.jpg)
@@ -65,6 +61,10 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Google web page](https://images.wondershare.com/drfone/others/14637535742329.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Since you cannot sign in on the sign-in page, you can now select the ‘Help’ link.
 
 ![android Goodle log in](https://images.wondershare.com/drfone/others/14637535763672.jpg)
@@ -73,17 +73,9 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Google trouble signing in](https://images.wondershare.com/drfone/others/14637535788151.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Two options will then appear: the first is your phone number, and the other asks you for your backup email.
 
 ![android Google forgot password](https://images.wondershare.com/drfone/others/14637535828239.jpg)![android Google forgot pssword enter email](https://images.wondershare.com/drfone/others/14637535857339.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. Enter either one of these options, and you will receive a verification code via email, SMS, or a telephone call from an operator. If you have chosen to enter your backup email, at this point, you will receive detailed instructions on how to access the ‘reset password’ page.
 
@@ -122,13 +114,13 @@ Now connect your Android phone connected with the PC, and select the Oppo A1x 5G
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Follow the on-screen instructions to put your Android device into the specific mode. Once the download is complete, Dr.Fone will start the unlocking process.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** After the process is complete, your Android device should be unlocked, and you can access it without the screen lock.
 
@@ -138,15 +130,15 @@ Now connect your Android phone connected with the PC, and select the Oppo A1x 5G
 
 We know that losing or forgetting your Android lock code can be a real pain, and so these solutions are sure to put the smile back on your face and get you using your phone again as usual. As you can see, the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a simple and reliable way to unlock your Android phone, but you can always try the Google option if you assess that it better suits your needs. No matter which solution you choose, your locked Android phone will be up and running again in no time at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock Oppo A1x 5G Phone Pattern Lock without Factory Reset
 
 Have you been locked out of your Android device and can’t seem to recall its pattern? Do you wish to learn how to unlock an Android phone pattern lock without a factory reset to access someone else’s device? If your answer is “yes”, then you have come to the right place. Lots of readers these days ask us about a foolproof way to learn how to unlock an Android phone pattern lock without a factory reset. To help you, we have decided to come up with an in-depth guide on the same. Read on and learn in 4 different ways.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Unlock the Android Phone Pattern with Lock Screen Removal Tool
 
@@ -155,14 +147,6 @@ If you are locked out of the phone because forgot pattern lock, and fail to ente
 Except for pattern locks unlocking, it works for the PIN, fingerprints, Face ID, and Google FRP bypassing as well. It's helpful even if you don't know the OS version of your devices. So, now follow the below steps to unlock the pattern and regain access to your locked phone in minutes.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -191,6 +175,10 @@ Step 4. Enter and download the recovery package as the instructions show on the 
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5. It will be finished when the recovery package downloading is completed. Then, click "**Remove Now**".
 
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -209,6 +197,10 @@ Step 2. Tap on the “**Forgot Pattern**” option located at the bottom of the 
 
 ![forgot android pattern](https://images.wondershare.com/drfone/article/2017/09/15057363904017.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. This will provide different ways to access your phone. Select the Google Account details and tap on the “Next” option.
 
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057364067715.jpg)
@@ -216,10 +208,6 @@ Step 3. This will provide different ways to access your phone. Select the Google
 Step 4. Sign in using the credentials of the Google account that is linked to your device.
 
 ![sign in google account-how to unlock android pattern lock without factory reset](https://images.wondershare.com/drfone/article/2017/09/15057364235603.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5. Great! Now you can simply provide (and confirm) the new pattern for your device.
 
@@ -276,6 +264,10 @@ Step 8. Simply restart your device and access it the usual way, without any lock
 ## Conclusion
 
 Now when you know how to unlock the Android phone pattern lock without a factory reset, you can easily access your device in a trouble-free way. Out of all the provided options, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is the best alternative. It provides a fast, secure, and reliable way to unlock your device without causing any harm or removing its content. Go ahead and give it a try and share these solutions with your friends and family as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 Ways to Unlock a Locked Oppo A1x 5G Phone
 
@@ -336,6 +328,10 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 
 ![get into a locked phone-locate the Oppo A1x 5G device](https://images.wondershare.com/drfone/article/2017/10/15081758684058.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Choose the “Lock” option to proceed.
 - **Step 4.** This will display a new prompt. From here, you can get the new password for your device and confirm it.
 
@@ -344,7 +340,7 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 - **Step 5.** Additionally, if your device is lost, you can display an optional message and contact number on the lock screen. Click on the “Lock” button to save changes and exit the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to get into a locked phone with Samsung Find My Mobile?
@@ -356,6 +352,10 @@ If you are using a Samsung device, you can also use its Find My Mobile service t
 - **Step 3.** On its dashboard, you can access various features associated with your device. If you have multiple devices linked to your account, you can select it from the top-left panel.
 
 ![get into a locked phone-access various features](https://images.wondershare.com/drfone/article/2017/10/15081759638999.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** From the provided options on the left panel, click on the “Unlock My Screen” option.
 - **Step 5.** Click on the “Unlock” button again to move past the lock screen of your device.
@@ -399,6 +399,10 @@ If nothing else seems to work, then you can also choose to factory reset your de
 
 - **Step 6.** Wait for a while as your phone will be restarted with factory settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: How to get into a locked phone in Safe Mode?
 
 If you are using a third-party application to lock your device, you can easily disable it by restarting your phone in safe mode. In this way, you can get rid of the respective app without causing any damage to the Oppo A1x 5G device. You can learn how to get into a locked Android phone by following these steps:
@@ -419,10 +423,6 @@ Since custom recovery provides a third-party recovery environment, it can learn 
 - **Step 4.** Confirm your selection and let your phone be restarted with no lock screen.
 
 ![get into a locked phone-restart the phone](https://images.wondershare.com/drfone/article/2017/10/15081761542231.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: General tips for unlocking phone successfully
 
@@ -449,17 +449,16 @@ By following these simple steps, you would learn how to get into a locked phone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-ultimate-selection-top-6-lite-video-downloaders-from-facebook/"><u>[New] 2024 Approved The Ultimate Selection Top 6 Lite Video Downloaders From Facebook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-master-your-audio-recordings-5-expert-methods-online/"><u>[New] Master Your Audio Recordings 5 Expert Methods Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-connecting-through-ig-a-guide-for-hyperlink-posts-for-2024/"><u>[Updated] Connecting Through IG A Guide for Hyperlink Posts for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-to-swiftly-acquire-and-save-youtube-watch-lists/"><u>2024 Approved Guide to Swiftly Acquire and Save YouTube Watch Lists</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725289799772-dvd/"><u>如何加入或強制字幕到你的DVD上，方法與提示</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-c55-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme C55</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-gt-neo-5-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme GT Neo 5 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-edge-2023-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola Edge 2023? Try These Fixes</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/recovering-deleted-data-on-iphone-13-or-14-steps-and-solutions/"><u>Recovering Deleted Data on iPhone 13 or 14 - Steps and Solutions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/this-years-breakthrough-in-vr-gaming-technology/"><u>This Year's Breakthrough in VR Gaming Technology</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-moto-g34-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Motorola Moto G34 5G Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>Updated Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-direction-and-intensity-in-video-lighting-for-2024/"><u>[New] Direction and Intensity in Video Lighting for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms-for-2024/"><u>[New] From Front to Back A Step-by-Step Guide to Angled Photography on Social Platforms for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-choreograph-comic-characters/"><u>[New] In 2024, Choreograph Comic Characters</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-f5-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Poco F5 Pro 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-11r-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus 11R</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-12r-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus 12R Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-x6-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco X6</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-stopping-windows-11s-surveillance-systems/"><u>Mastery in Stopping Windows 11'S Surveillance Systems</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-galaxy-a34-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Galaxy A34 5G</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-hd-capture-top-tier-recorder-titles-for-2024/"><u>Ultimate HD Capture Top-Tier Recorder Titles for 2024</u></a></li>
 </ul></div>
 
